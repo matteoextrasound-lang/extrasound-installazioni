@@ -28,8 +28,6 @@
   var features = document.querySelectorAll('.feature');
   features.forEach(function(f){
     var media = f.querySelector('.feature-media');
-    var ring = document.createElement('div'); ring.className = 'ring'; ring.setAttribute('aria-hidden','true');
-    media.appendChild(ring);
     media.addEventListener('transitionend', function(e){
       if (e.propertyName === 'transform' && f.classList.contains('in')) f.classList.add('landed');
     });
