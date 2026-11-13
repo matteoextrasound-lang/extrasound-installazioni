@@ -162,6 +162,7 @@ main{padding-top:96px}
 
 /* ---------- Scheda prodotto tecnica (struttura da catalogo) ---------- */
 .page-hero-sm{padding-bottom:clamp(24px,3vw,40px)}
+.sheet{scroll-margin-top:70px}
 .sheet-page{background:#fff;color:#111;padding:clamp(44px,6vw,80px) 0;position:relative}
 .sheet-page-alt{background:#f6f6f6;border-top:1px solid #ececec}
 .sheet-top{display:grid;grid-template-columns:minmax(0,7fr) minmax(0,5fr);gap:clamp(24px,4vw,64px);align-items:center}
@@ -308,14 +309,14 @@ main{padding-top:96px}
   .feature .feature-text,.feature.reverse .feature-text{order:2}
   .product{width:min(100%,420px)}
   .contact-grid{grid-template-columns:1fr}
-  .sheet-top,.sheet-two{grid-template-columns:1fr}
+  .sheet-top,.sheet-two{grid-template-columns:minmax(0,1fr)}
   .sheet-cols{grid-template-columns:1fr}
   .col,.col:first-child,.col:last-child{padding:22px 0 4px;border-right:0;border-bottom:1px solid #e6e6e6}
   .connect{position:static}
   .rear{grid-template-columns:120px 1fr}
   .system{overflow-x:auto;-webkit-overflow-scrolling:touch}
   .diagram{min-width:540px}
-  .dim.diagram{min-width:0}
+  .diagram.dim{min-width:0!important;max-width:100%}
   .views{grid-template-columns:repeat(2,minmax(0,1fr))}
   .steps{grid-template-columns:1fr}
   .drawing,.connect .acc{overflow:visible}
