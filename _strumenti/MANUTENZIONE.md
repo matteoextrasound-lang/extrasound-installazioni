@@ -42,4 +42,7 @@ Questa cartella non viene pubblicata (GitHub Pages ignora le cartelle che inizia
 
 - Pagina WordPress 64517 «Modulo richiesta preventivo – Extrasound Custom», modello Elementor Canvas, noindex. Indirizzo: https://www.extrasound.it/modulo-richiesta-preventivo-extrasound-custom
 - Modulo Elementor Pro: invio a info@extrasound.it (mittente email@extrasound.it, risposta all'email del cliente) e copia in Elementor → Invii. Antispam honeypot, consenso privacy obbligatorio.
-- La pagina nasconde con CSS sigillo Trusted Shops, banner cookie, chat e popup; un piccolo script invia l'altezza del modulo al sito Custom, che adatta la cornice (`site.js`, accetta messaggi solo da https://www.extrasound.it).
+- Pagina pubblicata il 13/11, noindex/nofollow (Yoast), non presente nei menu.
+- La pagina nasconde con il CSS personalizzato di Elementor: sigillo Trusted Shops, banner CookieYes, chat Oct8ne, carrello FunnelKit, popup Klaviyo e popup Elementor.
+- L'utente WordPress di Matteo non può salvare script (WordPress li toglie): niente JavaScript nella pagina del modulo.
+- Altezza della cornice fissa in `site.css` (`.es-form`, 1120 px): se si aggiungono o tolgono campi, rimisurarla.
