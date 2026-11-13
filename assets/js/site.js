@@ -53,6 +53,17 @@
     features.forEach(function(f){ io.observe(f); });
   }
 
+  /* Comparsa degli elementi .reveal (schede prodotto) */
+  var reveals = document.querySelectorAll('.reveal');
+  if (reduce || !('IntersectionObserver' in window)){
+    reveals.forEach(function(el){ el.classList.add('in'); });
+  } else {
+    var ro = new IntersectionObserver(function(entries){
+      entries.forEach(function(en){ if (en.isIntersecting){ en.target.classList.add('in'); ro.unobserve(en.target); } });
+    }, {threshold:0.15});
+    reveals.forEach(function(el){ ro.observe(el); });
+  }
+
   /* Leggero effetto profondità sul prodotto con il mouse */
   if (!reduce && window.matchMedia('(pointer:fine)').matches){
     features.forEach(function(f){
