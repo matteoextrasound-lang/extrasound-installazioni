@@ -143,6 +143,7 @@ main{padding-top:96px}
 
 /* Contattaci */
 .contact-grid{display:grid;grid-template-columns:minmax(0,5fr) minmax(0,7fr);gap:clamp(32px,5vw,72px);align-items:start}
+.about{position:sticky;top:110px}
 .about h2{font-family:var(--display);font-weight:400;font-size:clamp(32px,4vw,46px);text-transform:uppercase;line-height:1.05;margin-bottom:18px}
 .about p{color:#444;margin-bottom:14px}
 .about a{color:var(--red)}
@@ -187,6 +188,7 @@ main{padding-top:96px}
   .feature .feature-text,.feature.reverse .feature-text{order:2}
   .product{width:min(100%,420px)}
   .contact-grid{grid-template-columns:1fr}
+  .about{position:static}
   .footer-inner{grid-template-columns:1fr 1fr}
   .footer-brand{grid-column:1 / -1}
 }
