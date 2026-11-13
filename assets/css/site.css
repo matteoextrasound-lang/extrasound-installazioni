@@ -273,6 +273,8 @@ main{padding-top:96px}
   .col,.col:first-child,.col:last-child{padding:22px 0 4px;border-right:0;border-bottom:1px solid #e6e6e6}
   .connect{position:static}
   .rear{grid-template-columns:120px 1fr}
+  .system{overflow-x:auto;-webkit-overflow-scrolling:touch}
+  .diagram{min-width:540px}
   .about{position:static}
   .footer-inner{grid-template-columns:1fr 1fr}
   .footer-brand{grid-column:1 / -1}

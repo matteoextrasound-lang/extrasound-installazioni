@@ -46,3 +46,10 @@ Questa cartella non viene pubblicata (GitHub Pages ignora le cartelle che inizia
 - La pagina nasconde con il CSS personalizzato di Elementor: sigillo Trusted Shops, banner CookieYes, chat Oct8ne, carrello FunnelKit, popup Klaviyo e popup Elementor.
 - L'utente WordPress di Matteo non può salvare script (WordPress li toglie): niente JavaScript nella pagina del modulo.
 - Altezza della cornice fissa in `site.css` (`.es-form`, 1120 px): se si aggiungono o tolgono campi, rimisurarla.
+
+## Schede prodotto tecniche (struttura da catalogo, 13/11)
+
+- Modello: `amplificatori.html` (ELAC IS-AMP8100). Parte 1 «il prodotto»: linguetta rossa di categoria, foto grande, marca/modello/righe, introduzione, tre colonne Caratteristiche · Ingressi · Uscite, pannello posteriore. Parte 2 (sfondo grigio chiaro) «cosa si può fare»: colonna «Cosa si collega» + due schemi d'impianto in SVG con zone e watt. Chiusura con preventivo e fonti.
+- Classi CSS: `.sheet`, `.sheet-page`, `.cat-tab`, `.model`, `.sheet-cols`, `.col`, `.ticks`, `.acc`, `.system`, `.diagram`. Gli elementi `.reveal` compaiono scorrendo (site.js).
+- Titoli in Barlow Condensed (`--display`); il logo resta in Anton (`--logo`).
+- Dati IS-AMP8100: sito ELAC dice «fino a 100 W per canale» e bridge 200 W; il manuale 2019 dice 75 W RMS a tutti i canali e bridge 150 W RMS su 8 Ω. In pagina: «fino a 100 W per canale; 75 W RMS con tutti i canali in funzione» e bridge 150 W RMS (dato più prudente).
