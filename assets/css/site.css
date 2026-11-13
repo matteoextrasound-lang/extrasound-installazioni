@@ -164,7 +164,7 @@ main{padding-top:96px}
 .sheet-page-alt{background:#f6f6f6;border-top:1px solid #ececec}
 .sheet-top{display:grid;grid-template-columns:minmax(0,7fr) minmax(0,5fr);gap:clamp(24px,4vw,64px);align-items:center}
 .sheet-visual{position:relative}
-.sheet-visual img{width:100%;max-width:620px;margin:0 auto;mix-blend-mode:multiply;filter:brightness(1.05) contrast(1.02)}
+.sheet-visual img{width:100%;max-width:680px;margin:0 auto;aspect-ratio:16/10;object-fit:cover;object-position:50% 55%;mix-blend-mode:multiply;filter:brightness(1.05) contrast(1.02)}
 .cat-tab{position:absolute;top:0;left:0;z-index:2;background:var(--red);color:#fff;font-family:var(--display);font-weight:500;font-size:18px;
   line-height:1.05;letter-spacing:.08em;text-transform:uppercase;padding:14px 34px 14px 18px;clip-path:polygon(0 0,100% 0,calc(100% - 18px) 100%,0 100%)}
 .model{border-left:2px solid var(--red);padding-left:clamp(18px,2.4vw,32px)}
