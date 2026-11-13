@@ -24,6 +24,25 @@
     });
   }
 
+  /* Menu a tendina Prodotti: si apre al passaggio del mouse (CSS) o con un clic/tocco */
+  document.querySelectorAll('.has-sub').forEach(function(item){
+    var btn = item.querySelector('.sub-toggle');
+    function set(open){ item.classList.toggle('open', open); btn.setAttribute('aria-expanded', open); }
+    btn.addEventListener('click', function(e){ e.stopPropagation(); set(!item.classList.contains('open')); });
+    document.addEventListener('click', function(e){ if (!item.contains(e.target)) set(false); });
+    item.addEventListener('keydown', function(e){ if (e.key === 'Escape'){ set(false); btn.focus(); } });
+  });
+
+  /* Modulo di extrasound.it: la cornice prende l'altezza del modulo */
+  var frame = document.querySelector('.es-form');
+  if (frame){
+    window.addEventListener('message', function(e){
+      if (e.origin !== 'https://www.extrasound.it') return;
+      var h = e.data && e.data.esCustomFormHeight;
+      if (typeof h === 'number' && h > 200 && h < 4000) frame.style.height = h + 'px';
+    });
+  }
+
   /* Sezioni: il prodotto scivola dentro quando la sezione entra nello schermo */
   var features = document.querySelectorAll('.feature');
   features.forEach(function(f){

@@ -28,3 +28,18 @@ Questa cartella non viene pubblicata (GitHub Pages ignora le cartelle che inizia
 - Dati tecnici solo da fonti ufficiali del produttore.
 - Informazioni non confermate scritte come **[DA CONFERMARE: …]**, mai inventate.
 - Link verso extrasound.it in nuova scheda.
+
+## Struttura del sito (13/11)
+
+- Pagine: `index.html` (home), `amplificatori.html`, `diffusori.html`, `contatti.html`.
+- Header e footer sono uguali in tutte le pagine e **non si modificano a mano**: si cambiano in `_strumenti/build.py` e si lancia `python3 _strumenti/build.py`. Una pagina nuova va aggiunta alla lista `PAGES` (e a `PRODOTTI` se sta sotto il menu Prodotti).
+- Stile in `assets/css/site.css`, animazioni in `assets/js/site.js`. Quando si modificano, alzare il numero `?v=` nei link delle pagine.
+- Contenuto centrato con larghezza massima 1200 px (`--max`); le sezioni prodotto sono fasce bianche a tutta larghezza, una attaccata all'altra.
+- Footer con i dati legali di Extrasound Srl presi da extrasound.it (P.IVA, REA, capitale sociale): se cambiano lì, aggiornarli in `build.py`.
+- Le foto per ora sono collegate da extrasound.it (`wp-content/uploads`).
+
+## Modulo preventivo su extrasound.it
+
+- Pagina WordPress 64517 «Modulo richiesta preventivo – Extrasound Custom», modello Elementor Canvas, noindex. Indirizzo: https://www.extrasound.it/modulo-richiesta-preventivo-extrasound-custom
+- Modulo Elementor Pro: invio a info@extrasound.it (mittente email@extrasound.it, risposta all'email del cliente) e copia in Elementor → Invii. Antispam honeypot, consenso privacy obbligatorio.
+- La pagina nasconde con CSS sigillo Trusted Shops, banner cookie, chat e popup; un piccolo script invia l'altezza del modulo al sito Custom, che adatta la cornice (`site.js`, accetta messaggi solo da https://www.extrasound.it).
