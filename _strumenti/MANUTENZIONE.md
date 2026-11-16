@@ -4,6 +4,8 @@ Questa cartella non viene pubblicata (GitHub Pages ignora le cartelle che inizia
 
 ## Cos'è il sito
 
+- **Pubblico: installatori, non clienti finali.** Niente slogan né frasi promozionali: titoli = nome del prodotto, testi tecnici e asciutti. Vale per tutto ciò che si struttura senza istruzioni precise.
+
 - Vetrina dei servizi di custom installation hi-fi e home cinema di Extrasound Srl (Via Archimede 605, Cesena).
 - Il venditore è sempre Extrasound: ogni richiesta di preventivo o sopralluogo arriva a Extrasound.
 - Sito gemello per metodo: fabrizioberlati.com (repository matteoextrasound-lang/fabrizioberlati).
