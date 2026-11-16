@@ -55,3 +55,8 @@ Questa cartella non viene pubblicata (GitHub Pages ignora le cartelle che inizia
 - Dati IS-AMP8100: sito ELAC dice «fino a 100 W per canale» e bridge 200 W; il manuale 2019 dice 75 W RMS a tutti i canali e bridge 150 W RMS su 8 Ω. In pagina: «fino a 100 W per canale; 75 W RMS con tutti i canali in funzione» e bridge 150 W RMS (dato più prudente).
 - Scheda diffusore (`diffusori.html`, ELAC IW-V62): stessa parte 1 (Caratteristiche · Acustica · Dimensioni + 4 viste), parte 2 dedicata al montaggio: disegno quotato, tabella cavi, abbinamento con l'IS-AMP8100, «Dove montarlo» e «Montaggio in 6 passi», tutto dal manuale ELAC Vertex II.
 - Pulsanti: in home ogni prodotto ha «Richiedi un preventivo» + «Scheda tecnica» (porta alla scheda interna, `pagina.html#id-prodotto`). Il link a extrasound.it c'è solo in fondo alle schede, come pulsante «Acquista su Extrasound» (nuova scheda).
+
+## GitHub Pages (16/11)
+
+- Attivo dal 16/11 su https://matteoextrasound-lang.github.io/extrasound-installazioni/ e, per ora, pubblica il ramo `bozza` (scelta di Extrasound per vedere il sito in costruzione). Ogni salvataggio su `bozza` va online in 1–2 minuti.
+- Quando il sito sarà pronto: unire `bozza` in `main`, impostare Pages su `main`, togliere `noindex` dalle pagine e aggiungere il dominio definitivo (`CNAME`).
