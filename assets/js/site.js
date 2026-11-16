@@ -53,6 +53,26 @@
     features.forEach(function(f){ io.observe(f); });
   }
 
+  /* Filtri degli elenchi prodotti */
+  document.querySelectorAll('.filters').forEach(function(box){
+    var grid = document.querySelector(box.dataset.target), count = box.querySelector('.count span');
+    var state = {cat:'*', brand:'*'};
+    function apply(){
+      var n = 0;
+      grid.querySelectorAll('.pcard').forEach(function(c){
+        var ok = (state.cat === '*' || c.dataset.cat.indexOf(state.cat) > -1) && (state.brand === '*' || c.dataset.brand === state.brand);
+        c.hidden = !ok; if (ok){ n++; c.classList.add('in'); }
+      });
+      count.textContent = n;
+    }
+    box.addEventListener('click', function(e){
+      var b = e.target.closest('.chip'); if (!b) return;
+      state[b.dataset.f] = b.dataset.v;
+      box.querySelectorAll('.chip[data-f="'+b.dataset.f+'"]').forEach(function(x){ x.classList.toggle('is-on', x === b); });
+      apply();
+    });
+  });
+
   /* Comparsa degli elementi .reveal (schede prodotto) */
   var reveals = document.querySelectorAll('.reveal');
   if (reduce || !('IntersectionObserver' in window)){

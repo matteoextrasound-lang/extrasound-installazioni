@@ -1,0 +1,141 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ p.brand }} {{ p.model }} · {{ p.tipo_label }} · Extrasound Custom</title>
+<meta name="description" content="{{ p.meta }}">
+<meta name="robots" content="noindex, nofollow">
+<meta name="theme-color" content="#0a0a0a">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Barlow+Condensed:wght@300;400;500;600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/site.css?v={{ v }}">
+</head>
+<body>
+<!-- HEADER -->
+<!-- /HEADER -->
+
+<main>
+  <section class="page-hero page-hero-sm">
+    <div class="wrap">
+      <p class="kicker"><span class="eq" aria-hidden="true"><i></i><i></i><i></i><i></i></span><a class="crumb" href="{{ p.lista }}">{{ p.lista_label }}</a></p>
+      <h1>{{ p.brand }} <em>{{ p.model }}</em></h1>
+    </div>
+  </section>
+
+  <!-- ===== Parte 1: il prodotto ===== -->
+  <article class="sheet" id="{{ p.slug }}">
+    <section class="sheet-page">
+      <div class="wrap">
+        <div class="sheet-top">
+          <div class="sheet-visual{% if not p.crop %} sheet-visual-tall{% endif %} reveal">
+            <span class="cat-tab">{{ p.tab|safe }}</span>
+            <img src="{{ p.img.src }}" alt="{{ p.img.alt }}" width="1000" height="1000">
+          </div>
+          <header class="model reveal">
+            <p class="model-brand">{{ p.brand|upper }}</p>
+            <h2 class="model-name">{{ p.model }}</h2>
+            <p class="model-lines">{% for r in p.righe %}<span>{{ r }}</span>{% endfor %}</p>
+            {% for t in p.intro %}<p class="model-intro">{{ t|safe }}</p>
+            {% endfor %}
+          </header>
+        </div>
+
+        <div class="sheet-cols">
+          {% for c in p.colonne %}<section class="col reveal">
+            <h3 class="col-title">{{ c.titolo }}</h3>
+            <ul class="ticks">
+              {% for v in c.voci %}<li>{{ v|safe }}</li>
+              {% endfor %}
+            </ul>
+          </section>
+          {% endfor %}
+        </div>
+
+        {% if p.viste %}<div class="views reveal">
+          {% for f in p.viste %}<figure><img src="{{ f.src }}" alt="{{ f.alt }}" width="1000" height="1000" loading="lazy"><figcaption>{{ f.caption }}</figcaption></figure>
+          {% endfor %}
+        </div>{% endif %}
+        {% if p.retro %}<figure class="rear reveal">
+          <img src="{{ p.retro.src }}" alt="{{ p.retro.alt }}" width="1000" height="1000" loading="lazy">
+          <figcaption><b>{{ p.retro.titolo }}</b> {{ p.retro.caption }}</figcaption>
+        </figure>{% endif %}
+      </div>
+    </section>
+
+    <!-- ===== Parte 2 ===== -->
+    <section class="sheet-page sheet-page-alt">
+      <div class="wrap sheet-two">
+        <aside class="connect">
+          <h3 class="col-title">{{ p.lato_titolo }}</h3>
+          {% if p.misure %}{{ disegno(p.misure)|safe }}{% endif %}
+          {% if p.cavi %}<div class="cable reveal">
+            <h4>Sezione dei cavi</h4>
+            <table>
+              <tr><th>{{ p.cavi.intestazione or "Distanza dall'amplificatore" }}</th><th>Cavo</th></tr>
+              {% for r in p.cavi.righe %}<tr><td>{{ r[0] }}</td><td>{{ r[1] }}</td></tr>
+              {% endfor %}
+            </table>
+          </div>{% endif %}
+          {% for a in p.collega %}<div class="acc reveal">
+            {% if a.img %}<img src="{{ a.img }}" alt="{{ a.alt }}" width="1000" height="1000" loading="lazy">{% else %}{{ icona(a.icona)|safe }}{% endif %}
+            <div>
+              <h4>{% if a.link %}<a href="{{ a.link }}">{{ a.titolo }}</a>{% else %}{{ a.titolo }}{% endif %}</h4>
+              <ul class="ticks">
+                {% for v in a.voci %}<li>{{ v|safe }}</li>
+                {% endfor %}
+              </ul>
+            </div>
+          </div>
+          {% endfor %}
+          {% if p.gui %}<figure class="gui reveal">
+            <img src="{{ p.gui.src }}" alt="{{ p.gui.alt }}" loading="lazy">
+            <figcaption>{{ p.gui.caption }}</figcaption>
+          </figure>{% endif %}
+        </aside>
+
+        <div class="systems">
+          {% for s in p.sistemi %}<section class="system reveal">
+            <h3 class="sys-title">{{ s.titolo }}</h3>
+            {% if s.voci %}<ul class="ticks">
+              {% for v in s.voci %}<li>{{ v|safe }}</li>
+              {% endfor %}
+            </ul>{% endif %}
+            {% if s.zone %}{{ schema(s, p.model)|safe }}{% endif %}
+            {% if s.posa %}{{ posa(s.posa)|safe }}{% endif %}
+            {% if s.passi %}<ol class="steps">
+              {% for st in s.passi %}<li><b>{{ st[0] }}</b> {{ st[1]|safe }}</li>
+              {% endfor %}
+            </ol>{% endif %}
+            {% if s.tabella %}<div class="cable"><table>
+              <tr>{% for h in s.tabella[0] %}<th>{{ h }}</th>{% endfor %}</tr>
+              {% for r in s.tabella[1:] %}<tr>{% for c in r %}<td>{{ c|safe }}</td>{% endfor %}</tr>
+              {% endfor %}
+            </table></div>{% endif %}
+          </section>
+          {% endfor %}
+          {% if p.nota %}<p class="sys-note">{{ p.nota|safe }}</p>{% endif %}
+        </div>
+      </div>
+    </section>
+
+    <section class="sheet-cta">
+      <div class="wrap">
+        <p>Progetto, fornitura e installazione dell'<strong>{{ p.brand }} {{ p.model }}</strong> a cura di Extrasound.</p>
+        <div class="actions">
+          <a class="btn" href="contatti.html">Richiedi un preventivo</a>
+          <a class="btn btn-ghost" href="{{ p.extrasound }}" target="_blank" rel="noopener">Acquista su Extrasound</a>
+        </div>
+        <p class="sources">Dati tecnici: {% for f in p.fonti %}<a href="{{ f.url }}" target="_blank" rel="noopener">{{ f.label }}</a>{% if not loop.last %} · {% endif %}{% endfor %}.</p>
+      </div>
+    </section>
+  </article>
+</main>
+
+<!-- FOOTER -->
+<!-- /FOOTER -->
+
+<script src="assets/js/site.js?v={{ v }}" defer></script>
+</body>
+</html>

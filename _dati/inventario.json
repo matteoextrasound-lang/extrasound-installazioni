@@ -1,0 +1,1599 @@
+[
+ {
+  "id": 62436,
+  "cat": "P",
+  "brand": "JBL",
+  "name": "JBL Studio 2 88IW",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "jbl-studio-2-88iw"
+ },
+ {
+  "id": 62254,
+  "cat": "S",
+  "brand": "JBL",
+  "name": "JBL Stage 260C",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "jbl-stage-260c"
+ },
+ {
+  "id": 62268,
+  "cat": "S",
+  "brand": "JBL",
+  "name": "JBL Stage 280C",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "jbl-stage-280c"
+ },
+ {
+  "id": 62280,
+  "cat": "2",
+  "brand": "JBL",
+  "name": "JBL Stage 260CDT",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "jbl-stage-260cdt"
+ },
+ {
+  "id": 62308,
+  "cat": "S",
+  "brand": "JBL",
+  "name": "JBL Stage 280CSA",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "jbl-stage-280csa"
+ },
+ {
+  "id": 62294,
+  "cat": "S",
+  "brand": "JBL",
+  "name": "JBL Stage 260CSA",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "jbl-stage-260csa"
+ },
+ {
+  "id": 62322,
+  "cat": "P",
+  "brand": "JBL",
+  "name": "JBL Stage 260W",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "jbl-stage-260w"
+ },
+ {
+  "id": 62336,
+  "cat": "P",
+  "brand": "JBL",
+  "name": "JBL Stage 280W",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "jbl-stage-280w"
+ },
+ {
+  "id": 62350,
+  "cat": "P",
+  "brand": "JBL",
+  "name": "JBL Stage 250WL",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "jbl-stage-250wl"
+ },
+ {
+  "id": 62364,
+  "cat": "S",
+  "brand": "JBL",
+  "name": "JBL Studio 2 6IC",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "jbl-studio-2-6ic"
+ },
+ {
+  "id": 62388,
+  "cat": "2",
+  "brand": "JBL",
+  "name": "JBL Studio 2 6ICDT",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "jbl-studio-2-6icdt"
+ },
+ {
+  "id": 62376,
+  "cat": "S",
+  "brand": "JBL",
+  "name": "JBL Studio 2 8IC",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "jbl-studio-2-8ic"
+ },
+ {
+  "id": 62400,
+  "cat": "P",
+  "brand": "JBL",
+  "name": "JBL Studio 2 6IW",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "jbl-studio-2-6iw"
+ },
+ {
+  "id": 62412,
+  "cat": "P",
+  "brand": "JBL",
+  "name": "JBL Studio 2 8IW",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "jbl-studio-2-8iw"
+ },
+ {
+  "id": 62424,
+  "cat": "P",
+  "brand": "JBL",
+  "name": "JBL Studio 2 55IW",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "jbl-studio-2-55iw"
+ },
+ {
+  "id": 62439,
+  "cat": "P",
+  "brand": "JBL",
+  "name": "JBL Studio 6IW",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "jbl-studio-6iw"
+ },
+ {
+  "id": 62453,
+  "cat": "P",
+  "brand": "JBL",
+  "name": "JBL Studio 8IW",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "jbl-studio-8iw"
+ },
+ {
+  "id": 62481,
+  "cat": "L",
+  "brand": "JBL",
+  "name": "JBL Studio 88LCR",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "jbl-studio-88lcr"
+ },
+ {
+  "id": 62467,
+  "cat": "L",
+  "brand": "JBL",
+  "name": "JBL Studio 66LCR",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "jbl-studio-66lcr"
+ },
+ {
+  "id": 62495,
+  "cat": "L",
+  "brand": "JBL",
+  "name": "JBL Studio 6 Theater",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "jbl-studio-6-theater"
+ },
+ {
+  "id": 62509,
+  "cat": "P",
+  "brand": "JBL",
+  "name": "JBL Conceal C62",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "jbl-conceal-c62"
+ },
+ {
+  "id": 62517,
+  "cat": "P",
+  "brand": "JBL",
+  "name": "JBL Conceal C83",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "jbl-conceal-c83"
+ },
+ {
+  "id": 62527,
+  "cat": "P",
+  "brand": "JBL",
+  "name": "JBL Conceal C86",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "jbl-conceal-c86"
+ },
+ {
+  "id": 62539,
+  "cat": "W",
+  "brand": "JBL",
+  "name": "JBL Conceal C82W",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "jbl-conceal-c82w"
+ },
+ {
+  "id": 48809,
+  "cat": "PL",
+  "brand": "Focal",
+  "name": "Focal 300 IWLCR6",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "focal-300-iwlcr6"
+ },
+ {
+  "id": 48808,
+  "cat": "LS",
+  "brand": "Focal",
+  "name": "Focal 300 ICLCR5",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "focal-300-iclcr5"
+ },
+ {
+  "id": 48807,
+  "cat": "P",
+  "brand": "Focal",
+  "name": "Focal 300 IW6",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "focal-300-iw6"
+ },
+ {
+  "id": 48806,
+  "cat": "PS",
+  "brand": "Focal",
+  "name": "Focal 300 ICW8",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "focal-300-icw8"
+ },
+ {
+  "id": 48805,
+  "cat": "PS",
+  "brand": "Focal",
+  "name": "Focal 300 ICW6",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "focal-300-icw6"
+ },
+ {
+  "id": 48804,
+  "cat": "S",
+  "brand": "Focal",
+  "name": "Focal 300 ICA6",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "focal-300-ica6"
+ },
+ {
+  "id": 48747,
+  "cat": "MW",
+  "brand": "Focal",
+  "name": "Focal 100 IWSUB8 Amplifier",
+  "stato": "da_fare",
+  "tipo": "amplificatore",
+  "slug": "focal-100-iwsub8-amplifier"
+ },
+ {
+  "id": 48746,
+  "cat": "W",
+  "brand": "Focal",
+  "name": "Focal 100 IWSUB8",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "focal-100-iwsub8"
+ },
+ {
+  "id": 48745,
+  "cat": "PS",
+  "brand": "Focal",
+  "name": "Focal 100 IW6",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "focal-100-iw6"
+ },
+ {
+  "id": 48744,
+  "cat": "S2",
+  "brand": "Focal",
+  "name": "Focal 100 IC6ST",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "focal-100-ic6st"
+ },
+ {
+  "id": 48743,
+  "cat": "LS",
+  "brand": "Focal",
+  "name": "Focal 100 ICLCR5",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "focal-100-iclcr5"
+ },
+ {
+  "id": 48713,
+  "cat": "PS",
+  "brand": "Focal",
+  "name": "Focal 100 ICW8",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "focal-100-icw8"
+ },
+ {
+  "id": 48710,
+  "cat": "PS",
+  "brand": "Focal",
+  "name": "Focal 100 ICW6",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "focal-100-icw6"
+ },
+ {
+  "id": 48707,
+  "cat": "PS",
+  "brand": "Focal",
+  "name": "Focal 100 ICW5",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "focal-100-icw5"
+ },
+ {
+  "id": 48621,
+  "cat": "PS",
+  "brand": "Focal",
+  "name": "Focal 300 ICW4",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "focal-300-icw4"
+ },
+ {
+  "id": 46754,
+  "cat": "P",
+  "brand": "KEF",
+  "name": "KEF Ci160.2CL",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "kef-ci160-2cl"
+ },
+ {
+  "id": 46686,
+  "cat": "S",
+  "brand": "KEF",
+  "name": "KEF Ci130QR",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "kef-ci130qr"
+ },
+ {
+  "id": 46668,
+  "cat": "P",
+  "brand": "KEF",
+  "name": "KEF Ci200QL",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "kef-ci200ql"
+ },
+ {
+  "id": 46655,
+  "cat": "L",
+  "brand": "KEF",
+  "name": "KEF Ci3120QLM-THX",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "kef-ci3120qlm-thx"
+ },
+ {
+  "id": 46650,
+  "cat": "L",
+  "brand": "KEF",
+  "name": "KEF Ci5120QLM-THX",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "kef-ci5120qlm-thx"
+ },
+ {
+  "id": 43554,
+  "cat": "P",
+  "brand": "Elac",
+  "name": "ELAC Vertex III IW-VJ63L",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "elac-vertex-iii-iw-vj63l"
+ },
+ {
+  "id": 43546,
+  "cat": "P",
+  "brand": "Elac",
+  "name": "ELAC Vertex III IW-VJ63M",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "elac-vertex-iii-iw-vj63m"
+ },
+ {
+  "id": 43539,
+  "cat": "P",
+  "brand": "Elac",
+  "name": "ELAC Vertex III IW-VJ63S",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "elac-vertex-iii-iw-vj63s"
+ },
+ {
+  "id": 43532,
+  "cat": "P",
+  "brand": "Elac",
+  "name": "ELAC Vertex III IW-VJ63",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "elac-vertex-iii-iw-vj63"
+ },
+ {
+  "id": 43524,
+  "cat": "S",
+  "brand": "Elac",
+  "name": "ELAC Vertex III IC-VJT63",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "elac-vertex-iii-ic-vjt63"
+ },
+ {
+  "id": 43516,
+  "cat": "S",
+  "brand": "Elac",
+  "name": "ELAC Vertex III IC-VJ63",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "elac-vertex-iii-ic-vj63"
+ },
+ {
+  "id": 43497,
+  "cat": "P",
+  "brand": "Elac",
+  "name": "ELAC Vertex II IW-V62",
+  "stato": "fatto",
+  "tipo": "diffusore",
+  "slug": "elac-vertex-ii-iw-v62"
+ },
+ {
+  "id": 43482,
+  "cat": "L",
+  "brand": "Elac",
+  "name": "ELAC Vertex II IW-VC52",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "elac-vertex-ii-iw-vc52"
+ },
+ {
+  "id": 43474,
+  "cat": "S",
+  "brand": "Elac",
+  "name": "ELAC Vertex II IC-VT62",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "elac-vertex-ii-ic-vt62"
+ },
+ {
+  "id": 43460,
+  "cat": "S",
+  "brand": "Elac",
+  "name": "ELAC Vertex II IC-V62",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "elac-vertex-ii-ic-v62"
+ },
+ {
+  "id": 42895,
+  "cat": "S",
+  "brand": "ArtSound",
+  "name": "ArtSound MDT600-P",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "artsound-mdt600-p"
+ },
+ {
+  "id": 42885,
+  "cat": "S",
+  "brand": "ArtSound",
+  "name": "ArtSound MDT500-P",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "artsound-mdt500-p"
+ },
+ {
+  "id": 42875,
+  "cat": "S",
+  "brand": "ArtSound",
+  "name": "ArtSound DC84",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "artsound-dc84"
+ },
+ {
+  "id": 41297,
+  "cat": "A",
+  "brand": "ArtSound",
+  "name": "ArtSound FL101BT",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "artsound-fl101bt"
+ },
+ {
+  "id": 40834,
+  "cat": "S",
+  "brand": "ArtSound",
+  "name": "ArtSound FL620",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "artsound-fl620"
+ },
+ {
+  "id": 40687,
+  "cat": "P",
+  "brand": "ArtSound",
+  "name": "ArtSound FL301",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "artsound-fl301"
+ },
+ {
+  "id": 40517,
+  "cat": "A",
+  "brand": "ArtSound",
+  "name": "ArtSound FL502BT Single",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "artsound-fl502bt-single"
+ },
+ {
+  "id": 40409,
+  "cat": "S",
+  "brand": "ArtSound",
+  "name": "ArtSound FL101",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "artsound-fl101"
+ },
+ {
+  "id": 40043,
+  "cat": "S",
+  "brand": "ArtSound",
+  "name": "ArtSound FL501",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "artsound-fl501"
+ },
+ {
+  "id": 39961,
+  "cat": "S",
+  "brand": "ArtSound",
+  "name": "ArtSound FL401",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "artsound-fl401"
+ },
+ {
+  "id": 39813,
+  "cat": "2",
+  "brand": "ArtSound",
+  "name": "ArtSound FL550",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "artsound-fl550"
+ },
+ {
+  "id": 39776,
+  "cat": "S",
+  "brand": "ArtSound",
+  "name": "ArtSound FL30",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "artsound-fl30"
+ },
+ {
+  "id": 35522,
+  "cat": "L",
+  "brand": "KEF",
+  "name": "KEF Ci5160RLM-THX",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "kef-ci5160rlm-thx"
+ },
+ {
+  "id": 35514,
+  "cat": "L",
+  "brand": "KEF",
+  "name": "KEF Ci3160RLM-THX",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "kef-ci3160rlm-thx"
+ },
+ {
+  "id": 35463,
+  "cat": "S",
+  "brand": "KEF",
+  "name": "KEF Ci250RRM-THX",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "kef-ci250rrm-thx"
+ },
+ {
+  "id": 33901,
+  "cat": "2",
+  "brand": "Elac",
+  "name": "ELAC IC-CS61-W",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "elac-ic-cs61-w"
+ },
+ {
+  "id": 33271,
+  "cat": "S",
+  "brand": "Elac",
+  "name": "ELAC Vertex I IC-VT61",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "elac-vertex-i-ic-vt61"
+ },
+ {
+  "id": 33259,
+  "cat": "S",
+  "brand": "Elac",
+  "name": "ELAC Vertex I IC-V81",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "elac-vertex-i-ic-v81"
+ },
+ {
+  "id": 33224,
+  "cat": "S",
+  "brand": "Elac",
+  "name": "ELAC IC-C61-W",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "elac-ic-c61-w"
+ },
+ {
+  "id": 33209,
+  "cat": "S",
+  "brand": "Elac",
+  "name": "ELAC Vertex I IC-V31",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "elac-vertex-i-ic-v31"
+ },
+ {
+  "id": 33175,
+  "cat": "W",
+  "brand": "Elac",
+  "name": "ELAC Vertex IC-VS6-B",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "elac-vertex-ic-vs6-b"
+ },
+ {
+  "id": 32142,
+  "cat": "S",
+  "brand": "ArtSound",
+  "name": "ArtSound MDC64",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "artsound-mdc64"
+ },
+ {
+  "id": 32085,
+  "cat": "S",
+  "brand": "ArtSound",
+  "name": "ArtSound MDC6",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "artsound-mdc6"
+ },
+ {
+  "id": 32077,
+  "cat": "S",
+  "brand": "ArtSound",
+  "name": "ArtSound MDC620",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "artsound-mdc620"
+ },
+ {
+  "id": 32068,
+  "cat": "S",
+  "brand": "ArtSound",
+  "name": "ArtSound MD30",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "artsound-md30"
+ },
+ {
+  "id": 32059,
+  "cat": "S",
+  "brand": "ArtSound",
+  "name": "ArtSound HPRO650 Happi",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "artsound-hpro650-happi"
+ },
+ {
+  "id": 32050,
+  "cat": "P",
+  "brand": "ArtSound",
+  "name": "ArtSound HPRE650 Happi",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "artsound-hpre650-happi"
+ },
+ {
+  "id": 31975,
+  "cat": "S",
+  "brand": "ArtSound",
+  "name": "ArtSound HPRO525 Happi",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "artsound-hpro525-happi"
+ },
+ {
+  "id": 31963,
+  "cat": "S",
+  "brand": "ArtSound",
+  "name": "ArtSound HPSQ525 Happi",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "artsound-hpsq525-happi"
+ },
+ {
+  "id": 31957,
+  "cat": "2",
+  "brand": "ArtSound",
+  "name": "ArtSound HPRO550 Happi",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "artsound-hpro550-happi"
+ },
+ {
+  "id": 31611,
+  "cat": "L",
+  "brand": "Elipson",
+  "name": "Elipson Infinite 14",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "elipson-infinite-14"
+ },
+ {
+  "id": 31598,
+  "cat": "W",
+  "brand": "Elipson",
+  "name": "Elipson Infinite S12",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "elipson-infinite-s12"
+ },
+ {
+  "id": 31589,
+  "cat": "P",
+  "brand": "Elipson",
+  "name": "Elipson Infinite 8",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "elipson-infinite-8"
+ },
+ {
+  "id": 31580,
+  "cat": "S",
+  "brand": "Elipson",
+  "name": "Elipson IC8 Ultra Slim",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "elipson-ic8-ultra-slim"
+ },
+ {
+  "id": 31048,
+  "cat": "S",
+  "brand": "ArtSound",
+  "name": "ArtSound SQ2060 Intiimi",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "artsound-sq2060-intiimi"
+ },
+ {
+  "id": 30404,
+  "cat": "S",
+  "brand": "ArtSound",
+  "name": "ArtSound MDC501",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "artsound-mdc501"
+ },
+ {
+  "id": 30341,
+  "cat": "S",
+  "brand": "ArtSound",
+  "name": "ArtSound MDC401",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "artsound-mdc401"
+ },
+ {
+  "id": 29882,
+  "cat": "S",
+  "brand": "ArtSound",
+  "name": "ArtSound SQ2040 Intiimi",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "artsound-sq2040-intiimi"
+ },
+ {
+  "id": 29870,
+  "cat": "P",
+  "brand": "ArtSound",
+  "name": "ArtSound RE2080 Intiimi",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "artsound-re2080-intiimi"
+ },
+ {
+  "id": 29861,
+  "cat": "P",
+  "brand": "ArtSound",
+  "name": "ArtSound RE2060 Intiimi",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "artsound-re2060-intiimi"
+ },
+ {
+  "id": 29843,
+  "cat": "S",
+  "brand": "ArtSound",
+  "name": "ArtSound RO2060 Intiimi",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "artsound-ro2060-intiimi"
+ },
+ {
+  "id": 29834,
+  "cat": "S",
+  "brand": "ArtSound",
+  "name": "ArtSound RO2040 Intiimi",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "artsound-ro2040-intiimi"
+ },
+ {
+  "id": 28303,
+  "cat": "S",
+  "brand": "KEF",
+  "name": "KEF Ci200ER",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "kef-ci200er"
+ },
+ {
+  "id": 28287,
+  "cat": "S",
+  "brand": "KEF",
+  "name": "KEF Ci160ER",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "kef-ci160er"
+ },
+ {
+  "id": 28281,
+  "cat": "S",
+  "brand": "KEF",
+  "name": "KEF Ci130ER",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "kef-ci130er"
+ },
+ {
+  "id": 28261,
+  "cat": "S",
+  "brand": "KEF",
+  "name": "KEF Ci200.2CR",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "kef-ci200-2cr"
+ },
+ {
+  "id": 28246,
+  "cat": "S",
+  "brand": "KEF",
+  "name": "KEF Ci130.2CR",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "kef-ci130-2cr"
+ },
+ {
+  "id": 28234,
+  "cat": "S",
+  "brand": "KEF",
+  "name": "KEF Ci160.2CR",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "kef-ci160-2cr"
+ },
+ {
+  "id": 28193,
+  "cat": "S",
+  "brand": "KEF",
+  "name": "KEF Ci130QSfl",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "kef-ci130qsfl"
+ },
+ {
+  "id": 28185,
+  "cat": "S",
+  "brand": "KEF",
+  "name": "KEF Ci200QR",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "kef-ci200qr"
+ },
+ {
+  "id": 28178,
+  "cat": "S",
+  "brand": "KEF",
+  "name": "KEF Ci200QS",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "kef-ci200qs"
+ },
+ {
+  "id": 28145,
+  "cat": "S",
+  "brand": "KEF",
+  "name": "KEF Ci130QRfl",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "kef-ci130qrfl"
+ },
+ {
+  "id": 28140,
+  "cat": "S",
+  "brand": "KEF",
+  "name": "KEF Ci160QR",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "kef-ci160qr"
+ },
+ {
+  "id": 28135,
+  "cat": "P",
+  "brand": "KEF",
+  "name": "KEF Ci160QL",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "kef-ci160ql"
+ },
+ {
+  "id": 28117,
+  "cat": "S",
+  "brand": "KEF",
+  "name": "KEF Ci100.2QR",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "kef-ci100-2qr"
+ },
+ {
+  "id": 28062,
+  "cat": "2",
+  "brand": "KEF",
+  "name": "KEF Ci160CSds",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "kef-ci160csds"
+ },
+ {
+  "id": 28055,
+  "cat": "W",
+  "brand": "KEF",
+  "name": "KEF Ci200TRB",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "kef-ci200trb"
+ },
+ {
+  "id": 28046,
+  "cat": "P",
+  "brand": "KEF",
+  "name": "KEF Ci160TS",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "kef-ci160ts"
+ },
+ {
+  "id": 28039,
+  "cat": "W",
+  "brand": "KEF",
+  "name": "KEF Ci200QSb-THX",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "kef-ci200qsb-thx"
+ },
+ {
+  "id": 28021,
+  "cat": "W",
+  "brand": "KEF",
+  "name": "KEF Ci250RRb-THX",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "kef-ci250rrb-thx"
+ },
+ {
+  "id": 28016,
+  "cat": "P",
+  "brand": "KEF",
+  "name": "KEF Ci200RS-THX",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "kef-ci200rs-thx"
+ },
+ {
+  "id": 28008,
+  "cat": "S",
+  "brand": "KEF",
+  "name": "KEF Ci200RR-THX",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "kef-ci200rr-thx"
+ },
+ {
+  "id": 27995,
+  "cat": "S",
+  "brand": "KEF",
+  "name": "KEF Ci160RR-THX",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "kef-ci160rr-thx"
+ },
+ {
+  "id": 3103,
+  "cat": "W",
+  "brand": "Elac",
+  "name": "ELAC IW-S10EQ",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "elac-iw-s10eq"
+ },
+ {
+  "id": 3102,
+  "cat": "S",
+  "brand": "Elac",
+  "name": "ELAC Vertex II IC-V82",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "elac-vertex-ii-ic-v82"
+ },
+ {
+  "id": 3011,
+  "cat": "P",
+  "brand": "Elac",
+  "name": "ELAC Vertex I IW-V61",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "elac-vertex-i-iw-v61"
+ },
+ {
+  "id": 3010,
+  "cat": "L",
+  "brand": "Elac",
+  "name": "ELAC Vertex I IW-VC51",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "elac-vertex-i-iw-vc51"
+ },
+ {
+  "id": 3009,
+  "cat": "S",
+  "brand": "Elac",
+  "name": "ELAC Vertex I IC-V61",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "elac-vertex-i-ic-v61"
+ },
+ {
+  "id": 2967,
+  "cat": "S",
+  "brand": "KEF",
+  "name": "KEF Ci130.2CS",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "kef-ci130-2cs"
+ },
+ {
+  "id": 2920,
+  "cat": "L",
+  "brand": "KEF",
+  "name": "KEF Ci4100QL-THX",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "kef-ci4100ql-thx"
+ },
+ {
+  "id": 2918,
+  "cat": "W",
+  "brand": "KEF",
+  "name": "KEF Ci3160RLb-THX",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "kef-ci3160rlb-thx"
+ },
+ {
+  "id": 2909,
+  "cat": "P",
+  "brand": "ArtSound",
+  "name": "ArtSound RE2040 Intiimi",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "artsound-re2040-intiimi"
+ },
+ {
+  "id": 2840,
+  "cat": "PL",
+  "brand": "Focal",
+  "name": "Focal 100 IWLCR5",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "focal-100-iwlcr5"
+ },
+ {
+  "id": 2822,
+  "cat": "L",
+  "brand": "Elipson",
+  "name": "Elipson IW14C",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "elipson-iw14c"
+ },
+ {
+  "id": 2579,
+  "cat": "2",
+  "brand": "Elipson",
+  "name": "Elipson IC6ST",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "elipson-ic6st"
+ },
+ {
+  "id": 2563,
+  "cat": "S",
+  "brand": "Occasioni",
+  "name": "Cassa 2 Vie Incasso griglia senza bordo",
+  "stato": "escluso",
+  "motivo": "usato senza marca: nessuna fonte ufficiale",
+  "tipo": "diffusore",
+  "slug": "cassa-2-vie-incasso-griglia-senza-bordo"
+ },
+ {
+  "id": 2561,
+  "cat": "S",
+  "brand": "Occasioni",
+  "name": "Diffusore 2 Vie Incasso senza cornice",
+  "stato": "escluso",
+  "motivo": "usato senza marca: nessuna fonte ufficiale",
+  "tipo": "diffusore",
+  "slug": "diffusore-2-vie-incasso-senza-cornice"
+ },
+ {
+  "id": 2406,
+  "cat": "L",
+  "brand": "Garvan",
+  "name": "Garvan KR313",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "garvan-kr313"
+ },
+ {
+  "id": 2405,
+  "cat": "L",
+  "brand": "Garvan",
+  "name": "Garvan KR316",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "garvan-kr316"
+ },
+ {
+  "id": 2403,
+  "cat": "P",
+  "brand": "Garvan",
+  "name": "Garvan KR213",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "garvan-kr213"
+ },
+ {
+  "id": 2402,
+  "cat": "2",
+  "brand": "Garvan",
+  "name": "Garvan KR208",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "garvan-kr208"
+ },
+ {
+  "id": 2401,
+  "cat": "P",
+  "brand": "Garvan",
+  "name": "Garvan KR112",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "garvan-kr112"
+ },
+ {
+  "id": 2400,
+  "cat": "2",
+  "brand": "Garvan",
+  "name": "Garvan KR207",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "garvan-kr207"
+ },
+ {
+  "id": 2399,
+  "cat": "S",
+  "brand": "Garvan",
+  "name": "Garvan KR111",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "garvan-kr111"
+ },
+ {
+  "id": 2393,
+  "cat": "W",
+  "brand": "Garvan",
+  "name": "Garvan WIC125",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "garvan-wic125"
+ },
+ {
+  "id": 2391,
+  "cat": "PS",
+  "brand": "Garvan",
+  "name": "Garvan KR117N30",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "garvan-kr117n30"
+ },
+ {
+  "id": 2390,
+  "cat": "L",
+  "brand": "Garvan",
+  "name": "Garvan KR513",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "garvan-kr513"
+ },
+ {
+  "id": 2389,
+  "cat": "L",
+  "brand": "Garvan",
+  "name": "Garvan KC316",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "garvan-kc316"
+ },
+ {
+  "id": 2387,
+  "cat": "P",
+  "brand": "Garvan",
+  "name": "Garvan KC216",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "garvan-kc216"
+ },
+ {
+  "id": 2385,
+  "cat": "P",
+  "brand": "Garvan",
+  "name": "Garvan KR117",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "garvan-kr117"
+ },
+ {
+  "id": 2381,
+  "cat": "S",
+  "brand": "Garvan",
+  "name": "Garvan KR118",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "garvan-kr118"
+ },
+ {
+  "id": 2364,
+  "cat": "P",
+  "brand": "Elipson",
+  "name": "Elipson IW8",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "elipson-iw8"
+ },
+ {
+  "id": 2363,
+  "cat": "P",
+  "brand": "Elipson",
+  "name": "Elipson IW6",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "elipson-iw6"
+ },
+ {
+  "id": 2362,
+  "cat": "S",
+  "brand": "Elipson",
+  "name": "Elipson IC8",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "elipson-ic8"
+ },
+ {
+  "id": 2361,
+  "cat": "S",
+  "brand": "Elipson",
+  "name": "Elipson IC6",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "elipson-ic6"
+ },
+ {
+  "id": 2360,
+  "cat": "S",
+  "brand": "Elipson",
+  "name": "Elipson IC4",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "elipson-ic4"
+ },
+ {
+  "id": 1764,
+  "cat": "S",
+  "brand": "KEF",
+  "name": "KEF Ci160TR",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "kef-ci160tr"
+ },
+ {
+  "id": 1763,
+  "cat": "2",
+  "brand": "KEF",
+  "name": "KEF Ci160CRds",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "kef-ci160crds"
+ },
+ {
+  "id": 1760,
+  "cat": "S",
+  "brand": "KEF",
+  "name": "KEF Ci160.2CS",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "kef-ci160-2cs"
+ },
+ {
+  "id": 1759,
+  "cat": "S",
+  "brand": "KEF",
+  "name": "KEF Ci130QS",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "kef-ci130qs"
+ },
+ {
+  "id": 1758,
+  "cat": "S",
+  "brand": "KEF",
+  "name": "KEF Ci160QS",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "kef-ci160qs"
+ },
+ {
+  "id": 1757,
+  "cat": "S",
+  "brand": "KEF",
+  "name": "KEF Ci3-80QT",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "kef-ci3-80qt"
+ },
+ {
+  "id": 1265,
+  "cat": "S",
+  "brand": "KEF",
+  "name": "KEF Ci100QS",
+  "stato": "da_fare",
+  "tipo": "diffusore",
+  "slug": "kef-ci100qs"
+ },
+ {
+  "id": 63195,
+  "cat": "M",
+  "brand": "Rotel",
+  "name": "Rotel C8",
+  "stato": "da_fare",
+  "tipo": "amplificatore",
+  "slug": "rotel-c8"
+ },
+ {
+  "id": 63199,
+  "cat": "M",
+  "brand": "Rotel",
+  "name": "Rotel C8+",
+  "stato": "da_fare",
+  "tipo": "amplificatore",
+  "slug": "rotel-c8"
+ },
+ {
+  "id": 62595,
+  "cat": "M",
+  "brand": "JBL",
+  "name": "JBL DA1650",
+  "stato": "da_fare",
+  "tipo": "amplificatore",
+  "slug": "jbl-da1650"
+ },
+ {
+  "id": 62583,
+  "cat": "M",
+  "brand": "JBL",
+  "name": "JBL DA850",
+  "stato": "da_fare",
+  "tipo": "amplificatore",
+  "slug": "jbl-da850"
+ },
+ {
+  "id": 58680,
+  "cat": "M",
+  "brand": "Occasioni",
+  "name": "Gemini GPA-1000 usato",
+  "stato": "escluso",
+  "motivo": "finale da palco usato",
+  "tipo": "amplificatore",
+  "slug": "gemini-gpa-1000-usato"
+ },
+ {
+  "id": 35865,
+  "cat": "M",
+  "brand": "Marantz",
+  "name": "Marantz Model M4",
+  "stato": "da_fare",
+  "tipo": "amplificatore",
+  "slug": "marantz-model-m4"
+ },
+ {
+  "id": 33152,
+  "cat": "M",
+  "brand": "Elac",
+  "name": "ELAC IS-AMP1650",
+  "stato": "da_fare",
+  "tipo": "amplificatore",
+  "slug": "elac-is-amp1650"
+ },
+ {
+  "id": 33147,
+  "cat": "M",
+  "brand": "Elac",
+  "name": "ELAC IS-AMP1275",
+  "stato": "da_fare",
+  "tipo": "amplificatore",
+  "slug": "elac-is-amp1275"
+ },
+ {
+  "id": 31941,
+  "cat": "M",
+  "brand": "ArtSound",
+  "name": "ArtSound SVC4.2",
+  "stato": "escluso",
+  "motivo": "selettore di volume, non amplificatore",
+  "tipo": "amplificatore",
+  "slug": "artsound-svc4-2"
+ },
+ {
+  "id": 31908,
+  "cat": "M",
+  "brand": "ArtSound",
+  "name": "ArtSound Smart Zone 4 AMP",
+  "stato": "da_fare",
+  "tipo": "amplificatore",
+  "slug": "artsound-smart-zone-4-amp"
+ },
+ {
+  "id": 31903,
+  "cat": "M",
+  "brand": "ArtSound",
+  "name": "ArtSound AMP850",
+  "stato": "da_fare",
+  "tipo": "amplificatore",
+  "slug": "artsound-amp850"
+ },
+ {
+  "id": 31889,
+  "cat": "M",
+  "brand": "ArtSound",
+  "name": "ArtSound MX-120M",
+  "stato": "da_fare",
+  "tipo": "amplificatore",
+  "slug": "artsound-mx-120m"
+ },
+ {
+  "id": 31885,
+  "cat": "M",
+  "brand": "ArtSound",
+  "name": "ArtSound MX60MKII",
+  "stato": "da_fare",
+  "tipo": "amplificatore",
+  "slug": "artsound-mx60mkii"
+ },
+ {
+  "id": 31865,
+  "cat": "M",
+  "brand": "ArtSound",
+  "name": "ArtSound PRL-1504",
+  "stato": "da_fare",
+  "tipo": "amplificatore",
+  "slug": "artsound-prl-1504"
+ },
+ {
+  "id": 31860,
+  "cat": "M",
+  "brand": "ArtSound",
+  "name": "ArtSound PRL-1502",
+  "stato": "da_fare",
+  "tipo": "amplificatore",
+  "slug": "artsound-prl-1502"
+ },
+ {
+  "id": 31853,
+  "cat": "M",
+  "brand": "ArtSound",
+  "name": "ArtSound Smart Hyde",
+  "stato": "da_fare",
+  "tipo": "amplificatore",
+  "slug": "artsound-smart-hyde"
+ },
+ {
+  "id": 31829,
+  "cat": "M",
+  "brand": "ArtSound",
+  "name": "ArtSound ART1.1",
+  "stato": "da_fare",
+  "tipo": "amplificatore",
+  "slug": "artsound-art1-1"
+ },
+ {
+  "id": 29987,
+  "cat": "M",
+  "brand": "Elac",
+  "name": "ELAC IS-AMP8100",
+  "stato": "fatto",
+  "tipo": "amplificatore",
+  "slug": "elac-is-amp8100"
+ },
+ {
+  "id": 29693,
+  "cat": "M",
+  "brand": "Yamaha",
+  "name": "Yamaha XDA-QS5400RK",
+  "stato": "da_fare",
+  "tipo": "amplificatore",
+  "slug": "yamaha-xda-qs5400rk"
+ },
+ {
+  "id": 29683,
+  "cat": "M",
+  "brand": "Yamaha",
+  "name": "Yamaha XDA-AMP5400RK",
+  "stato": "da_fare",
+  "tipo": "amplificatore",
+  "slug": "yamaha-xda-amp5400rk"
+ }
+]

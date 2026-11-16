@@ -8,8 +8,9 @@ Ogni pagina contiene i segnaposto <!-- HEADER -->…<!-- /HEADER --> e
 import pathlib, re
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
-PAGES = ["index.html", "amplificatori.html", "diffusori.html", "contatti.html"]
-PRODOTTI = ["amplificatori.html", "diffusori.html"]
+SCHEDE = sorted(p.name for p in ROOT.glob("scheda-*.html"))   # schede prodotto generate da genera_schede.py
+PAGES = ["index.html", "amplificatori.html", "diffusori.html", "contatti.html"] + SCHEDE
+PRODOTTI = ["amplificatori.html", "diffusori.html"] + SCHEDE
 
 GRUNGE = '''<svg width="0" height="0" style="position:absolute" aria-hidden="true">
   <filter id="grunge" x="0" y="0" width="100%" height="100%">
