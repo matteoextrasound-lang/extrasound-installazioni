@@ -1,0 +1,161 @@
+{
+ "id": 48806,
+ "tipo": "diffusore",
+ "cat": "PS",
+ "brand": "Focal",
+ "model": "300 ICW8",
+ "crop": false,
+ "meta": "Focal 300 ICW8: 2 vie coassiale · 8″, diffusore da incasso parete/soffitto. Foro, profondità, regolazioni, montaggio e collegamenti per l'installatore.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/focal-300-icw8-frontale.jpg",
+  "alt": "Diffusore da incasso Focal 300 ICW8 visto di fronte senza griglia, con woofer in lino Flax da 21 cm e tweeter coassiale"
+ },
+ "chiave": [
+  "2 vie · 8″ Flax · 8 Ω",
+  "Foro Ø 264 mm",
+  "Profondità 130 mm"
+ ],
+ "righe": [
+  "2 vie coassiale · 8″",
+  "Diffusore da incasso parete/soffitto",
+  "300 Series"
+ ],
+ "intro": [
+  "Il <strong>300 ICW8</strong> è un diffusore da incasso a 2 vie per parete e soffitto, progettato e prodotto in Francia: mid-woofer in lino Flax da 8″ (21 cm) e tweeter a cupola rovesciata in Al/Mg. Impedenza 8 Ω.",
+  "Foro di <strong>Ø 264 mm</strong>, profondità <strong>130 mm</strong>; fissaggio senza attrezzi con telaio e alette rosse (Easy Quick Install), griglie rotonda e quadrata incluse."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "2 vie coassiale, per parete e soffitto.",
+    "Mid-woofer da 8″ (21 cm) con cono in lino Flax.",
+    "Tweeter da 1″ (25 mm) a cupola rovesciata in alluminio/magnesio, inclinabile ±20° e orientabile a 360°.",
+    "Livello tweeter sul retro: −3 / 0 / +3 dB.",
+    "Griglie magnetiche rotonda e quadrata, verniciabili, con cuscinetti antivibrazione; maschera per verniciare.",
+    "Protezione posteriore antipolvere; prodotto in Francia."
+   ]
+  },
+  {
+   "titolo": "Acustica",
+   "voci": [
+    "Risposta: 48 Hz – 28 kHz (±3 dB); −6 dB a 35 Hz.",
+    "Sensibilità: 89 dB (2,83 V / 1 m).",
+    "Impedenza: 8 Ω nominali, 4,5 Ω minimi.",
+    "Amplificazione consigliata: 25 – 150 W."
+   ]
+  },
+  {
+   "titolo": "Dimensioni",
+   "voci": [
+    "Diametro esterno: 302 mm.",
+    "Foro: Ø 264 mm.",
+    "Profondità di montaggio: 130 mm.",
+    "Peso con griglia: 3,2 kg."
+   ]
+  }
+ ],
+ "viste": [
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/focal-300-icw8-tre-quarti.jpg",
+   "alt": "Focal 300 ICW8 di tre quarti senza griglia, montato sul telaio con le alette rosse EQI",
+   "caption": "Sul telaio EQI"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/focal-300-icw8-telaio-eqi.jpg",
+   "alt": "Telaio rotondo di montaggio EQI del Focal 300 ICW8 con le alette rosse di fissaggio, senza altoparlante",
+   "caption": "Telaio EQI"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/focal-300-icw8-griglia-rotonda.jpg",
+   "alt": "Focal 300 ICW8 con la griglia magnetica rotonda bianca montata, visto di tre quarti",
+   "caption": "Griglia rotonda"
+  }
+ ],
+ "misure": {
+  "forma": "tondo",
+  "est": "302 mm",
+  "foro": "264 mm",
+  "prof": "130 mm"
+ },
+ "cavi": {
+  "intestazione": "Cavo",
+  "righe": [
+   [
+    "Sezione",
+    "adeguata alla lunghezza (il manuale Focal non dà valori)"
+   ],
+   [
+    "Scorta all'apertura",
+    "circa 50 cm"
+   ],
+   [
+    "Polarità",
+    "cavo marcato: rosso su +, nero su −"
+   ]
+  ]
+ },
+ "collega": [
+  {
+   "titolo": "Amplificazione",
+   "link": "amplificatori.html",
+   "icona": "sorgente",
+   "voci": [
+    "8 Ω nominali: un diffusore per canale su qualsiasi amplificatore da installazione."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Dove montarlo",
+   "voci": [
+    "Su parete o soffitto, rivolto verso la zona d'ascolto; il tweeter orientabile corregge l'angolazione.",
+    "Verifica travi, montanti e impianti nel vano prima di tagliare."
+   ],
+   "posa": {
+    "tipo": "soffitto",
+    "distanza": "verso la zona d'ascolto",
+    "nota": "zona d'ascolto"
+   }
+  },
+  {
+   "titolo": "Montaggio",
+   "passi": [
+    [
+     "Prepara il foro",
+     "Traccia e taglia il foro con la dima. Spessore di parete o controsoffitto: verifica la gamma ammessa dal sistema di fissaggio senza attrezzi (Easy Quick Install)."
+    ],
+    [
+     "Monta il telaio",
+     "Ruota la staffa finché si aggancia al telaio, infila il telaio nel foro e tienilo a filo del soffitto o della parete."
+    ],
+    [
+     "Blocca il telaio",
+     "Con due dita ruota la staffa sul lato opposto, spingila fino in fondo e rilasciala: controlla che sia ben ferma e che non appoggi sul cavo."
+    ],
+    [
+     "Collega",
+     "Morsetti a molla: rosso sul +, nero sul −. Lascia circa 50 cm di cavo di scorta."
+    ],
+    [
+     "Inserisci il diffusore",
+     "Allinea le frecce rosse ai lucchetti aperti, inserisci il diffusore e ruotalo finché i segni sono tra due lucchetti."
+    ],
+    [
+     "Regola e chiudi",
+     "Regola il livello del tweeter (−3 / 0 / +3 dB, dove presente) e orientalo; poi metti la griglia magnetica. Per verniciare parete o soffitto senza smontare, usa la maschera magnetica fornita."
+    ]
+   ]
+  }
+ ],
+ "nota": "Dati e procedura dai documenti ufficiali Focal, confrontati con la scheda Extrasound.",
+ "extrasound": "https://www.extrasound.it/focal-300-icw8-diffusore-da-incasso-flax-21-cm",
+ "fonti": [
+  {
+   "label": "manuale Focal 300 ICW4/ICW6/ICW8/ICA6",
+   "url": "https://manuals.online/focal/speakers/300-series/user-manual/sto3"
+  }
+ ],
+ "slug": "focal-300-icw8",
+ "tab": "Diffusori<br>da incasso"
+}

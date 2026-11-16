@@ -1,0 +1,169 @@
+{
+ "id": 48807,
+ "tipo": "diffusore",
+ "cat": "P",
+ "brand": "Focal",
+ "model": "300 IW6",
+ "crop": false,
+ "meta": "Focal 300 IW6: 2 vie · 6,5″ flax, diffusore da incasso a parete. Foro, profondità, regolazioni, montaggio e collegamenti per l'installatore.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/focal-300-iw6-frontale.jpg",
+  "alt": "Diffusore rettangolare da parete Focal 300 IW6 visto di fronte senza griglia, con tweeter in alto e woofer in lino Flax da 16,5 cm"
+ },
+ "chiave": [
+  "2 vie · 6,5″ Flax · 8 Ω",
+  "Foro 191 × 292 mm",
+  "Profondità 93 mm"
+ ],
+ "righe": [
+  "2 vie · 6,5″ Flax",
+  "Diffusore da incasso a parete",
+  "300 Series"
+ ],
+ "intro": [
+  "Il <strong>300 IW6</strong> è un diffusore rettangolare da incasso a parete a 2 vie: mid-woofer Flax da 6,5″ e tweeter Al/Mg orientabile, con regolazione di acuti e medi. Impedenza 8 Ω.",
+  "Foro di <strong>292 × 191 mm</strong> (A × L), profondità <strong>93 mm</strong>, parete da 12 a 32 mm; montaggio senza attrezzi."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "2 vie, rettangolare.",
+    "Mid-woofer da 6,5″ (16,5 cm) in lino Flax.",
+    "Tweeter da 1″ Al/Mg orientabile.",
+    "Regolazioni sul frontale: tweeter −3 / 0 / +3 dB, medi −2 / 0 / +2 dB.",
+    "Griglia magnetica verniciabile, maschera per verniciare.",
+    "Prodotto in Francia."
+   ]
+  },
+  {
+   "titolo": "Acustica",
+   "voci": [
+    "Risposta: 55 Hz – 28 kHz (±3 dB); −6 dB a 45 Hz.",
+    "Sensibilità: 90 dB (2,83 V / 1 m).",
+    "Impedenza: 8 Ω nominali, 4,5 Ω minimi.",
+    "Amplificazione consigliata: 25 – 130 W."
+   ]
+  },
+  {
+   "titolo": "Dimensioni",
+   "voci": [
+    "Esterne: 220 × 323 × 98 mm (L × A × P).",
+    "Foro: 191 × 292 mm (L × A).",
+    "Profondità di montaggio: 93 mm.",
+    "Spessore parete: 12 – 32 mm.",
+    "Peso con griglia: 2,25 kg."
+   ]
+  }
+ ],
+ "viste": [
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/focal-300-iw6-tre-quarti.jpg",
+   "alt": "Focal 300 IW6 di tre quarti senza griglia, con le alette rosse EQI sui lati",
+   "caption": "Alette di fissaggio"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/focal-300-iw6-retro.jpg",
+   "alt": "Focal 300 IW6 visto da dietro, con la protezione posteriore, il magnete del woofer e i morsetti",
+   "caption": "Retro protetto"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/focal-300-iw6-griglia.jpg",
+   "alt": "Focal 300 IW6 con la griglia magnetica rettangolare bianca montata, visto di tre quarti",
+   "caption": "Griglia"
+  }
+ ],
+ "misure": {
+  "forma": "rett",
+  "est": [
+   "220 mm",
+   "323 mm"
+  ],
+  "foro": [
+   "191 mm",
+   "292 mm"
+  ],
+  "prof_tot": "98 mm",
+  "prof": "93 mm"
+ },
+ "cavi": {
+  "intestazione": "Cavo",
+  "righe": [
+   [
+    "Sezione",
+    "adeguata alla lunghezza (il manuale Focal non dà valori)"
+   ],
+   [
+    "Scorta all'apertura",
+    "circa 50 cm"
+   ],
+   [
+    "Polarità",
+    "cavo marcato: rosso su +, nero su −"
+   ]
+  ]
+ },
+ "collega": [
+  {
+   "titolo": "Amplificazione",
+   "link": "amplificatori.html",
+   "icona": "sorgente",
+   "voci": [
+    "8 Ω nominali: un diffusore per canale su qualsiasi amplificatore da installazione."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Dove montarlo",
+   "voci": [
+    "All'altezza delle orecchie o poco sopra, con il tweeter orientato verso il punto d'ascolto.",
+    "Parete da 12 a 32 mm: oltre serve un'altra soluzione di fissaggio."
+   ],
+   "posa": {
+    "tipo": "parete",
+    "distanza": "ad altezza orecchie",
+    "nota": "punto d'ascolto"
+   }
+  },
+  {
+   "titolo": "Montaggio",
+   "passi": [
+    [
+     "Prepara il foro",
+     "Taglia il foro con la dima. Parete da 12 a 32 mm."
+    ],
+    [
+     "Alza le alette",
+     "Solleva le alette di fissaggio."
+    ],
+    [
+     "Collega",
+     "Cavo prespellato nei morsetti a molla: rosso sul +, nero sul −. La polarità di ogni diffusore deve essere corretta."
+    ],
+    [
+     "Inserisci",
+     "Spingi il diffusore nella parete fino in sede: le alette si chiudono da sole (montaggio senza attrezzi)."
+    ],
+    [
+     "Regola",
+     "Imposta tweeter (−3 / 0 / +3 dB) e medi (−2 / 0 / +2 dB) in base all'ambiente; orienta il tweeter verso il punto d'ascolto."
+    ],
+    [
+     "Chiudi",
+     "Eventuale tela acustica (il suono è migliore senza), poi griglia magnetica. Rodaggio: circa 20 ore prima di giudicare il suono."
+    ]
+   ]
+  }
+ ],
+ "nota": "Dati e procedura dai documenti ufficiali Focal, confrontati con la scheda Extrasound.",
+ "extrasound": "https://www.extrasound.it/focal-300-iw6-diffusore-da-incasso-a-parete-flax",
+ "fonti": [
+  {
+   "label": "manuale Focal 300 IW6/IWLCR6/ICLCR5",
+   "url": "https://iear.be/docs/manual/191321.pdf"
+  }
+ ],
+ "slug": "focal-300-iw6",
+ "tab": "Diffusori<br>da incasso"
+}

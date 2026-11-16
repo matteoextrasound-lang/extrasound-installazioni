@@ -1,0 +1,160 @@
+{
+ "id": 48743,
+ "tipo": "diffusore",
+ "cat": "LS",
+ "brand": "Focal",
+ "model": "100 ICLCR5",
+ "crop": false,
+ "meta": "Focal 100 ICLCR5: 2 vie · 2 × 5″ + radiatore, lcr da incasso a soffitto. Foro, profondità, regolazioni, montaggio e collegamenti per l'installatore.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/focal-100-iclcr5-frontale.jpg",
+  "alt": "Diffusore da soffitto Focal 100 ICLCR5 quadrato visto di fronte senza griglia, con radiatore passivo al centro, due woofer e tweeter"
+ },
+ "chiave": [
+  "LCR 2 vie · 92 dB · 8 Ω",
+  "Foro 328 × 328 mm",
+  "Profondità 152 mm"
+ ],
+ "righe": [
+  "2 vie · 2 × 5″ + radiatore",
+  "LCR da incasso a soffitto",
+  "100 Series"
+ ],
+ "intro": [
+  "Il <strong>100 ICLCR5</strong> è un diffusore da soffitto quadrato a 2 vie per home cinema: due woofer Polyglass da 13 cm, radiatore passivo da 21 cm e tweeter orientabile. Un selettore di direttività lo adatta al canale sinistro, centrale o destro.",
+  "Foro <strong>328 × 328 mm</strong>, profondità <strong>152 mm</strong>; otto staffe a vite."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "2 vie, quadrato, in cassa.",
+    "Due woofer da 5″ (13 cm) Polyglass e radiatore passivo da 8″ (21 cm).",
+    "Tweeter da 1″ in alluminio, orientabile in orizzontale e verticale.",
+    "Selettore di direttività: sinistro / centrale / destro.",
+    "Livello tweeter: −3 / 0 / +3 dB.",
+    "Otto staffe con viti imperdibili; griglia magnetica."
+   ]
+  },
+  {
+   "titolo": "Acustica",
+   "voci": [
+    "Risposta: 65 Hz – 23 kHz (±3 dB); −6 dB a 55 Hz.",
+    "Sensibilità: 92 dB (2,83 V / 1 m).",
+    "Impedenza: 8 Ω nominali, 4,6 Ω minimi.",
+    "Amplificazione consigliata: 25 – 120 W."
+   ]
+  },
+  {
+   "titolo": "Dimensioni",
+   "voci": [
+    "Esterne: 354 × 354 × 150 mm.",
+    "Foro: 328 × 328 mm.",
+    "Profondità di montaggio: 152 mm.",
+    "Peso con griglia: 5,3 kg."
+   ]
+  }
+ ],
+ "viste": [
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/focal-100-iclcr5-tre-quarti.jpg",
+   "alt": "Focal 100 ICLCR5 di tre quarti senza griglia, con il tweeter orientabile e le staffe rosse di fissaggio",
+   "caption": "Tweeter orientabile"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/focal-100-iclcr5-retro.jpg",
+   "alt": "Retro del Focal 100 ICLCR5 con il cabinet chiuso nero e i morsetti di collegamento",
+   "caption": "Retro"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/focal-100-iclcr5-griglia.jpg",
+   "alt": "Focal 100 ICLCR5 con la griglia magnetica quadrata bianca montata, visto di tre quarti",
+   "caption": "Griglia quadrata"
+  }
+ ],
+ "misure": {
+  "forma": "rett",
+  "est": [
+   "354 mm",
+   "354 mm"
+  ],
+  "foro": [
+   "328 mm",
+   "328 mm"
+  ],
+  "prof_tot": "150 mm",
+  "prof": "152 mm",
+  "nota": "Foro quadrato tratteggiato in rosso. Misure del produttore; disegno non in scala."
+ },
+ "cavi": {
+  "intestazione": "Cavo",
+  "righe": [
+   [
+    "Sezione",
+    "adeguata alla lunghezza (il manuale Focal non dà valori)"
+   ],
+   [
+    "Scorta all'apertura",
+    "circa 50 cm"
+   ],
+   [
+    "Polarità",
+    "cavo marcato: rosso su +, nero su −"
+   ]
+  ]
+ },
+ "collega": [
+  {
+   "titolo": "Amplificazione",
+   "link": "amplificatori.html",
+   "icona": "sorgente",
+   "voci": [
+    "8 Ω nominali: un diffusore per canale su qualsiasi amplificatore da installazione."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Dove montarlo",
+   "voci": [
+    "Frontali e centrale a soffitto quando non c'è spazio a parete; selettore di direttività sul canale corrispondente.",
+    "Orienta il tweeter verso il punto d'ascolto."
+   ]
+  },
+  {
+   "titolo": "Montaggio",
+   "passi": [
+    [
+     "Prepara il foro",
+     "Traccia con la dima e taglia: 328 × 328 mm. Servono 152 mm liberi sopra il controsoffitto."
+    ],
+    [
+     "Collega",
+     "Morsetti a molla: rosso sul +, nero sul −; lascia cavo di scorta all'apertura."
+    ],
+    [
+     "Inserisci e fissa",
+     "Inserisci il diffusore e stringi le viti delle staffe: le staffe si aprono e stringono contro la parete. Le viti sono imperdibili, non cadono se smonti il diffusore."
+    ],
+    [
+     "Imposta la direttività",
+     "Selettore su L, C o R secondo la posizione; orienta il tweeter verso il punto d'ascolto e regola il livello."
+    ],
+    [
+     "Chiudi",
+     "Griglia magnetica, rotonda o quadrata, verniciabile."
+    ]
+   ]
+  }
+ ],
+ "nota": "Dati dalle schede tecniche Focal, confrontati con la scheda Extrasound. La procedura di montaggio è riassunta dalle schede Focal (staffe con viti imperdibili): fa fede il foglio di istruzioni incluso.",
+ "extrasound": "https://www.extrasound.it/focal-100-iclcr5-diffusore-da-soffitto-lcr-home-cinema",
+ "fonti": [
+  {
+   "label": "scheda tecnica Focal 100 ICLCR5",
+   "url": "https://manualmachine.com/focal/100iclcr5/16695076-specification-sheet"
+  }
+ ],
+ "slug": "focal-100-iclcr5",
+ "tab": "Diffusori<br>LCR"
+}

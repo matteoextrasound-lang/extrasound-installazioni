@@ -1,0 +1,110 @@
+{
+ "id": 48747,
+ "tipo": "amplificatore",
+ "cat": "MW",
+ "brand": "Focal",
+ "model": "100 IWSUB8 Amplifier",
+ "crop": true,
+ "meta": "Focal 100 IWSUB8 Amplifier: amplificatore rack 1U per subwoofer da incasso 100 IWSUB8, 150 W su 4 Ω. Ingressi, uscite, collegamento di uno o due subwoofer.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/focal-100-iwsub8-amplifier-frontale.jpg",
+  "alt": "Amplificatore Focal 100 IWSUB8 Amplifier nero in formato rack 1U visto di fronte, con il logo Focal"
+ },
+ "chiave": [
+  "Ampli per subwoofer · rack 1U",
+  "150 W / 4 Ω",
+  "1 o 2 subwoofer"
+ ],
+ "righe": [
+  "150 W su 4 Ω · rack 1U",
+  "Amplificatore per subwoofer",
+  "100 Series"
+ ],
+ "intro": [
+  "Il <strong>100 IWSUB8 Amplifier</strong> è l'amplificatore dedicato al subwoofer da incasso Focal 100 IWSUB8: formato rack 1U, 150 W continui su 4 Ω, pilota uno o due subwoofer collegati in parallelo.",
+  "Ingressi LFE e linea L/R, uscita di linea, accensione automatica, filtro subsonico e protezioni complete."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "Rack 19″, 1 unità: 429 × 44,5 × 257 mm (482,5 mm con le staffe), 3,1 kg.",
+    "Selettore di accensione: On / Auto-power / Off; LED di stato.",
+    "Protezioni: controllo dinamico di potenza, termica, cortocircuito, sovracorrente, fusibile.",
+    "Consumo: 150 W in funzione, 0,5 W in standby.",
+    "Alimentazione 100–120 V / 220–230 V, cavo IEC staccabile."
+   ]
+  },
+  {
+   "titolo": "Ingressi",
+   "voci": [
+    "LFE (RCA).",
+    "Linea sinistra/destra (RCA)."
+   ]
+  },
+  {
+   "titolo": "Uscite",
+   "voci": [
+    "Uscita amplificata su morsettiera per il subwoofer: 150 W continui su 4 Ω, 200 W massimi; carico minimo 4 Ω.",
+    "Uscite di linea sinistra/destra (RCA).",
+    "Banda passante: 20 – 250 Hz; filtro subsonico 18 dB/ottava."
+   ]
+  }
+ ],
+ "retro": {
+  "src": "https://www.extrasound.it/wp-content/uploads/focal-100-iwsub8-amplifier-retro.jpg",
+  "alt": "Pannello posteriore del Focal 100 IWSUB8 Amplifier con ingressi RCA, morsetti per il subwoofer e presa di alimentazione",
+  "titolo": "Pannello posteriore",
+  "caption": "Ingressi RCA LFE e L/R, uscite di linea, morsettiera per i subwoofer e alimentazione."
+ },
+ "collega": [
+  {
+   "titolo": "Focal 100 IWSUB8",
+   "link": "scheda-focal-100-iwsub8.html",
+   "icona": "subwoofer",
+   "voci": [
+    "Uno o due subwoofer passivi da 8 Ω in parallelo (carico 4 Ω)."
+   ]
+  },
+  {
+   "titolo": "Processore o sintoamplificatore",
+   "icona": "sorgente",
+   "voci": [
+    "Uscita subwoofer (LFE) all'ingresso LFE; in un impianto stereo usa gli ingressi L/R e le uscite di linea verso i frontali."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Home cinema con due subwoofer",
+   "voci": [
+    "LFE dal processore; i due subwoofer in parallelo sull'uscita amplificata."
+   ],
+   "zone": [
+    {
+     "label": "Ingresso LFE dal processore",
+     "tipo": "linea"
+    },
+    {
+     "label": "100 IWSUB8 n. 1 · 8 Ω",
+     "tipo": "sub"
+    },
+    {
+     "label": "100 IWSUB8 n. 2 · 8 Ω (parallelo → 4 Ω)",
+     "tipo": "sub"
+    }
+   ],
+   "apparecchio": "100 IWSUB8 Amp"
+  }
+ ],
+ "nota": "Dati dalla scheda prodotto Focal del 100 IWSUB8 Amplifier, confrontati con la scheda Extrasound. La scheda Focal non cita il trigger 12 V: l'accensione automatica avviene con il segnale.",
+ "extrasound": "https://www.extrasound.it/focal-100-iwsub8-amplifier-amplificatore-per-subwoofer",
+ "fonti": [
+  {
+   "label": "scheda prodotto Focal 100 IWSUB8 Amplifier",
+   "url": "https://easylounge.com/pdf/Produits/991e19e0-d58d-4e6e-b3d2-e40cd2a6fb2a/100iwsub8-amplifier_fiche-produit_0.pdf"
+  }
+ ],
+ "slug": "focal-100-iwsub8-amplifier",
+ "tab": "Amplificatori<br>multicanale"
+}

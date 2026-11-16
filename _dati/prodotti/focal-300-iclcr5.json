@@ -1,0 +1,171 @@
+{
+ "id": 48808,
+ "tipo": "diffusore",
+ "cat": "LS",
+ "brand": "Focal",
+ "model": "300 ICLCR5",
+ "crop": false,
+ "meta": "Focal 300 ICLCR5: 3 vie · 2 × 5″ flax, lcr da incasso a soffitto. Foro, profondità, regolazioni, montaggio e collegamenti per l'installatore.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/focal-300-iclcr5-frontale.jpg",
+  "alt": "Diffusore LCR da soffitto Focal 300 ICLCR5 quadrato visto di fronte senza griglia, con due woofer, il midrange e il tweeter sulla piastra centrale"
+ },
+ "chiave": [
+  "LCR 3 vie · cassa chiusa · 8 Ω",
+  "Foro 340 × 340 mm",
+  "Profondità 190 mm"
+ ],
+ "righe": [
+  "3 vie · 2 × 5″ Flax",
+  "LCR da incasso a soffitto",
+  "300 Series"
+ ],
+ "intro": [
+  "Il <strong>300 ICLCR5</strong> è un diffusore LCR da soffitto a 3 vie in cassa chiusa: due woofer Flax da 13 cm, midrange Flax da 10 cm e tweeter Al/Mg su una piastra orientabile, per canali frontali, surround o in altezza.",
+  "Foro quadrato <strong>340 × 340 mm</strong>, profondità <strong>190 mm</strong>, controsoffitto da 12 a 54 mm con gli adattatori. Impedenza minima 2,9 Ω."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "3 vie in cassa chiusa, quadrato.",
+    "Due woofer da 5″ (13 cm) Flax, midrange da 4″ (10 cm) Flax.",
+    "Tweeter da 1″ Al/Mg su piastra orientabile verso il punto d'ascolto.",
+    "Regolazioni: tweeter −3 / 0 / +3 dB, medi −2 / 0 / +2 dB.",
+    "Sistema di sicurezza con cavo anticaduta; adattatori per lo spessore del soffitto.",
+    "Griglia magnetica verniciabile."
+   ]
+  },
+  {
+   "titolo": "Acustica",
+   "voci": [
+    "Risposta: 55 Hz – 28 kHz (±3 dB); −6 dB a 45 Hz.",
+    "Sensibilità: 91 dB (2,83 V / 1 m).",
+    "Impedenza: 8 Ω nominali, 2,9 Ω minimi.",
+    "Amplificazione consigliata: 50 – 150 W."
+   ]
+  },
+  {
+   "titolo": "Dimensioni",
+   "voci": [
+    "Esterne: 370 × 370 × 195 mm.",
+    "Foro: 340 × 340 mm.",
+    "Profondità di montaggio: 190 mm.",
+    "Spessore soffitto: 12 – 54 mm con adattatori.",
+    "Peso con griglia: 7,4 kg."
+   ]
+  }
+ ],
+ "viste": [
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/focal-300-iclcr5-tre-quarti.jpg",
+   "alt": "Focal 300 ICLCR5 di tre quarti senza griglia, con il cabinet chiuso e le alette rosse EQI",
+   "caption": "Cassa chiusa e alette"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/focal-300-iclcr5-retro.jpg",
+   "alt": "Retro del Focal 300 ICLCR5 con il cabinet chiuso nero e le alette rosse di fissaggio",
+   "caption": "Retro"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/focal-300-iclcr5-griglia.jpg",
+   "alt": "Focal 300 ICLCR5 con la griglia magnetica quadrata bianca montata, visto di tre quarti",
+   "caption": "Griglia quadrata"
+  }
+ ],
+ "misure": {
+  "forma": "rett",
+  "est": [
+   "370 mm",
+   "370 mm"
+  ],
+  "foro": [
+   "340 mm",
+   "340 mm"
+  ],
+  "prof_tot": "195 mm",
+  "prof": "190 mm",
+  "nota": "Foro quadrato tratteggiato in rosso. Misure del produttore; disegno non in scala."
+ },
+ "cavi": {
+  "intestazione": "Cavo",
+  "righe": [
+   [
+    "Sezione",
+    "adeguata alla lunghezza (il manuale Focal non dà valori)"
+   ],
+   [
+    "Scorta all'apertura",
+    "circa 50 cm"
+   ],
+   [
+    "Polarità",
+    "cavo marcato: rosso su +, nero su −"
+   ]
+  ]
+ },
+ "collega": [
+  {
+   "titolo": "Amplificazione",
+   "link": "amplificatori.html",
+   "icona": "sorgente",
+   "voci": [
+    "8 Ω nominali: un diffusore per canale su qualsiasi amplificatore da installazione.",
+    "Impedenza minima 2,9 Ω: scegli un amplificatore stabile su carichi bassi."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Dove montarlo",
+   "voci": [
+    "Frontale, surround o canale in altezza: orienta la piastra verso il punto d'ascolto.",
+    "Controlla che sopra il controsoffitto ci siano 190 mm liberi e un punto solido per il cavo di sicurezza.",
+    "Impedenza minima 2,9 Ω: verifica che l'amplificatore regga carichi bassi."
+   ]
+  },
+  {
+   "titolo": "Montaggio",
+   "passi": [
+    [
+     "Prepara il foro",
+     "Taglia il foro quadrato con la dima: 340 × 340 mm."
+    ],
+    [
+     "Sblocca",
+     "Sblocca il fermo di sicurezza e solleva i piedini di fissaggio."
+    ],
+    [
+     "Adatta allo spessore",
+     "Misura lo spessore del controsoffitto e monta gli adattatori corrispondenti vicino agli angoli (fino a 54 mm)."
+    ],
+    [
+     "Assicura",
+     "Aggancia il cavo di sicurezza anticaduta a una struttura solida."
+    ],
+    [
+     "Collega",
+     "Rosso sul +, nero sul −: la polarità deve essere corretta."
+    ],
+    [
+     "Inserisci e blocca",
+     "Inserisci il diffusore, premi sui lati per farlo entrare in sede e blocca il sistema di sicurezza. Se serve, aggiungi fino a 9 viti di supporto (oltre 8 cm) nei punti con la freccia rossa."
+    ],
+    [
+     "Orienta e regola",
+     "Orienta la piastra medio-tweeter verso il punto d'ascolto, regola tweeter e medi, poi metti la griglia magnetica."
+    ]
+   ]
+  }
+ ],
+ "nota": "Dati e procedura dai documenti ufficiali Focal, confrontati con la scheda Extrasound.",
+ "extrasound": "https://www.extrasound.it/focal-300-iclcr5-diffusore-lcr-da-soffitto-3-vie",
+ "fonti": [
+  {
+   "label": "manuale Focal 300 IW6/IWLCR6/ICLCR5",
+   "url": "https://iear.be/docs/manual/191321.pdf"
+  }
+ ],
+ "slug": "focal-300-iclcr5",
+ "tab": "Diffusori<br>LCR"
+}

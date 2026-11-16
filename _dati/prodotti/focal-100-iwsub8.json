@@ -1,0 +1,139 @@
+{
+ "id": 48746,
+ "tipo": "diffusore",
+ "cat": "W",
+ "brand": "Focal",
+ "model": "100 IWSUB8",
+ "crop": true,
+ "meta": "Focal 100 IWSUB8: subwoofer passivo da incasso a parete bass-reflex 8″, 86 mm di profondità. Misure, collegamento all'amplificatore dedicato e montaggio.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/focal-100-iwsub8-impianto-amplificatore.jpg",
+  "alt": "Due subwoofer Focal 100 IWSUB8 senza griglia affiancati, con l'amplificatore 100 IWSUB8 Amplifier davanti"
+ },
+ "chiave": [
+  "Sub passivo 8″ · 8 Ω",
+  "352 × 1.300 mm",
+  "Profondità 86 mm"
+ ],
+ "righe": [
+  "Subwoofer passivo · 8″",
+  "Subwoofer da incasso a parete",
+  "100 Series"
+ ],
+ "intro": [
+  "Il <strong>100 IWSUB8</strong> è un subwoofer passivo da incasso a parete: woofer Polyglass da 8″ in un cabinet bass-reflex alto e stretto (352 × 1.300 mm), con solo <strong>86 mm</strong> di profondità.",
+  "Scende a 30 Hz (−6 dB). Va alimentato con l'amplificatore dedicato <strong>100 IWSUB8 Amplifier</strong>, che ne pilota fino a due in parallelo."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "Subwoofer passivo bass-reflex, condotto svasato.",
+    "Woofer da 8″ (21 cm) Polyglass.",
+    "Cabinet a profondità ridotta, per montanti a interasse 16″ (406 mm).",
+    "Griglia magnetica verniciabile, a basso profilo."
+   ]
+  },
+  {
+   "titolo": "Acustica",
+   "voci": [
+    "Risposta: 34 – 140 Hz (±3 dB); −6 dB a 30 Hz.",
+    "Sensibilità: 89 dB (2,83 V / 1 m).",
+    "Impedenza: 8 Ω nominali.",
+    "Amplificazione: massimo 200 W su 4 Ω (100 IWSUB8 Amplifier)."
+   ]
+  },
+  {
+   "titolo": "Dimensioni",
+   "voci": [
+    "Esterne: 352 × 1.300 × 98 mm (L × A × P).",
+    "Profondità di montaggio: 86 mm.",
+    "Peso: 14,6 kg.",
+    "Foro: segui la dima fornita (la scheda Focal riporta 352 × 1.300 mm)."
+   ]
+  }
+ ],
+ "viste": [
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/focal-100-iwsub8-tre-quarti.jpg",
+   "alt": "Subwoofer da incasso Focal 100 IWSUB8 di tre quarti senza griglia, alto e stretto, con il woofer Polyglass in basso",
+   "caption": "Cabinet alto e stretto"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/focal-100-iwsub8-profilo.jpg",
+   "alt": "Focal 100 IWSUB8 sdraiato e visto di lato, per mostrare la profondità ridotta del cabinet",
+   "caption": "Profondità ridotta"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/focal-100-iwsub8-griglia.jpg",
+   "alt": "Focal 100 IWSUB8 con la griglia magnetica bianca montata sulla parte bassa del pannello",
+   "caption": "Griglia montata"
+  }
+ ],
+ "lato_titolo": "Cosa si collega",
+ "collega": [
+  {
+   "titolo": "Focal 100 IWSUB8 Amplifier",
+   "link": "scheda-focal-100-iwsub8-amplifier.html",
+   "icona": "subwoofer",
+   "voci": [
+    "Amplificatore dedicato, rack 1U, 150 W continui su 4 Ω.",
+    "Uno o due subwoofer in parallelo (due da 8 Ω = 4 Ω)."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Schema di collegamento",
+   "voci": [
+    "Uscita LFE del processore all'amplificatore; uscita di potenza ai subwoofer in parallelo."
+   ],
+   "zone": [
+    {
+     "label": "LFE dal processore → 100 IWSUB8 Amplifier",
+     "tipo": "linea"
+    },
+    {
+     "label": "Subwoofer 1 · 8 Ω",
+     "tipo": "sub"
+    },
+    {
+     "label": "Subwoofer 2 (opzionale) · in parallelo",
+     "tipo": "sub"
+    }
+   ],
+   "apparecchio": "Processore AV"
+  },
+  {
+   "titolo": "Montaggio",
+   "passi": [
+    [
+     "Scegli il vano",
+     "Tra due montanti a interasse 16″ (406 mm), con 86 mm di profondità libera per tutta l'altezza di 1,3 m."
+    ],
+    [
+     "Prepara il foro",
+     "Traccia con la dima fornita e taglia."
+    ],
+    [
+     "Collega",
+     "Cavo di potenza dall'amplificatore: rosso sul +, nero sul −. Con due subwoofer, collegali in parallelo."
+    ],
+    [
+     "Fissa e chiudi",
+     "Inserisci il subwoofer, fissalo con le staffe e metti la griglia magnetica, verniciabile."
+    ]
+   ]
+  }
+ ],
+ "nota": "Dati dalla scheda tecnica Focal, confrontati con la scheda Extrasound. Le misure in pollici della scheda Focal sono poco leggibili: fanno fede quelle metriche e la dima.",
+ "extrasound": "https://www.extrasound.it/focal-100-iwsub8-subwoofer-passivo-da-incasso-21-cm",
+ "fonti": [
+  {
+   "label": "scheda tecnica Focal 100 IWSUB8",
+   "url": "https://manualmachine.com/focal/100iwsub8/16695053-specification-sheet"
+  }
+ ],
+ "slug": "focal-100-iwsub8",
+ "tab": "Subwoofer<br>da incasso"
+}

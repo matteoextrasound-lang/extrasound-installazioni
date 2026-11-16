@@ -1,0 +1,164 @@
+{
+ "id": 48745,
+ "tipo": "diffusore",
+ "cat": "PS",
+ "brand": "Focal",
+ "model": "100 IW6",
+ "crop": false,
+ "meta": "Focal 100 IW6: 2 vie · 6,5″ polyglass, diffusore da incasso a parete. Foro, profondità, regolazioni, montaggio e collegamenti per l'installatore.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/focal-100-iw6-frontale.jpg",
+  "alt": "Diffusore da parete rettangolare Focal 100 IW6 visto di fronte senza griglia, con tweeter in alto e woofer Polyglass da 16,5 cm"
+ },
+ "chiave": [
+  "2 vie · 6,5″ · 8 Ω",
+  "Foro 170 × 273 mm",
+  "Profondità 88 mm"
+ ],
+ "righe": [
+  "2 vie · 6,5″ Polyglass",
+  "Diffusore da incasso a parete",
+  "100 Series"
+ ],
+ "intro": [
+  "Il <strong>100 IW6</strong> è un diffusore rettangolare da incasso a 2 vie per parete (o soffitto), con mid-woofer Polyglass da 6,5″ e tweeter orientabile in alluminio, con regolazione separata di acuti e medi. Impedenza 8 Ω.",
+  "Foro di <strong>273 × 170 mm</strong> (A × L), profondità <strong>88 mm</strong>; sei staffe a vite."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "2 vie, rettangolare.",
+    "Mid-woofer da 6,5″ (16,5 cm) Polyglass.",
+    "Tweeter da 1″ in alluminio a cupola rovesciata, orientabile.",
+    "Regolazioni: tweeter −3 / 0 / +3 dB, medi −2 / 0 / +2 dB.",
+    "Sei staffe di fissaggio con viti imperdibili.",
+    "Griglia magnetica verniciabile."
+   ]
+  },
+  {
+   "titolo": "Acustica",
+   "voci": [
+    "Risposta: 60 Hz – 23 kHz (±3 dB); −6 dB a 48 Hz.",
+    "Sensibilità: 89 dB (2,83 V / 1 m).",
+    "Impedenza: 8 Ω nominali, 7,2 Ω minimi.",
+    "Amplificazione consigliata: 25 – 120 W."
+   ]
+  },
+  {
+   "titolo": "Dimensioni",
+   "voci": [
+    "Esterne: 195 × 298 × 92 mm (L × A × P).",
+    "Foro: 170 × 273 mm (L × A).",
+    "Profondità di montaggio: 88 mm.",
+    "Peso con griglia: 1,85 kg."
+   ]
+  }
+ ],
+ "viste": [
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/focal-100-iw6-tre-quarti.jpg",
+   "alt": "Focal 100 IW6 di tre quarti senza griglia, con le staffe rosse di fissaggio sui lati",
+   "caption": "Staffe di fissaggio"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/focal-100-iw6-retro.jpg",
+   "alt": "Focal 100 IW6 visto da dietro, con il crossover a vista, i morsetti di collegamento e il magnete del woofer",
+   "caption": "Retro: crossover e morsetti"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/focal-100-iw6-griglia.jpg",
+   "alt": "Focal 100 IW6 con la griglia magnetica rettangolare bianca montata, visto di tre quarti",
+   "caption": "Griglia"
+  }
+ ],
+ "misure": {
+  "forma": "rett",
+  "est": [
+   "195 mm",
+   "298 mm"
+  ],
+  "foro": [
+   "170 mm",
+   "273 mm"
+  ],
+  "prof_tot": "92 mm",
+  "prof": "88 mm"
+ },
+ "cavi": {
+  "intestazione": "Cavo",
+  "righe": [
+   [
+    "Sezione",
+    "adeguata alla lunghezza (il manuale Focal non dà valori)"
+   ],
+   [
+    "Scorta all'apertura",
+    "circa 50 cm"
+   ],
+   [
+    "Polarità",
+    "cavo marcato: rosso su +, nero su −"
+   ]
+  ]
+ },
+ "collega": [
+  {
+   "titolo": "Amplificazione",
+   "link": "amplificatori.html",
+   "icona": "sorgente",
+   "voci": [
+    "8 Ω nominali: un diffusore per canale su qualsiasi amplificatore da installazione."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Dove montarlo",
+   "voci": [
+    "All'altezza delle orecchie o poco sopra, tweeter orientato verso il punto d'ascolto.",
+    "Verifica montanti e impianti nel vano prima di tagliare."
+   ],
+   "posa": {
+    "tipo": "parete",
+    "distanza": "ad altezza orecchie",
+    "nota": "punto d'ascolto"
+   }
+  },
+  {
+   "titolo": "Montaggio",
+   "passi": [
+    [
+     "Prepara il foro",
+     "Traccia con la dima e taglia: 170 × 273 mm."
+    ],
+    [
+     "Collega",
+     "Morsetti a molla: rosso sul +, nero sul −; lascia cavo di scorta all'apertura."
+    ],
+    [
+     "Inserisci e fissa",
+     "Inserisci il diffusore e stringi le viti delle staffe: le staffe si aprono e stringono contro la parete. Le viti sono imperdibili, non cadono se smonti il diffusore."
+    ],
+    [
+     "Regola",
+     "Imposta il livello del tweeter (−3 / 0 / +3 dB) e, dove presente, dei medi; orienta il tweeter verso il punto d'ascolto."
+    ],
+    [
+     "Chiudi",
+     "Griglia magnetica, rotonda o quadrata, verniciabile."
+    ]
+   ]
+  }
+ ],
+ "nota": "Dati dalle schede tecniche Focal, confrontati con la scheda Extrasound. La procedura di montaggio è riassunta dalle schede Focal (staffe con viti imperdibili): fa fede il foglio di istruzioni incluso.",
+ "extrasound": "https://www.extrasound.it/focal-100-iw6-diffusore-da-incasso-a-parete-2-vie",
+ "fonti": [
+  {
+   "label": "scheda tecnica Focal 100 IW6",
+   "url": "https://www.stassen.nl/images/100iw6_specification-sheet.pdf"
+  }
+ ],
+ "slug": "focal-100-iw6",
+ "tab": "Diffusori<br>da incasso"
+}

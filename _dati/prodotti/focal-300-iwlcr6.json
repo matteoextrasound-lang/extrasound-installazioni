@@ -1,0 +1,178 @@
+{
+ "id": 48809,
+ "tipo": "diffusore",
+ "cat": "PL",
+ "brand": "Focal",
+ "model": "300 IWLCR6",
+ "crop": false,
+ "meta": "Focal 300 IWLCR6: 3 vie · 2 × 6,5″ flax, lcr da incasso a parete. Foro, profondità, regolazioni, montaggio e collegamenti per l'installatore.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/focal-300-iwlcr6-frontale.jpg",
+  "alt": "Diffusore LCR da parete Focal 300 IWLCR6 in verticale senza griglia, con due woofer in lino Flax e il modulo midrange e tweeter al centro"
+ },
+ "chiave": [
+  "LCR 3 vie · 92 dB · 8 Ω",
+  "Foro 191 × 568 mm",
+  "Profondità 93 mm"
+ ],
+ "righe": [
+  "3 vie · 2 × 6,5″ Flax",
+  "LCR da incasso a parete",
+  "300 Series"
+ ],
+ "intro": [
+  "Il <strong>300 IWLCR6</strong> è un diffusore LCR da incasso a parete a 3 vie: due woofer Flax da 6,5″, midrange Flax da 4″ e tweeter Al/Mg su una piastra che ruota di 90°, per l'uso in verticale (sinistro/destro) o in orizzontale (centrale).",
+  "Foro di <strong>568 × 191 mm</strong>, profondità <strong>93 mm</strong>, parete da 12 a 32 mm. Impedenza minima 2,9 Ω."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "3 vie LCR, verticale o orizzontale.",
+    "Due woofer da 6,5″ (16,5 cm) in lino Flax.",
+    "Midrange da 4″ (10 cm) Flax e tweeter da 1″ Al/Mg su piastra ruotabile di 90°.",
+    "Regolazioni: tweeter −3 / 0 / +3 dB, medi −2 / 0 / +2 dB.",
+    "Griglia magnetica verniciabile, piedini antivibrazione, protezione posteriore."
+   ]
+  },
+  {
+   "titolo": "Acustica",
+   "voci": [
+    "Risposta: 40 Hz – 28 kHz (±3 dB); −6 dB a 33 Hz.",
+    "Sensibilità: 92 dB (2,83 V / 1 m).",
+    "Impedenza: 8 Ω nominali, 2,9 Ω minimi.",
+    "Amplificazione consigliata: 50 – 150 W."
+   ]
+  },
+  {
+   "titolo": "Dimensioni",
+   "voci": [
+    "Esterne: 220 × 600 × 98 mm (L × A × P).",
+    "Foro: 191 × 568 mm (L × A).",
+    "Profondità di montaggio: 93 mm.",
+    "Spessore parete: 12 – 32 mm.",
+    "Peso con griglia: 5,65 kg."
+   ]
+  }
+ ],
+ "viste": [
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/focal-300-iwlcr6-orizzontale.jpg",
+   "alt": "Focal 300 IWLCR6 montato in orizzontale come canale centrale, con il modulo midrange e tweeter ruotato",
+   "caption": "In orizzontale: piastra ruotata"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/focal-300-iwlcr6-tre-quarti.jpg",
+   "alt": "Focal 300 IWLCR6 in verticale di tre quarti senza griglia, con le alette rosse EQI",
+   "caption": "Alette di fissaggio"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/focal-300-iwlcr6-retro-orizzontale.jpg",
+   "alt": "Retro del Focal 300 IWLCR6 in orizzontale, con i magneti dei due woofer e i morsetti al centro",
+   "caption": "Retro"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/focal-300-iwlcr6-griglia.jpg",
+   "alt": "Focal 300 IWLCR6 in verticale con la griglia magnetica rettangolare bianca montata",
+   "caption": "Griglia"
+  }
+ ],
+ "misure": {
+  "forma": "rett",
+  "est": [
+   "220 mm",
+   "600 mm"
+  ],
+  "foro": [
+   "191 mm",
+   "568 mm"
+  ],
+  "prof_tot": "98 mm",
+  "prof": "93 mm"
+ },
+ "cavi": {
+  "intestazione": "Cavo",
+  "righe": [
+   [
+    "Sezione",
+    "adeguata alla lunghezza (il manuale Focal non dà valori)"
+   ],
+   [
+    "Scorta all'apertura",
+    "circa 50 cm"
+   ],
+   [
+    "Polarità",
+    "cavo marcato: rosso su +, nero su −"
+   ]
+  ]
+ },
+ "collega": [
+  {
+   "titolo": "Amplificazione",
+   "link": "amplificatori.html",
+   "icona": "sorgente",
+   "voci": [
+    "8 Ω nominali: un diffusore per canale su qualsiasi amplificatore da installazione.",
+    "Impedenza minima 2,9 Ω: scegli un amplificatore stabile su carichi bassi."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Dove montarlo",
+   "voci": [
+    "Sinistro e destro: in verticale ai lati dello schermo.",
+    "Centrale: in orizzontale sopra o sotto lo schermo, con la piastra ruotata.",
+    "Impedenza minima 2,9 Ω: verifica che l'amplificatore regga carichi bassi."
+   ]
+  },
+  {
+   "titolo": "Montaggio",
+   "passi": [
+    [
+     "Prepara il foro",
+     "Taglia il foro con la dima. Parete da 12 a 32 mm."
+    ],
+    [
+     "Alza le alette",
+     "Solleva le alette di fissaggio."
+    ],
+    [
+     "Collega",
+     "Cavo prespellato nei morsetti a molla: rosso sul +, nero sul −. La polarità di ogni diffusore deve essere corretta."
+    ],
+    [
+     "Inserisci",
+     "Spingi il diffusore nella parete fino in sede: le alette si chiudono da sole (montaggio senza attrezzi)."
+    ],
+    [
+     "Ruota la piastra (centrale)",
+     "Se lo usi in orizzontale come centrale, svita le 4 viti della piastra medio-tweeter, ruotala di 90° fino alla scritta CENTER e riavvita."
+    ],
+    [
+     "Regola",
+     "Imposta tweeter (−3 / 0 / +3 dB) e medi (−2 / 0 / +2 dB) in base all'ambiente; orienta il tweeter verso il punto d'ascolto."
+    ],
+    [
+     "Chiudi",
+     "Eventuale tela acustica (il suono è migliore senza), poi griglia magnetica. Rodaggio: circa 20 ore prima di giudicare il suono."
+    ]
+   ]
+  }
+ ],
+ "nota": "Dati e procedura dai documenti ufficiali Focal, confrontati con la scheda Extrasound.",
+ "extrasound": "https://www.extrasound.it/focal-300-iwlcr6-diffusore-lcr-da-incasso-a-parete-3-vie",
+ "fonti": [
+  {
+   "label": "manuale Focal 300 IW6/IWLCR6/ICLCR5",
+   "url": "https://iear.be/docs/manual/191321.pdf"
+  },
+  {
+   "label": "scheda tecnica Focal 300 IWLCR6",
+   "url": "https://www.iear.be/docs/spec-sheet/191323.pdf"
+  }
+ ],
+ "slug": "focal-300-iwlcr6",
+ "tab": "Diffusori<br>da incasso"
+}

@@ -1,0 +1,161 @@
+{
+ "id": 2840,
+ "tipo": "diffusore",
+ "cat": "PL",
+ "brand": "Focal",
+ "model": "100 IWLCR5",
+ "crop": false,
+ "meta": "Focal 100 IWLCR5: 2 vie d'appolito · 2 × 5″, lcr da incasso a parete. Foro, profondità, regolazioni, montaggio e collegamenti per l'installatore.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/focal-100-iwlcr5-frontale.jpg",
+  "alt": "Diffusore LCR da incasso Focal 100 IWLCR5 in verticale senza griglia, con due woofer Polyglass e il tweeter al centro"
+ },
+ "chiave": [
+  "LCR 2 vie · 90,5 dB · 8 Ω",
+  "Foro 415 × 147 mm",
+  "Profondità 83 mm"
+ ],
+ "righe": [
+  "2 vie D'Appolito · 2 × 5″",
+  "LCR da incasso a parete",
+  "100 Series"
+ ],
+ "intro": [
+  "Il <strong>100 IWLCR5</strong> è un diffusore LCR da incasso a 2 vie in configurazione D'Appolito: due woofer Polyglass da 13 cm e tweeter in alluminio orientabile, per i canali sinistro, centrale e destro.",
+  "Foro di <strong>415 × 147 mm</strong>, profondità <strong>83 mm</strong>; sei staffe a vite. Impedenza minima 3,8 Ω."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "2 vie D'Appolito, verticale o orizzontale.",
+    "Due woofer da 5″ (13 cm) Polyglass.",
+    "Tweeter da 1″ in alluminio a cupola rovesciata, orientabile.",
+    "Regolazioni: tweeter −3 / 0 / +3 dB, medi −2 / 0 / +2 dB.",
+    "Sei staffe con viti imperdibili.",
+    "Griglia magnetica verniciabile."
+   ]
+  },
+  {
+   "titolo": "Acustica",
+   "voci": [
+    "Risposta: 55 Hz – 23 kHz (±3 dB); −6 dB a 43 Hz.",
+    "Sensibilità: 90,5 dB (2,83 V / 1 m).",
+    "Impedenza: 8 Ω nominali, 3,8 Ω minimi.",
+    "Amplificazione consigliata: 25 – 120 W."
+   ]
+  },
+  {
+   "titolo": "Dimensioni",
+   "voci": [
+    "Esterne: 440 × 173 × 86 mm.",
+    "Foro: 415 × 147 mm.",
+    "Profondità di montaggio: 83 mm.",
+    "Peso con griglia: 2,9 kg."
+   ]
+  }
+ ],
+ "viste": [
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/focal-100-iwlcr5-tre-quarti.jpg",
+   "alt": "Focal 100 IWLCR5 montato in orizzontale e visto di tre quarti senza griglia, con le staffe rosse di fissaggio",
+   "caption": "In orizzontale"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/focal-100-iwlcr5-retro.jpg",
+   "alt": "Focal 100 IWLCR5 visto da dietro, con il crossover, i morsetti di collegamento e i magneti dei due woofer",
+   "caption": "Retro"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/focal-100-iwlcr5-griglia.jpg",
+   "alt": "Focal 100 IWLCR5 in orizzontale con la griglia magnetica rettangolare bianca montata",
+   "caption": "Griglia"
+  }
+ ],
+ "misure": {
+  "forma": "rett",
+  "orizzontale": true,
+  "est": [
+   "440 mm",
+   "173 mm"
+  ],
+  "foro": [
+   "415 mm",
+   "147 mm"
+  ],
+  "prof_tot": "86 mm",
+  "prof": "83 mm"
+ },
+ "cavi": {
+  "intestazione": "Cavo",
+  "righe": [
+   [
+    "Sezione",
+    "adeguata alla lunghezza (il manuale Focal non dà valori)"
+   ],
+   [
+    "Scorta all'apertura",
+    "circa 50 cm"
+   ],
+   [
+    "Polarità",
+    "cavo marcato: rosso su +, nero su −"
+   ]
+  ]
+ },
+ "collega": [
+  {
+   "titolo": "Amplificazione",
+   "link": "amplificatori.html",
+   "icona": "sorgente",
+   "voci": [
+    "8 Ω nominali: un diffusore per canale su qualsiasi amplificatore da installazione.",
+    "Impedenza minima 3,8 Ω: scegli un amplificatore stabile su carichi bassi."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Dove montarlo",
+   "voci": [
+    "Centrale: in orizzontale sopra o sotto lo schermo; sinistro e destro: in verticale ai lati.",
+    "Impedenza minima 3,8 Ω: verifica che l'amplificatore regga carichi bassi."
+   ]
+  },
+  {
+   "titolo": "Montaggio",
+   "passi": [
+    [
+     "Prepara il foro",
+     "Traccia con la dima e taglia: 415 × 147 mm."
+    ],
+    [
+     "Collega",
+     "Morsetti a molla: rosso sul +, nero sul −; lascia cavo di scorta all'apertura."
+    ],
+    [
+     "Inserisci e fissa",
+     "Inserisci il diffusore e stringi le viti delle staffe: le staffe si aprono e stringono contro la parete. Le viti sono imperdibili, non cadono se smonti il diffusore."
+    ],
+    [
+     "Regola",
+     "Imposta il livello del tweeter (−3 / 0 / +3 dB) e, dove presente, dei medi; orienta il tweeter verso il punto d'ascolto."
+    ],
+    [
+     "Chiudi",
+     "Griglia magnetica, rotonda o quadrata, verniciabile."
+    ]
+   ]
+  }
+ ],
+ "nota": "Dati dalle schede tecniche Focal, confrontati con la scheda Extrasound. La procedura di montaggio è riassunta dalle schede Focal (staffe con viti imperdibili): fa fede il foglio di istruzioni incluso.",
+ "extrasound": "https://www.extrasound.it/focal-100-iwlcr5-diffusore-da-incasso-lcr-a-parete-2-vie",
+ "fonti": [
+  {
+   "label": "scheda tecnica Focal 100 IWLCR5",
+   "url": "https://www.stassen.nl/images/100iwlcr5_specification-sheet.pdf"
+  }
+ ],
+ "slug": "focal-100-iwlcr5",
+ "tab": "Diffusori<br>da incasso"
+}

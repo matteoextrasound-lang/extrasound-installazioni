@@ -1,0 +1,164 @@
+{
+ "id": 48744,
+ "tipo": "diffusore",
+ "cat": "S2",
+ "brand": "Focal",
+ "model": "100 IC6ST",
+ "crop": false,
+ "meta": "Focal 100 IC6ST: stereo · 6,5″ dvc · 2 tweeter, diffusore stereo da soffitto. Foro, profondità, regolazioni, montaggio e collegamenti per l'installatore.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/focal-100-ic6st-frontale.jpg",
+  "alt": "Diffusore stereo da soffitto Focal 100 IC6ST visto di fronte senza griglia, con woofer Polyglass e due tweeter affiancati"
+ },
+ "chiave": [
+  "Stereo · 2 × 8 Ω",
+  "Foro Ø 184 mm",
+  "Profondità 91 mm"
+ ],
+ "righe": [
+  "Stereo · 6,5″ DVC · 2 tweeter",
+  "Diffusore stereo da soffitto",
+  "100 Series"
+ ],
+ "intro": [
+  "Il <strong>100 IC6ST</strong> riproduce i due canali stereo da un solo foro: mid-woofer Polyglass da 6,5″ a doppia bobina e due tweeter in alluminio, con canali sinistro e destro separati. Per camere, cucine, corridoi e bagni.",
+  "Foro di <strong>Ø 184 mm</strong>, profondità <strong>91 mm</strong>; quattro staffe a vite."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "Stereo coassiale: canali sinistro e destro separati.",
+    "Mid-woofer da 6,5″ (16,5 cm) Polyglass a doppia bobina mobile.",
+    "Due tweeter da 1″ (25 mm) in alluminio a cupola rovesciata.",
+    "Livello tweeter: −3 / 0 / +3 dB.",
+    "Quattro staffe con viti imperdibili; griglie rotonda e quadrata verniciabili."
+   ]
+  },
+  {
+   "titolo": "Acustica",
+   "voci": [
+    "Risposta: 60 Hz – 23 kHz (±3 dB); −6 dB a 48 Hz.",
+    "Sensibilità: 89 dB (2,83 V / 1 m).",
+    "Impedenza: 2 × 8 Ω nominali, 2 × 6,7 Ω minimi.",
+    "Amplificazione consigliata: 25 – 100 W."
+   ]
+  },
+  {
+   "titolo": "Dimensioni",
+   "voci": [
+    "Diametro esterno: 208 mm.",
+    "Foro: Ø 184 mm.",
+    "Profondità di montaggio: 91 mm (ingombro 95 mm).",
+    "Peso con griglia: 1,75 kg."
+   ]
+  }
+ ],
+ "viste": [
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/focal-100-ic6st-tre-quarti.jpg",
+   "alt": "Focal 100 IC6ST di tre quarti senza griglia, con le staffe rosse di fissaggio",
+   "caption": "Staffe di fissaggio"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/focal-100-ic6st-griglia-rotonda.jpg",
+   "alt": "Focal 100 IC6ST con la griglia magnetica rotonda bianca montata, visto di tre quarti",
+   "caption": "Griglia rotonda"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/focal-100-ic6st-griglia-quadrata.jpg",
+   "alt": "Focal 100 IC6ST con la griglia magnetica quadrata bianca montata, visto di tre quarti",
+   "caption": "Griglia quadrata"
+  }
+ ],
+ "misure": {
+  "forma": "tondo",
+  "est": "208 mm",
+  "foro": "184 mm",
+  "prof": "91 mm"
+ },
+ "cavi": {
+  "intestazione": "Cavo",
+  "righe": [
+   [
+    "Sezione",
+    "adeguata alla lunghezza (il manuale Focal non dà valori)"
+   ],
+   [
+    "Scorta all'apertura",
+    "circa 50 cm"
+   ],
+   [
+    "Polarità",
+    "cavo marcato: rosso su +, nero su −"
+   ]
+  ]
+ },
+ "collega": [
+  {
+   "titolo": "Amplificazione",
+   "link": "amplificatori.html",
+   "icona": "sorgente",
+   "voci": [
+    "8 Ω nominali: un diffusore per canale su qualsiasi amplificatore da installazione."
+   ]
+  },
+  {
+   "titolo": "Collegamento stereo",
+   "icona": "cavo",
+   "voci": [
+    "Canale sinistro e destro ai rispettivi morsetti: un'uscita stereo alimenta un diffusore.",
+    "Secondo la scheda Focal, due diffusori possono stare sulla stessa uscita dell'amplificatore."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Dove montarlo",
+   "voci": [
+    "Un solo diffusore per stanza piccola: riceve sia il canale sinistro sia il destro.",
+    "Porta un cavo a 4 conduttori (o due cavi) dall'uscita stereo dell'amplificatore."
+   ],
+   "posa": {
+    "tipo": "soffitto",
+    "distanza": "al centro della stanza",
+    "nota": "stanza"
+   }
+  },
+  {
+   "titolo": "Montaggio",
+   "passi": [
+    [
+     "Prepara il foro",
+     "Traccia con la dima fornita e taglia il foro: Ø 184 mm."
+    ],
+    [
+     "Collega",
+     "Morsetti a molla: rosso sul +, nero sul −; lascia cavo di scorta all'apertura."
+    ],
+    [
+     "Inserisci e fissa",
+     "Inserisci il diffusore e stringi le viti delle staffe: le staffe si aprono e stringono contro la parete. Le viti sono imperdibili, non cadono se smonti il diffusore."
+    ],
+    [
+     "Regola",
+     "Imposta il livello del tweeter (−3 / 0 / +3 dB) e, dove presente, dei medi; orienta il tweeter verso il punto d'ascolto."
+    ],
+    [
+     "Chiudi",
+     "Griglia magnetica, rotonda o quadrata, verniciabile."
+    ]
+   ]
+  }
+ ],
+ "nota": "Dati dalle schede tecniche Focal, confrontati con la scheda Extrasound. La procedura di montaggio è riassunta dalle schede Focal (staffe con viti imperdibili): fa fede il foglio di istruzioni incluso.",
+ "extrasound": "https://www.extrasound.it/focal-100-ic6st-diffusore-stereo-da-soffitto-16-5-cm",
+ "fonti": [
+  {
+   "label": "scheda tecnica Focal 100 IC6ST",
+   "url": "https://www.fullcompass.com/common/files/89266-100IC6STSpecSheet.pdf"
+  }
+ ],
+ "slug": "focal-100-ic6st",
+ "tab": "Diffusori<br>da soffitto"
+}

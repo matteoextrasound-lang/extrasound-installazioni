@@ -1,0 +1,157 @@
+{
+ "id": 48713,
+ "tipo": "diffusore",
+ "cat": "PS",
+ "brand": "Focal",
+ "model": "100 ICW8",
+ "crop": false,
+ "meta": "Focal 100 ICW8: 2 vie coassiale · 8″, diffusore da incasso parete/soffitto. Foro, profondità, regolazioni, montaggio e collegamenti per l'installatore.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/focal-100-icw8-frontale.jpg",
+  "alt": "Diffusore da incasso Focal 100 ICW8 visto di fronte senza griglia, con woofer Polyglass da 21 cm e tweeter coassiale al centro"
+ },
+ "chiave": [
+  "2 vie · 8″ · 8 Ω o 70/100 V",
+  "Foro Ø 224 mm",
+  "Profondità 107 mm"
+ ],
+ "righe": [
+  "2 vie coassiale · 8″",
+  "Diffusore da incasso parete/soffitto",
+  "100 Series"
+ ],
+ "intro": [
+  "Il <strong>100 ICW8</strong> è un diffusore coassiale a 2 vie da incasso per parete e soffitto, con mid-woofer Polyglass da 8″ (21 cm) e tweeter a cupola rovesciata in alluminio orientabile. Impedenza 8 Ω.",
+  "Foro di <strong>Ø 224 mm</strong>, profondità <strong>107 mm</strong>; quattro staffe a vite. Esiste anche la versione <strong>ICW8-T</strong> per linee 70/100 V (sonorizzazione di locali)."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "2 vie coassiale, crossover ODC per direttività controllata.",
+    "Mid-woofer da 8″ (21 cm) Polyglass.",
+    "Tweeter da 1″ (25 mm) a cupola rovesciata in alluminio, orientabile a 360° e inclinabile di 20°.",
+    "Livello tweeter: −3 / 0 / +3 dB.",
+    "Quattro staffe di fissaggio con viti imperdibili.",
+    "Griglie magnetiche rotonda e quadrata, verniciabili, senza cornice."
+   ]
+  },
+  {
+   "titolo": "Acustica",
+   "voci": [
+    "Risposta: 53 Hz – 23 kHz (±3 dB); −6 dB a 40 Hz.",
+    "Sensibilità: 90 dB (2,83 V / 1 m).",
+    "Impedenza: 8 Ω nominali, 6,9 Ω minimi.",
+    "Amplificazione consigliata: 25 – 150 W."
+   ]
+  },
+  {
+   "titolo": "Dimensioni",
+   "voci": [
+    "Diametro esterno: 248 mm.",
+    "Foro: Ø 224 mm.",
+    "Profondità di montaggio: 107 mm (ingombro 111 mm).",
+    "Peso con griglia: 1,75 kg."
+   ]
+  }
+ ],
+ "viste": [
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/focal-100-icw8-tre-quarti.jpg",
+   "alt": "Focal 100 ICW8 di tre quarti senza griglia, con le staffe di fissaggio rosse sui lati",
+   "caption": "Staffe di fissaggio"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/focal-100-icw8-griglia-rotonda.jpg",
+   "alt": "Focal 100 ICW8 con la griglia magnetica rotonda bianca montata, visto di tre quarti",
+   "caption": "Griglia rotonda"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/focal-100-icw8-griglia-quadrata.jpg",
+   "alt": "Focal 100 ICW8 con la griglia magnetica quadrata bianca montata, visto di tre quarti",
+   "caption": "Griglia quadrata"
+  }
+ ],
+ "misure": {
+  "forma": "tondo",
+  "est": "248 mm",
+  "foro": "224 mm",
+  "prof": "107 mm"
+ },
+ "cavi": {
+  "intestazione": "Cavo",
+  "righe": [
+   [
+    "Sezione",
+    "adeguata alla lunghezza (il manuale Focal non dà valori)"
+   ],
+   [
+    "Scorta all'apertura",
+    "circa 50 cm"
+   ],
+   [
+    "Polarità",
+    "cavo marcato: rosso su +, nero su −"
+   ]
+  ]
+ },
+ "collega": [
+  {
+   "titolo": "Amplificazione",
+   "link": "amplificatori.html",
+   "icona": "sorgente",
+   "voci": [
+    "8 Ω nominali: un diffusore per canale su qualsiasi amplificatore da installazione."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Dove montarlo",
+   "voci": [
+    "Su parete o soffitto, rivolto verso la zona d'ascolto; orienta il tweeter.",
+    "Versione ICW8-T (70/100 V) per negozi, uffici e lunghe tratte di cavo con amplificatori a tensione costante."
+   ],
+   "posa": {
+    "tipo": "soffitto",
+    "distanza": "verso la zona d'ascolto",
+    "nota": "zona d'ascolto"
+   }
+  },
+  {
+   "titolo": "Montaggio",
+   "passi": [
+    [
+     "Prepara il foro",
+     "Traccia con la dima fornita e taglia il foro: Ø 224 mm."
+    ],
+    [
+     "Collega",
+     "Morsetti a molla: rosso sul +, nero sul −; lascia cavo di scorta all'apertura."
+    ],
+    [
+     "Inserisci e fissa",
+     "Inserisci il diffusore e stringi le viti delle staffe: le staffe si aprono e stringono contro la parete. Le viti sono imperdibili, non cadono se smonti il diffusore."
+    ],
+    [
+     "Regola",
+     "Imposta il livello del tweeter (−3 / 0 / +3 dB) e, dove presente, dei medi; orienta il tweeter verso il punto d'ascolto."
+    ],
+    [
+     "Chiudi",
+     "Griglia magnetica, rotonda o quadrata, verniciabile."
+    ]
+   ]
+  }
+ ],
+ "nota": "Dati dalle schede tecniche Focal, confrontati con la scheda Extrasound. La procedura di montaggio è riassunta dalle schede Focal (staffe con viti imperdibili): fa fede il foglio di istruzioni incluso.",
+ "extrasound": "https://www.extrasound.it/focal-100-icw8-diffusore-coassiale-da-incasso-21-cm",
+ "fonti": [
+  {
+   "label": "scheda tecnica Focal 100 ICW8",
+   "url": "https://www.stassen.nl/images/100icw8_specification-sheet_0.pdf"
+  }
+ ],
+ "slug": "focal-100-icw8",
+ "tab": "Diffusori<br>da incasso"
+}

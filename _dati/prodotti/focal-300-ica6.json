@@ -1,0 +1,165 @@
+{
+ "id": 48804,
+ "tipo": "diffusore",
+ "cat": "S",
+ "brand": "Focal",
+ "model": "300 ICA6",
+ "crop": false,
+ "meta": "Focal 300 ICA6: 2 vie · 6,5″ inclinato, diffusore da soffitto per atmos. Foro, profondità, regolazioni, montaggio e collegamenti per l'installatore.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/focal-300-ica6-frontale.jpg",
+  "alt": "Diffusore da soffitto Focal 300 ICA6 visto di fronte senza griglia, con woofer in lino Flax e tweeter al centro"
+ },
+ "chiave": [
+  "2 vie · driver inclinato · 8 Ω",
+  "Foro Ø 264 mm",
+  "Profondità 146 mm"
+ ],
+ "righe": [
+  "2 vie · 6,5″ inclinato",
+  "Diffusore da soffitto per Atmos",
+  "300 Series"
+ ],
+ "intro": [
+  "Il <strong>300 ICA6</strong> è un diffusore da soffitto a 2 vie coassiale con il driver inclinato, pensato per i canali in altezza Dolby Atmos e DTS:X: indirizza il suono verso il punto d'ascolto. Mid-woofer Flax da 6,5″, tweeter Al/Mg, 8 Ω.",
+  "Foro di <strong>Ø 264 mm</strong>, profondità <strong>146 mm</strong>; fissaggio senza attrezzi."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "2 vie coassiale con driver inclinato (35° secondo la scheda Extrasound).",
+    "Mid-woofer da 6,5″ (16,5 cm) in lino Flax.",
+    "Tweeter da 1″ Al/Mg, inclinabile ±20° e orientabile a 360°.",
+    "Livello tweeter sul retro: −3 / 0 / +3 dB.",
+    "Griglie magnetiche rotonda e quadrata, verniciabili, con maschera per verniciare."
+   ]
+  },
+  {
+   "titolo": "Acustica",
+   "voci": [
+    "Risposta: 65 Hz – 28 kHz (±3 dB); −6 dB a 45 Hz.",
+    "Sensibilità: 89,5 dB (2,83 V / 1 m).",
+    "Impedenza: 8 Ω nominali, 4,8 Ω minimi.",
+    "Amplificazione consigliata: 25 – 130 W."
+   ]
+  },
+  {
+   "titolo": "Dimensioni",
+   "voci": [
+    "Diametro esterno: 299 mm.",
+    "Foro: Ø 264 mm.",
+    "Profondità di montaggio: 146 mm.",
+    "Peso con griglia: 3 kg."
+   ]
+  }
+ ],
+ "viste": [
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/focal-300-ica6-driver-inclinato.jpg",
+   "alt": "Focal 300 ICA6 senza griglia con il driver coassiale inclinato verso un lato, per orientare il suono verso il punto d'ascolto",
+   "caption": "Driver inclinato"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/focal-300-ica6-tre-quarti.jpg",
+   "alt": "Focal 300 ICA6 di tre quarti senza griglia, con le alette rosse del sistema EQI",
+   "caption": "Alette EQI"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/focal-300-ica6-retro.jpg",
+   "alt": "Retro del Focal 300 ICA6 con la protezione posteriore nera e il logo Focal",
+   "caption": "Retro"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/focal-300-ica6-griglia-rotonda.jpg",
+   "alt": "Focal 300 ICA6 con la griglia magnetica rotonda bianca montata, visto di tre quarti",
+   "caption": "Griglia rotonda"
+  }
+ ],
+ "misure": {
+  "forma": "tondo",
+  "est": "299 mm",
+  "foro": "264 mm",
+  "prof": "146 mm"
+ },
+ "cavi": {
+  "intestazione": "Cavo",
+  "righe": [
+   [
+    "Sezione",
+    "adeguata alla lunghezza (il manuale Focal non dà valori)"
+   ],
+   [
+    "Scorta all'apertura",
+    "circa 50 cm"
+   ],
+   [
+    "Polarità",
+    "cavo marcato: rosso su +, nero su −"
+   ]
+  ]
+ },
+ "collega": [
+  {
+   "titolo": "Amplificazione",
+   "link": "amplificatori.html",
+   "icona": "sorgente",
+   "voci": [
+    "8 Ω nominali: un diffusore per canale su qualsiasi amplificatore da installazione."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Dove montarlo",
+   "voci": [
+    "Canali Atmos/DTS:X in altezza: davanti o dietro la posizione d'ascolto, secondo lo schema del formato scelto.",
+    "Ruota il diffusore in modo che il driver inclinato punti verso il punto d'ascolto."
+   ],
+   "posa": {
+    "tipo": "soffitto",
+    "distanza": "canale in altezza",
+    "nota": "punto d'ascolto"
+   }
+  },
+  {
+   "titolo": "Montaggio",
+   "passi": [
+    [
+     "Prepara il foro",
+     "Traccia e taglia il foro con la dima. Spessore di parete o controsoffitto: verifica la gamma ammessa dal sistema di fissaggio senza attrezzi (Easy Quick Install)."
+    ],
+    [
+     "Monta il telaio",
+     "Ruota la staffa finché si aggancia al telaio, infila il telaio nel foro e tienilo a filo del soffitto o della parete."
+    ],
+    [
+     "Blocca il telaio",
+     "Con due dita ruota la staffa sul lato opposto, spingila fino in fondo e rilasciala: controlla che sia ben ferma e che non appoggi sul cavo."
+    ],
+    [
+     "Collega",
+     "Morsetti a molla: rosso sul +, nero sul −. Lascia circa 50 cm di cavo di scorta."
+    ],
+    [
+     "Inserisci il diffusore",
+     "Allinea le frecce rosse ai lucchetti aperti, inserisci il diffusore e ruotalo finché i segni sono tra due lucchetti."
+    ],
+    [
+     "Regola e chiudi",
+     "Regola il livello del tweeter (−3 / 0 / +3 dB, dove presente) e orientalo; poi metti la griglia magnetica. Per verniciare parete o soffitto senza smontare, usa la maschera magnetica fornita."
+    ]
+   ]
+  }
+ ],
+ "nota": "Dati e procedura dai documenti ufficiali Focal, confrontati con la scheda Extrasound.",
+ "extrasound": "https://www.extrasound.it/focal-300-ica6-diffusore-da-soffitto-inclinato-flax",
+ "fonti": [
+  {
+   "label": "manuale Focal 300 ICW4/ICW6/ICW8/ICA6",
+   "url": "https://manuals.online/focal/speakers/300-series/user-manual/sto3"
+  }
+ ],
+ "slug": "focal-300-ica6",
+ "tab": "Diffusori<br>da soffitto"
+}
