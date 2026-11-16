@@ -1,0 +1,168 @@
+{
+ "id": 62424,
+ "tipo": "diffusore",
+ "cat": "L",
+ "brand": "JBL",
+ "model": "Studio 2 55IW",
+ "crop": false,
+ "meta": "JBL Studio 2 55IW: lcr · 2 × 5,25″, lcr da incasso a parete. Foro, profondità, fissaggio e collegamenti per l'installatore.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/jbl-studio-2-55iw-tre-quarti-senza-griglia-1000.jpg",
+  "alt": "JBL Studio 2 55IW, vista di tre quarti senza griglia"
+ },
+ "chiave": [
+  "LCR · 2 × 5,25″ · 8 Ω",
+  "Foro 163 mm × 359 mm",
+  "Profondità 76 mm"
+ ],
+ "righe": [
+  "LCR · 2 × 5,25″",
+  "LCR da incasso a parete",
+  "Studio 2"
+ ],
+ "intro": [
+  "Il <strong>JBL Studio 2 55IW</strong> è un lcr da incasso a parete della serie Studio 2: woofer doppio PolyPlas da 2 × 5,25″ (133 mm) e tweeter CMMD Lite orientabile, livello alti regolabile ±3 dB. Impedenza 8 Ω.",
+  "Foro di <strong>163 mm × 359 mm</strong>, profondità <strong>76 mm</strong>; pannelli da 12 a 51 mm, quattro staffe a rotazione."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "2 vie.",
+    "Woofer doppio da 2 × 5,25″ (133 mm) PolyPlas.",
+    "Tweeter da 1″ (25 mm) CMMD Lite orientabile.",
+    "Livello alti regolabile ±3 dB.",
+    "4 staffe di fissaggio a rotazione; linguetta antisismica.",
+    "Griglia magnetica verniciabile.",
+    "Accessori: staffa da pre-installazione e cassa posteriore PCK55 / FBB55."
+   ]
+  },
+  {
+   "titolo": "Acustica",
+   "voci": [
+    "Risposta: 40 Hz – 20 kHz.",
+    "Sensibilità: 88 dB (2,83 V / 1 m).",
+    "Impedenza nominale: 8 Ω.",
+    "Amplificazione consigliata: 120 W."
+   ]
+  },
+  {
+   "titolo": "Dimensioni",
+   "voci": [
+    "Griglia finita: 188 mm × 384 mm (L × A).",
+    "Foro: 163 mm × 359 mm.",
+    "Profondità di montaggio: 76 mm.",
+    "Spessore pannello: 12 – 51 mm."
+   ]
+  }
+ ],
+ "viste": [
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/jbl-studio-2-55iw-frontale-senza-griglia-1000.jpg",
+   "alt": "JBL Studio 2 55IW, vista frontale senza griglia",
+   "caption": "Frontale"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/jbl-studio-2-55iw-retro-1000.jpg",
+   "alt": "JBL Studio 2 55IW, retro con crossover e staffe",
+   "caption": "Retro"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/jbl-studio-2-55iw-tre-quarti-con-griglia-1000.jpg",
+   "alt": "JBL Studio 2 55IW, vista di tre quarti con griglia",
+   "caption": "Griglia montata"
+  }
+ ],
+ "misure": {
+  "forma": "rett",
+  "orizzontale": false,
+  "est": [
+   "188 mm",
+   "384 mm"
+  ],
+  "foro": [
+   "163 mm",
+   "359 mm"
+  ],
+  "prof": "76 mm",
+  "nota": "Griglia finita in nero, foro tratteggiato in rosso. Misure JBL; disegno non in scala."
+ },
+ "cavi": {
+  "intestazione": "Lunghezza del cavo",
+  "righe": [
+   [
+    "Fino a 15 m",
+    "16 AWG (circa 1,3 mm²)"
+   ],
+   [
+    "Da 15 a 30 m",
+    "12 AWG (circa 3,3 mm²)"
+   ],
+   [
+    "Oltre 30 m",
+    "10 AWG (circa 5,3 mm²)"
+   ]
+  ]
+ },
+ "collega": [
+  {
+   "titolo": "Amplificazione",
+   "link": "amplificatori.html",
+   "icona": "sorgente",
+   "voci": [
+    "8 Ω: un diffusore per canale su qualsiasi amplificatore da installazione, ad esempio JBL DA850 o DA1650."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Dove montarlo",
+   "voci": [
+    "Centrale in orizzontale sopra o sotto lo schermo; frontali in verticale ai lati."
+   ]
+  },
+  {
+   "titolo": "Montaggio",
+   "passi": [
+    [
+     "Verifica il vano",
+     "Controlla montanti, travi, tubi e condotte. Pannello da 13 a 51 mm; almeno 25,4 mm tra il bordo della dima e qualsiasi ostacolo."
+    ],
+    [
+     "Traccia e taglia",
+     "Segna il foro con la dima e taglia: 163 mm × 359 mm."
+    ],
+    [
+     "Collega",
+     "+ sul morsetto rosso, − sul nero: premi, infila il filo, rilascia. Nessun trefolo deve toccare il telaio. Spegni l'impianto prima di installare."
+    ],
+    [
+     "Fissa",
+     "Le 4 staffe devono essere in posizione «pronta». Aggancia la linguetta antisismica a un cavo di sostegno, inserisci il diffusore dritto e stringi le viti sul frontale: le staffe ruotano e fanno presa. Fermati quando senti resistenza; usa una coppia bassa, mai stringere troppo."
+    ],
+    [
+     "Orienta e regola",
+     "Orienta il tweeter premendo sull'anello esterno (mai sulla membrana). Livello alti: + per stanze molto assorbenti, 0 nella maggior parte dei casi, − per stanze riflettenti o senza griglia."
+    ],
+    [
+     "Griglia",
+     "Per verniciarla togli la tela, spruzza una mano leggera tenendo liberi i fori, poi incolla una tela nuova (adesivo sulla griglia, mai sulla tela)."
+    ]
+   ]
+  }
+ ],
+ "nota": "Dati e procedura dai documenti ufficiali JBL, confrontati con la scheda Extrasound.",
+ "extrasound": "https://www.extrasound.it/jbl-studio-2-55iw-diffusore-lcr-da-incasso-a-parete-con-doppio-woofer-da-133-cm",
+ "fonti": [
+  {
+   "label": "scheda tecnica JBL Studio 2",
+   "url": "https://de.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw19140134/pdfs/Specification Sheet - JBL Studio 2 Series (English).pdf"
+  },
+  {
+   "label": "manuale JBL Studio 2 Architectural",
+   "url": "https://cdn.shopify.com/s/files/1/0055/9906/8206/files/jbl-studio2-architectural-user-manual.pdf"
+  }
+ ],
+ "slug": "jbl-studio-2-55iw",
+ "tab": "Diffusori<br>LCR"
+}

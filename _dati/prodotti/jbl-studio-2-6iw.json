@@ -1,0 +1,173 @@
+{
+ "id": 62400,
+ "tipo": "diffusore",
+ "cat": "P",
+ "brand": "JBL",
+ "model": "Studio 2 6IW",
+ "crop": false,
+ "meta": "JBL Studio 2 6IW: 2 vie · 6,5″, diffusore da incasso a parete. Foro, profondità, fissaggio e collegamenti per l'installatore.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/jbl-studio-2-6iw-tre-quarti-senza-griglia-1000.jpg",
+  "alt": "JBL Studio 2 6IW, vista di tre quarti senza griglia"
+ },
+ "chiave": [
+  "2 vie · 6,5″ · 8 Ω",
+  "Foro 185 mm × 249 mm",
+  "Profondità 91 mm"
+ ],
+ "righe": [
+  "2 vie · 6,5″",
+  "Diffusore da incasso a parete",
+  "Studio 2"
+ ],
+ "intro": [
+  "Il <strong>JBL Studio 2 6IW</strong> è un diffusore da incasso a parete della serie Studio 2: woofer PolyPlas da 6,5″ (165 mm) e tweeter CMMD Lite orientabile, livello alti regolabile ±3 dB. Impedenza 8 Ω.",
+  "Foro di <strong>185 mm × 249 mm</strong>, profondità <strong>91 mm</strong>; pannelli da 12 a 51 mm, quattro staffe a rotazione."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "2 vie.",
+    "Woofer da 6,5″ (165 mm) PolyPlas.",
+    "Tweeter da 1″ (25 mm) CMMD Lite orientabile.",
+    "Livello alti regolabile ±3 dB.",
+    "4 staffe di fissaggio a rotazione; linguetta antisismica.",
+    "Griglia magnetica verniciabile.",
+    "Accessori: staffa da pre-installazione e cassa posteriore PCK6 / FBB6."
+   ]
+  },
+  {
+   "titolo": "Acustica",
+   "voci": [
+    "Risposta: 38 Hz – 20 kHz.",
+    "Sensibilità: 86 dB (2,83 V / 1 m).",
+    "Impedenza nominale: 8 Ω.",
+    "Amplificazione consigliata: 80 W."
+   ]
+  },
+  {
+   "titolo": "Dimensioni",
+   "voci": [
+    "Griglia finita: 212 mm × 276 mm (L × A).",
+    "Foro: 185 mm × 249 mm.",
+    "Profondità di montaggio: 91 mm.",
+    "Spessore pannello: 12 – 51 mm."
+   ]
+  }
+ ],
+ "viste": [
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/jbl-studio-2-6iw-frontale-senza-griglia-1000.jpg",
+   "alt": "JBL Studio 2 6IW, vista frontale senza griglia",
+   "caption": "Frontale"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/jbl-studio-2-6iw-retro-1000.jpg",
+   "alt": "JBL Studio 2 6IW, retro con crossover e staffe",
+   "caption": "Retro"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/jbl-studio-2-6iw-tre-quarti-con-griglia-1000.jpg",
+   "alt": "JBL Studio 2 6IW, vista di tre quarti con griglia",
+   "caption": "Griglia montata"
+  }
+ ],
+ "misure": {
+  "forma": "rett",
+  "orizzontale": false,
+  "est": [
+   "212 mm",
+   "276 mm"
+  ],
+  "foro": [
+   "185 mm",
+   "249 mm"
+  ],
+  "prof": "91 mm",
+  "nota": "Griglia finita in nero, foro tratteggiato in rosso. Misure JBL; disegno non in scala."
+ },
+ "cavi": {
+  "intestazione": "Lunghezza del cavo",
+  "righe": [
+   [
+    "Fino a 15 m",
+    "16 AWG (circa 1,3 mm²)"
+   ],
+   [
+    "Da 15 a 30 m",
+    "12 AWG (circa 3,3 mm²)"
+   ],
+   [
+    "Oltre 30 m",
+    "10 AWG (circa 5,3 mm²)"
+   ]
+  ]
+ },
+ "collega": [
+  {
+   "titolo": "Amplificazione",
+   "link": "amplificatori.html",
+   "icona": "sorgente",
+   "voci": [
+    "8 Ω: un diffusore per canale su qualsiasi amplificatore da installazione, ad esempio JBL DA850 o DA1650."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Dove montarlo",
+   "voci": [
+    "All'altezza delle orecchie, tweeter orientato verso il punto d'ascolto."
+   ],
+   "posa": {
+    "tipo": "parete",
+    "distanza": "ad altezza orecchie",
+    "nota": "punto d'ascolto"
+   }
+  },
+  {
+   "titolo": "Montaggio",
+   "passi": [
+    [
+     "Verifica il vano",
+     "Controlla montanti, travi, tubi e condotte. Pannello da 13 a 51 mm; almeno 25,4 mm tra il bordo della dima e qualsiasi ostacolo."
+    ],
+    [
+     "Traccia e taglia",
+     "Segna il foro con la dima e taglia: 185 mm × 249 mm."
+    ],
+    [
+     "Collega",
+     "+ sul morsetto rosso, − sul nero: premi, infila il filo, rilascia. Nessun trefolo deve toccare il telaio. Spegni l'impianto prima di installare."
+    ],
+    [
+     "Fissa",
+     "Le 4 staffe devono essere in posizione «pronta». Aggancia la linguetta antisismica a un cavo di sostegno, inserisci il diffusore dritto e stringi le viti sul frontale: le staffe ruotano e fanno presa. Fermati quando senti resistenza; usa una coppia bassa, mai stringere troppo."
+    ],
+    [
+     "Orienta e regola",
+     "Orienta il tweeter premendo sull'anello esterno (mai sulla membrana). Livello alti: + per stanze molto assorbenti, 0 nella maggior parte dei casi, − per stanze riflettenti o senza griglia."
+    ],
+    [
+     "Griglia",
+     "Per verniciarla togli la tela, spruzza una mano leggera tenendo liberi i fori, poi incolla una tela nuova (adesivo sulla griglia, mai sulla tela)."
+    ]
+   ]
+  }
+ ],
+ "nota": "Dati e procedura dai documenti ufficiali JBL, confrontati con la scheda Extrasound.",
+ "extrasound": "https://www.extrasound.it/jbl-studio-2-6iw-diffusore-da-incasso-a-parete-con-tweeter-orientabile-165-cm",
+ "fonti": [
+  {
+   "label": "scheda tecnica JBL Studio 2",
+   "url": "https://de.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw19140134/pdfs/Specification Sheet - JBL Studio 2 Series (English).pdf"
+  },
+  {
+   "label": "manuale JBL Studio 2 Architectural",
+   "url": "https://cdn.shopify.com/s/files/1/0055/9906/8206/files/jbl-studio2-architectural-user-manual.pdf"
+  }
+ ],
+ "slug": "jbl-studio-2-6iw",
+ "tab": "Diffusori<br>da incasso"
+}

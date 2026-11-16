@@ -1,0 +1,158 @@
+{
+ "id": 62517,
+ "tipo": "diffusore",
+ "cat": "P",
+ "brand": "JBL",
+ "model": "Conceal C83",
+ "crop": true,
+ "meta": "JBL Conceal C83: 3 vie · invisibile · 4 ω, diffusore invisibile da incasso. Foro, profondità, fissaggio e collegamenti per l'installatore.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/jbl-conceal-c83-pannello-frontale-1000.jpg",
+  "alt": "JBL Conceal C83, pannello frontale verniciabile di tre quarti"
+ },
+ "chiave": [
+  "3 vie invisibile · 4 Ω",
+  "Foro 406 mm × 562 mm",
+  "Profondità 86 mm"
+ ],
+ "righe": [
+  "3 vie · invisibile · 4 Ω",
+  "Diffusore invisibile da incasso",
+  "Conceal (invisibile)"
+ ],
+ "intro": [
+  "Il <strong>JBL Conceal C83</strong> è un diffusore invisibile 3 vie per parete o soffitto: si rasa e si pittura con la parete e a lavoro finito non si vede. Cassa chiusa con cassa posteriore in legno; woofer da 8″ (203 mm), trasduttore da 1,18″ (30 mm) per i medi e da 1″ (25 mm) per gli alti.",
+  "Foro di <strong>406 mm × 562 mm</strong> (L × A), profondità <strong>86 mm</strong>. Impedenza 4 Ω: serve un amplificatore stabile su 4 Ω."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "3 vie, cassa chiusa con cassa posteriore in legno.",
+    "Woofer da 8″ (203 mm), trasduttore da 1,18″ (30 mm) per i medi e da 1″ (25 mm) per gli alti.",
+    "Incrocio: 500 Hz.",
+    "Protezione: due protezioni autoripristinanti (bassi, medi/alti); se interviene, il suono si interrompe per 5–10 minuti.",
+    "Piastra da pre-installazione: C22PCB.",
+    "Nella confezione: spessori per cartongesso e viti."
+   ]
+  },
+  {
+   "titolo": "Acustica",
+   "voci": [
+    "Risposta: 45 Hz – 20 kHz (−6 dB).",
+    "Sensibilità: 84 dB (1 W / 1 m).",
+    "Impedenza nominale: 4 Ω.",
+    "Amplificazione consigliata: 50 – 160 W RMS."
+   ]
+  },
+  {
+   "titolo": "Dimensioni",
+   "voci": [
+    "Pannello: 403 mm × 559 mm × 98 mm (L × A × P).",
+    "Foro: 406 mm × 562 mm (L × A).",
+    "Profondità di montaggio: 86 mm."
+   ]
+  }
+ ],
+ "viste": [
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/jbl-conceal-c83-retro-1000.jpg",
+   "alt": "JBL Conceal C83, retro con cassa in legno",
+   "caption": "Retro: cassa in legno"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/jbl-conceal-c83-dettaglio-altoparlanti-1000.jpg",
+   "alt": "JBL Conceal C83, dettaglio degli altoparlanti",
+   "caption": "Altoparlanti"
+  }
+ ],
+ "misure": {
+  "forma": "rett",
+  "est": [
+   "403 mm",
+   "559 mm"
+  ],
+  "foro": [
+   "406 mm",
+   "562 mm"
+  ],
+  "prof": "86 mm",
+  "nota": "Pannello in nero, foro tratteggiato in rosso. Misure JBL; disegno non in scala."
+ },
+ "cavi": {
+  "intestazione": "Lunghezza del cavo",
+  "righe": [
+   [
+    "Fino a 30,5 m",
+    "16 AWG (circa 1,3 mm²)"
+   ],
+   [
+    "Da 30,5 a 76 m",
+    "14 AWG (circa 2,1 mm²)"
+   ]
+  ]
+ },
+ "collega": [
+  {
+   "titolo": "Amplificazione",
+   "link": "amplificatori.html",
+   "icona": "sorgente",
+   "voci": [
+    "4 Ω nominali: amplificatore stabile su 4 Ω.",
+    "Potenza: 50 – 160 W RMS."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Dove montarlo",
+   "voci": [
+    "Stereo o home theater: sinistro e destro all'altezza delle orecchie, vicini al televisore.",
+    "Musica di sottofondo: dove il suono si distribuisce meglio nella stanza."
+   ]
+  },
+  {
+   "titolo": "Montaggio",
+   "passi": [
+    [
+     "Struttura",
+     "Monta solo su una struttura fissa (solaio o parete portante) che permetta viti su tutti e quattro i lati; consigliati traversi sopra e sotto l'apertura. Vanno bene montanti in abete 2″ × 4″ ben stagionati."
+    ],
+    [
+     "Apertura",
+     "A cartongesso posato: traccia con il foglio guida, centrato sulla struttura, e taglia 406 mm × 562 mm. In nuova costruzione: monta prima la piastra di pre-installazione (PCB) e toglila dopo aver posato il cartongesso."
+    ],
+    [
+     "Cavi e prova",
+     "Fissa il cavo ai montanti, rispetta la polarità e prova ogni diffusore con musica e toni di prova prima di finire: controlla che non ci siano vibrazioni."
+    ],
+    [
+     "Allineamento",
+     "La flangia a viti deve stare a filo del cartongesso: aggiungi gli spessori adesivi dietro il diffusore, senza vuoti. Il frontale deve sporgere di circa 2 mm."
+    ],
+    [
+     "Fissaggio",
+     "Avvita nella struttura e nel cartongesso circostante, con la punta della vite verso l'esterno del foro. Niente chiodi."
+    ],
+    [
+     "Rasatura",
+     "Rete in nylon o nastro di carta sulle giunte, poi almeno 3 mani leggere di stucco a essiccazione all'aria, carteggiando e aspettando 24 ore tra una mano e l'altra. Parti a 5–8 cm dal bordo e sfuma per 40–50 cm; massimo 2 mm di spessore sul diffusore."
+    ],
+    [
+     "Pittura",
+     "Fondo aggrappante all'acqua, poi la finitura della parete (buccia d'arancia leggera, carta da parati, finitura liscia di livello 5). Niente stucchi a presa chimica, rasature complete o finiture pesanti a cazzuola (salvo stucco veneziano, con il diffusore spessorato in avanti)."
+    ]
+   ]
+  }
+ ],
+ "nota": "Dati e procedura dal manuale JBL Conceal Series, confrontati con la scheda Extrasound.",
+ "extrasound": "https://www.extrasound.it/jbl-conceal-c83-diffusore-invisibile-da-incasso-a-3-vie-con-woofer-da-20-cm",
+ "fonti": [
+  {
+   "label": "manuale JBL Conceal Series",
+   "url": "https://be.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwff8964cc/pdfs/JBL Conceal Series OM - EN.pdf"
+  }
+ ],
+ "slug": "jbl-conceal-c83",
+ "tab": "Diffusori<br>da incasso"
+}

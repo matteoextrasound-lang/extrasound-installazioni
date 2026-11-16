@@ -1,0 +1,163 @@
+{
+ "id": 62527,
+ "tipo": "diffusore",
+ "cat": "PL",
+ "brand": "JBL",
+ "model": "Conceal C86",
+ "crop": true,
+ "meta": "JBL Conceal C86: 3 vie · due pannelli · 4 ω, diffusore invisibile a due pannelli. Foro, profondità, fissaggio e collegamenti per l'installatore.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/jbl-conceal-c86-i-due-pannelli-1000.jpg",
+  "alt": "JBL Conceal C86, i due pannelli di tre quarti"
+ },
+ "chiave": [
+  "3 vie invisibile · 2 pannelli",
+  "Fori 406 × 305 e 406 × 562 mm",
+  "Profondità 86 mm"
+ ],
+ "righe": [
+  "3 vie · due pannelli · 4 Ω",
+  "Diffusore invisibile a due pannelli",
+  "Conceal (invisibile)"
+ ],
+ "intro": [
+  "Il <strong>JBL Conceal C86</strong> è un diffusore invisibile a 3 vie diviso in due pannelli: uno per i bassi con woofer da 8″, uno per medi e alti con quattro trasduttori da 1,18″ e uno da 1″. Per frontali e centrale.",
+  "Due fori: <strong>406 × 305 mm</strong> (medi-alti) e <strong>406 × 562 mm</strong> (bassi), profondità <strong>86 mm</strong>. Impedenza 4 Ω."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "3 vie su due pannelli, cassa chiusa con cassa posteriore in legno.",
+    "Pannello bassi: woofer da 8″ (203 mm).",
+    "Pannello medi-alti: quattro trasduttori da 1,18″ (30 mm) e uno da 1″ (25 mm).",
+    "Incroci: 600 Hz e 10 kHz.",
+    "Tre protezioni autoripristinanti (bassi, medi, alti).",
+    "Piastre di pre-installazione: C12PCB (medi-alti) e C22PCB (bassi)."
+   ]
+  },
+  {
+   "titolo": "Acustica",
+   "voci": [
+    "Risposta: 45 Hz – 20 kHz (−6 dB).",
+    "Sensibilità: 84 dB (1 W / 1 m).",
+    "Impedenza nominale: 4 Ω.",
+    "Amplificazione consigliata: 50 – 200 W RMS."
+   ]
+  },
+  {
+   "titolo": "Dimensioni",
+   "voci": [
+    "Pannello medi-alti: 403 × 302 × 98 mm, foro 406 × 305 mm.",
+    "Pannello bassi: 403 × 559 × 98 mm, foro 406 × 562 mm.",
+    "Profondità di montaggio: 86 mm."
+   ]
+  }
+ ],
+ "viste": [
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/jbl-conceal-c86-pannello-medio-alti-1000.jpg",
+   "alt": "JBL Conceal C86, pannello medio-alti visto di fronte",
+   "caption": "Pannello medi-alti"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/jbl-conceal-c86-dettaglio-medio-alti-1000.jpg",
+   "alt": "JBL Conceal C86, trasduttori per medi e alti",
+   "caption": "Trasduttori medi-alti"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/jbl-conceal-c86-retro-pannello-bassi-1000.jpg",
+   "alt": "JBL Conceal C86, retro del pannello dei bassi",
+   "caption": "Retro pannello bassi"
+  }
+ ],
+ "misure": {
+  "forma": "rett",
+  "est": [
+   "403 mm",
+   "559 mm"
+  ],
+  "foro": [
+   "406 mm",
+   "562 mm"
+  ],
+  "prof": "86 mm",
+  "nota": "Pannello dei bassi; il pannello medi-alti ha foro 406 × 305 mm. Misure JBL; disegno non in scala."
+ },
+ "cavi": {
+  "intestazione": "Lunghezza del cavo",
+  "righe": [
+   [
+    "Fino a 30,5 m",
+    "16 AWG (circa 1,3 mm²)"
+   ],
+   [
+    "Da 30,5 a 76 m",
+    "14 AWG (circa 2,1 mm²)"
+   ]
+  ]
+ },
+ "collega": [
+  {
+   "titolo": "Amplificazione",
+   "link": "amplificatori.html",
+   "icona": "sorgente",
+   "voci": [
+    "4 Ω nominali: amplificatore stabile su 4 Ω.",
+    "Potenza: 50 – 200 W RMS."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Dove montarlo",
+   "voci": [
+    "Frontali e centrale: pannello medi-alti all'altezza delle orecchie, vicino al televisore; pannello bassi nella stessa parete.",
+    "Collega i due pannelli come indicato sulle etichette dei morsetti."
+   ]
+  },
+  {
+   "titolo": "Montaggio",
+   "passi": [
+    [
+     "Struttura",
+     "Monta solo su una struttura fissa (solaio o parete portante) che permetta viti su tutti e quattro i lati; consigliati traversi sopra e sotto l'apertura. Vanno bene montanti in abete 2″ × 4″ ben stagionati."
+    ],
+    [
+     "Apertura",
+     "A cartongesso posato: traccia con il foglio guida, centrato sulla struttura, e taglia i due fori (406 × 305 e 406 × 562 mm). In nuova costruzione: monta prima la piastra di pre-installazione (PCB) e toglila dopo aver posato il cartongesso."
+    ],
+    [
+     "Cavi e prova",
+     "Fissa il cavo ai montanti, rispetta la polarità e prova ogni diffusore con musica e toni di prova prima di finire: controlla che non ci siano vibrazioni."
+    ],
+    [
+     "Allineamento",
+     "La flangia a viti deve stare a filo del cartongesso: aggiungi gli spessori adesivi dietro il diffusore, senza vuoti. Il frontale deve sporgere di circa 2 mm."
+    ],
+    [
+     "Fissaggio",
+     "Avvita nella struttura e nel cartongesso circostante, con la punta della vite verso l'esterno del foro. Niente chiodi."
+    ],
+    [
+     "Rasatura",
+     "Rete in nylon o nastro di carta sulle giunte, poi almeno 3 mani leggere di stucco a essiccazione all'aria, carteggiando e aspettando 24 ore tra una mano e l'altra. Parti a 5–8 cm dal bordo e sfuma per 40–50 cm; massimo 2 mm di spessore sul diffusore."
+    ],
+    [
+     "Pittura",
+     "Fondo aggrappante all'acqua, poi la finitura della parete (buccia d'arancia leggera, carta da parati, finitura liscia di livello 5). Niente stucchi a presa chimica, rasature complete o finiture pesanti a cazzuola (salvo stucco veneziano, con il diffusore spessorato in avanti)."
+    ]
+   ]
+  }
+ ],
+ "nota": "Dati e procedura dal manuale JBL Conceal Series, confrontati con la scheda Extrasound.",
+ "extrasound": "https://www.extrasound.it/jbl-conceal-c86-diffusore-invisibile-a-3-vie-a-due-pannelli-con-woofer-da-20-cm",
+ "fonti": [
+  {
+   "label": "manuale JBL Conceal Series",
+   "url": "https://be.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwff8964cc/pdfs/JBL Conceal Series OM - EN.pdf"
+  }
+ ],
+ "slug": "jbl-conceal-c86",
+ "tab": "Diffusori<br>da incasso"
+}

@@ -1,0 +1,176 @@
+{
+ "id": 62294,
+ "tipo": "diffusore",
+ "cat": "S",
+ "brand": "JBL",
+ "model": "Stage 260CSA",
+ "crop": false,
+ "meta": "JBL Stage 260CSA: 2 vie · 6,5″ · frontale inclinato, diffusore da soffitto inclinato. Foro, profondità, fissaggio e collegamenti per l'installatore.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/jbl-stage-260csa-tre-quarti-senza-griglia-1000.jpg",
+  "alt": "JBL Stage 260CSA, vista di tre quarti senza griglia"
+ },
+ "chiave": [
+  "2 vie · 6,5″ · frontale inclinato · 8 Ω",
+  "Foro 219 × 219 mm",
+  "Profondità 127 mm"
+ ],
+ "righe": [
+  "2 vie · 6,5″ · frontale inclinato",
+  "Diffusore da soffitto inclinato",
+  "Stage Architectural"
+ ],
+ "intro": [
+  "Il <strong>JBL Stage 260CSA</strong> è un diffusore da incasso a soffitto a 2 vie della serie Stage Architectural: woofer in polycellulosa da 6,5″ (165 mm) e tweeter da 1″ (25 mm) in alluminio con lente acustica. Impedenza 8 Ω, griglia metallica senza cornice.",
+  "Foro di <strong>219 × 219 mm</strong>, profondità <strong>127 mm</strong>; fissaggio con gambe XL-2 su pannelli da 13 a 51 mm."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "2 vie, da incasso a soffitto.",
+    "Woofer da 6,5″ (165 mm) in polycellulosa.",
+    "Tweeter da 1″ (25 mm) in alluminio con lente acustica.",
+    "Frontale inclinato: altoparlanti orientati verso il punto d'ascolto.",
+    "Staffa da pre-installazione inclinata dedicata: CB6SA.",
+    "Sistema di fissaggio XL-2 con cavo di sicurezza.",
+    "Griglia metallica magnetica senza cornice; disponibile kit griglia quadrata verniciabile (SGK)."
+   ]
+  },
+  {
+   "titolo": "Acustica",
+   "voci": [
+    "Risposta: 50 Hz – 25 kHz (−6 dB).",
+    "Sensibilità: 87 dB (2,83 V / 1 m).",
+    "Impedenza nominale: 8 Ω.",
+    "Amplificazione consigliata: 20 – 100 W RMS.",
+    "Frequenza di incrocio: 2.800 Hz."
+   ]
+  },
+  {
+   "titolo": "Dimensioni",
+   "voci": [
+    "Foro: 219 × 219 mm.",
+    "Profondità di montaggio: 127 mm.",
+    "Spessore pannello: 13 – 51 mm.",
+    "Peso: 2,2 kg."
+   ]
+  }
+ ],
+ "viste": [
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/jbl-stage-260csa-frontale-senza-griglia-1000.jpg",
+   "alt": "JBL Stage 260CSA, vista frontale senza griglia",
+   "caption": "Frontale inclinato"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/jbl-stage-260csa-vista-laterale-1000.jpg",
+   "alt": "JBL Stage 260CSA, vista laterale",
+   "caption": "Lato: inclinazione"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/jbl-stage-260csa-retro-1000.jpg",
+   "alt": "JBL Stage 260CSA, retro con staffe di fissaggio",
+   "caption": "Retro"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/jbl-stage-260csa-tre-quarti-con-griglia-1000.jpg",
+   "alt": "JBL Stage 260CSA, vista di tre quarti con griglia",
+   "caption": "Griglia quadrata"
+  }
+ ],
+ "misure": {
+  "forma": "rett",
+  "foro": [
+   "219 mm",
+   "219 mm"
+  ],
+  "prof": "127 mm",
+  "nota": "Foro quadrato tratteggiato in rosso. Misure JBL; disegno non in scala."
+ },
+ "cavi": {
+  "intestazione": "Lunghezza del cavo",
+  "righe": [
+   [
+    "Fino a 15 m",
+    "16 AWG (circa 1,3 mm²)"
+   ],
+   [
+    "Da 15 a 30 m",
+    "12 AWG (circa 3,3 mm²)"
+   ],
+   [
+    "Oltre 30 m",
+    "10 AWG (circa 5,3 mm²)"
+   ]
+  ]
+ },
+ "collega": [
+  {
+   "titolo": "Amplificazione",
+   "link": "amplificatori.html",
+   "icona": "sorgente",
+   "voci": [
+    "8 Ω: un diffusore per canale su qualsiasi amplificatore da installazione, ad esempio JBL DA850 o DA1650."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Dove montarlo",
+   "voci": [
+    "Surround e canali in altezza Dolby Atmos: orienta il frontale inclinato verso il punto d'ascolto.",
+    "Lontano da pareti e angoli quando possibile: i confini aumentano le riflessioni.",
+    "Verifica montanti, travi e impianti; almeno 19 mm tra dima e montanti."
+   ],
+   "posa": {
+    "tipo": "soffitto",
+    "distanza": "lontano dalle pareti",
+    "nota": "zona d'ascolto"
+   }
+  },
+  {
+   "titolo": "Montaggio",
+   "passi": [
+    [
+     "Traccia il foro",
+     "Appoggia la dima e traccia il contorno: 219 × 219 mm. Tienila alla stessa distanza dai montanti, così le gambe XL-2 si aprono del tutto; lascia almeno 19 mm tra dima e montanti."
+    ],
+    [
+     "Taglia",
+     "Taglia all'interno del tracciato con un seghetto per cartongesso. Spessore del pannello: da 13 a 51 mm, in grado di reggere il peso del diffusore."
+    ],
+    [
+     "Sicurezza e cavi",
+     "Aggancia il cavo di sicurezza a un montante tramite l'occhiello. Fai passare i cavi; collega l'amplificatore solo a impianto finito."
+    ],
+    [
+     "Collega",
+     "Spella 6,5 mm. Prima il nero (−), poi il rosso (+): premi il morsetto, infila, rilascia."
+    ],
+    [
+     "Fissa",
+     "Gambe XL-2 rientrate nel telaio; inserisci il diffusore, tienilo premuto contro la superficie e stringi le viti delle gambe. Non stringere troppo: si spanano le gambe."
+    ],
+    [
+     "Chiudi",
+     "Appoggia la griglia magnetica finché i magneti scattano. Distanza dall'isolante: 26 mm se non infiammabile, 78 mm se infiammabile."
+    ]
+   ]
+  }
+ ],
+ "nota": "Dati dalla scheda tecnica JBL Stage Architectural rev. 2.0 e dalla guida di installazione. La profondità di montaggio JBL differisce da quella indicata nella scheda Extrasound: fa fede la scheda JBL.",
+ "extrasound": "https://www.extrasound.it/jbl-stage-260csa-diffusore-da-soffitto-con-frontale-inclinato-per-home-theater-165-cm",
+ "fonti": [
+  {
+   "label": "scheda tecnica JBL Stage Architectural (rev. 2.0)",
+   "url": "https://kh.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw45c5fc7c/pdfs/Spec Sheet - JBL Stage Architectural - rev2.0 - 20220829.pdf"
+  },
+  {
+   "label": "guida di installazione JBL Stage 2 Architectural",
+   "url": "https://kr.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw6dc95c94/pdfs/Install Guide - JBL Stage 2 Architectural - rev1.2 - 20221128-EN.pdf"
+  }
+ ],
+ "slug": "jbl-stage-260csa",
+ "tab": "Diffusori<br>da soffitto"
+}

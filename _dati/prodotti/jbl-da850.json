@@ -1,0 +1,169 @@
+{
+ "id": 62583,
+ "tipo": "amplificatore",
+ "cat": "M",
+ "brand": "JBL",
+ "model": "DA850",
+ "crop": true,
+ "meta": "JBL DA850: amplificatore multizona 8 canali, 4 zone stereo, rack 1U. Potenze, bridge, ingresso globale, trigger, collegamenti e schemi d'impianto.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/jbl-da850-tre-quarti-1000.jpg",
+  "alt": "JBL DA850, vista di tre quarti"
+ },
+ "chiave": [
+  "8 canali · 4 zone stereo",
+  "50 W / 8 Ω · 110 W / 4 Ω",
+  "Rack 1U · bridge 185 W"
+ ],
+ "righe": [
+  "8 canali · 4 zone",
+  "Amplificatore multizona",
+  "Rack 1U"
+ ],
+ "intro": [
+  "Il <strong>JBL DA850</strong> è un amplificatore multizona a 8 canali in una sola unità rack, per impianti multiroom con diffusori da incasso: fino a 4 zone stereo.",
+  "Ogni coppia di canali è una zona con il suo livello; un ingresso globale porta la stessa sorgente a più zone, e ogni zona si può mettere in bridge mono. Accensione con segnale o trigger 12 V."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "8 canali, 4 zone stereo (una per coppia di canali).",
+    "Livello per zona con trimmer sul retro; LED di clip per zona.",
+    "Accensione: ON, trigger 12 V o AUTO (con segnale sopra 1,75 mV; zona in standby dopo 30 minuti senza segnale).",
+    "Ventola con flusso laterale: lascia almeno 5 cm ai lati nel rack.",
+    "Rack 1U con orecchie incluse: 436 × 43,7 × 323 mm, 4,5 kg.",
+    "Alimentazione universale 100–240 V; standby sotto 0,5 W."
+   ]
+  },
+  {
+   "titolo": "Ingressi",
+   "voci": [
+    "8 ingressi RCA di linea, impedenza 20 kΩ, massimo 4,6 Vrms.",
+    "Ingresso zona 1 / GLOBAL IN: con l'interruttore LINK TO GLOBAL INPUT di una zona, quella zona riceve la sorgente globale.",
+    "GLOBAL OUT stereo per collegare in cascata altri amplificatori DA.",
+    "Trigger IN su jack 3,5 mm (4,5–12 V)."
+   ]
+  },
+  {
+   "titolo": "Uscite",
+   "voci": [
+    "Potenza: 50 W su 8 Ω, 110 W su 4 Ω (due canali).",
+    "Bridge mono: 185 W su 8 Ω per zona.",
+    "Morsetti Phoenix a 4 poli, protetti, cavo fino a 12 AWG; impedenza minima 2,7 Ω.",
+    "Trigger OUT su jack 3,5 mm: passa lo stato ad altri amplificatori DA."
+   ]
+  }
+ ],
+ "retro": {
+  "src": "https://www.extrasound.it/wp-content/uploads/jbl-da850-pannello-posteriore-1000.jpg",
+  "alt": "JBL DA850, pannello posteriore con ingressi e morsetti",
+  "titolo": "Pannello posteriore",
+  "caption": "8 ingressi RCA, ingresso e uscita globale, interruttori per zona, trimmer di livello, morsetti Phoenix e trigger."
+ },
+ "lato_titolo": "Cosa si collega",
+ "collega": [
+  {
+   "titolo": "Diffusori da incasso",
+   "link": "diffusori.html",
+   "icona": "soffitto",
+   "voci": [
+    "Una coppia di diffusori per zona, 4–8 Ω; mai collegare insieme L− e R−.",
+    "In bridge: + del diffusore sul + sinistro, − sul − destro (morsetti «+ BRIDGED −»)."
+   ]
+  },
+  {
+   "titolo": "Sorgenti",
+   "icona": "sorgente",
+   "voci": [
+    "Una sorgente per zona sugli ingressi RCA, oppure una sorgente comune sull'ingresso globale."
+   ]
+  },
+  {
+   "titolo": "Più amplificatori",
+   "icona": "rete",
+   "voci": [
+    "GLOBAL OUT e trigger OUT verso un secondo DA per ampliare l'impianto con la stessa sorgente e la stessa accensione."
+   ]
+  }
+ ],
+ "cavi": {
+  "intestazione": "Lunghezza (carichi a bassa impedenza)",
+  "righe": [
+   [
+    "Fino a 7,6 m",
+    "16 AWG"
+   ],
+   [
+    "Da 7,9 a 12 m",
+    "14 AWG"
+   ],
+   [
+    "Oltre 12,5 m",
+    "12 AWG"
+   ]
+  ]
+ },
+ "sistemi": [
+  {
+   "titolo": "4 zone stereo",
+   "voci": [
+    "Ogni zona con la sua sorgente e il suo livello.",
+    "Una sorgente comune può essere inviata a più zone con l'ingresso globale."
+   ],
+   "zone": [
+    {
+     "label": "Zona 1 · Soggiorno · 2 × 50 W"
+    },
+    {
+     "label": "Zona 2 · Cucina · 2 × 50 W"
+    },
+    {
+     "label": "Zona 3 · Camera · 2 × 50 W"
+    },
+    {
+     "label": "Zona 4 · Bagno · 2 × 50 W"
+    }
+   ]
+  },
+  {
+   "titolo": "Messa in servizio",
+   "passi": [
+    [
+     "Monta",
+     "Spegni e scollega. Rack: fissa le orecchie (1 Nm) e installa; oppure usa i piedini."
+    ],
+    [
+     "Ingressi",
+     "Collega le sorgenti agli ingressi delle zone, oppure all'ingresso globale e attiva LINK TO GLOBAL INPUT nelle zone che devono riceverlo."
+    ],
+    [
+     "Uscite",
+     "Scegli la sezione del cavo in base alla distanza, spella 6 mm, inserisci nei Phoenix e stringi. Controlla polarità e impedenza totale per uscita."
+    ],
+    [
+     "Bridge (opzionale)",
+     "BRIDGE/MONO in alto per la zona e cablaggio sui morsetti «+ BRIDGED −»."
+    ],
+    [
+     "Accensione",
+     "Alimenta, accendi dal retro e scegli la modalità: ON, 12 V o AUTO."
+    ],
+    [
+     "Livelli",
+     "Con la sorgente a volume normale regola i trimmer delle zone finché i LED di clip restano spenti."
+    ]
+   ]
+  }
+ ],
+ "nota": "Dati e procedura dal manuale JBL DA850/DA1650, confrontati con la scheda Extrasound. Il manuale non cita filtri passa-alto o passa-basso.",
+ "extrasound": "https://www.extrasound.it/jbl-da850-amplificatore-multicanale-a-8-canali-per-impianti-multiroom",
+ "fonti": [
+  {
+   "label": "manuale JBL DA850 / DA1650",
+   "url": "https://kh.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw862b484c/pdfs/OM-JBLDA850DA1650-EN.pdf"
+  }
+ ],
+ "slug": "jbl-da850",
+ "tab": "Amplificatori<br>multicanale"
+}

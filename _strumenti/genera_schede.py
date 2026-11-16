@@ -32,20 +32,20 @@ def disegno(m):
         q.append('<circle cx="126" cy="169" r="118" class="frame"/>')
         q.append('<circle cx="126" cy="169" r="104" class="cut"/>')
         q.append('<circle cx="126" cy="169" r="62" class="drv"/><circle cx="126" cy="169" r="20" class="drv-in"/>')
-        q.append(f'<path d="M8 330H244M8 324v12M244 324v12" class="q"/><text x="126" y="350" class="qt">Ø {esc(m["est"])}</text>')
+        if m.get("est"): q.append(f'<path d="M8 330H244M8 324v12M244 324v12" class="q"/><text x="126" y="350" class="qt">Ø {esc(m["est"])}</text>')
         q.append(f'<path d="M22 22H230M22 16v12M230 16v12" class="q q-red"/><text x="126" y="14" class="qt qt-red">foro Ø {esc(m["foro"])}</text>')
         top, bot = 51, 287
     else:
-        l, a = m["est"], m["foro"]
+        l, a = m.get("est") or ["", ""], m["foro"]
         orizz = m.get("orizzontale", False)
         if orizz:  # LCR orizzontali
             q.append('<rect x="10" y="110" width="232" height="118" rx="4" class="frame"/>')
             q.append('<rect x="20" y="120" width="212" height="98" class="cut"/>')
             for cx in (60, 126, 192):
                 q.append(f'<circle cx="{cx}" cy="169" r="{30 if cx != 126 else 16}" class="drv"/>')
-            q.append(f'<path d="M10 260H242M10 254v12M242 254v12" class="q"/><text x="126" y="280" class="qt">{esc(l[0])}</text>')
+            if l[0]: q.append(f'<path d="M10 260H242M10 254v12M242 254v12" class="q"/><text x="126" y="280" class="qt">{esc(l[0])}</text>')
             q.append(f'<path d="M20 92H232M20 86v12M232 86v12" class="q q-red"/><text x="126" y="82" class="qt qt-red">foro {esc(a[0])}</text>')
-            q.append(f'<path d="M0 110V228" class="q"/><text x="-2" y="169" class="qt" transform="rotate(-90 -2 169)">{esc(l[1])}</text>')
+            if l[0]: q.append(f'<path d="M0 110V228" class="q"/><text x="-2" y="169" class="qt" transform="rotate(-90 -2 169)">{esc(l[1])}</text>')
             q.append(f'<path d="M252 120V218M246 120h12M246 218h12" class="q q-red"/><text x="268" y="169" class="qt qt-red" transform="rotate(-90 268 169)">foro {esc(a[1])}</text>')
             top, bot = 120, 218
         else:
@@ -53,9 +53,9 @@ def disegno(m):
             q.append('<rect x="51" y="51" width="150" height="236" class="cut"/>')
             q.append('<circle cx="126" cy="105" r="26" class="drv"/><circle cx="126" cy="105" r="10" class="drv-in"/>')
             q.append('<circle cx="126" cy="210" r="52" class="drv"/><circle cx="126" cy="210" r="18" class="drv-in"/>')
-            q.append(f'<path d="M40 330H212M40 324v12M212 324v12" class="q"/><text x="126" y="350" class="qt">{esc(l[0])}</text>')
+            if l[0]: q.append(f'<path d="M40 330H212M40 324v12M212 324v12" class="q"/><text x="126" y="350" class="qt">{esc(l[0])}</text>')
             q.append(f'<path d="M51 22H201M51 16v12M201 16v12" class="q q-red"/><text x="126" y="14" class="qt qt-red">foro {esc(a[0])}</text>')
-            q.append(f'<path d="M20 40V298M14 40h12M14 298h12" class="q"/><text x="12" y="172" class="qt" transform="rotate(-90 12 172)">{esc(l[1])}</text>')
+            if l[0]: q.append(f'<path d="M20 40V298M14 40h12M14 298h12" class="q"/><text x="12" y="172" class="qt" transform="rotate(-90 12 172)">{esc(l[1])}</text>')
             q.append(f'<path d="M226 51V287M220 51h12M220 287h12" class="q q-red"/><text x="244" y="172" class="qt qt-red" transform="rotate(-90 244 172)">foro {esc(a[1])}</text>')
             top, bot = 62, 276
     # vista laterale
