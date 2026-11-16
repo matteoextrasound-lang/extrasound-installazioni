@@ -1,0 +1,156 @@
+{
+ "id": 28062,
+ "tipo": "diffusore",
+ "cat": "2",
+ "brand": "KEF",
+ "model": "Ci160CSds",
+ "crop": false,
+ "meta": "KEF Ci160CSds: 2 vie · woofer 160 mm a doppia bobina, diffusore stereo da incasso a parete o soffitto. Foro, profondità, volume posteriore e collegamenti per l'installatore.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/ci160csds.jpg",
+  "alt": "KEF Ci160CSds diffusore stereo da incasso quadrato 6,5 pollici"
+ },
+ "chiave": [
+  "2 vie · woofer 160 mm a doppia bobina · 8 Ω",
+  "Foro 194 mm × 194 mm",
+  "Profondità 84,5 mm"
+ ],
+ "righe": [
+  "2 vie · woofer 160 mm a doppia bobina",
+  "Diffusore stereo da incasso a parete o soffitto",
+  "Ci-C Series"
+ ],
+ "intro": [
+  "Il <strong>KEF Ci160CSds</strong> è un diffusore stereo da incasso a parete o soffitto della Ci-C Series: woofer 160 mm a doppia bobina, 2 tweeter 19 mm. Impedenza 8 Ω, IP64.",
+  "Foro <strong>194 mm × 194 mm</strong>, profondità di montaggio <strong>84,5 mm</strong>."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "Diffusore stereo da incasso a parete o soffitto, Ci-C Series.",
+    "Woofer 160 mm a doppia bobina.",
+    "2 tweeter 19 mm.",
+    "Stereo in un solo diffusore: woofer a doppia bobina mobile e due tweeter, uno per canale.",
+    "IP64."
+   ]
+  },
+  {
+   "titolo": "Acustica",
+   "voci": [
+    "Risposta (±6 dB): 50 Hz – 20 kHz.",
+    "Sensibilità (2,83 V / 1 m): 91 dB.",
+    "Impedenza nominale: 8 Ω.",
+    "Amplificazione consigliata: 10 – 80 W.",
+    "SPL massimo: 106 dB.",
+    "Incrocio: 3,2 kHz."
+   ]
+  },
+  {
+   "titolo": "Dimensioni",
+   "voci": [
+    "Foro: 194 mm × 194 mm.",
+    "Ingombro esterno: 223 mm × 223 mm × 90,5 mm.",
+    "Profondità di montaggio: 84,5 mm.",
+    "Volume posteriore: ideale 35 L, minimo 20 L.",
+    "Peso: 1,8 kg."
+   ]
+  }
+ ],
+ "viste": [
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/ci160csds-lato.jpg",
+   "alt": "KEF Ci160CSds woofer doppia bobina da 160 mm",
+   "caption": "Vista"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/ci160csds-griglia.jpg",
+   "alt": "KEF Ci160CSds con griglia magnetica quadrata",
+   "caption": "Con griglia"
+  }
+ ],
+ "misure": {
+  "forma": "rett",
+  "foro": [
+   "194 mm",
+   "194 mm"
+  ],
+  "est": [
+   "223 mm",
+   "223 mm"
+  ],
+  "prof": "84,5 mm",
+  "prof_tot": "90,5 mm",
+  "nota": "Foro tratteggiato in rosso. Misure KEF; disegno non in scala."
+ },
+ "collega": [
+  {
+   "titolo": "Amplificazione",
+   "link": "amplificatori.html",
+   "icona": "sorgente",
+   "voci": [
+    "Due ingressi: canale sinistro e destro dello stesso amplificatore, 8 Ω per canale.",
+    "Per stanze piccole o corridoi dove c'è posto per un solo diffusore.",
+    "Amplificazione consigliata da KEF: 10 – 80 W."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Dove montarlo",
+   "voci": [
+    "Parete o soffitto; il tweeter coassiale non richiede orientamento.",
+    "Verifica montanti, tubi e impianti prima di tagliare.",
+    "Volume dietro il diffusore: ideale 35 L, minimo 20 L."
+   ]
+  },
+  {
+   "titolo": "Schema",
+   "voci": [
+    "Un solo diffusore riceve i due canali dello stesso amplificatore."
+   ],
+   "zone": [
+    {
+     "label": "Ci160CSds · L + R",
+     "tipo": "2"
+    }
+   ],
+   "apparecchio": "Amplificatore"
+  },
+  {
+   "titolo": "Montaggio",
+   "passi": [
+    [
+     "Verifica il vano",
+     "Profondità libera di almeno 84,5 mm e, se possibile, 35 L di volume dietro il diffusore."
+    ],
+    [
+     "Traccia e taglia",
+     "Usa la dima fornita e taglia il foro: 194 mm × 194 mm (quadrato)."
+    ],
+    [
+     "Collega",
+     "Positivo sul morsetto rosso (+), negativo sul nero (−). Stessa polarità su tutti i diffusori."
+    ],
+    [
+     "Inserisci e fissa",
+     "Inserisci il diffusore e stringi le viti dei fermi: le alette ruotano e serrano il pannello. Non stringere troppo."
+    ],
+    [
+     "Chiudi",
+     "Monta la griglia magnetica. Per verniciare cornice o griglia proteggi i driver con la maschera fornita."
+    ]
+   ]
+  }
+ ],
+ "nota": "Dati dalla KEF Ci Group Specification Sheet, confrontati con la scheda Extrasound.",
+ "extrasound": "https://www.extrasound.it/diffusore-incasso-2-vie-woofer-160mm-kef-ci160csds",
+ "fonti": [
+  {
+   "label": "KEF Ci Group Specification Sheet",
+   "url": "https://assets.kef.com/pdf_doc/ci/Ci_Group_Specification_Sheet.pdf"
+  }
+ ],
+ "slug": "kef-ci160csds",
+ "tab": "Diffusori<br>stereo"
+}

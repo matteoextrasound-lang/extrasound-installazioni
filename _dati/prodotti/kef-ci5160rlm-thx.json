@@ -1,0 +1,151 @@
+{
+ "id": 35522,
+ "tipo": "diffusore",
+ "cat": "L",
+ "brand": "KEF",
+ "model": "Ci5160RLM-THX",
+ "crop": false,
+ "meta": "KEF Ci5160RLM-THX: 3 vie · 4 woofer 160 mm, diffusore LCR da incasso a parete. Foro, profondità, volume posteriore e collegamenti per l'installatore.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/KEF-Ci5160RLM-THX.jpg",
+  "alt": "KEF Ci5160RLM-THX diffusore da incasso 3 vie THX Ultra MAT"
+ },
+ "chiave": [
+  "3 vie · 4 woofer 160 mm · 4 Ω",
+  "Foro 1052 mm × 209 mm",
+  "Profondità 99 mm"
+ ],
+ "righe": [
+  "3 vie · 4 woofer 160 mm",
+  "Diffusore LCR da incasso a parete",
+  "Ci-R Series · THX"
+ ],
+ "intro": [
+  "Il <strong>KEF Ci5160RLM-THX</strong> è un diffusore LCR da incasso a parete della Ci-R Series · THX: 4 woofer 160 mm, medio Uni-Q 160 mm, tweeter 25 mm in alluminio ventilato. Impedenza 4 Ω, THX Certified Ultra.",
+  "Foro <strong>1052 mm × 209 mm</strong>, profondità di montaggio <strong>99 mm</strong>."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "Diffusore LCR da incasso a parete, Ci-R Series · THX.",
+    "4 woofer 160 mm.",
+    "Medio Uni-Q 160 mm.",
+    "Tweeter 25 mm in alluminio ventilato.",
+    "Driver coassiale Uni-Q: tweeter al centro del medio o del woofer, stessa dispersione su tutta l'area d'ascolto.",
+    "THX Certified Ultra."
+   ]
+  },
+  {
+   "titolo": "Acustica",
+   "voci": [
+    "Risposta (±6 dB): 40 Hz – 28 kHz.",
+    "Sensibilità (2,83 V / 1 m): 89 dB.",
+    "Impedenza nominale: 4 Ω.",
+    "Amplificazione consigliata: 50 – 350 W.",
+    "SPL massimo: 110 dB.",
+    "Incrocio: 680 Hz e 2,6 kHz."
+   ]
+  },
+  {
+   "titolo": "Dimensioni",
+   "voci": [
+    "Foro: 1052 mm × 209 mm.",
+    "Ingombro esterno: 1070 mm × 230 mm × 105,7 mm.",
+    "Profondità di montaggio: 99 mm.",
+    "Volume posteriore: ideale 90 L, minimo 40 L.",
+    "Peso: 18,7 kg."
+   ]
+  }
+ ],
+ "viste": [
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/KEF-Ci5160RLM-THX-frontale.jpg",
+   "alt": "KEF Ci5160RLM-THX vista frontale con quattro woofer da 160 mm",
+   "caption": "Frontale"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/KEF-Ci5160RLM-THX-laterale.jpg",
+   "alt": "KEF Ci5160RLM-THX vista laterale diffusore in-wall",
+   "caption": "Lato"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/KEF-Ci5160RLM-THX-griglia.jpg",
+   "alt": "KEF Ci5160RLM-THX con griglia magnetica verniciabile",
+   "caption": "Con griglia"
+  }
+ ],
+ "misure": {
+  "forma": "rett",
+  "orizzontale": true,
+  "foro": [
+   "1052 mm",
+   "209 mm"
+  ],
+  "est": [
+   "1070 mm",
+   "230 mm"
+  ],
+  "prof": "99 mm",
+  "prof_tot": "105,7 mm",
+  "nota": "Foro tratteggiato in rosso. Misure KEF; disegno non in scala."
+ },
+ "collega": [
+  {
+   "titolo": "Amplificazione",
+   "link": "amplificatori.html",
+   "icona": "sorgente",
+   "voci": [
+    "4 Ω nominali: un diffusore per canale su qualsiasi amplificatore da installazione.",
+    "Carico da 4 Ω: scegli un amplificatore dichiarato stabile a 4 Ω; non metterlo in bridge né in parallelo con altri diffusori.",
+    "Amplificazione consigliata da KEF: 50 – 350 W."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Dove montarlo",
+   "voci": [
+    "Sinistro e destro ai lati dello schermo, centrale sopra o sotto.",
+    "Montaggio orizzontale (come nei disegni KEF): verifica che il foro stia tra i montanti.",
+    "Volume dietro il diffusore: ideale 90 L, minimo 40 L.",
+    "Per le nuove costruzioni KEF prevede il telaio di predisposizione RIF5160L."
+   ]
+  },
+  {
+   "titolo": "Montaggio",
+   "passi": [
+    [
+     "Verifica il vano",
+     "Profondità libera di almeno 99 mm e, se possibile, 90 L di volume dietro il diffusore."
+    ],
+    [
+     "Traccia e taglia",
+     "Usa la dima fornita e taglia il foro: 1052 mm × 209 mm."
+    ],
+    [
+     "Collega",
+     "Positivo sul morsetto rosso (+), negativo sul nero (−). Stessa polarità su tutti i diffusori."
+    ],
+    [
+     "Inserisci e fissa",
+     "Inserisci il diffusore e stringi le viti dei fermi: le alette ruotano e serrano il pannello. Non stringere troppo."
+    ],
+    [
+     "Chiudi",
+     "Monta la griglia magnetica. Per verniciare cornice o griglia proteggi i driver con la maschera fornita."
+    ]
+   ]
+  }
+ ],
+ "nota": "Dati dalla scheda tecnica KEF Ci (QLM / RLM), confrontati con la scheda Extrasound.",
+ "extrasound": "https://www.extrasound.it/diffusore-incasso-3-vie-certificato-thx-kef-ci5160rlm",
+ "fonti": [
+  {
+   "label": "scheda tecnica KEF Ci (QLM / RLM)",
+   "url": "https://www.stassen.nl/images/kef_ci_specsheet.pdf"
+  }
+ ],
+ "slug": "kef-ci5160rlm-thx",
+ "tab": "Diffusori<br>LCR"
+}

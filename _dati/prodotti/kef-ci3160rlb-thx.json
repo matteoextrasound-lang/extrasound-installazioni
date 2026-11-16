@@ -1,0 +1,139 @@
+{
+ "id": 2918,
+ "tipo": "diffusore",
+ "cat": "W",
+ "brand": "KEF",
+ "model": "Ci3160RLb-THX",
+ "crop": false,
+ "meta": "KEF Ci3160RLb-THX: subwoofer · 3 woofer 160 mm, subwoofer da incasso. Foro, profondità, volume posteriore e collegamenti per l'installatore.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/KEF-Ci3160RLb-THX-frontale.jpg",
+  "alt": "KEF Ci3160RLb-THX subwoofer da incasso con tre woofer da 160 mm"
+ },
+ "chiave": [
+  "Subwoofer · 3 woofer 160 mm",
+  "Foro 660 mm × 209 mm",
+  "Profondità 88,5 mm"
+ ],
+ "righe": [
+  "subwoofer · 3 woofer 160 mm",
+  "Subwoofer da incasso",
+  "Ci-R Series · THX"
+ ],
+ "intro": [
+  "Il <strong>KEF Ci3160RLb-THX</strong> è un subwoofer da incasso della Ci-R Series · THX: 3 woofer 160 mm. Impedenza 4 Ω, THX Certified Ultra e Select.",
+  "Foro <strong>660 mm × 209 mm</strong>, profondità di montaggio <strong>88,5 mm</strong>."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "Subwoofer da incasso, Ci-R Series · THX.",
+    "3 woofer 160 mm.",
+    "THX Certified Ultra e Select."
+   ]
+  },
+  {
+   "titolo": "Acustica",
+   "voci": [
+    "Risposta (±6 dB): 20 – 140 Hz.",
+    "Sensibilità (2,83 V / 1 m): 92 dB.",
+    "Impedenza nominale: 4 Ω.",
+    "Amplificazione consigliata: solo KEF KASA500.",
+    "SPL massimo: 112 dB."
+   ]
+  },
+  {
+   "titolo": "Dimensioni",
+   "voci": [
+    "Foro: 660 mm × 209 mm.",
+    "Ingombro esterno: 680 mm × 230 mm × 96 mm.",
+    "Profondità di montaggio: 88,5 mm.",
+    "Volume posteriore: ideale 80 L, minimo 40 L.",
+    "Peso: 10,9 kg."
+   ]
+  }
+ ],
+ "viste": [
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/KEF-Ci3160RLb-THX-laterale.jpg",
+   "alt": "KEF Ci3160RLb-THX vista laterale subwoofer in-wall sottile",
+   "caption": "Lato"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/KEF-Ci3160RLb-THX-particolare.jpg",
+   "alt": "Particolare di un woofer del KEF Ci3160RLb-THX montato sul pannello in alluminio",
+   "caption": "Dettaglio"
+  }
+ ],
+ "misure": {
+  "forma": "rett",
+  "orizzontale": true,
+  "foro": [
+   "660 mm",
+   "209 mm"
+  ],
+  "est": [
+   "680 mm",
+   "230 mm"
+  ],
+  "prof": "88,5 mm",
+  "prof_tot": "96 mm",
+  "nota": "Foro tratteggiato in rosso. Misure KEF; disegno non in scala."
+ },
+ "collega": [
+  {
+   "titolo": "KEF KASA500",
+   "icona": "subwoofer",
+   "voci": [
+    "Subwoofer passivo da alimentare solo con l'amplificatore KEF KASA500, che gestisce taglio ed equalizzazione dedicata.",
+    "Ingresso del KASA500 dall'uscita subwoofer / LFE del processore."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Dove montarlo",
+   "voci": [
+    "Anche nascosto in parete o a soffitto: il subwoofer non è direzionale.",
+    "Rispetta il volume posteriore indicato: è quello che fissa l'estensione in basso.",
+    "Volume dietro il diffusore: ideale 80 L, minimo 40 L."
+   ]
+  },
+  {
+   "titolo": "Montaggio",
+   "passi": [
+    [
+     "Verifica il vano",
+     "Profondità libera di almeno 88,5 mm e, se possibile, 80 L di volume dietro il diffusore."
+    ],
+    [
+     "Traccia e taglia",
+     "Usa la dima fornita e taglia il foro: 660 mm × 209 mm."
+    ],
+    [
+     "Collega",
+     "Positivo sul morsetto rosso (+), negativo sul nero (−). Stessa polarità su tutti i diffusori."
+    ],
+    [
+     "Inserisci e fissa",
+     "Inserisci il diffusore e stringi le viti dei fermi: le alette ruotano e serrano il pannello. Non stringere troppo."
+    ],
+    [
+     "Chiudi",
+     "Monta la griglia magnetica. Per verniciare cornice o griglia proteggi i driver con la maschera fornita."
+    ]
+   ]
+  }
+ ],
+ "nota": "Dati dalla KEF Ci Group Specification Sheet, confrontati con la scheda Extrasound. La scheda Extrasound indica un foro di 661 × 210 mm; KEF dichiara 660 × 209 mm. Fa fede il dato KEF.",
+ "extrasound": "https://www.extrasound.it/subwoofer-da-incasso-3-woofer-ci3160rlb-thx-kef",
+ "fonti": [
+  {
+   "label": "KEF Ci Group Specification Sheet",
+   "url": "https://assets.kef.com/pdf_doc/ci/Ci_Group_Specification_Sheet.pdf"
+  }
+ ],
+ "slug": "kef-ci3160rlb-thx",
+ "tab": "Subwoofer<br>da incasso"
+}

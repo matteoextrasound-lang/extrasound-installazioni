@@ -1,0 +1,132 @@
+{
+ "id": 28055,
+ "tipo": "diffusore",
+ "cat": "W",
+ "brand": "KEF",
+ "model": "Ci200TRb",
+ "crop": false,
+ "meta": "KEF Ci200TRb: subwoofer · woofer 200 mm a doppia bobina, subwoofer da incasso. Foro, profondità, volume posteriore e collegamenti per l'installatore.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/ci200trb.jpg",
+  "alt": "KEF Ci200TRB vista frontale con woofer da 200 mm"
+ },
+ "chiave": [
+  "Subwoofer · woofer 200 mm a doppia bobina",
+  "Foro Ø 240 mm",
+  "Profondità 59 mm"
+ ],
+ "righe": [
+  "subwoofer · woofer 200 mm a doppia bobina",
+  "Subwoofer da incasso",
+  "Ci-T Series"
+ ],
+ "intro": [
+  "Il <strong>KEF Ci200TRb</strong> è un subwoofer da incasso della Ci-T Series: woofer 200 mm a doppia bobina. Impedenza 2 × 8 Ω (stereo) · 16 Ω (mono), IP64.",
+  "Foro <strong>Ø 240 mm</strong>, profondità di montaggio <strong>59 mm</strong>."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "Subwoofer da incasso, Ci-T Series.",
+    "Woofer 200 mm a doppia bobina.",
+    "IP64."
+   ]
+  },
+  {
+   "titolo": "Acustica",
+   "voci": [
+    "Risposta (±6 dB): 42 – 120 Hz passivo; 32 – 120 Hz con KASA500.",
+    "Sensibilità (2,83 V / 1 m): 87 dB.",
+    "Impedenza nominale: 2 × 8 Ω (stereo) · 16 Ω (mono).",
+    "Amplificazione consigliata: 10 – 125 W.",
+    "SPL massimo: 109 dB."
+   ]
+  },
+  {
+   "titolo": "Dimensioni",
+   "voci": [
+    "Foro: Ø 240 mm.",
+    "Ingombro esterno: Ø 290 mm × 63 mm.",
+    "Profondità di montaggio: 59 mm.",
+    "Volume posteriore: ideale 60 L, minimo 35 L.",
+    "Peso: 1,7 kg."
+   ]
+  }
+ ],
+ "viste": [
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/ci200trb-lato-2.jpg",
+   "alt": "KEF Ci200TRB retro con doppia bobina da 8 Ohm",
+   "caption": "Retro"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/ci200trb-lato.jpg",
+   "alt": "KEF Ci200TRB vista laterale con profondità ultra-sottile",
+   "caption": "Lato"
+  }
+ ],
+ "misure": {
+  "forma": "tondo",
+  "foro": "240 mm",
+  "est": "290 mm",
+  "prof": "59 mm",
+  "prof_tot": "63 mm",
+  "nota": "Foro tratteggiato in rosso. Misure KEF; disegno non in scala."
+ },
+ "collega": [
+  {
+   "titolo": "Due modi d'uso",
+   "icona": "subwoofer",
+   "voci": [
+    "Doppia bobina: in stereo 2 × 8 Ω (una bobina per canale) oppure in mono 16 Ω.",
+    "Passivo: 42 – 120 Hz con amplificazione da 10 – 125 W. Con KEF KASA500: 32 – 120 Hz."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Dove montarlo",
+   "voci": [
+    "Anche nascosto in parete o a soffitto: il subwoofer non è direzionale.",
+    "Rispetta il volume posteriore indicato: è quello che fissa l'estensione in basso.",
+    "Volume dietro il diffusore: ideale 60 L, minimo 35 L."
+   ]
+  },
+  {
+   "titolo": "Montaggio",
+   "passi": [
+    [
+     "Verifica il vano",
+     "Profondità libera di almeno 59 mm e, se possibile, 60 L di volume dietro il diffusore."
+    ],
+    [
+     "Traccia e taglia",
+     "Usa la dima fornita e taglia il foro: Ø 240 mm."
+    ],
+    [
+     "Collega",
+     "Positivo sul morsetto rosso (+), negativo sul nero (−). Stessa polarità su tutti i diffusori."
+    ],
+    [
+     "Inserisci e fissa",
+     "Inserisci il diffusore e stringi le viti dei fermi: le alette ruotano e serrano il pannello. Non stringere troppo."
+    ],
+    [
+     "Chiudi",
+     "Monta la griglia magnetica. Per verniciare cornice o griglia proteggi i driver con la maschera fornita."
+    ]
+   ]
+  }
+ ],
+ "nota": "Dati dalla KEF Ci Group Specification Sheet, confrontati con la scheda Extrasound.",
+ "extrasound": "https://www.extrasound.it/subwoofer-incasso-woofer-200mm-doppia-bobina-8-ohm-kef-ci200trb",
+ "fonti": [
+  {
+   "label": "KEF Ci Group Specification Sheet",
+   "url": "https://assets.kef.com/pdf_doc/ci/Ci_Group_Specification_Sheet.pdf"
+  }
+ ],
+ "slug": "kef-ci200trb",
+ "tab": "Subwoofer<br>da incasso"
+}

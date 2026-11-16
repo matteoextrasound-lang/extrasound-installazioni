@@ -35,7 +35,7 @@
           </div>
           <header class="model reveal">
             <p class="model-brand">{{ p.brand|upper }}</p>
-            <h2 class="model-name">{{ p.model }}</h2>
+            <h2 class="model-name{% if p.model|length > 10 %} is-long{% endif %}">{{ p.model }}</h2>
             <p class="model-lines">{% for r in p.righe %}<span>{{ r }}</span>{% endfor %}</p>
             {% for t in p.intro %}<p class="model-intro">{{ t|safe }}</p>
             {% endfor %}

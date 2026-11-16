@@ -1,0 +1,141 @@
+{
+ "id": 28046,
+ "tipo": "diffusore",
+ "cat": "P",
+ "brand": "KEF",
+ "model": "Ci160TS",
+ "crop": false,
+ "meta": "KEF Ci160TS: 2 vie · medio-basso 115 mm a doppio strato, diffusore da incasso a parete. Foro, profondità, volume posteriore e collegamenti per l'installatore.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/ci160ts.jpg",
+  "alt": "KEF Ci160TS diffusore in-wall ultra-sottile 2 vie da 36 mm"
+ },
+ "chiave": [
+  "2 vie · medio-basso 115 mm a doppio strato · 8 Ω",
+  "Foro 194 mm × 194 mm",
+  "Profondità meno di 36 mm"
+ ],
+ "righe": [
+  "2 vie · medio-basso 115 mm a doppio strato",
+  "Diffusore da incasso a parete",
+  "Ci-T Series"
+ ],
+ "intro": [
+  "Il <strong>KEF Ci160TS</strong> è un diffusore da incasso a parete della Ci-T Series: medio-basso 115 mm a doppio strato, tweeter 25 mm. Impedenza 8 Ω, IP64.",
+  "Foro <strong>194 mm × 194 mm</strong>, profondità di montaggio <strong>meno di 36 mm</strong>."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "Diffusore da incasso a parete, Ci-T Series.",
+    "Medio-basso 115 mm a doppio strato.",
+    "Tweeter 25 mm.",
+    "IP64."
+   ]
+  },
+  {
+   "titolo": "Acustica",
+   "voci": [
+    "Risposta (±6 dB): 110 Hz – 24 kHz.",
+    "Sensibilità (2,83 V / 1 m): 87 dB.",
+    "Impedenza nominale: 8 Ω.",
+    "Amplificazione consigliata: 10 – 100 W.",
+    "SPL massimo: 101 dB.",
+    "Incrocio: 1,7 kHz."
+   ]
+  },
+  {
+   "titolo": "Dimensioni",
+   "voci": [
+    "Foro: 194 mm × 194 mm.",
+    "Ingombro esterno: 222,8 mm × 222,8 mm × 41 mm.",
+    "Profondità di montaggio: meno di 36 mm.",
+    "Volume posteriore: ideale 3 L, minimo 1 L.",
+    "Peso: 1,05 kg."
+   ]
+  }
+ ],
+ "viste": [
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/ci160ts-retro.jpg",
+   "alt": "KEF Ci160TS dettaglio driver T Series da 115 mm",
+   "caption": "Dettaglio"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/ci160ts-lato.jpg",
+   "alt": "KEF Ci160TS vista laterale profondità inferiore a 36 mm",
+   "caption": "Lato"
+  }
+ ],
+ "misure": {
+  "forma": "rett",
+  "foro": [
+   "194 mm",
+   "194 mm"
+  ],
+  "est": [
+   "222,8 mm",
+   "222,8 mm"
+  ],
+  "prof": "meno di 36 mm",
+  "prof_tot": "41 mm",
+  "nota": "Foro tratteggiato in rosso. Misure KEF; disegno non in scala."
+ },
+ "collega": [
+  {
+   "titolo": "Amplificazione",
+   "link": "amplificatori.html",
+   "icona": "sorgente",
+   "voci": [
+    "8 Ω nominali: un diffusore per canale su qualsiasi amplificatore da installazione.",
+    "Amplificazione consigliata da KEF: 10 – 100 W."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Dove montarlo",
+   "voci": [
+    "Parete o soffitto; il tweeter coassiale non richiede orientamento.",
+    "Verifica montanti, tubi e impianti prima di tagliare.",
+    "Volume dietro il diffusore: ideale 3 L, minimo 1 L."
+   ]
+  },
+  {
+   "titolo": "Montaggio",
+   "passi": [
+    [
+     "Verifica il vano",
+     "Profondità libera di almeno meno di 36 mm e, se possibile, 3 L di volume dietro il diffusore."
+    ],
+    [
+     "Traccia e taglia",
+     "Usa la dima fornita e taglia il foro: 194 mm × 194 mm (quadrato)."
+    ],
+    [
+     "Collega",
+     "Positivo sul morsetto rosso (+), negativo sul nero (−). Stessa polarità su tutti i diffusori."
+    ],
+    [
+     "Inserisci e fissa",
+     "Inserisci il diffusore e stringi le viti dei fermi: le alette ruotano e serrano il pannello. Non stringere troppo."
+    ],
+    [
+     "Chiudi",
+     "Monta la griglia magnetica. Per verniciare cornice o griglia proteggi i driver con la maschera fornita."
+    ]
+   ]
+  }
+ ],
+ "nota": "Dati dalla KEF Ci Group Specification Sheet, confrontati con la scheda Extrasound. La scheda Extrasound indica una risposta di «110 Hz – 24 Hz»: il limite alto corretto è 24 kHz. Fa fede il dato KEF.",
+ "extrasound": "https://www.extrasound.it/kef-ci160ts-diffusore-in-wall-ultra-sottile",
+ "fonti": [
+  {
+   "label": "KEF Ci Group Specification Sheet",
+   "url": "https://assets.kef.com/pdf_doc/ci/Ci_Group_Specification_Sheet.pdf"
+  }
+ ],
+ "slug": "kef-ci160ts",
+ "tab": "Diffusori<br>da incasso"
+}

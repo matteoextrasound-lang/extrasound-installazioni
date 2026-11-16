@@ -1,0 +1,143 @@
+{
+ "id": 28016,
+ "tipo": "diffusore",
+ "cat": "P",
+ "brand": "KEF",
+ "model": "Ci200RS-THX",
+ "crop": false,
+ "meta": "KEF Ci200RS-THX: 2 vie · Uni-Q 200 mm, diffusore da incasso a parete. Foro, profondità, volume posteriore e collegamenti per l'installatore.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/ci200-1.jpg",
+  "alt": "KEF Ci200RS-THX diffusore in-wall 2 vie Uni-Q 8 pollici THX Ultra"
+ },
+ "chiave": [
+  "2 vie · Uni-Q 200 mm · 4 Ω",
+  "Foro 240 mm × 240 mm",
+  "Profondità 127 mm"
+ ],
+ "righe": [
+  "2 vie · Uni-Q 200 mm",
+  "Diffusore da incasso a parete",
+  "Ci-R Series · THX"
+ ],
+ "intro": [
+  "Il <strong>KEF Ci200RS-THX</strong> è un diffusore da incasso a parete della Ci-R Series · THX: Uni-Q 200 mm, tweeter 38 mm. Impedenza 4 Ω, THX Certified Ultra · IP64.",
+  "Foro <strong>240 mm × 240 mm</strong>, profondità di montaggio <strong>127 mm</strong>."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "Diffusore da incasso a parete, Ci-R Series · THX.",
+    "Uni-Q 200 mm.",
+    "Tweeter 38 mm.",
+    "Driver coassiale Uni-Q: tweeter al centro del medio o del woofer, stessa dispersione su tutta l'area d'ascolto.",
+    "THX Certified Ultra · IP64."
+   ]
+  },
+  {
+   "titolo": "Acustica",
+   "voci": [
+    "Risposta (±6 dB): 33 Hz – 28 kHz.",
+    "Sensibilità (2,83 V / 1 m): 90 dB.",
+    "Impedenza nominale: 4 Ω.",
+    "Amplificazione consigliata: 10 – 190 W.",
+    "SPL massimo: 106 dB.",
+    "Incrocio: 2,2 kHz."
+   ]
+  },
+  {
+   "titolo": "Dimensioni",
+   "voci": [
+    "Foro: 240 mm × 240 mm.",
+    "Ingombro esterno: 273 mm × 273 mm × 132,6 mm.",
+    "Profondità di montaggio: 127 mm.",
+    "Volume posteriore: ideale 20 L, minimo 10 L.",
+    "Peso: 3,6 kg."
+   ]
+  }
+ ],
+ "viste": [
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/ci200-griglia-1.jpg",
+   "alt": "KEF Ci200RS-THX con griglia magnetica verniciabile",
+   "caption": "Con griglia"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/kef-ci200rs-thx-griglia-1000.jpg",
+   "alt": "KEF Ci200RS-THX con la griglia montata solo a metà: si vedono l’altoparlante e la griglia",
+   "caption": "Griglia a metà"
+  }
+ ],
+ "misure": {
+  "forma": "rett",
+  "foro": [
+   "240 mm",
+   "240 mm"
+  ],
+  "est": [
+   "273 mm",
+   "273 mm"
+  ],
+  "prof": "127 mm",
+  "prof_tot": "132,6 mm",
+  "nota": "Foro tratteggiato in rosso. Misure KEF; disegno non in scala."
+ },
+ "collega": [
+  {
+   "titolo": "Amplificazione",
+   "link": "amplificatori.html",
+   "icona": "sorgente",
+   "voci": [
+    "4 Ω nominali: un diffusore per canale su qualsiasi amplificatore da installazione.",
+    "Carico da 4 Ω: scegli un amplificatore dichiarato stabile a 4 Ω; non metterlo in bridge né in parallelo con altri diffusori.",
+    "Amplificazione consigliata da KEF: 10 – 190 W."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Dove montarlo",
+   "voci": [
+    "Parete o soffitto; il tweeter coassiale non richiede orientamento.",
+    "Verifica montanti, tubi e impianti prima di tagliare.",
+    "Volume dietro il diffusore: ideale 20 L, minimo 10 L."
+   ]
+  },
+  {
+   "titolo": "Montaggio",
+   "passi": [
+    [
+     "Verifica il vano",
+     "Profondità libera di almeno 127 mm e, se possibile, 20 L di volume dietro il diffusore."
+    ],
+    [
+     "Traccia e taglia",
+     "Usa la dima fornita e taglia il foro: 240 mm × 240 mm (quadrato)."
+    ],
+    [
+     "Collega",
+     "Positivo sul morsetto rosso (+), negativo sul nero (−). Stessa polarità su tutti i diffusori."
+    ],
+    [
+     "Inserisci e fissa",
+     "Inserisci il diffusore e stringi le viti dei fermi: le alette ruotano e serrano il pannello. Non stringere troppo."
+    ],
+    [
+     "Chiudi",
+     "Monta la griglia magnetica. Per verniciare cornice o griglia proteggi i driver con la maschera fornita."
+    ]
+   ]
+  }
+ ],
+ "nota": "Dati dalla KEF Ci Group Specification Sheet, confrontati con la scheda Extrasound.",
+ "extrasound": "https://www.extrasound.it/diffusore-incasso-2-vie-woofer-200mm-uni-q-kef-ci200rs",
+ "fonti": [
+  {
+   "label": "KEF Ci Group Specification Sheet",
+   "url": "https://assets.kef.com/pdf_doc/ci/Ci_Group_Specification_Sheet.pdf"
+  }
+ ],
+ "slug": "kef-ci200rs-thx",
+ "tab": "Diffusori<br>da incasso"
+}

@@ -1,0 +1,147 @@
+{
+ "id": 2967,
+ "tipo": "diffusore",
+ "cat": "S",
+ "brand": "KEF",
+ "model": "Ci130.2CS",
+ "crop": false,
+ "meta": "KEF Ci130.2CS: 2 vie · Uni-Q 130 mm, diffusore da incasso a parete o soffitto. Foro, profondità, volume posteriore e collegamenti per l'installatore.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/virtuemart/product/KEF-Ci130-2CS-incasso-quadrato-fronte.jpg",
+  "alt": "KEF Ci130.2CS diffusore da incasso quadrato 2 vie Uni-Q 5,25 pollici"
+ },
+ "chiave": [
+  "2 vie · Uni-Q 130 mm · 8 Ω",
+  "Foro 158 mm × 158 mm",
+  "Profondità 77,1 mm"
+ ],
+ "righe": [
+  "2 vie · Uni-Q 130 mm",
+  "Diffusore da incasso a parete o soffitto",
+  "Ci-C Series"
+ ],
+ "intro": [
+  "Il <strong>KEF Ci130.2CS</strong> è un diffusore da incasso a parete o soffitto della Ci-C Series: Uni-Q 130 mm, tweeter 16 mm. Impedenza 8 Ω, IP64.",
+  "Foro <strong>158 mm × 158 mm</strong>, profondità di montaggio <strong>77,1 mm</strong>."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "Diffusore da incasso a parete o soffitto, Ci-C Series.",
+    "Uni-Q 130 mm.",
+    "Tweeter 16 mm.",
+    "Driver coassiale Uni-Q: tweeter al centro del medio o del woofer, stessa dispersione su tutta l'area d'ascolto.",
+    "IP64."
+   ]
+  },
+  {
+   "titolo": "Acustica",
+   "voci": [
+    "Risposta (±6 dB): 52 Hz – 20 kHz.",
+    "Sensibilità (2,83 V / 1 m): 87 dB.",
+    "Impedenza nominale: 8 Ω.",
+    "Amplificazione consigliata: 10 – 80 W.",
+    "SPL massimo: 102 dB.",
+    "Incrocio: 2,8 kHz."
+   ]
+  },
+  {
+   "titolo": "Dimensioni",
+   "voci": [
+    "Foro: 158 mm × 158 mm.",
+    "Ingombro esterno: 184 mm × 184 mm × 83 mm.",
+    "Profondità di montaggio: 77,1 mm.",
+    "Volume posteriore: ideale 20 L, minimo 12 L.",
+    "Peso: 1,35 kg."
+   ]
+  }
+ ],
+ "viste": [
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/virtuemart/product/KEF-Ci130-2CS-altoparlante-incasso-quadrato.jpg",
+   "alt": "KEF Ci130.2CS vista frontale con Uni-Q da 130 mm",
+   "caption": "Frontale"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/virtuemart/product/KEF-Ci130-2CS-incasso-quadrato-griglia.jpg",
+   "alt": "KEF Ci130.2CS con griglia magnetica Ultra-Thin Bezel",
+   "caption": "Con griglia"
+  }
+ ],
+ "misure": {
+  "forma": "rett",
+  "foro": [
+   "158 mm",
+   "158 mm"
+  ],
+  "est": [
+   "184 mm",
+   "184 mm"
+  ],
+  "prof": "77,1 mm",
+  "prof_tot": "83 mm",
+  "nota": "Foro tratteggiato in rosso. Misure KEF; disegno non in scala."
+ },
+ "collega": [
+  {
+   "titolo": "Amplificazione",
+   "link": "amplificatori.html",
+   "icona": "sorgente",
+   "voci": [
+    "8 Ω nominali: un diffusore per canale su qualsiasi amplificatore da installazione.",
+    "Amplificazione consigliata da KEF: 10 – 80 W."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Dove montarlo",
+   "voci": [
+    "Lontano da pareti e angoli quando possibile.",
+    "Verifica travi, tubi e impianti prima di tagliare.",
+    "Volume dietro il diffusore: ideale 20 L, minimo 12 L."
+   ],
+   "posa": {
+    "tipo": "soffitto",
+    "distanza": "lontano dalle pareti",
+    "nota": "zona d'ascolto"
+   }
+  },
+  {
+   "titolo": "Montaggio",
+   "passi": [
+    [
+     "Verifica il vano",
+     "Profondità libera di almeno 77,1 mm e, se possibile, 20 L di volume dietro il diffusore."
+    ],
+    [
+     "Traccia e taglia",
+     "Usa la dima fornita e taglia il foro: 158 mm × 158 mm (quadrato)."
+    ],
+    [
+     "Collega",
+     "Positivo sul morsetto rosso (+), negativo sul nero (−). Stessa polarità su tutti i diffusori."
+    ],
+    [
+     "Inserisci e fissa",
+     "Inserisci il diffusore e stringi le viti dei fermi: le alette ruotano e serrano il pannello. Non stringere troppo."
+    ],
+    [
+     "Chiudi",
+     "Monta la griglia magnetica. Per verniciare cornice o griglia proteggi i driver con la maschera fornita."
+    ]
+   ]
+  }
+ ],
+ "nota": "Dati dalla KEF Ci Group Specification Sheet, confrontati con la scheda Extrasound.",
+ "extrasound": "https://www.extrasound.it/diffusore-incasso-quadrato-2-vie-kef-ci130-2cs",
+ "fonti": [
+  {
+   "label": "KEF Ci Group Specification Sheet",
+   "url": "https://assets.kef.com/pdf_doc/ci/Ci_Group_Specification_Sheet.pdf"
+  }
+ ],
+ "slug": "kef-ci130-2cs",
+ "tab": "Diffusori<br>da soffitto"
+}

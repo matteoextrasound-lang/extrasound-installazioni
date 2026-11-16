@@ -13,7 +13,7 @@ from jinja2 import Environment, FileSystemLoader
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 DATI = ROOT / "_dati" / "prodotti"
-V = "12"  # versione di css/js
+V = "13"  # versione di css/js
 
 SOTTO = {  # sottocategorie: codice -> etichetta
     "M": "Amplificatori multicanale", "P": "Da incasso a parete", "S": "Da incasso a soffitto",

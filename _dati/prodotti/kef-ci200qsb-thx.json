@@ -1,0 +1,140 @@
+{
+ "id": 28039,
+ "tipo": "diffusore",
+ "cat": "W",
+ "brand": "KEF",
+ "model": "Ci200QSb-THX",
+ "crop": false,
+ "meta": "KEF Ci200QSb-THX: subwoofer · woofer 200 mm, subwoofer da incasso. Foro, profondità, volume posteriore e collegamenti per l'installatore.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/ci200qsb.jpg",
+  "alt": "KEF Ci200QSb-THX coppia vista frontale con due woofer da 200 mm"
+ },
+ "chiave": [
+  "Subwoofer · woofer 200 mm",
+  "Foro 238 mm × 238 mm",
+  "Profondità 101,6 mm"
+ ],
+ "righe": [
+  "subwoofer · woofer 200 mm",
+  "Subwoofer da incasso",
+  "Ci-Q Series · THX"
+ ],
+ "intro": [
+  "Il <strong>KEF Ci200QSb-THX</strong> è un subwoofer da incasso della Ci-Q Series · THX: woofer 200 mm. Impedenza 6 Ω (passivo), THX Certified Ultra e Select · IP64.",
+  "Foro <strong>238 mm × 238 mm</strong>, profondità di montaggio <strong>101,6 mm</strong>."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "Subwoofer da incasso, Ci-Q Series · THX.",
+    "Woofer 200 mm.",
+    "THX Certified Ultra e Select · IP64.",
+    "Su Extrasound è venduto in coppia."
+   ]
+  },
+  {
+   "titolo": "Acustica",
+   "voci": [
+    "Risposta (±6 dB): 40 – 100 Hz passivo (crossover inserito); 30 – 140 Hz con KASA500.",
+    "Sensibilità (2,83 V / 1 m): 85 dB (passivo).",
+    "Impedenza nominale: 6 Ω (passivo).",
+    "Amplificazione consigliata: 10 – 150 W (passivo).",
+    "SPL massimo: 104 dB.",
+    "Incrocio: 100 Hz (passivo)."
+   ]
+  },
+  {
+   "titolo": "Dimensioni",
+   "voci": [
+    "Foro: 238 mm × 238 mm.",
+    "Ingombro esterno: 273 mm × 273 mm × 106 mm.",
+    "Profondità di montaggio: 101,6 mm.",
+    "Volume posteriore: ideale 32 L, minimo 20 L.",
+    "Peso: 3,3 kg."
+   ]
+  }
+ ],
+ "viste": [
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/ci200qsb-lato.jpg",
+   "alt": "KEF Ci200QSb-THX vista laterale subwoofer passivo da incasso",
+   "caption": "Lato"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/ci200qsb-lato-2.jpg",
+   "alt": "KEF Ci200QSb-THX dettaglio woofer sub-basso da 200 mm",
+   "caption": "Dettaglio"
+  }
+ ],
+ "misure": {
+  "forma": "rett",
+  "foro": [
+   "238 mm",
+   "238 mm"
+  ],
+  "est": [
+   "273 mm",
+   "273 mm"
+  ],
+  "prof": "101,6 mm",
+  "prof_tot": "106 mm",
+  "nota": "Foro tratteggiato in rosso. Misure KEF; disegno non in scala."
+ },
+ "collega": [
+  {
+   "titolo": "Due modi d'uso",
+   "icona": "subwoofer",
+   "voci": [
+    "Passivo con crossover interno inserito (taglio 100 Hz): si collega in parallelo ai diffusori su un canale di potenza, 6 Ω.",
+    "Con amplificatore KEF KASA500: risposta estesa a 30 – 140 Hz."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Dove montarlo",
+   "voci": [
+    "Anche nascosto in parete o a soffitto: il subwoofer non è direzionale.",
+    "Rispetta il volume posteriore indicato: è quello che fissa l'estensione in basso.",
+    "Volume dietro il diffusore: ideale 32 L, minimo 20 L."
+   ]
+  },
+  {
+   "titolo": "Montaggio",
+   "passi": [
+    [
+     "Verifica il vano",
+     "Profondità libera di almeno 101,6 mm e, se possibile, 32 L di volume dietro il diffusore."
+    ],
+    [
+     "Traccia e taglia",
+     "Usa la dima fornita e taglia il foro: 238 mm × 238 mm (quadrato)."
+    ],
+    [
+     "Collega",
+     "Positivo sul morsetto rosso (+), negativo sul nero (−). Stessa polarità su tutti i diffusori."
+    ],
+    [
+     "Inserisci e fissa",
+     "Inserisci il diffusore e stringi le viti dei fermi: le alette ruotano e serrano il pannello. Non stringere troppo."
+    ],
+    [
+     "Chiudi",
+     "Monta la griglia magnetica. Per verniciare cornice o griglia proteggi i driver con la maschera fornita."
+    ]
+   ]
+  }
+ ],
+ "nota": "Dati dalla KEF Ci Group Specification Sheet, confrontati con la scheda Extrasound.",
+ "extrasound": "https://www.extrasound.it/subwoofer-bobina-8-ohm-woofer-200mm-uni-q-kef-ci200qsb",
+ "fonti": [
+  {
+   "label": "KEF Ci Group Specification Sheet",
+   "url": "https://assets.kef.com/pdf_doc/ci/Ci_Group_Specification_Sheet.pdf"
+  }
+ ],
+ "slug": "kef-ci200qsb-thx",
+ "tab": "Subwoofer<br>da incasso"
+}

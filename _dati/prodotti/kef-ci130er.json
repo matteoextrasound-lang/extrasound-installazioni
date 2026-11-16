@@ -1,0 +1,142 @@
+{
+ "id": 28281,
+ "tipo": "diffusore",
+ "cat": "S",
+ "brand": "KEF",
+ "model": "Ci130ER",
+ "crop": false,
+ "meta": "KEF Ci130ER: 2 vie · Uni-Q 130 mm, diffusore da incasso a soffitto. Foro, profondità, volume posteriore e collegamenti per l'installatore.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/CI130ER-FRONTALE.jpg",
+  "alt": "KEF Ci130ER vista frontale diffusore Uni-Q da 130 mm"
+ },
+ "chiave": [
+  "2 vie · Uni-Q 130 mm · 8 Ω",
+  "Foro Ø 158 mm",
+  "Profondità 77,5 mm"
+ ],
+ "righe": [
+  "2 vie · Uni-Q 130 mm",
+  "Diffusore da incasso a soffitto",
+  "Ci-E Series"
+ ],
+ "intro": [
+  "Il <strong>KEF Ci130ER</strong> è un diffusore da incasso a soffitto della Ci-E Series: Uni-Q 130 mm, tweeter 16 mm. Impedenza 8 Ω, IP64.",
+  "Foro <strong>Ø 158 mm</strong>, profondità di montaggio <strong>77,5 mm</strong>."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "Diffusore da incasso a soffitto, Ci-E Series.",
+    "Uni-Q 130 mm.",
+    "Tweeter 16 mm.",
+    "Driver coassiale Uni-Q: tweeter al centro del medio o del woofer, stessa dispersione su tutta l'area d'ascolto.",
+    "IP64.",
+    "Su Extrasound è venduto in coppia."
+   ]
+  },
+  {
+   "titolo": "Acustica",
+   "voci": [
+    "Risposta (±6 dB): 52 Hz – 20 kHz.",
+    "Sensibilità (2,83 V / 1 m): 87 dB.",
+    "Impedenza nominale: 8 Ω.",
+    "Amplificazione consigliata: 10 – 80 W.",
+    "SPL massimo: 102 dB.",
+    "Incrocio: 2,8 kHz."
+   ]
+  },
+  {
+   "titolo": "Dimensioni",
+   "voci": [
+    "Foro: Ø 158 mm.",
+    "Ingombro esterno: Ø 193,4 mm × 81 mm.",
+    "Profondità di montaggio: 77,5 mm.",
+    "Volume posteriore: ideale 20 L, minimo 12 L.",
+    "Peso: 1,2 kg."
+   ]
+  }
+ ],
+ "viste": [
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/CI130ER-POSTERIORE.jpg",
+   "alt": "KEF Ci130ER vista posteriore diffusore da incasso",
+   "caption": "Retro"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/CI130ER-LATO-GRIGLIA.jpg",
+   "alt": "KEF Ci130ER griglia magnetica Ultra-Thin Bezel",
+   "caption": "Con griglia"
+  }
+ ],
+ "misure": {
+  "forma": "tondo",
+  "foro": "158 mm",
+  "est": "193,4 mm",
+  "prof": "77,5 mm",
+  "prof_tot": "81 mm",
+  "nota": "Foro tratteggiato in rosso. Misure KEF; disegno non in scala."
+ },
+ "collega": [
+  {
+   "titolo": "Amplificazione",
+   "link": "amplificatori.html",
+   "icona": "sorgente",
+   "voci": [
+    "8 Ω nominali: un diffusore per canale su qualsiasi amplificatore da installazione.",
+    "Amplificazione consigliata da KEF: 10 – 80 W."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Dove montarlo",
+   "voci": [
+    "Lontano da pareti e angoli quando possibile.",
+    "Verifica travi, tubi e impianti prima di tagliare.",
+    "Volume dietro il diffusore: ideale 20 L, minimo 12 L."
+   ],
+   "posa": {
+    "tipo": "soffitto",
+    "distanza": "lontano dalle pareti",
+    "nota": "zona d'ascolto"
+   }
+  },
+  {
+   "titolo": "Montaggio",
+   "passi": [
+    [
+     "Verifica il vano",
+     "Profondità libera di almeno 77,5 mm e, se possibile, 20 L di volume dietro il diffusore."
+    ],
+    [
+     "Traccia e taglia",
+     "Usa la dima fornita e taglia il foro: Ø 158 mm."
+    ],
+    [
+     "Collega",
+     "Positivo sul morsetto rosso (+), negativo sul nero (−). Stessa polarità su tutti i diffusori."
+    ],
+    [
+     "Inserisci e fissa",
+     "Inserisci il diffusore e stringi le viti dei fermi: le alette ruotano e serrano il pannello. Non stringere troppo."
+    ],
+    [
+     "Chiudi",
+     "Monta la griglia magnetica. Per verniciare cornice o griglia proteggi i driver con la maschera fornita."
+    ]
+   ]
+  }
+ ],
+ "nota": "Dati dalla KEF Ci Group Specification Sheet, confrontati con la scheda Extrasound. La scheda Extrasound indica 90 dB di sensibilità; KEF dichiara 87 dB. Fa fede il dato KEF.",
+ "extrasound": "https://www.extrasound.it/diffusore-da-incasso-2-vie-woofer-130mm-uni-q-kef-ci130er",
+ "fonti": [
+  {
+   "label": "KEF Ci Group Specification Sheet",
+   "url": "https://assets.kef.com/pdf_doc/ci/Ci_Group_Specification_Sheet.pdf"
+  }
+ ],
+ "slug": "kef-ci130er",
+ "tab": "Diffusori<br>da soffitto"
+}

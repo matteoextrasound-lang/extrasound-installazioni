@@ -1,0 +1,142 @@
+{
+ "id": 28117,
+ "tipo": "diffusore",
+ "cat": "S",
+ "brand": "KEF",
+ "model": "Ci100.2QR",
+ "crop": false,
+ "meta": "KEF Ci100.2QR: 2 vie · Uni-Q 75 mm, diffusore da incasso a soffitto. Foro, profondità, volume posteriore e collegamenti per l'installatore.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/KEF-Ci100-2QR-frontale.jpg",
+  "alt": "KEF Ci100.2QR diffusore in-ceiling 2 vie Uni-Q 3 pollici"
+ },
+ "chiave": [
+  "2 vie · Uni-Q 75 mm · 4 Ω",
+  "Foro Ø 118 mm",
+  "Profondità 52 mm"
+ ],
+ "righe": [
+  "2 vie · Uni-Q 75 mm",
+  "Diffusore da incasso a soffitto",
+  "Ci Series"
+ ],
+ "intro": [
+  "Il <strong>KEF Ci100.2QR</strong> è un diffusore da incasso a soffitto della Ci Series: Uni-Q 75 mm, tweeter 16 mm. Impedenza 4 Ω, IP64.",
+  "Foro <strong>Ø 118 mm</strong>, profondità di montaggio <strong>52 mm (103,1 mm con cassa posteriore)</strong>."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "Diffusore da incasso a soffitto, Ci Series.",
+    "Uni-Q 75 mm.",
+    "Tweeter 16 mm.",
+    "Driver coassiale Uni-Q: tweeter al centro del medio o del woofer, stessa dispersione su tutta l'area d'ascolto.",
+    "IP64."
+   ]
+  },
+  {
+   "titolo": "Acustica",
+   "voci": [
+    "Risposta (±6 dB): 90 Hz – 27 kHz a retro aperto; 130 Hz – 27 kHz con cassa posteriore.",
+    "Sensibilità (2,83 V / 1 m): 83 dB.",
+    "Impedenza nominale: 4 Ω.",
+    "Amplificazione consigliata: 10 – 50 W.",
+    "SPL massimo: 99 dB.",
+    "Incrocio: 3,5 kHz."
+   ]
+  },
+  {
+   "titolo": "Dimensioni",
+   "voci": [
+    "Foro: Ø 118 mm.",
+    "Ingombro esterno: Ø 135,6 mm × 107,5 mm.",
+    "Profondità di montaggio: 52 mm (103,1 mm con cassa posteriore).",
+    "Volume posteriore: ideale 5 L, minimo 0,75 L.",
+    "Peso: 0,5 kg."
+   ]
+  }
+ ],
+ "viste": [
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/KEF-Ci100-2QR-frontale-griglia.jpg",
+   "alt": "KEF Ci100.2QR vista frontale con Uni-Q da 75 mm",
+   "caption": "Frontale"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/KEF-Ci100-2QR-griglia-laterale.jpg",
+   "alt": "KEF Ci100.2QR vista laterale con cassa posteriore",
+   "caption": "Retro"
+  }
+ ],
+ "misure": {
+  "forma": "tondo",
+  "foro": "118 mm",
+  "est": "135,6 mm",
+  "prof": "52 mm",
+  "prof_tot": "107,5 mm",
+  "nota": "Foro tratteggiato in rosso. Misure KEF; disegno non in scala."
+ },
+ "collega": [
+  {
+   "titolo": "Amplificazione",
+   "link": "amplificatori.html",
+   "icona": "sorgente",
+   "voci": [
+    "4 Ω nominali: un diffusore per canale su qualsiasi amplificatore da installazione.",
+    "Carico da 4 Ω: scegli un amplificatore dichiarato stabile a 4 Ω; non metterlo in bridge né in parallelo con altri diffusori.",
+    "Amplificazione consigliata da KEF: 10 – 50 W."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Dove montarlo",
+   "voci": [
+    "Lontano da pareti e angoli quando possibile.",
+    "Verifica travi, tubi e impianti prima di tagliare.",
+    "Volume dietro il diffusore: ideale 5 L, minimo 0,75 L."
+   ],
+   "posa": {
+    "tipo": "soffitto",
+    "distanza": "lontano dalle pareti",
+    "nota": "zona d'ascolto"
+   }
+  },
+  {
+   "titolo": "Montaggio",
+   "passi": [
+    [
+     "Verifica il vano",
+     "Profondità libera di almeno 52 mm e, se possibile, 5 L di volume dietro il diffusore."
+    ],
+    [
+     "Traccia e taglia",
+     "Usa la dima fornita e taglia il foro: Ø 118 mm."
+    ],
+    [
+     "Collega",
+     "Positivo sul morsetto rosso (+), negativo sul nero (−). Stessa polarità su tutti i diffusori."
+    ],
+    [
+     "Inserisci e fissa",
+     "Inserisci il diffusore e stringi le viti dei fermi: le alette ruotano e serrano il pannello. Non stringere troppo."
+    ],
+    [
+     "Chiudi",
+     "Monta la griglia magnetica. Per verniciare cornice o griglia proteggi i driver con la maschera fornita."
+    ]
+   ]
+  }
+ ],
+ "nota": "Dati dalla KEF Ci Group Specification Sheet, confrontati con la scheda Extrasound.",
+ "extrasound": "https://www.extrasound.it/diffusore-da-incasso-2-vie-woofer200mm-uni-q-kef-ci100-2qr-2",
+ "fonti": [
+  {
+   "label": "KEF Ci Group Specification Sheet",
+   "url": "https://assets.kef.com/pdf_doc/ci/Ci_Group_Specification_Sheet.pdf"
+  }
+ ],
+ "slug": "kef-ci100-2qr",
+ "tab": "Diffusori<br>da soffitto"
+}

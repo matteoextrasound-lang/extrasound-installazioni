@@ -1,0 +1,140 @@
+{
+ "id": 1764,
+ "tipo": "diffusore",
+ "cat": "S",
+ "brand": "KEF",
+ "model": "Ci160TR",
+ "crop": false,
+ "meta": "KEF Ci160TR: 2 vie · medio-basso 115 mm a doppio strato, diffusore da incasso a soffitto. Foro, profondità, volume posteriore e collegamenti per l'installatore.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/virtuemart/product/KEF-Ci160TR-frontale.jpg",
+  "alt": "KEF Ci160TR vista frontale diffusore circolare ultrasottile"
+ },
+ "chiave": [
+  "2 vie · medio-basso 115 mm a doppio strato · 8 Ω",
+  "Foro Ø 196 mm",
+  "Profondità meno di 36 mm"
+ ],
+ "righe": [
+  "2 vie · medio-basso 115 mm a doppio strato",
+  "Diffusore da incasso a soffitto",
+  "Ci-T Series"
+ ],
+ "intro": [
+  "Il <strong>KEF Ci160TR</strong> è un diffusore da incasso a soffitto della Ci-T Series: medio-basso 115 mm a doppio strato, tweeter 25 mm. Impedenza 8 Ω, IP64.",
+  "Foro <strong>Ø 196 mm</strong>, profondità di montaggio <strong>meno di 36 mm</strong>."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "Diffusore da incasso a soffitto, Ci-T Series.",
+    "Medio-basso 115 mm a doppio strato.",
+    "Tweeter 25 mm.",
+    "IP64."
+   ]
+  },
+  {
+   "titolo": "Acustica",
+   "voci": [
+    "Risposta (±6 dB): 110 Hz – 24 kHz.",
+    "Sensibilità (2,83 V / 1 m): 87 dB.",
+    "Impedenza nominale: 8 Ω.",
+    "Amplificazione consigliata: 10 – 100 W.",
+    "SPL massimo: 101 dB.",
+    "Incrocio: 1,7 kHz."
+   ]
+  },
+  {
+   "titolo": "Dimensioni",
+   "voci": [
+    "Foro: Ø 196 mm.",
+    "Ingombro esterno: Ø 234,6 mm × 40 mm.",
+    "Profondità di montaggio: meno di 36 mm.",
+    "Volume posteriore: ideale 3 L, minimo 1 L.",
+    "Peso: 1 kg."
+   ]
+  }
+ ],
+ "viste": [
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/virtuemart/product/KEF-Ci160TR-frontale-griglia-laterale.jpg",
+   "alt": "KEF Ci160TR con griglia magnetica Ultra-Thin Bezel",
+   "caption": "Con griglia"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/kef-ci-160tr.jpg",
+   "alt": "KEF Ci160TR diffusore da incasso ultrasottile",
+   "caption": "Vista"
+  }
+ ],
+ "misure": {
+  "forma": "tondo",
+  "foro": "196 mm",
+  "est": "234,6 mm",
+  "prof": "meno di 36 mm",
+  "prof_tot": "40 mm",
+  "nota": "Foro tratteggiato in rosso. Misure KEF; disegno non in scala."
+ },
+ "collega": [
+  {
+   "titolo": "Amplificazione",
+   "link": "amplificatori.html",
+   "icona": "sorgente",
+   "voci": [
+    "8 Ω nominali: un diffusore per canale su qualsiasi amplificatore da installazione.",
+    "Amplificazione consigliata da KEF: 10 – 100 W."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Dove montarlo",
+   "voci": [
+    "Lontano da pareti e angoli quando possibile.",
+    "Verifica travi, tubi e impianti prima di tagliare.",
+    "Volume dietro il diffusore: ideale 3 L, minimo 1 L."
+   ],
+   "posa": {
+    "tipo": "soffitto",
+    "distanza": "lontano dalle pareti",
+    "nota": "zona d'ascolto"
+   }
+  },
+  {
+   "titolo": "Montaggio",
+   "passi": [
+    [
+     "Verifica il vano",
+     "Profondità libera di almeno meno di 36 mm e, se possibile, 3 L di volume dietro il diffusore."
+    ],
+    [
+     "Traccia e taglia",
+     "Usa la dima fornita e taglia il foro: Ø 196 mm."
+    ],
+    [
+     "Collega",
+     "Positivo sul morsetto rosso (+), negativo sul nero (−). Stessa polarità su tutti i diffusori."
+    ],
+    [
+     "Inserisci e fissa",
+     "Inserisci il diffusore e stringi le viti dei fermi: le alette ruotano e serrano il pannello. Non stringere troppo."
+    ],
+    [
+     "Chiudi",
+     "Monta la griglia magnetica. Per verniciare cornice o griglia proteggi i driver con la maschera fornita."
+    ]
+   ]
+  }
+ ],
+ "nota": "Dati dalla KEF Ci Group Specification Sheet, confrontati con la scheda Extrasound.",
+ "extrasound": "https://www.extrasound.it/diffusore-2-vie-incasso-ultra-sottile-ci160tr-kef",
+ "fonti": [
+  {
+   "label": "KEF Ci Group Specification Sheet",
+   "url": "https://assets.kef.com/pdf_doc/ci/Ci_Group_Specification_Sheet.pdf"
+  }
+ ],
+ "slug": "kef-ci160tr",
+ "tab": "Diffusori<br>da soffitto"
+}

@@ -1,0 +1,145 @@
+{
+ "id": 2920,
+ "tipo": "diffusore",
+ "cat": "L",
+ "brand": "KEF",
+ "model": "Ci4100QL-THX",
+ "crop": false,
+ "meta": "KEF Ci4100QL-THX: 2 vie · 3 woofer 100 mm, diffusore LCR da incasso a parete. Foro, profondità, volume posteriore e collegamenti per l'installatore.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/virtuemart/product/KEF-Ci4100QL-THX-diffusore-LCR-incasso.jpg",
+  "alt": "KEF Ci4100QL-THX diffusore in-wall LCR THX Select Uni-Q"
+ },
+ "chiave": [
+  "2 vie · 3 woofer 100 mm · 4 Ω",
+  "Foro 476 mm × 114 mm",
+  "Profondità 76 mm"
+ ],
+ "righe": [
+  "2 vie · 3 woofer 100 mm",
+  "Diffusore LCR da incasso a parete",
+  "Ci-Q Series · THX"
+ ],
+ "intro": [
+  "Il <strong>KEF Ci4100QL-THX</strong> è un diffusore LCR da incasso a parete della Ci-Q Series · THX: 3 woofer 100 mm, Uni-Q 100 mm, tweeter 19 mm. Impedenza 4 Ω, THX Certified Select · IP64.",
+  "Foro <strong>476 mm × 114 mm</strong>, profondità di montaggio <strong>76 mm</strong>."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "Diffusore LCR da incasso a parete, Ci-Q Series · THX.",
+    "3 woofer 100 mm.",
+    "Uni-Q 100 mm.",
+    "Tweeter 19 mm.",
+    "Driver coassiale Uni-Q: tweeter al centro del medio o del woofer, stessa dispersione su tutta l'area d'ascolto.",
+    "THX Certified Select · IP64."
+   ]
+  },
+  {
+   "titolo": "Acustica",
+   "voci": [
+    "Risposta (±6 dB): 55 Hz – 28 kHz.",
+    "Sensibilità (2,83 V / 1 m): 89 dB.",
+    "Impedenza nominale: 4 Ω.",
+    "Amplificazione consigliata: 10 – 150 W.",
+    "SPL massimo: 104 dB.",
+    "Incrocio: 2,2 kHz."
+   ]
+  },
+  {
+   "titolo": "Dimensioni",
+   "voci": [
+    "Foro: 476 mm × 114 mm.",
+    "Ingombro esterno: 490 mm × 128 mm × 81 mm.",
+    "Profondità di montaggio: 76 mm.",
+    "Volume posteriore: ideale 15 L, minimo 7 L.",
+    "Peso: 3 kg."
+   ]
+  }
+ ],
+ "viste": [
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/virtuemart/product/KEF-Ci4100QL-THX-diffusore-LCR-incasso-griglia.jpg",
+   "alt": "KEF Ci4100QL-THX con griglia magnetica verniciabile",
+   "caption": "Con griglia"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/virtuemart/product/KEF-Ci4100QL-THX-diffusore-LCR-frontale.jpg",
+   "alt": "KEF Ci4100QL-THX vista frontale con tre woofer da 100 mm",
+   "caption": "Frontale"
+  }
+ ],
+ "misure": {
+  "forma": "rett",
+  "orizzontale": true,
+  "foro": [
+   "476 mm",
+   "114 mm"
+  ],
+  "est": [
+   "490 mm",
+   "128 mm"
+  ],
+  "prof": "76 mm",
+  "prof_tot": "81 mm",
+  "nota": "Foro tratteggiato in rosso. Misure KEF; disegno non in scala."
+ },
+ "collega": [
+  {
+   "titolo": "Amplificazione",
+   "link": "amplificatori.html",
+   "icona": "sorgente",
+   "voci": [
+    "4 Ω nominali: un diffusore per canale su qualsiasi amplificatore da installazione.",
+    "Carico da 4 Ω: scegli un amplificatore dichiarato stabile a 4 Ω; non metterlo in bridge né in parallelo con altri diffusori.",
+    "Amplificazione consigliata da KEF: 10 – 150 W."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Dove montarlo",
+   "voci": [
+    "Sinistro e destro ai lati dello schermo, centrale sopra o sotto.",
+    "Montaggio orizzontale (come nei disegni KEF): verifica che il foro stia tra i montanti.",
+    "Volume dietro il diffusore: ideale 15 L, minimo 7 L."
+   ]
+  },
+  {
+   "titolo": "Montaggio",
+   "passi": [
+    [
+     "Verifica il vano",
+     "Profondità libera di almeno 76 mm e, se possibile, 15 L di volume dietro il diffusore."
+    ],
+    [
+     "Traccia e taglia",
+     "Usa la dima fornita e taglia il foro: 476 mm × 114 mm."
+    ],
+    [
+     "Collega",
+     "Positivo sul morsetto rosso (+), negativo sul nero (−). Stessa polarità su tutti i diffusori."
+    ],
+    [
+     "Inserisci e fissa",
+     "Inserisci il diffusore e stringi le viti dei fermi: le alette ruotano e serrano il pannello. Non stringere troppo."
+    ],
+    [
+     "Chiudi",
+     "Monta la griglia magnetica. Per verniciare cornice o griglia proteggi i driver con la maschera fornita."
+    ]
+   ]
+  }
+ ],
+ "nota": "Dati dalla KEF Ci Group Specification Sheet, confrontati con la scheda Extrasound.",
+ "extrasound": "https://www.extrasound.it/diffusore-incasso-3-woofer-lcr-ci4100ql-thx-kef",
+ "fonti": [
+  {
+   "label": "KEF Ci Group Specification Sheet",
+   "url": "https://assets.kef.com/pdf_doc/ci/Ci_Group_Specification_Sheet.pdf"
+  }
+ ],
+ "slug": "kef-ci4100ql-thx",
+ "tab": "Diffusori<br>LCR"
+}

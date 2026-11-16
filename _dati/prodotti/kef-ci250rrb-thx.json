@@ -1,0 +1,125 @@
+{
+ "id": 28021,
+ "tipo": "diffusore",
+ "cat": "W",
+ "brand": "KEF",
+ "model": "Ci250RRb-THX",
+ "crop": false,
+ "meta": "KEF Ci250RRb-THX: subwoofer · woofer 250 mm, subwoofer da incasso. Foro, profondità, volume posteriore e collegamenti per l'installatore.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/ci250rrb.jpg",
+  "alt": "KEF Ci250RRb-THX subwoofer da incasso 10 pollici con amplificatore KASA500"
+ },
+ "chiave": [
+  "Subwoofer · woofer 250 mm",
+  "Foro da confermare",
+  "Profondità 147 mm"
+ ],
+ "righe": [
+  "subwoofer · woofer 250 mm",
+  "Subwoofer da incasso",
+  "Ci-R Series · THX"
+ ],
+ "intro": [
+  "Il <strong>KEF Ci250RRb-THX</strong> è un subwoofer da incasso della Ci-R Series · THX: woofer 250 mm. Impedenza da confermare, THX Certified Ultra e Select · IP64.",
+  "Foro <strong>da confermare</strong>, profondità di montaggio <strong>147 mm</strong>."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "Subwoofer da incasso, Ci-R Series · THX.",
+    "Woofer 250 mm.",
+    "THX Certified Ultra e Select · IP64."
+   ]
+  },
+  {
+   "titolo": "Acustica",
+   "voci": [
+    "Risposta (±6 dB): da 25 Hz al taglio impostato sul KASA500.",
+    "Sensibilità (2,83 V / 1 m): da confermare.",
+    "Impedenza nominale: da confermare.",
+    "Amplificazione consigliata: solo KEF KASA500.",
+    "SPL massimo: 109 dB."
+   ]
+  },
+  {
+   "titolo": "Dimensioni",
+   "voci": [
+    "Foro: da confermare.",
+    "Ingombro esterno: Ø 346 mm.",
+    "Profondità di montaggio: 147 mm.",
+    "Volume posteriore: ideale 100 L, minimo 60 L.",
+    "Peso: 5,6 kg."
+   ]
+  }
+ ],
+ "viste": [
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/ci250rrb-griglia-laterale.jpg",
+   "alt": "KEF Ci250RRb-THX vista laterale subwoofer architetturale",
+   "caption": "Lato"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/ci250rrb-griglia.jpg",
+   "alt": "KEF Ci250RRb-THX con griglia per installazione a soffitto",
+   "caption": "Con griglia"
+  }
+ ],
+ "misure": null,
+ "collega": [
+  {
+   "titolo": "KEF KASA500",
+   "icona": "subwoofer",
+   "voci": [
+    "Subwoofer passivo da alimentare solo con l'amplificatore KEF KASA500, che gestisce taglio ed equalizzazione dedicata.",
+    "Ingresso del KASA500 dall'uscita subwoofer / LFE del processore."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Dove montarlo",
+   "voci": [
+    "Anche nascosto in parete o a soffitto: il subwoofer non è direzionale.",
+    "Rispetta il volume posteriore indicato: è quello che fissa l'estensione in basso.",
+    "Volume dietro il diffusore: ideale 100 L, minimo 60 L."
+   ]
+  },
+  {
+   "titolo": "Montaggio",
+   "passi": [
+    [
+     "Verifica il vano",
+     "Profondità libera di almeno 147 mm e, se possibile, 100 L di volume dietro il diffusore."
+    ],
+    [
+     "Traccia e taglia",
+     "Usa la dima fornita e taglia il foro: da confermare."
+    ],
+    [
+     "Collega",
+     "Positivo sul morsetto rosso (+), negativo sul nero (−). Stessa polarità su tutti i diffusori."
+    ],
+    [
+     "Inserisci e fissa",
+     "Inserisci il diffusore e stringi le viti dei fermi: le alette ruotano e serrano il pannello. Non stringere troppo."
+    ],
+    [
+     "Chiudi",
+     "Monta la griglia magnetica. Per verniciare cornice o griglia proteggi i driver con la maschera fornita."
+    ]
+   ]
+  }
+ ],
+ "nota": "Dati dalla KEF Ci Group Specification Sheet, confrontati con la scheda Extrasound.",
+ "extrasound": "https://www.extrasound.it/diffusore-incasso-2-vie-driver-25cm-uni-q-kef-ci250rrb",
+ "fonti": [
+  {
+   "label": "KEF Ci Group Specification Sheet",
+   "url": "https://assets.kef.com/pdf_doc/ci/Ci_Group_Specification_Sheet.pdf"
+  }
+ ],
+ "slug": "kef-ci250rrb-thx",
+ "tab": "Subwoofer<br>da incasso"
+}

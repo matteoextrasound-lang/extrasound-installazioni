@@ -1,0 +1,142 @@
+{
+ "id": 35463,
+ "tipo": "diffusore",
+ "cat": "S",
+ "brand": "KEF",
+ "model": "Ci250RRM-THX",
+ "crop": false,
+ "meta": "KEF Ci250RRM-THX: 3 vie · woofer 250 mm, diffusore da incasso a soffitto. Foro, profondità, volume posteriore e collegamenti per l'installatore.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/KEF-Ci250RR.jpg",
+  "alt": "KEF Ci250RRM-THX diffusore in-ceiling 3 vie THX Ultra"
+ },
+ "chiave": [
+  "3 vie · woofer 250 mm · 8 Ω",
+  "Foro Ø 300 mm",
+  "Profondità 168 mm"
+ ],
+ "righe": [
+  "3 vie · woofer 250 mm",
+  "Diffusore da incasso a soffitto",
+  "Ci-R Series · THX"
+ ],
+ "intro": [
+  "Il <strong>KEF Ci250RRM-THX</strong> è un diffusore da incasso a soffitto della Ci-R Series · THX: woofer 250 mm, medio Uni-Q 100 mm, tweeter 19 mm in alluminio ventilato con MAT. Impedenza 8 Ω, THX Certified Ultra · IP64.",
+  "Foro <strong>Ø 300 mm</strong>, profondità di montaggio <strong>168 mm</strong>."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "Diffusore da incasso a soffitto, Ci-R Series · THX.",
+    "Woofer 250 mm.",
+    "Medio Uni-Q 100 mm.",
+    "Tweeter 19 mm in alluminio ventilato con MAT.",
+    "Driver coassiale Uni-Q: tweeter al centro del medio o del woofer, stessa dispersione su tutta l'area d'ascolto.",
+    "THX Certified Ultra · IP64."
+   ]
+  },
+  {
+   "titolo": "Acustica",
+   "voci": [
+    "Risposta (±6 dB): 28 Hz – 20 kHz.",
+    "Sensibilità (2,83 V / 1 m): 89 dB.",
+    "Impedenza nominale: 8 Ω.",
+    "Amplificazione consigliata: 50 – 250 W.",
+    "SPL massimo: 111 dB.",
+    "Incrocio: 540 Hz e 2,6 kHz."
+   ]
+  },
+  {
+   "titolo": "Dimensioni",
+   "voci": [
+    "Foro: Ø 300 mm.",
+    "Ingombro esterno: Ø 346 mm × 175 mm.",
+    "Profondità di montaggio: 168 mm.",
+    "Volume posteriore: ideale 150 L, minimo 80 L.",
+    "Peso: 6 kg."
+   ]
+  }
+ ],
+ "viste": [
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/KEF-Ci250RR-laterale-tri-no-griglia.jpg",
+   "alt": "KEF Ci250RRM-THX vista laterale, profondità di incasso 168 mm",
+   "caption": "Lato"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/KEF-Ci250RR-laterale-tri.jpg",
+   "alt": "KEF Ci250RRM-THX con griglia per installazione a soffitto",
+   "caption": "Con griglia"
+  }
+ ],
+ "misure": {
+  "forma": "tondo",
+  "foro": "300 mm",
+  "est": "346 mm",
+  "prof": "168 mm",
+  "prof_tot": "175 mm",
+  "nota": "Foro tratteggiato in rosso. Misure KEF; disegno non in scala."
+ },
+ "collega": [
+  {
+   "titolo": "Amplificazione",
+   "link": "amplificatori.html",
+   "icona": "sorgente",
+   "voci": [
+    "8 Ω nominali: un diffusore per canale su qualsiasi amplificatore da installazione.",
+    "Amplificazione consigliata da KEF: 50 – 250 W."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Dove montarlo",
+   "voci": [
+    "Lontano da pareti e angoli quando possibile.",
+    "Verifica travi, tubi e impianti prima di tagliare.",
+    "Volume dietro il diffusore: ideale 150 L, minimo 80 L."
+   ],
+   "posa": {
+    "tipo": "soffitto",
+    "distanza": "lontano dalle pareti",
+    "nota": "zona d'ascolto"
+   }
+  },
+  {
+   "titolo": "Montaggio",
+   "passi": [
+    [
+     "Verifica il vano",
+     "Profondità libera di almeno 168 mm e, se possibile, 150 L di volume dietro il diffusore."
+    ],
+    [
+     "Traccia e taglia",
+     "Usa la dima fornita e taglia il foro: Ø 300 mm."
+    ],
+    [
+     "Collega",
+     "Positivo sul morsetto rosso (+), negativo sul nero (−). Stessa polarità su tutti i diffusori."
+    ],
+    [
+     "Inserisci e fissa",
+     "Inserisci il diffusore e stringi le viti dei fermi: le alette ruotano e serrano il pannello. Non stringere troppo."
+    ],
+    [
+     "Chiudi",
+     "Monta la griglia magnetica. Per verniciare cornice o griglia proteggi i driver con la maschera fornita."
+    ]
+   ]
+  }
+ ],
+ "nota": "Dati dalla KEF Ci Group Specification Sheet, confrontati con la scheda Extrasound.",
+ "extrasound": "https://www.extrasound.it/kef-ci250rrm-thx-diffusore-in-ceiling-3-vie-thx-ultra",
+ "fonti": [
+  {
+   "label": "KEF Ci Group Specification Sheet",
+   "url": "https://assets.kef.com/pdf_doc/ci/Ci_Group_Specification_Sheet.pdf"
+  }
+ ],
+ "slug": "kef-ci250rrm-thx",
+ "tab": "Diffusori<br>da soffitto"
+}

@@ -1,0 +1,142 @@
+{
+ "id": 28008,
+ "tipo": "diffusore",
+ "cat": "S",
+ "brand": "KEF",
+ "model": "Ci200RR-THX",
+ "crop": false,
+ "meta": "KEF Ci200RR-THX: 2 vie · Uni-Q 200 mm, diffusore da incasso a soffitto. Foro, profondità, volume posteriore e collegamenti per l'installatore.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/ci200.jpg",
+  "alt": "KEF Ci200RR-THX diffusore in-ceiling 2 vie Uni-Q 8 pollici THX Ultra"
+ },
+ "chiave": [
+  "2 vie · Uni-Q 200 mm · 4 Ω",
+  "Foro Ø 238 mm",
+  "Profondità 126,5 mm"
+ ],
+ "righe": [
+  "2 vie · Uni-Q 200 mm",
+  "Diffusore da incasso a soffitto",
+  "Ci-R Series · THX"
+ ],
+ "intro": [
+  "Il <strong>KEF Ci200RR-THX</strong> è un diffusore da incasso a soffitto della Ci-R Series · THX: Uni-Q 200 mm, tweeter 38 mm. Impedenza 4 Ω, THX Certified Ultra · IP64.",
+  "Foro <strong>Ø 238 mm</strong>, profondità di montaggio <strong>126,5 mm</strong>."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "Diffusore da incasso a soffitto, Ci-R Series · THX.",
+    "Uni-Q 200 mm.",
+    "Tweeter 38 mm.",
+    "Driver coassiale Uni-Q: tweeter al centro del medio o del woofer, stessa dispersione su tutta l'area d'ascolto.",
+    "THX Certified Ultra · IP64."
+   ]
+  },
+  {
+   "titolo": "Acustica",
+   "voci": [
+    "Risposta (±6 dB): 33 Hz – 28 kHz.",
+    "Sensibilità (2,83 V / 1 m): 90 dB.",
+    "Impedenza nominale: 4 Ω.",
+    "Amplificazione consigliata: 10 – 190 W.",
+    "SPL massimo: 106 dB.",
+    "Incrocio: 2,2 kHz."
+   ]
+  },
+  {
+   "titolo": "Dimensioni",
+   "voci": [
+    "Foro: Ø 238 mm.",
+    "Ingombro esterno: Ø 290 mm × 132,6 mm.",
+    "Profondità di montaggio: 126,5 mm.",
+    "Volume posteriore: ideale 20 L, minimo 10 L.",
+    "Peso: 3,6 kg."
+   ]
+  }
+ ],
+ "viste": [
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/ci200-lato.jpg",
+   "alt": "KEF Ci200RR-THX dettaglio tweeter 38 mm",
+   "caption": "Dettaglio"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/ci200-griglia.jpg",
+   "alt": "KEF Ci200RR-THX con griglia per installazione a soffitto",
+   "caption": "Con griglia"
+  }
+ ],
+ "misure": {
+  "forma": "tondo",
+  "foro": "238 mm",
+  "est": "290 mm",
+  "prof": "126,5 mm",
+  "prof_tot": "132,6 mm",
+  "nota": "Foro tratteggiato in rosso. Misure KEF; disegno non in scala."
+ },
+ "collega": [
+  {
+   "titolo": "Amplificazione",
+   "link": "amplificatori.html",
+   "icona": "sorgente",
+   "voci": [
+    "4 Ω nominali: un diffusore per canale su qualsiasi amplificatore da installazione.",
+    "Carico da 4 Ω: scegli un amplificatore dichiarato stabile a 4 Ω; non metterlo in bridge né in parallelo con altri diffusori.",
+    "Amplificazione consigliata da KEF: 10 – 190 W."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Dove montarlo",
+   "voci": [
+    "Lontano da pareti e angoli quando possibile.",
+    "Verifica travi, tubi e impianti prima di tagliare.",
+    "Volume dietro il diffusore: ideale 20 L, minimo 10 L."
+   ],
+   "posa": {
+    "tipo": "soffitto",
+    "distanza": "lontano dalle pareti",
+    "nota": "zona d'ascolto"
+   }
+  },
+  {
+   "titolo": "Montaggio",
+   "passi": [
+    [
+     "Verifica il vano",
+     "Profondità libera di almeno 126,5 mm e, se possibile, 20 L di volume dietro il diffusore."
+    ],
+    [
+     "Traccia e taglia",
+     "Usa la dima fornita e taglia il foro: Ø 238 mm."
+    ],
+    [
+     "Collega",
+     "Positivo sul morsetto rosso (+), negativo sul nero (−). Stessa polarità su tutti i diffusori."
+    ],
+    [
+     "Inserisci e fissa",
+     "Inserisci il diffusore e stringi le viti dei fermi: le alette ruotano e serrano il pannello. Non stringere troppo."
+    ],
+    [
+     "Chiudi",
+     "Monta la griglia magnetica. Per verniciare cornice o griglia proteggi i driver con la maschera fornita."
+    ]
+   ]
+  }
+ ],
+ "nota": "Dati dalla KEF Ci Group Specification Sheet, confrontati con la scheda Extrasound.",
+ "extrasound": "https://www.extrasound.it/diffusore-incasso-2-vie-uni-q-kef-ci200rr-thx",
+ "fonti": [
+  {
+   "label": "KEF Ci Group Specification Sheet",
+   "url": "https://assets.kef.com/pdf_doc/ci/Ci_Group_Specification_Sheet.pdf"
+  }
+ ],
+ "slug": "kef-ci200rr-thx",
+ "tab": "Diffusori<br>da soffitto"
+}

@@ -1,0 +1,142 @@
+{
+ "id": 27995,
+ "tipo": "diffusore",
+ "cat": "S",
+ "brand": "KEF",
+ "model": "Ci160RR-THX",
+ "crop": false,
+ "meta": "KEF Ci160RR-THX: 2 vie · Uni-Q 165 mm, diffusore da incasso a soffitto. Foro, profondità, volume posteriore e collegamenti per l'installatore.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/ci160rr.jpg",
+  "alt": "KEF Ci160RR-THX diffusore da incasso 2 vie Uni-Q 6,5 pollici THX Ultra"
+ },
+ "chiave": [
+  "2 vie · Uni-Q 165 mm · 4 Ω",
+  "Foro Ø 196 mm",
+  "Profondità 110 mm"
+ ],
+ "righe": [
+  "2 vie · Uni-Q 165 mm",
+  "Diffusore da incasso a soffitto",
+  "Ci-R Series · THX"
+ ],
+ "intro": [
+  "Il <strong>KEF Ci160RR-THX</strong> è un diffusore da incasso a soffitto della Ci-R Series · THX: Uni-Q 165 mm, tweeter 25 mm. Impedenza 4 Ω, THX Certified Ultra.",
+  "Foro <strong>Ø 196 mm</strong>, profondità di montaggio <strong>110 mm</strong>."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "Diffusore da incasso a soffitto, Ci-R Series · THX.",
+    "Uni-Q 165 mm.",
+    "Tweeter 25 mm.",
+    "Driver coassiale Uni-Q: tweeter al centro del medio o del woofer, stessa dispersione su tutta l'area d'ascolto.",
+    "THX Certified Ultra."
+   ]
+  },
+  {
+   "titolo": "Acustica",
+   "voci": [
+    "Risposta (±6 dB): 52 Hz – 24 kHz.",
+    "Sensibilità (2,83 V / 1 m): 90 dB.",
+    "Impedenza nominale: 4 Ω.",
+    "Amplificazione consigliata: 10 – 190 W.",
+    "SPL massimo: 105 dB.",
+    "Incrocio: 2,1 kHz."
+   ]
+  },
+  {
+   "titolo": "Dimensioni",
+   "voci": [
+    "Foro: Ø 196 mm.",
+    "Ingombro esterno: Ø 236 mm × 115 mm.",
+    "Profondità di montaggio: 110 mm.",
+    "Volume posteriore: ideale 20 L, minimo 10 L.",
+    "Peso: 2,94 kg."
+   ]
+  }
+ ],
+ "viste": [
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/ci160rr-griglia.jpg",
+   "alt": "KEF Ci160RR-THX con griglia magnetica verniciabile",
+   "caption": "Con griglia"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/ci160rr-retro.jpg",
+   "alt": "KEF Ci160RR-THX vista posteriore diffusore architetturale",
+   "caption": "Retro"
+  }
+ ],
+ "misure": {
+  "forma": "tondo",
+  "foro": "196 mm",
+  "est": "236 mm",
+  "prof": "110 mm",
+  "prof_tot": "115 mm",
+  "nota": "Foro tratteggiato in rosso. Misure KEF; disegno non in scala."
+ },
+ "collega": [
+  {
+   "titolo": "Amplificazione",
+   "link": "amplificatori.html",
+   "icona": "sorgente",
+   "voci": [
+    "4 Ω nominali: un diffusore per canale su qualsiasi amplificatore da installazione.",
+    "Carico da 4 Ω: scegli un amplificatore dichiarato stabile a 4 Ω; non metterlo in bridge né in parallelo con altri diffusori.",
+    "Amplificazione consigliata da KEF: 10 – 190 W."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Dove montarlo",
+   "voci": [
+    "Lontano da pareti e angoli quando possibile.",
+    "Verifica travi, tubi e impianti prima di tagliare.",
+    "Volume dietro il diffusore: ideale 20 L, minimo 10 L."
+   ],
+   "posa": {
+    "tipo": "soffitto",
+    "distanza": "lontano dalle pareti",
+    "nota": "zona d'ascolto"
+   }
+  },
+  {
+   "titolo": "Montaggio",
+   "passi": [
+    [
+     "Verifica il vano",
+     "Profondità libera di almeno 110 mm e, se possibile, 20 L di volume dietro il diffusore."
+    ],
+    [
+     "Traccia e taglia",
+     "Usa la dima fornita e taglia il foro: Ø 196 mm."
+    ],
+    [
+     "Collega",
+     "Positivo sul morsetto rosso (+), negativo sul nero (−). Stessa polarità su tutti i diffusori."
+    ],
+    [
+     "Inserisci e fissa",
+     "Inserisci il diffusore e stringi le viti dei fermi: le alette ruotano e serrano il pannello. Non stringere troppo."
+    ],
+    [
+     "Chiudi",
+     "Monta la griglia magnetica. Per verniciare cornice o griglia proteggi i driver con la maschera fornita."
+    ]
+   ]
+  }
+ ],
+ "nota": "Dati dalla KEF Ci Group Specification Sheet, confrontati con la scheda Extrasound.",
+ "extrasound": "https://www.extrasound.it/diffusore-incasso-2-vie-uni-q-kef-ci160rr-thx",
+ "fonti": [
+  {
+   "label": "KEF Ci Group Specification Sheet",
+   "url": "https://assets.kef.com/pdf_doc/ci/Ci_Group_Specification_Sheet.pdf"
+  }
+ ],
+ "slug": "kef-ci160rr-thx",
+ "tab": "Diffusori<br>da soffitto"
+}

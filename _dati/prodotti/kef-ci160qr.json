@@ -1,0 +1,141 @@
+{
+ "id": 28140,
+ "tipo": "diffusore",
+ "cat": "S",
+ "brand": "KEF",
+ "model": "Ci160QR",
+ "crop": false,
+ "meta": "KEF Ci160QR: 2 vie · Uni-Q 160 mm, diffusore da incasso a soffitto. Foro, profondità, volume posteriore e collegamenti per l'installatore.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/ci160qr.jpg",
+  "alt": "KEF Ci160QR diffusore in-ceiling 2 vie Uni-Q 6,5 pollici"
+ },
+ "chiave": [
+  "2 vie · Uni-Q 160 mm · 8 Ω",
+  "Foro Ø 196 mm",
+  "Profondità 91 mm"
+ ],
+ "righe": [
+  "2 vie · Uni-Q 160 mm",
+  "Diffusore da incasso a soffitto",
+  "Ci-Q Series"
+ ],
+ "intro": [
+  "Il <strong>KEF Ci160QR</strong> è un diffusore da incasso a soffitto della Ci-Q Series: Uni-Q 160 mm, tweeter 19 mm. Impedenza 8 Ω, IP64.",
+  "Foro <strong>Ø 196 mm</strong>, profondità di montaggio <strong>91 mm</strong>."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "Diffusore da incasso a soffitto, Ci-Q Series.",
+    "Uni-Q 160 mm.",
+    "Tweeter 19 mm.",
+    "Driver coassiale Uni-Q: tweeter al centro del medio o del woofer, stessa dispersione su tutta l'area d'ascolto.",
+    "IP64."
+   ]
+  },
+  {
+   "titolo": "Acustica",
+   "voci": [
+    "Risposta (±6 dB): 38 Hz – 34 kHz.",
+    "Sensibilità (2,83 V / 1 m): 89 dB.",
+    "Impedenza nominale: 8 Ω.",
+    "Amplificazione consigliata: 10 – 125 W.",
+    "SPL massimo: 105 dB.",
+    "Incrocio: 3,0 kHz."
+   ]
+  },
+  {
+   "titolo": "Dimensioni",
+   "voci": [
+    "Foro: Ø 196 mm.",
+    "Ingombro esterno: Ø 234,6 mm × 98 mm.",
+    "Profondità di montaggio: 91 mm.",
+    "Volume posteriore: ideale 25 L, minimo 15 L.",
+    "Peso: 1,8 kg."
+   ]
+  }
+ ],
+ "viste": [
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/ci160qr-retro.jpg",
+   "alt": "KEF Ci160QR vista posteriore diffusore da soffitto",
+   "caption": "Retro"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/kef-ci160qr-griglia-1000.jpg",
+   "alt": "KEF Ci160QR con la griglia montata solo a metà: si vedono l’altoparlante e la griglia",
+   "caption": "Griglia a metà"
+  }
+ ],
+ "misure": {
+  "forma": "tondo",
+  "foro": "196 mm",
+  "est": "234,6 mm",
+  "prof": "91 mm",
+  "prof_tot": "98 mm",
+  "nota": "Foro tratteggiato in rosso. Misure KEF; disegno non in scala."
+ },
+ "collega": [
+  {
+   "titolo": "Amplificazione",
+   "link": "amplificatori.html",
+   "icona": "sorgente",
+   "voci": [
+    "8 Ω nominali: un diffusore per canale su qualsiasi amplificatore da installazione.",
+    "Amplificazione consigliata da KEF: 10 – 125 W."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Dove montarlo",
+   "voci": [
+    "Lontano da pareti e angoli quando possibile.",
+    "Verifica travi, tubi e impianti prima di tagliare.",
+    "Volume dietro il diffusore: ideale 25 L, minimo 15 L."
+   ],
+   "posa": {
+    "tipo": "soffitto",
+    "distanza": "lontano dalle pareti",
+    "nota": "zona d'ascolto"
+   }
+  },
+  {
+   "titolo": "Montaggio",
+   "passi": [
+    [
+     "Verifica il vano",
+     "Profondità libera di almeno 91 mm e, se possibile, 25 L di volume dietro il diffusore."
+    ],
+    [
+     "Traccia e taglia",
+     "Usa la dima fornita e taglia il foro: Ø 196 mm."
+    ],
+    [
+     "Collega",
+     "Positivo sul morsetto rosso (+), negativo sul nero (−). Stessa polarità su tutti i diffusori."
+    ],
+    [
+     "Inserisci e fissa",
+     "Inserisci il diffusore e stringi le viti dei fermi: le alette ruotano e serrano il pannello. Non stringere troppo."
+    ],
+    [
+     "Chiudi",
+     "Monta la griglia magnetica. Per verniciare cornice o griglia proteggi i driver con la maschera fornita."
+    ]
+   ]
+  }
+ ],
+ "nota": "Dati dalla KEF Ci Group Specification Sheet, confrontati con la scheda Extrasound.",
+ "extrasound": "https://www.extrasound.it/diffusore-da-incasso-2-vie-woofer-160mm-uni-q-kef-ci160qr-copia",
+ "fonti": [
+  {
+   "label": "KEF Ci Group Specification Sheet",
+   "url": "https://assets.kef.com/pdf_doc/ci/Ci_Group_Specification_Sheet.pdf"
+  }
+ ],
+ "slug": "kef-ci160qr",
+ "tab": "Diffusori<br>da soffitto"
+}
