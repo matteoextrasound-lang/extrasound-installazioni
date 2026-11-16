@@ -1,0 +1,132 @@
+{
+ "id": 2364,
+ "tipo": "diffusore",
+ "cat": "P",
+ "brand": "Elipson",
+ "model": "IW8",
+ "crop": false,
+ "meta": "Elipson IW8: 2 vie, diffusore da incasso a parete. Foro, profondità e collegamenti per l'installatore.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/virtuemart/product/elipson-iw8.jpg",
+  "alt": "Elipson IW8 da incasso a parete visto di lato con griglia bianca"
+ },
+ "chiave": [
+  "2 vie · 8 Ω",
+  "Foro 225 mm × 328 mm",
+  "Profondità 88 mm"
+ ],
+ "righe": [
+  "2 vie · woofer 210 mm",
+  "Diffusore da incasso a parete",
+  "Architect IN"
+ ],
+ "intro": [
+  "L'<strong>Elipson IW8</strong> è un diffusore da incasso a parete della serie Architect IN: woofer 210 mm in carta, sospensione in gomma, tweeter 25 mm a cupola in seta, orientabile 35–40°. 125 W, 8 Ω.",
+  "Foro <strong>225 mm × 328 mm</strong>, profondità <strong>88 mm</strong>."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "Diffusore da incasso a parete, serie Architect IN.",
+    "Sistema: 2 vie.",
+    "Woofer 210 mm in carta, sospensione in gomma.",
+    "Tweeter 25 mm a cupola in seta, orientabile 35–40°.",
+    "Griglia magnetica bianca, verniciabile."
+   ]
+  },
+  {
+   "titolo": "Acustica",
+   "voci": [
+    "Potenza: 125 W.",
+    "Risposta: 55 Hz – 20 kHz (±3 dB).",
+    "Sensibilità: 87 dB (1 W / 1 m).",
+    "Impedenza: 8 Ω.",
+    "Incrocio: 2.100 Hz."
+   ]
+  },
+  {
+   "titolo": "Dimensioni",
+   "voci": [
+    "Foro: 225 mm × 328 mm.",
+    "Ingombro: 270 mm × 370 mm × 88 mm.",
+    "Peso: 1,55 kg."
+   ]
+  }
+ ],
+ "viste": [
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/virtuemart/product/elipson-iw8-griglia.jpg",
+   "alt": "Elipson IW8 senza griglia accanto alla griglia rettangolare bianca",
+   "caption": "Senza griglia"
+  }
+ ],
+ "misure": {
+  "forma": "rett",
+  "foro": [
+   "225 mm",
+   "328 mm"
+  ],
+  "est": [
+   "270 mm",
+   "370 mm"
+  ],
+  "prof": "88 mm",
+  "nota": "Foro tratteggiato in rosso; profondità = ingombro Elipson. Disegno non in scala."
+ },
+ "collega": [
+  {
+   "titolo": "Amplificazione",
+   "link": "amplificatori.html",
+   "icona": "sorgente",
+   "voci": [
+    "8 Ω: un diffusore per canale su qualsiasi amplificatore da installazione.",
+    "Potenza dichiarata da Elipson: 125 W."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Dove montarlo",
+   "voci": [
+    "Orienta il tweeter (35–40°) verso la zona d'ascolto.",
+    "Verifica travi, tubi e impianti prima di tagliare."
+   ]
+  },
+  {
+   "titolo": "Montaggio",
+   "passi": [
+    [
+     "Traccia e taglia",
+     "Usa la dima fornita e taglia il foro: 225 mm × 328 mm."
+    ],
+    [
+     "Collega",
+     "Rispetta la polarità: + sul morsetto rosso, − sul nero."
+    ],
+    [
+     "Fissa",
+     "Inserisci il diffusore e stringi le viti dei fermi fino a bloccarlo sul pannello, senza forzare."
+    ],
+    [
+     "Orienta e chiudi",
+     "Orienta il tweeter, poi applica la griglia magnetica. Per verniciare la griglia toglila dal diffusore."
+    ]
+   ]
+  }
+ ],
+ "nota": "Dati da scheda tecnica Elipson IW8, manuale Elipson Architect IN (dimensioni), confrontati con la scheda Extrasound. Procedura di montaggio generale: le istruzioni di dettaglio sono nel manuale Elipson fornito. Le fonti Elipson non coincidono sul foro: 225 × 328 mm nella scheda tecnica (come Extrasound), 240 × 340 mm nel manuale. Verifica con la dima fornita. Fa fede il dato Elipson.",
+ "extrasound": "https://www.extrasound.it/elipson-iw8-diffusore-da-incasso-a-parete-2-vie-130-w",
+ "fonti": [
+  {
+   "label": "scheda tecnica Elipson IW8",
+   "url": "https://cdn.shopify.com/s/files/1/0055/9906/8206/files/elipson-iw8-spec-sheet.pdf"
+  },
+  {
+   "label": "manuale Elipson Architect IN (dimensioni)",
+   "url": "https://www.manualslib.fr/manual/167653/Elipson-Iw6.html?page=13"
+  }
+ ],
+ "slug": "elipson-iw8",
+ "tab": "Diffusori<br>da incasso"
+}

@@ -1,0 +1,150 @@
+{
+ "tipo": "diffusore",
+ "brand": "Elipson",
+ "crop": false,
+ "fonti": [
+  {
+   "label": "manuale Elipson Infinite (specifiche)",
+   "url": "https://www.manualslib.fr/manual/364337/Elipson-Infinite-8.html?page=21"
+  },
+  {
+   "label": "manuale Elipson Infinite (installazione)",
+   "url": "https://www.manualslib.fr/manual/364337/Elipson-Infinite-8.html?page=18"
+  }
+ ],
+ "id": 31598,
+ "cat": "W",
+ "model": "Infinite S12",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/Elipson-infinite-12.jpg",
+  "alt": "Elipson Infinite S12 senza copertura con woofer da 30 cm e due reflex"
+ },
+ "meta": "Elipson Infinite S12: subwoofer passivo da incasso bass-reflex 30 cm. Foro, profondità, amplificazione e montaggio per l'installatore.",
+ "chiave": [
+  "Subwoofer passivo · 12″",
+  "Foro 400 × 900 mm",
+  "Profondità 222 mm"
+ ],
+ "righe": [
+  "Subwoofer passivo · 12″",
+  "Subwoofer da incasso",
+  "Infinite"
+ ],
+ "intro": [
+  "L'<strong>Elipson Infinite S12</strong> è un subwoofer passivo da incasso bass-reflex con woofer da 12″ (30 cm), bobina da 3″ e magnete al neodimio: 500 W RMS, 92 dB, 8 Ω, 28 Hz a −3 dB.",
+  "Foro <strong>400 × 900 mm</strong>, profondità di incasso <strong>222 mm</strong> (210 mm senza staffe)."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "Subwoofer passivo da incasso, bass-reflex con due condotti frontali.",
+    "Woofer 12″ a lunga escursione, bobina 3″, magnete al neodimio.",
+    "Frontale in alluminio satinato, copertura acustica nera.",
+    "Ingressi Speakon e morsetti per banane."
+   ]
+  },
+  {
+   "titolo": "Acustica",
+   "voci": [
+    "Potenza: 500 W RMS, 1000 W di picco.",
+    "Frequenza minima: 28 Hz (−3 dB).",
+    "Sensibilità: 92 dB (1 W / 1 m).",
+    "Impedenza: 8 Ω, minima 6,5 Ω."
+   ]
+  },
+  {
+   "titolo": "Dimensioni",
+   "voci": [
+    "Foro: 400 × 900 mm.",
+    "Ingombro: 450 × 950 × 273 mm con copertura (260 mm senza).",
+    "Profondità di incasso: 222 mm con le staffe, 210 mm senza.",
+    "10 punti di ancoraggio.",
+    "Peso: 33,5 kg."
+   ]
+  }
+ ],
+ "viste": [
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/Elipson-infinite-12-griglia.jpg",
+   "alt": "Elipson Infinite S12 con la copertura nera visto di lato",
+   "caption": "Lato"
+  }
+ ],
+ "misure": {
+  "forma": "rett",
+  "foro": [
+   "400 mm",
+   "900 mm"
+  ],
+  "est": [
+   "450 mm",
+   "950 mm"
+  ],
+  "prof": "222 mm",
+  "prof_tot": "273 mm",
+  "nota": "Foro tratteggiato in rosso. Misure Elipson; disegno non in scala."
+ },
+ "collega": [
+  {
+   "titolo": "Amplificazione",
+   "icona": "subwoofer",
+   "voci": [
+    "Passivo: serve un amplificatore per subwoofer con filtro passa-basso; Elipson indica l'Infinite A1000.",
+    "8 Ω nominali, minimo 6,5 Ω."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Schema",
+   "voci": [
+    "Uscita LFE del processore all'amplificatore, poi al subwoofer."
+   ],
+   "zone": [
+    {
+     "label": "LFE dal processore → amplificatore",
+     "tipo": "linea"
+    },
+    {
+     "label": "Infinite S12 · 8 Ω",
+     "tipo": "sub"
+    }
+   ],
+   "apparecchio": "Processore AV"
+  },
+  {
+   "titolo": "Montaggio",
+   "passi": [
+    [
+     "Dima",
+     "Usa la dima fornita: ogni modello ha foro e profondità propri."
+    ],
+    [
+     "Traccia",
+     "Appoggia la dima a parete o soffitto e controlla con la livella: i diffusori devono essere paralleli tra loro e perpendicolari al pavimento. Togli il centro della dima, traccia l'interno e segna gli 8 fori."
+    ],
+    [
+     "Fissa",
+     "Con pannelli in legno rigido usa le viti fornite. Con il cartongesso Elipson consiglia di raddoppiare la lastra e usare tasselli per pareti cave, oppure un telaio interno con listelli."
+    ],
+    [
+     "Ancora",
+     "Usa tutti i 10 punti di ancoraggio."
+    ],
+    [
+     "Collega",
+     "Ingressi Speakon o morsetti; cavi in rame OFC di sezione adeguata alla lunghezza."
+    ],
+    [
+     "Chiudi",
+     "Monta la griglia. Rodaggio: da 20 a 50 ore a volume moderato."
+    ]
+   ]
+  }
+ ],
+ "nota": "Dati e procedura dal manuale Elipson Infinite, confrontati con la scheda Extrasound.",
+ "extrasound": "https://www.extrasound.it/elipson-infinite-s12-subwoofer-passivo-da-incasso-30-cm-1000-w",
+ "slug": "elipson-infinite-s12",
+ "tab": "Subwoofer<br>da incasso"
+}

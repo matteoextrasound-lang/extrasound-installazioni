@@ -1,0 +1,127 @@
+{
+ "id": 2360,
+ "tipo": "diffusore",
+ "cat": "S",
+ "brand": "Elipson",
+ "model": "IC4",
+ "crop": false,
+ "meta": "Elipson IC4: 2 vie coassiale, diffusore da incasso a soffitto. Foro, profondità e collegamenti per l'installatore.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/virtuemart/product/elipson-ic4.jpg",
+  "alt": "Elipson IC4 da incasso a soffitto visto di lato con griglia bianca e retro"
+ },
+ "chiave": [
+  "2 vie coassiale · 8 Ω",
+  "Foro Ø 138 mm",
+  "Profondità 92 mm"
+ ],
+ "righe": [
+  "2 vie coassiale · woofer 100 mm",
+  "Diffusore da incasso a soffitto",
+  "Architect IN"
+ ],
+ "intro": [
+  "L'<strong>Elipson IC4</strong> è un diffusore da incasso a soffitto della serie Architect IN: woofer 100 mm in carta, sospensione in gomma, tweeter 19 mm a cupola in seta, orientabile 35–40°. 80 W, 8 Ω.",
+  "Foro <strong>Ø 138 mm</strong>, profondità <strong>92 mm</strong>."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "Diffusore da incasso a soffitto, serie Architect IN.",
+    "Sistema: 2 vie coassiale.",
+    "Woofer 100 mm in carta, sospensione in gomma.",
+    "Tweeter 19 mm a cupola in seta, orientabile 35–40°.",
+    "Griglia magnetica bianca, verniciabile."
+   ]
+  },
+  {
+   "titolo": "Acustica",
+   "voci": [
+    "Potenza: 80 W.",
+    "Risposta: 85 Hz – 20 kHz (±3 dB).",
+    "Sensibilità: 84 dB (1 W / 1 m).",
+    "Impedenza: 8 Ω.",
+    "Incrocio: 2.400 Hz."
+   ]
+  },
+  {
+   "titolo": "Dimensioni",
+   "voci": [
+    "Foro: Ø 138 mm.",
+    "Ingombro: Ø 181 mm × 92 mm.",
+    "Peso: 1,1 kg."
+   ]
+  }
+ ],
+ "viste": [
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/virtuemart/product/elipson-ic4-griglia.jpg",
+   "alt": "Elipson IC4 senza griglia accanto alla griglia rotonda bianca",
+   "caption": "Senza griglia"
+  }
+ ],
+ "misure": {
+  "forma": "tondo",
+  "foro": "138 mm",
+  "est": "181 mm",
+  "prof": "92 mm",
+  "nota": "Foro tratteggiato in rosso; profondità = ingombro Elipson. Disegno non in scala."
+ },
+ "collega": [
+  {
+   "titolo": "Amplificazione",
+   "link": "amplificatori.html",
+   "icona": "sorgente",
+   "voci": [
+    "8 Ω: un diffusore per canale su qualsiasi amplificatore da installazione.",
+    "Potenza dichiarata da Elipson: 80 W."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Dove montarlo",
+   "voci": [
+    "Orienta il tweeter (35–40°) verso la zona d'ascolto.",
+    "Verifica travi, tubi e impianti prima di tagliare."
+   ],
+   "posa": {
+    "tipo": "soffitto",
+    "distanza": "lontano dalle pareti",
+    "nota": "zona d'ascolto"
+   }
+  },
+  {
+   "titolo": "Montaggio",
+   "passi": [
+    [
+     "Traccia e taglia",
+     "Usa la dima fornita e taglia il foro: Ø 138 mm."
+    ],
+    [
+     "Collega",
+     "Rispetta la polarità: + sul morsetto rosso, − sul nero."
+    ],
+    [
+     "Fissa",
+     "Inserisci il diffusore e stringi le viti dei fermi fino a bloccarlo sul pannello, senza forzare."
+    ],
+    [
+     "Orienta e chiudi",
+     "Orienta il tweeter, poi applica la griglia magnetica. Per verniciare la griglia toglila dal diffusore."
+    ]
+   ]
+  }
+ ],
+ "nota": "Dati da manuale Elipson Architect IN (dimensioni), confrontati con la scheda Extrasound. Procedura di montaggio generale: le istruzioni di dettaglio sono nel manuale Elipson fornito. Dati acustici dalla scheda Extrasound (scheda Elipson IC4 non trovata); dimensioni confermate dal manuale Elipson.",
+ "extrasound": "https://www.extrasound.it/elipson-ic4-diffusore-2-vie-coassiale-da-incasso-a-soffitto-80-w",
+ "fonti": [
+  {
+   "label": "manuale Elipson Architect IN (dimensioni)",
+   "url": "https://www.manualslib.fr/manual/167653/Elipson-Iw6.html?page=13"
+  }
+ ],
+ "slug": "elipson-ic4",
+ "tab": "Diffusori<br>da soffitto"
+}

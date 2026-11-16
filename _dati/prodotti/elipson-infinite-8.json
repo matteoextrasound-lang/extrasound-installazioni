@@ -1,0 +1,145 @@
+{
+ "tipo": "diffusore",
+ "brand": "Elipson",
+ "crop": false,
+ "fonti": [
+  {
+   "label": "manuale Elipson Infinite (specifiche)",
+   "url": "https://www.manualslib.fr/manual/364337/Elipson-Infinite-8.html?page=21"
+  },
+  {
+   "label": "manuale Elipson Infinite (installazione)",
+   "url": "https://www.manualslib.fr/manual/364337/Elipson-Infinite-8.html?page=18"
+  }
+ ],
+ "id": 31589,
+ "cat": "P",
+ "model": "Infinite 8",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/Elipson-Infinite-8.jpg",
+  "alt": "Elipson Infinite 8 senza griglia visto di tre quarti"
+ },
+ "meta": "Elipson Infinite 8: 2 vie in cassa chiusa da incasso per home cinema, woofer 6,5″. Foro, profondità e montaggio per l'installatore.",
+ "chiave": [
+  "2 vie · 6,5″ · 8 Ω",
+  "Foro 280 × 420 mm",
+  "Profondità 112 mm"
+ ],
+ "righe": [
+  "2 vie · woofer 6,5″",
+  "Diffusore da incasso a parete",
+  "Infinite"
+ ],
+ "intro": [
+  "L'<strong>Elipson Infinite 8</strong> è un diffusore da incasso a 2 vie in cassa chiusa per frontali, centrale, surround e Atmos: woofer 6,5″ a sandwich Rohacell e fibra di carbonio, tweeter ad anello da 29 mm. 100 W RMS, 88 dB, 8 Ω.",
+  "Foro <strong>280 × 420 mm</strong>, profondità di incasso <strong>112 mm</strong> (100 mm senza staffe)."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "2 vie in cassa chiusa, da incasso a parete o soffitto.",
+    "Woofer 6,5″ a sandwich Rohacell e fibra di carbonio.",
+    "Tweeter ad anello da 1,15″ (29 mm).",
+    "Frontale in alluminio satinato, griglia nera.",
+    "Ingressi Speakon e morsetti per banane."
+   ]
+  },
+  {
+   "titolo": "Acustica",
+   "voci": [
+    "Potenza: 100 W RMS, 200 W di picco.",
+    "Risposta: 75 Hz – 30 kHz.",
+    "Sensibilità: 88 dB (1 W / 1 m).",
+    "Impedenza: 8 Ω, minima 4 Ω."
+   ]
+  },
+  {
+   "titolo": "Dimensioni",
+   "voci": [
+    "Foro: 280 × 420 mm.",
+    "Ingombro: 330 × 440 × 138 mm con griglia (125 mm senza).",
+    "Profondità di incasso: 112 mm con le staffe, 100 mm senza.",
+    "4 punti di ancoraggio.",
+    "Peso: 10 kg."
+   ]
+  }
+ ],
+ "viste": [
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/Elipson-Infinite-8-frontale.jpg",
+   "alt": "Elipson Infinite 8 senza griglia visto di fronte con woofer e tweeter",
+   "caption": "Senza griglia"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/Elipson-Infinite-8-griglia.jpg",
+   "alt": "Elipson Infinite 8 con griglia nera visto di lato",
+   "caption": "Con griglia"
+  }
+ ],
+ "misure": {
+  "forma": "rett",
+  "foro": [
+   "280 mm",
+   "420 mm"
+  ],
+  "est": [
+   "330 mm",
+   "440 mm"
+  ],
+  "prof": "112 mm",
+  "prof_tot": "138 mm",
+  "nota": "Foro tratteggiato in rosso. Misure Elipson; disegno non in scala."
+ },
+ "collega": [
+  {
+   "titolo": "Amplificazione",
+   "link": "amplificatori.html",
+   "icona": "sorgente",
+   "voci": [
+    "8 Ω nominali, minimo 4 Ω: amplificatore stabile su carichi bassi."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Dove montarlo",
+   "voci": [
+    "Frontali, centrale, surround o canali Atmos a soffitto."
+   ]
+  },
+  {
+   "titolo": "Montaggio",
+   "passi": [
+    [
+     "Dima",
+     "Usa la dima fornita: ogni modello ha foro e profondità propri."
+    ],
+    [
+     "Traccia",
+     "Appoggia la dima a parete o soffitto e controlla con la livella: i diffusori devono essere paralleli tra loro e perpendicolari al pavimento. Togli il centro della dima, traccia l'interno e segna gli 8 fori."
+    ],
+    [
+     "Fissa",
+     "Con pannelli in legno rigido usa le viti fornite. Con il cartongesso Elipson consiglia di raddoppiare la lastra e usare tasselli per pareti cave, oppure un telaio interno con listelli."
+    ],
+    [
+     "Ancora",
+     "Usa tutti i 4 punti di ancoraggio."
+    ],
+    [
+     "Collega",
+     "Ingressi Speakon o morsetti; cavi in rame OFC di sezione adeguata alla lunghezza."
+    ],
+    [
+     "Chiudi",
+     "Monta la griglia. Rodaggio: da 20 a 50 ore a volume moderato."
+    ]
+   ]
+  }
+ ],
+ "nota": "Dati e procedura dal manuale Elipson Infinite, confrontati con la scheda Extrasound. La scheda Extrasound indica 9 kg; il manuale Elipson 10 kg. Fa fede il dato Elipson.",
+ "extrasound": "https://www.extrasound.it/elipson-infinite-8-diffusore-home-cinema-2-vie-in-cassa-chiusa-100-w",
+ "slug": "elipson-infinite-8",
+ "tab": "Diffusori<br>da incasso"
+}

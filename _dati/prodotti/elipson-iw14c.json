@@ -1,0 +1,135 @@
+{
+ "id": 2822,
+ "tipo": "diffusore",
+ "cat": "L",
+ "brand": "Elipson",
+ "model": "IW14C",
+ "crop": false,
+ "meta": "Elipson IW14C: 2 vie, diffusore LCR da incasso a parete. Foro, profondità e collegamenti per l'installatore.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/virtuemart/product/Elipson-IW-14C-centrale-da-incasso.jpg",
+  "alt": "Elipson IW14C senza griglia con due woofer e tweeter centrale"
+ },
+ "chiave": [
+  "2 vie · 8 Ω",
+  "Foro 370 mm × 196 mm",
+  "Profondità 100 mm"
+ ],
+ "righe": [
+  "2 vie · 2 woofer 130 mm",
+  "Diffusore LCR da incasso a parete",
+  "Architect IN"
+ ],
+ "intro": [
+  "L'<strong>Elipson IW14C</strong> è un diffusore LCR da incasso a parete della serie Architect IN: 2 woofer 130 mm in carta, sospensione in gomma, tweeter 25 mm a cupola in seta. 100 W, 8 Ω.",
+  "Foro <strong>370 mm × 196 mm</strong>, profondità <strong>100 mm</strong>."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "Diffusore LCR da incasso a parete, serie Architect IN.",
+    "Sistema: 2 vie.",
+    "2 woofer 130 mm in carta, sospensione in gomma.",
+    "Tweeter 25 mm a cupola in seta.",
+    "Griglia magnetica bianca, verniciabile."
+   ]
+  },
+  {
+   "titolo": "Acustica",
+   "voci": [
+    "Potenza: 100 W.",
+    "Risposta: 75 Hz – 20 kHz (±3 dB).",
+    "Sensibilità: 87 dB (1 W / 1 m).",
+    "Impedenza: 8 Ω.",
+    "Incrocio: 2.200 Hz."
+   ]
+  },
+  {
+   "titolo": "Dimensioni",
+   "voci": [
+    "Foro: 370 mm × 196 mm.",
+    "Ingombro: 400 mm × 225 mm × 100 mm.",
+    "Peso: 3 kg."
+   ]
+  }
+ ],
+ "viste": [
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/virtuemart/product/Elipson-IW-14C-centrale-con-griglia.jpg",
+   "alt": "Elipson IW14C visto di lato con griglia bianca",
+   "caption": "Con griglia"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/virtuemart/product/Elipson-IW-14C-griglia.jpg",
+   "alt": "Elipson IW14C con griglia bianca di lato",
+   "caption": "Con griglia"
+  }
+ ],
+ "misure": {
+  "forma": "rett",
+  "orizzontale": true,
+  "foro": [
+   "370 mm",
+   "196 mm"
+  ],
+  "est": [
+   "400 mm",
+   "225 mm"
+  ],
+  "prof": "100 mm",
+  "nota": "Foro tratteggiato in rosso; profondità = ingombro Elipson. Disegno non in scala."
+ },
+ "collega": [
+  {
+   "titolo": "Amplificazione",
+   "link": "amplificatori.html",
+   "icona": "sorgente",
+   "voci": [
+    "8 Ω: un diffusore per canale su qualsiasi amplificatore da installazione.",
+    "Potenza dichiarata da Elipson: 100 W."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Dove montarlo",
+   "voci": [
+    "Centrale sopra o sotto lo schermo, oppure frontali sinistro e destro.",
+    "Orienta il tweeter (35–40°) verso la zona d'ascolto.",
+    "Verifica travi, tubi e impianti prima di tagliare."
+   ]
+  },
+  {
+   "titolo": "Montaggio",
+   "passi": [
+    [
+     "Traccia e taglia",
+     "Usa la dima fornita e taglia il foro: 370 mm × 196 mm."
+    ],
+    [
+     "Collega",
+     "Rispetta la polarità: + sul morsetto rosso, − sul nero."
+    ],
+    [
+     "Fissa",
+     "Inserisci il diffusore e stringi le viti dei fermi fino a bloccarlo sul pannello, senza forzare."
+    ],
+    [
+     "Orienta e chiudi",
+     "Orienta il tweeter, poi applica la griglia magnetica. Per verniciare la griglia toglila dal diffusore."
+    ]
+   ]
+  }
+ ],
+ "nota": "Dati da scheda tecnica Elipson IW14C, confrontati con la scheda Extrasound. Procedura di montaggio generale: le istruzioni di dettaglio sono nel manuale Elipson fornito. La scheda Extrasound indica 2 woofer da 165 mm; la scheda Elipson 2 × 130 mm. Fa fede il dato Elipson.",
+ "extrasound": "https://www.extrasound.it/elipson-iw14c-diffusore-da-incasso-2-vie-doppio-140-mm-100-w",
+ "fonti": [
+  {
+   "label": "scheda tecnica Elipson IW14C",
+   "url": "https://cdn.shopify.com/s/files/1/0055/9906/8206/files/elipson-iw14c-spec-sheet.pdf"
+  }
+ ],
+ "slug": "elipson-iw14c",
+ "tab": "Diffusori<br>LCR"
+}

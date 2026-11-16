@@ -1,0 +1,142 @@
+{
+ "id": 2579,
+ "tipo": "diffusore",
+ "cat": "2",
+ "brand": "Elipson",
+ "model": "IC6ST",
+ "crop": false,
+ "meta": "Elipson IC6ST: 2 vie coassiale stereo, diffusore stereo da incasso a soffitto. Foro, profondità e collegamenti per l'installatore.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/virtuemart/product/elipson-ic6st.jpg",
+  "alt": "Elipson IC6ST da incasso a soffitto visto di lato con griglia bianca"
+ },
+ "chiave": [
+  "2 vie coassiale stereo · 8 Ω",
+  "Foro Ø 200 mm",
+  "Profondità 105 mm"
+ ],
+ "righe": [
+  "2 vie coassiale stereo · woofer 165 mm",
+  "Diffusore stereo da incasso a soffitto",
+  "Architect IN"
+ ],
+ "intro": [
+  "L'<strong>Elipson IC6ST</strong> è un diffusore stereo da incasso a soffitto della serie Architect IN: woofer 165 mm in carta, sospensione in gomma, 2 tweeter 19 mm a cupola in seta, orientabili 35–40°. 100 W, 8 Ω.",
+  "Foro <strong>Ø 200 mm</strong>, profondità <strong>105 mm</strong>."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "Diffusore stereo da incasso a soffitto, serie Architect IN.",
+    "Sistema: 2 vie coassiale stereo.",
+    "Woofer 165 mm in carta, sospensione in gomma.",
+    "2 tweeter 19 mm a cupola in seta, orientabili 35–40°.",
+    "Griglia magnetica bianca, verniciabile.",
+    "Stereo in un solo diffusore: due tweeter, doppi morsetti L e R."
+   ]
+  },
+  {
+   "titolo": "Acustica",
+   "voci": [
+    "Potenza: 100 W.",
+    "Risposta: 65 Hz – 20 kHz (±3 dB).",
+    "Sensibilità: 83 dB (1 W / 1 m).",
+    "Impedenza: 8 Ω.",
+    "Incrocio: 2.200 Hz."
+   ]
+  },
+  {
+   "titolo": "Dimensioni",
+   "voci": [
+    "Foro: Ø 200 mm.",
+    "Ingombro: Ø 230 mm × 105 mm.",
+    "Peso: 1,7 kg."
+   ]
+  }
+ ],
+ "viste": [
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/virtuemart/product/elipson-ic6st-griglia.jpg",
+   "alt": "Elipson IC6ST senza griglia accanto alla griglia rotonda bianca",
+   "caption": "Senza griglia"
+  }
+ ],
+ "misure": {
+  "forma": "tondo",
+  "foro": "200 mm",
+  "est": "230 mm",
+  "prof": "105 mm",
+  "nota": "Foro tratteggiato in rosso; profondità = ingombro Elipson. Disegno non in scala."
+ },
+ "collega": [
+  {
+   "titolo": "Amplificazione",
+   "link": "amplificatori.html",
+   "icona": "sorgente",
+   "voci": [
+    "Due ingressi: canale sinistro e destro dello stesso amplificatore, 8 Ω per canale.",
+    "Per stanze piccole dove c'è posto per un solo diffusore.",
+    "Potenza dichiarata da Elipson: 100 W."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Dove montarlo",
+   "voci": [
+    "Orienta il tweeter (35–40°) verso la zona d'ascolto.",
+    "Verifica travi, tubi e impianti prima di tagliare."
+   ],
+   "posa": {
+    "tipo": "soffitto",
+    "distanza": "lontano dalle pareti",
+    "nota": "zona d'ascolto"
+   }
+  },
+  {
+   "titolo": "Schema",
+   "voci": [
+    "Un solo diffusore riceve i due canali."
+   ],
+   "zone": [
+    {
+     "label": "IC6ST · L + R",
+     "tipo": "2"
+    }
+   ],
+   "apparecchio": "Amplificatore"
+  },
+  {
+   "titolo": "Montaggio",
+   "passi": [
+    [
+     "Traccia e taglia",
+     "Usa la dima fornita e taglia il foro: Ø 200 mm."
+    ],
+    [
+     "Collega",
+     "Rispetta la polarità: + sul morsetto rosso, − sul nero."
+    ],
+    [
+     "Fissa",
+     "Inserisci il diffusore e stringi le viti dei fermi fino a bloccarlo sul pannello, senza forzare."
+    ],
+    [
+     "Orienta e chiudi",
+     "Orienta il tweeter, poi applica la griglia magnetica. Per verniciare la griglia toglila dal diffusore."
+    ]
+   ]
+  }
+ ],
+ "nota": "Dati da scheda tecnica Elipson IC6ST, confrontati con la scheda Extrasound. Procedura di montaggio generale: le istruzioni di dettaglio sono nel manuale Elipson fornito. La scheda Extrasound indica 102 mm di profondità; Elipson 105 mm. Fa fede il dato Elipson.",
+ "extrasound": "https://www.extrasound.it/elipson-ic6st-diffusore-stereo-da-incasso-a-soffitto-2-vie-coassiale",
+ "fonti": [
+  {
+   "label": "scheda tecnica Elipson IC6ST",
+   "url": "https://cdn.shopify.com/s/files/1/0055/9906/8206/files/elipson-ic6st-spec-sheet.pdf"
+  }
+ ],
+ "slug": "elipson-ic6st",
+ "tab": "Diffusori<br>stereo"
+}

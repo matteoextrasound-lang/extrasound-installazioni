@@ -1,0 +1,132 @@
+{
+ "id": 31580,
+ "tipo": "diffusore",
+ "cat": "S",
+ "brand": "Elipson",
+ "model": "IC8 Ultra Slim",
+ "crop": false,
+ "meta": "Elipson IC8 Ultra Slim: 3 vie, diffusore da incasso a soffitto. Foro, profondità e collegamenti per l'installatore.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/elipson-IC8-ultraslim.jpg",
+  "alt": "Elipson IC8 Ultra Slim senza griglia con tre woofer, midrange e tweeter"
+ },
+ "chiave": [
+  "3 vie · 8 Ω",
+  "Foro Ø 242 mm",
+  "Profondità 50 mm"
+ ],
+ "righe": [
+  "3 vie · 3 woofer 75 mm",
+  "Diffusore da incasso a soffitto",
+  "Architect IN"
+ ],
+ "intro": [
+  "L'<strong>Elipson IC8 Ultra Slim</strong> è un diffusore da incasso a soffitto della serie Architect IN: 3 woofer 75 mm in carta trattata, sospensione in gomma, medio 75 mm in carta trattata, sospensione in tessuto, tweeter 25 mm a cupola in seta. 70 W, 8 Ω.",
+  "Foro <strong>Ø 242 mm</strong>, profondità <strong>50 mm</strong>."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "Diffusore da incasso a soffitto, serie Architect IN.",
+    "Sistema: 3 vie.",
+    "3 woofer 75 mm in carta trattata, sospensione in gomma.",
+    "Medio 75 mm in carta trattata, sospensione in tessuto.",
+    "Tweeter 25 mm a cupola in seta.",
+    "Griglia magnetica bianca, verniciabile."
+   ]
+  },
+  {
+   "titolo": "Acustica",
+   "voci": [
+    "Potenza: 70 W.",
+    "Risposta: 95 Hz – 20 kHz (±3 dB).",
+    "Sensibilità: 88 dB (1 W / 1 m).",
+    "Impedenza: 8 Ω."
+   ]
+  },
+  {
+   "titolo": "Dimensioni",
+   "voci": [
+    "Foro: Ø 242 mm.",
+    "Ingombro: Ø 272 mm × 50 mm.",
+    "Peso: 1,6 kg."
+   ]
+  }
+ ],
+ "viste": [
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/elipson-IC8-ultraslim-griglia.jpg",
+   "alt": "Elipson IC8 Ultra Slim con la griglia bianca rotonda",
+   "caption": "Con griglia"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/elipson-IC8-retro.jpg",
+   "alt": "Retro dell'Elipson IC8 Ultra Slim con i morsetti e i fissaggi",
+   "caption": "Retro"
+  }
+ ],
+ "misure": {
+  "forma": "tondo",
+  "foro": "242 mm",
+  "est": "272 mm",
+  "prof": "50 mm",
+  "nota": "Foro tratteggiato in rosso; profondità = ingombro Elipson. Disegno non in scala."
+ },
+ "collega": [
+  {
+   "titolo": "Amplificazione",
+   "link": "amplificatori.html",
+   "icona": "sorgente",
+   "voci": [
+    "8 Ω: un diffusore per canale su qualsiasi amplificatore da installazione.",
+    "Potenza dichiarata da Elipson: 70 W."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Dove montarlo",
+   "voci": [
+    "Orienta il tweeter (35–40°) verso la zona d'ascolto.",
+    "Verifica travi, tubi e impianti prima di tagliare."
+   ],
+   "posa": {
+    "tipo": "soffitto",
+    "distanza": "lontano dalle pareti",
+    "nota": "zona d'ascolto"
+   }
+  },
+  {
+   "titolo": "Montaggio",
+   "passi": [
+    [
+     "Traccia e taglia",
+     "Usa la dima fornita e taglia il foro: Ø 242 mm."
+    ],
+    [
+     "Collega",
+     "Rispetta la polarità: + sul morsetto rosso, − sul nero."
+    ],
+    [
+     "Fissa",
+     "Inserisci il diffusore e stringi le viti dei fermi fino a bloccarlo sul pannello, senza forzare."
+    ],
+    [
+     "Orienta e chiudi",
+     "Orienta il tweeter, poi applica la griglia magnetica. Per verniciare la griglia toglila dal diffusore."
+    ]
+   ]
+  }
+ ],
+ "nota": "Dati da scheda tecnica Elipson IC8 Ultra Slim, confrontati con la scheda Extrasound. Procedura di montaggio generale: le istruzioni di dettaglio sono nel manuale Elipson fornito. La scheda Extrasound indica un tweeter da 20 mm; Elipson 1″ (25 mm). Fa fede il dato Elipson.",
+ "extrasound": "https://www.extrasound.it/elipson-ic8-ultra-slim-diffusore-3-vie-ultra-sottile-da-incasso-a-soffitto",
+ "fonti": [
+  {
+   "label": "scheda tecnica Elipson IC8 Ultra Slim",
+   "url": "https://cdn.shopify.com/s/files/1/0055/9906/8206/files/elipson-ic8-ultra-slim-spec-sheet.pdf"
+  }
+ ],
+ "slug": "elipson-ic8-ultra-slim",
+ "tab": "Diffusori<br>da soffitto"
+}
