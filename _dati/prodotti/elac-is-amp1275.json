@@ -1,0 +1,183 @@
+{
+ "id": 33147,
+ "slug": "elac-is-amp1275",
+ "tipo": "amplificatore",
+ "cat": "M",
+ "brand": "ELAC",
+ "model": "IS-AMP1275",
+ "crop": true,
+ "meta": "ELAC IS-AMP1275: amplificatore da installazione 12 canali, 6 zone, DSP, matrice e controllo IP. Ingressi, uscite, bridge ed esempi di impianto.",
+ "tab": "Amplificatori<br>multicanale",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/sdg-1.jpg",
+  "alt": "ELAC IS-AMP1275 vista di tre quarti con il frontale nero"
+ },
+ "chiave": [
+  "12 canali · 6 zone stereo",
+  "75 W/canale · bridge 150 W",
+  "DSP, matrice, IP"
+ ],
+ "righe": [
+  "12 canali · 6 zone",
+  "Amplificatore da installazione",
+  "Serie Integrator"
+ ],
+ "intro": [
+  "L'<strong>IS-AMP1275</strong> è un amplificatore multicanale da installazione in classe D, con 12 canali in 2 unità rack. La matrice interna porta qualsiasi ingresso su qualsiasi uscita e il DSP adatta ogni uscita al diffusore e alla stanza.",
+  "Si configura dall'interfaccia web e si comanda in rete dai sistemi domotici Control4 e Crestron. Gestisce fino a 6 zone stereo."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "Matrice completa: qualsiasi ingresso verso qualsiasi uscita, dall'interfaccia web.",
+    "DSP con equalizzatore parametrico su ogni uscita, oppure preset per i diffusori ELAC.",
+    "Filtri passa-alto e passa-basso e limitatori su ogni uscita.",
+    "Interfaccia web con i livelli di ingresso e uscita di ogni canale; configurazioni salvabili e riutilizzabili.",
+    "Accensione con segnale audio (soglia regolabile 1–10 mV), con trigger 12 V, via rete o sempre acceso. Si spegne dopo circa 20 minuti senza audio.",
+    "Protezione da cortocircuito dei diffusori e da surriscaldamento; tensione, corrente e temperatura sempre monitorate.",
+    "Formato 2 unità rack: 43,2 × 9,8 × 37,8 cm (L × A × P), 8,6 kg.",
+    "Non impilare più di 2 amplificatori senza almeno 1 unità rack di spazio tra loro; niente vani chiusi senza ventilazione."
+   ]
+  },
+  {
+   "titolo": "Ingressi",
+   "voci": [
+    "12 ingressi di linea RCA, uno per canale: sensibilità 775 mV, tensione massima 4 V, impedenza 20 kΩ.",
+    "Di serie ogni ingresso va all'uscita corrispondente; con la matrice si indirizza dove serve.",
+    "Ingresso trigger: accetta da 5 a 24 V DC.",
+    "Porta Ethernet per l'interfaccia web e per il controllo da domotica (Control4, Crestron)."
+   ]
+  },
+  {
+   "titolo": "Uscite",
+   "voci": [
+    "12 uscite diffusori su connettori a 4 poli (cavo fino a 12 AWG): ognuno collega due diffusori, oppure uno in bridge.",
+    "75 W RMS per canale su 4 e 8 Ω, con tutti i canali in funzione.",
+    "Bridge: 150 W RMS su 8 Ω (solo diffusori da 8 Ω).",
+    "8 uscite di linea RCA assegnabili (1,7 V su 10 kΩ), per esempio per subwoofer attivi o amplificatori esterni.",
+    "Uscita trigger 12 V DC (10 mA) per accendere altri apparecchi.",
+    "Risposta 20 Hz – 20 kHz · S/N 95 dBA · THD+N 0,1%."
+   ]
+  }
+ ],
+ "retro": {
+  "src": "https://www.extrasound.it/wp-content/uploads/dsv.jpg",
+  "alt": "Pannello posteriore ELAC IS-AMP1275 con ingressi RCA e morsetti per 12 canali",
+  "titolo": "Pannello posteriore",
+  "caption": "12 ingressi RCA, 8 uscite di linea, 12 uscite diffusori su connettori a 4 poli, trigger, Ethernet e alimentazione."
+ },
+ "collega": [
+  {
+   "titolo": "ELAC Vertex II IW-V62",
+   "link": "scheda-elac-vertex-ii-iw-v62.html",
+   "img": "https://www.extrasound.it/wp-content/uploads/ELAC-IW-V62-W-angolo-sx.jpg",
+   "alt": "ELAC Vertex II IW-V62 visto di tre quarti da sinistra senza griglia",
+   "voci": [
+    "Diffusore da incasso a 2 vie, 6 Ω: va sulle uscite normali (4–8 Ω).",
+    "In bridge servono diffusori da 8 Ω."
+   ]
+  },
+  {
+   "titolo": "Subwoofer attivo",
+   "icona": "subwoofer",
+   "voci": [
+    "Su un'uscita di linea assegnabile, nella stessa stanza dei diffusori da incasso.",
+    "Sui diffusori da incasso si applica il filtro passa-alto."
+   ]
+  },
+  {
+   "titolo": "Sorgenti",
+   "icona": "sorgente",
+   "voci": [
+    "Streamer, TV, lettori o preamplificatori sui 12 ingressi RCA: fino a 6 sorgenti stereo."
+   ]
+  },
+  {
+   "titolo": "Domotica e rete",
+   "icona": "domotica",
+   "voci": [
+    "Control4 (driver ufficiale ELAC) e Crestron tramite comandi IP.",
+    "Trigger 12 V da un preamplificatore o da un altro apparecchio."
+   ]
+  }
+ ],
+ "gui": {
+  "src": "https://www.extrasound.it/wp-content/uploads/ELAC-IS-AMP8100-interfaccia-web.jpg",
+  "alt": "Interfaccia web degli amplificatori ELAC Integrator Series con livelli di ingressi e uscite",
+  "caption": "Interfaccia web: livelli, matrice, equalizzatore e preset."
+ },
+ "sistemi": [
+  {
+   "titolo": "12 canali · 6 zone stereo",
+   "voci": [
+    "Ogni zona con la sua sorgente e il suo volume.",
+    "Diffusori da incasso in ogni stanza, equalizzati dal DSP."
+   ],
+   "zone": [
+    {
+     "label": "Zona 1 · Soggiorno · 2 × 75 W"
+    },
+    {
+     "label": "Zona 2 · Cucina · 2 × 75 W"
+    },
+    {
+     "label": "Zona 3 · Camera · 2 × 75 W"
+    },
+    {
+     "label": "Zona 4 · Bagno · 2 × 75 W"
+    },
+    {
+     "label": "Zona 5 · Studio · 2 × 75 W"
+    },
+    {
+     "label": "Zona 6 · Terrazzo · 2 × 75 W"
+    }
+   ]
+  },
+  {
+   "titolo": "Zone in bridge e subwoofer",
+   "voci": [
+    "Soggiorno con due canali in bridge per lato e un subwoofer attivo dall'uscita di linea.",
+    "Con i 8 canali restanti, altre 4 zone stereo."
+   ],
+   "zone": [
+    {
+     "label": "Zona 1 · Soggiorno · 2 × 150 W bridge · 8 Ω"
+    },
+    {
+     "label": "Zona 1 · Subwoofer attivo · uscita di linea",
+     "tipo": "sub"
+    },
+    {
+     "label": "Zona 2 · Cucina · 2 × 75 W"
+    },
+    {
+     "label": "Zona 3 · Camera · 2 × 75 W"
+    },
+    {
+     "label": "Zona 4 · Bagno · 2 × 75 W"
+    },
+    {
+     "label": "Zona 5 · Studio · 2 × 75 W"
+    }
+   ]
+  }
+ ],
+ "nota": "Esempi indicativi: la configurazione reale si definisce con il sopralluogo. Dati dal manuale ELAC Integrator e dalla pagina ufficiale, confrontati con la scheda Extrasound.",
+ "extrasound": "https://www.extrasound.it/elac-is-amp1275-amplificatore-multicanale-12-canali-da-installazione",
+ "fonti": [
+  {
+   "label": "pagina ufficiale ELAC",
+   "url": "https://elac.com/is-amp1275-bk"
+  },
+  {
+   "label": "scheda commerciale Integrator",
+   "url": "https://elac.com/download/is-amp1275-bk/integrator-multi-channel-amplifiers-sales-sheet.pdf"
+  },
+  {
+   "label": "manuale d'uso Integrator",
+   "url": "https://www.rapalloav.co.nz/wp-content/uploads/2023/01/Multichannel-Manual-English_Aug_01_2019.pdf"
+  }
+ ]
+}

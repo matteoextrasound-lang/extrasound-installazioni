@@ -36,7 +36,8 @@
     "Interfaccia web con i livelli di ingresso e uscita di ogni canale; configurazioni salvabili e riutilizzabili.",
     "Accensione con segnale audio (soglia regolabile 1–10 mV), con trigger 12 V, via rete o sempre acceso. Si spegne dopo circa 20 minuti senza audio.",
     "Protezione da cortocircuito dei diffusori e da surriscaldamento; tensione, corrente e temperatura sempre monitorate.",
-    "Formato 2 unità rack: 43,2 × 9,8 × 37,8 cm (L × A × P), 7,4 kg."
+    "Formato 2 unità rack: 43,2 × 9,8 × 37,8 cm (L × A × P), 7,4 kg.",
+    "Non impilare più di 2 amplificatori senza almeno 1 unità rack di spazio tra loro; niente vani chiusi senza ventilazione."
    ]
   },
   {
@@ -54,7 +55,7 @@
     "8 uscite diffusori su connettori a 4 poli (cavo fino a 12 AWG): ognuno collega due diffusori, oppure uno in bridge.",
     "Fino a 100 W per canale su 4 e 8 Ω; 75 W RMS con tutti i canali in funzione.",
     "Bridge: 150 W RMS su 8 Ω (solo diffusori da 8 Ω).",
-    "8 uscite di linea RCA assegnabili (1,7 V su 10 kΩ), per esempio per un subwoofer attivo.",
+    "8 uscite di linea RCA assegnabili (1,7 V su 10 kΩ), per esempio per un subwoofer attivo (dato del manuale; la pagina ELAC ne indica 4).",
     "Uscita trigger 12 V DC (10 mA) per accendere altri apparecchi.",
     "Risposta 20 Hz – 20 kHz · S/N 95 dBA · THD+N 0,1%."
    ]
