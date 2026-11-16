@@ -1,0 +1,168 @@
+{
+ "id": 33209,
+ "tipo": "diffusore",
+ "cat": "S",
+ "brand": "ELAC",
+ "model": "Vertex I IC-V31",
+ "crop": false,
+ "meta": "ELAC Vertex I IC-V31: 2 vie · woofer 3,8″, diffusore da incasso a soffitto. Foro Ø 102 mm, profondità 103 mm, montaggio e collegamenti.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/ELAC-Vertex-I-IC-V31-sinistro.jpg",
+  "alt": "ELAC Vertex I IC-V31 visto di tre quarti da sinistra senza griglia"
+ },
+ "chiave": [
+  "2 vie · woofer 3,8″ · 6 Ω",
+  "Foro Ø 102 mm",
+  "Profondità 103 mm"
+ ],
+ "righe": [
+  "2 vie · woofer 3,8″",
+  "Diffusore da incasso a soffitto",
+  "Serie Vertex I"
+ ],
+ "intro": [
+  "Il <strong>Vertex I IC-V31</strong> è un diffusore da incasso a soffitto compatto, a 2 vie, con tweeter da 3/4″ e woofer in polipropilene da 3,8″: il foro ha le dimensioni di un faretto da 4″. Impedenza 6 Ω.",
+  "Foro di <strong>Ø 102 mm</strong>, profondità <strong>103 mm</strong>. Per i bassi si abbina al subwoofer da soffitto ELAC IC-VS6-B."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "2 vie a retro aperto, formato faretto.",
+    "Tweeter a cupola morbida da 3/4″ (19 mm).",
+    "Woofer da 3,8″ (97 mm) in polipropilene.",
+    "Crossover multi-elemento con componenti audio-grade.",
+    "Disponibili a parte: adattatori per griglia quadrata e staffe da pre-installazione (anche per controsoffitti a pannelli).",
+    "Griglia metallica magnetica bianca, verniciabile; pannello frontale nero.",
+    "Morsetti a molla.",
+    "Nella confezione: dima di foratura e manuale."
+   ]
+  },
+  {
+   "titolo": "Acustica",
+   "voci": [
+    "Risposta in frequenza: 76 – 20.000 Hz.",
+    "Sensibilità: 87 dB (2,83 V / 1 m).",
+    "Impedenza nominale: 6 Ω.",
+    "Potenza: 50 W nominali, 80 W di picco.",
+    "Amplificazione consigliata: da 30 a 100 W per canale.",
+    "Frequenza di incrocio: 3.000 Hz."
+   ]
+  },
+  {
+   "titolo": "Dimensioni",
+   "voci": [
+    "Diametro esterno: 108 mm.",
+    "Foro nel soffitto: Ø 102 mm.",
+    "Profondità di montaggio: 103 mm.",
+    "Cavo ai morsetti: fino a 14 AWG (circa 2,1 mm²)."
+   ]
+  }
+ ],
+ "viste": [
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/ELAC-Vertex-I-IC-V31-g.jpg",
+   "alt": "ELAC Vertex I IC-V31 visto di fronte senza griglia, con tweeter e woofer",
+   "caption": "Frontale senza griglia"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/ELAC-Vertex-I-IC-V31-posteriore.jpg",
+   "alt": "ELAC Vertex I IC-V31 visto da dietro con i morsetti",
+   "caption": "Retro e morsetti"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/ELAC-Vertex-I-IC-V31-griglia.jpg",
+   "alt": "ELAC Vertex I IC-V31 con la griglia bianca montata",
+   "caption": "Griglia montata"
+  }
+ ],
+ "misure": {
+  "forma": "tondo",
+  "est": "108 mm",
+  "foro": "102 mm",
+  "prof": "103 mm",
+  "nota": "Cornice in nero, foro tratteggiato in rosso. Il foro si traccia con la dima fornita: la cornice copre i bordi."
+ },
+ "cavi": {
+  "righe": [
+   [
+    "Fino a 7,5 m",
+    "18 AWG (circa 0,8 mm²)"
+   ],
+   [
+    "Oltre 7,5 m",
+    "16 AWG (circa 1,3 mm²)"
+   ],
+   [
+    "Massimo ai morsetti",
+    "14 AWG (circa 2,1 mm²)"
+   ]
+  ]
+ },
+ "collega": [
+  {
+   "titolo": "Con gli amplificatori ELAC Integrator",
+   "link": "amplificatori.html",
+   "icona": "sorgente",
+   "voci": [
+    "6 Ω: va sulle uscite normali (4–8 Ω), un diffusore per canale.",
+    "Non in bridge, che sugli ELAC Integrator richiede diffusori da 8 Ω.",
+    "Amplificazione consigliata dal produttore: da 30 a 120 W per canale."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Dove montarlo",
+   "voci": [
+    "Rivolto verso la zona d'ascolto principale.",
+    "Ad almeno 60 cm dagli angoli della stanza.",
+    "Lascia almeno 38 mm tra il foro e travetti o montanti; verifica impianti nel controsoffitto prima di tagliare.",
+    "Risposta da 76 Hz: per i bassi abbinalo a un subwoofer, ad esempio l'ELAC IC-VS6-B."
+   ],
+   "posa": {
+    "tipo": "soffitto",
+    "distanza": "≥ 60 cm"
+   }
+  },
+  {
+   "titolo": "Montaggio",
+   "passi": [
+    [
+     "Traccia il foro",
+     "Ritaglia la dima di carta, appoggiala nel soffitto e traccia il bordo interno: Ø 102 mm."
+    ],
+    [
+     "Taglia",
+     "Nel cartongesso basta un cutter; vanno bene anche un seghetto a punta o un seghetto alternativo. Taglia pulito: la cornice copre comunque i bordi."
+    ],
+    [
+     "Porta i cavi",
+     "Fai arrivare il cavo all'apertura lasciandone circa 60 cm in più e spella le estremità di 6 mm. Non fissarlo con chiodi o graffette metalliche e tienilo lontano dai cavi elettrici."
+    ],
+    [
+     "Collega",
+     "Rispetta la polarità (+ rosso sul + dell'amplificatore). I morsetti sono a molla: premi il cappuccio, infila il filo, rilascia. Nessun trefolo deve restare scoperto."
+    ],
+    [
+     "Inserisci e fissa",
+     "Togli la griglia magnetica, ruota le staffe verso l'interno e inserisci il diffusore. Con un cacciavite a croce gira ogni vite in senso orario: la staffa ruota in posizione e stringe contro il cartongesso. Non stringere troppo, per non rompere la staffa."
+    ],
+    [
+     "Chiudi",
+     "Rimetti la griglia magnetica. Se vuoi verniciare la cornice, la parte interna della dima protegge il woofer; anche la griglia si può verniciare."
+    ]
+   ]
+  }
+ ],
+ "nota": "Dati dalle fonti ufficiali ELAC, confrontati con la scheda Extrasound. Procedura di montaggio ELAC comune alle serie Vertex e Contractor (manuali Vertex II, Vertex III e Contractor).",
+ "extrasound": "https://www.extrasound.it/elac-vertex-i-ic-v31-diffusore-da-incasso-a-soffitto-2-vie-con-griglia-magnetica",
+ "fonti": [
+  {
+   "label": "pagina ufficiale ELAC",
+   "url": "https://elac.com/ic-v31"
+  }
+ ],
+ "slug": "elac-vertex-i-ic-v31",
+ "tab": "Diffusori<br>da soffitto"
+}

@@ -1,0 +1,162 @@
+{
+ "id": 33901,
+ "tipo": "diffusore",
+ "cat": "2",
+ "brand": "ELAC",
+ "model": "IC-CS61-W",
+ "crop": false,
+ "meta": "ELAC IC-CS61-W Contractor: diffusore stereo da incasso a soffitto, due canali da un solo foro Ø 205 mm. Collegamento, montaggio e dati.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/ELAC-IC-CS61.jpg",
+  "alt": "Diffusore stereo da incasso ELAC IC-CS61-W senza griglia con due tweeter e woofer da 165 mm"
+ },
+ "chiave": [
+  "Stereo · 2 tweeter · woofer 6,5″",
+  "Foro Ø 205 mm",
+  "Doppi morsetti"
+ ],
+ "righe": [
+  "Stereo · 2 tweeter + woofer 6,5″",
+  "Diffusore stereo da soffitto",
+  "Serie Contractor"
+ ],
+ "intro": [
+  "L'<strong>IC-CS61-W</strong> riproduce i due canali stereo da un solo foro: due tweeter da 1″ e un woofer da 6,5″ a doppia bobina mobile. Si usa dove c'è spazio per un solo diffusore: bagni, corridoi, cucine.",
+  "Foro di <strong>Ø 205 mm</strong>; doppi morsetti a molla, uno per canale."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "Stereo: canale sinistro e destro nello stesso diffusore.",
+    "Due tweeter da 1″ (25 mm) in polimero.",
+    "Woofer da 6,5″ (165 mm) in polipropilene, a doppia bobina mobile.",
+    "Baffle aperto in ABS; staffe rotanti a vite.",
+    "Doppi morsetti a molla, fino a 14 AWG.",
+    "Griglia metallica magnetica bianca, verniciabile."
+   ]
+  },
+  {
+   "titolo": "Acustica",
+   "voci": [
+    "Impedenza: 8 Ω per canale.",
+    "Amplificazione consigliata: da 20 a 70 W per canale.",
+    "Risposta in frequenza: 45 – 20.000 Hz (scheda Extrasound).",
+    "<b>Da confermare:</b> sensibilità 86 dB secondo la scheda Extrasound, 88 dB secondo il manuale Contractor."
+   ]
+  },
+  {
+   "titolo": "Dimensioni",
+   "voci": [
+    "Diametro esterno: 232 mm.",
+    "Foro nel soffitto: Ø 205 mm.",
+    "<b>Profondità di montaggio da confermare:</b> 88 mm secondo la scheda Extrasound, 82 mm secondo il manuale Contractor.",
+    "Peso: circa 1,3 kg."
+   ]
+  }
+ ],
+ "viste": [
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/ELAC-IC-CS61-posteriore.jpg",
+   "alt": "Retro del diffusore ELAC IC-CS61-W con staffe di fissaggio e doppi morsetti",
+   "caption": "Retro: doppi morsetti e staffe"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/ELAC-IC-C-griglia-1.jpg",
+   "alt": "Griglia tonda bianca magnetica del diffusore ELAC IC-CS61-W",
+   "caption": "Griglia tonda magnetica"
+  }
+ ],
+ "misure": {
+  "forma": "tondo",
+  "est": "232 mm",
+  "foro": "205 mm",
+  "prof": "82–88 mm",
+  "nota": "Profondità da verificare sul prodotto: le fonti riportano 82 e 88 mm. Lascia almeno 90 mm liberi."
+ },
+ "cavi": {
+  "intestazione": "Distanza dall'amplificatore",
+  "righe": [
+   [
+    "Fino a 7,5 m",
+    "18 AWG (circa 0,8 mm²) per canale"
+   ],
+   [
+    "Oltre 7,5 m",
+    "16 AWG (circa 1,3 mm²) per canale"
+   ],
+   [
+    "Massimo ai morsetti",
+    "14 AWG (circa 2,1 mm²)"
+   ]
+  ]
+ },
+ "collega": [
+  {
+   "titolo": "Collegamento stereo",
+   "icona": "cavo",
+   "voci": [
+    "Due cavi di potenza: uno per il canale sinistro, uno per il destro, ai due morsetti.",
+    "Usa un cavo a 4 conduttori o due cavi bipolari; rispetta la polarità di entrambi i canali."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Schema di collegamento",
+   "voci": [
+    "Un'uscita stereo dell'amplificatore (L + R) alimenta un solo IC-CS61-W."
+   ],
+   "zone": [
+    {
+     "label": "Canale sinistro → morsetti L",
+     "tipo": "1"
+    },
+    {
+     "label": "Canale destro → morsetti R",
+     "tipo": "1"
+    }
+   ],
+   "apparecchio": "Amplificatore"
+  },
+  {
+   "titolo": "Montaggio",
+   "passi": [
+    [
+     "Traccia il foro",
+     "Ritaglia la dima, appoggiala sul soffitto e traccia il bordo interno: Ø 205 mm. Lascia almeno 38 mm tra il foro e travetti o montanti."
+    ],
+    [
+     "Taglia",
+     "Cutter per cartongesso, seghetto a punta o seghetto alternativo. La cornice copre i bordi."
+    ],
+    [
+     "Porta i cavi",
+     "Lascia circa 60 cm di cavo in più e spella 6 mm. Fino a 7,5 m basta il 18 AWG, oltre usa il 16 AWG; i morsetti accettano fino al 14 AWG."
+    ],
+    [
+     "Collega",
+     "Polarità: + rosso sul + dell'amplificatore. Morsetti a molla: premi il cappuccio, infila il filo, rilascia."
+    ],
+    [
+     "Inserisci e fissa",
+     "Togli la griglia magnetica, ruota le staffe verso l'interno, inserisci e gira le viti in senso orario con un cacciavite a croce finché la staffa stringe. Non stringere troppo."
+    ],
+    [
+     "Chiudi",
+     "Rimetti la griglia magnetica, verniciabile."
+    ]
+   ]
+  }
+ ],
+ "nota": "Procedura e dimensioni dal manuale ELAC Contractor; i dati elettrici non sono univoci tra le fonti: verificare sull'etichetta del prodotto.",
+ "extrasound": "https://www.extrasound.it/elac-ic-cs61-w-diffusore-stereo-da-incasso-a-soffitto-65",
+ "fonti": [
+  {
+   "label": "manuale ELAC Contractor IC-C61-W",
+   "url": "https://img.audiomania.ru/data/elac_contractor_ic-c61-w.pdf"
+  }
+ ],
+ "slug": "elac-ic-cs61-w",
+ "tab": "Diffusori<br>stereo"
+}

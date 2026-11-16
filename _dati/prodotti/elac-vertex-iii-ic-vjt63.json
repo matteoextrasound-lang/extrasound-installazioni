@@ -1,0 +1,171 @@
+{
+ "id": 43524,
+ "tipo": "diffusore",
+ "cat": "S",
+ "brand": "ELAC",
+ "model": "Vertex III IC-VJT63",
+ "crop": false,
+ "meta": "ELAC Vertex III IC-VJT63: 2 vie · jet · 6″ inclinato, diffusore da incasso a soffitto. Foro Ø 242 mm, profondità 173 mm, montaggio e collegamenti.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/ELAC-IC-VJT63-W-angolo-sx.jpg",
+  "alt": "ELAC Vertex III IC-VJT63 visto di tre quarti da sinistra senza griglia"
+ },
+ "chiave": [
+  "2 vie · JET · 6″ inclinato · 4 Ω",
+  "Foro Ø 242 mm",
+  "Profondità 173 mm"
+ ],
+ "righe": [
+  "2 vie · JET · 6″ inclinato",
+  "Diffusore da incasso a soffitto",
+  "Serie Vertex III"
+ ],
+ "intro": [
+  "Il <strong>Vertex III IC-VJT63</strong> (nella scheda ELAC IC-VTJ63) è la versione home cinema dell'IC-VJ63: tweeter JET a nastro e woofer Crystal in alluminio da 6″ montati inclinati. Impedenza 4 Ω.",
+  "Foro di <strong>Ø 242 mm</strong>, profondità <strong>173 mm</strong>."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "2 vie a retro aperto, altoparlanti inclinati verso la zona d'ascolto.",
+    "Tweeter JET a nastro ripiegato con guida d'onda Deep Spheroid.",
+    "Woofer da 6″ (152 mm) Crystal con cono in alluminio.",
+    "Griglia metallica magnetica bianca, verniciabile; pannello frontale nero.",
+    "Morsetti a molla.",
+    "Nella confezione: dima di foratura e manuale."
+   ]
+  },
+  {
+   "titolo": "Acustica",
+   "voci": [
+    "Risposta in frequenza: 45 – 40.000 Hz.",
+    "Sensibilità: 88 dB (2,83 V / 1 m).",
+    "Impedenza nominale: 4 Ω.",
+    "Potenza: 50 W nominali, 120 W di picco.",
+    "Amplificazione consigliata: da 40 a 120 W per canale.",
+    "Frequenza di incrocio: 3.000 Hz."
+   ]
+  },
+  {
+   "titolo": "Dimensioni",
+   "voci": [
+    "Diametro esterno: 265 mm.",
+    "Foro nel soffitto: Ø 242 mm.",
+    "Profondità di montaggio: 173 mm.",
+    "Cavo ai morsetti: fino a 14 AWG (circa 2,1 mm²)."
+   ]
+  }
+ ],
+ "viste": [
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/ELAC-IC-VJT63-W-frontale.jpg",
+   "alt": "ELAC Vertex III IC-VJT63 visto di fronte senza griglia, con tweeter e woofer",
+   "caption": "Frontale: altoparlanti inclinati"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/ELAC-IC-VJT63-W-laterale.jpg",
+   "alt": "ELAC Vertex III IC-VJT63 visto di lato con i morsetti di fissaggio",
+   "caption": "Lato: staffe di fissaggio"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/ELAC-IC-VJT63-W-posteriore.jpg",
+   "alt": "ELAC Vertex III IC-VJT63 visto da dietro con i morsetti",
+   "caption": "Retro e morsetti"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/ELAC-IC-VJT63-W-griglia.jpg",
+   "alt": "ELAC Vertex III IC-VJT63 con la griglia bianca montata",
+   "caption": "Griglia montata"
+  }
+ ],
+ "misure": {
+  "forma": "tondo",
+  "est": "265 mm",
+  "foro": "242 mm",
+  "prof": "173 mm",
+  "nota": "Cornice in nero, foro tratteggiato in rosso. Il foro si traccia con la dima fornita: la cornice copre i bordi."
+ },
+ "cavi": {
+  "righe": [
+   [
+    "Fino a 7,5 m",
+    "18 AWG (circa 0,8 mm²)"
+   ],
+   [
+    "Oltre 7,5 m",
+    "16 AWG (circa 1,3 mm²)"
+   ],
+   [
+    "Massimo ai morsetti",
+    "14 AWG (circa 2,1 mm²)"
+   ]
+  ]
+ },
+ "collega": [
+  {
+   "titolo": "Con gli amplificatori ELAC Integrator",
+   "link": "amplificatori.html",
+   "icona": "sorgente",
+   "voci": [
+    "4 Ω: va sulle uscite normali (4–8 Ω), un diffusore per canale.",
+    "Non in bridge, che richiede diffusori da 8 Ω.",
+    "Controlla che l'amplificatore sia stabile su 4 Ω con tutti i canali in funzione."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Dove montarlo",
+   "voci": [
+    "Rivolto verso la zona d'ascolto principale.",
+    "Ad almeno 60 cm dagli angoli della stanza.",
+    "Lascia almeno 38 mm tra il foro e travetti o montanti; verifica impianti nel controsoffitto prima di tagliare.",
+    "Gli altoparlanti sono inclinati: ruota il diffusore in modo che punti verso il punto d'ascolto."
+   ],
+   "posa": {
+    "tipo": "soffitto",
+    "distanza": "≥ 60 cm"
+   }
+  },
+  {
+   "titolo": "Montaggio",
+   "passi": [
+    [
+     "Traccia il foro",
+     "Ritaglia la dima di carta, appoggiala nel soffitto e traccia il bordo interno: Ø 242 mm."
+    ],
+    [
+     "Taglia",
+     "Nel cartongesso basta un cutter; vanno bene anche un seghetto a punta o un seghetto alternativo. Taglia pulito: la cornice copre comunque i bordi."
+    ],
+    [
+     "Porta i cavi",
+     "Fai arrivare il cavo all'apertura lasciandone circa 60 cm in più e spella le estremità di 6 mm. Non fissarlo con chiodi o graffette metalliche e tienilo lontano dai cavi elettrici."
+    ],
+    [
+     "Collega",
+     "Rispetta la polarità (+ rosso sul + dell'amplificatore). I morsetti sono a molla: premi il cappuccio, infila il filo, rilascia. Nessun trefolo deve restare scoperto."
+    ],
+    [
+     "Inserisci e fissa",
+     "Togli la griglia magnetica, ruota le staffe verso l'interno e inserisci il diffusore. Con un cacciavite a croce gira ogni vite in senso orario: la staffa ruota in posizione e stringe contro il cartongesso. Non stringere troppo, per non rompere la staffa."
+    ],
+    [
+     "Chiudi",
+     "Rimetti la griglia magnetica. Se vuoi verniciare la cornice, la parte interna della dima protegge il woofer; anche la griglia si può verniciare."
+    ]
+   ]
+  }
+ ],
+ "nota": "Dati dalle fonti ufficiali ELAC, confrontati con la scheda Extrasound. Procedura di montaggio ELAC comune alle serie Vertex e Contractor (manuali Vertex II, Vertex III e Contractor).",
+ "extrasound": "https://www.extrasound.it/elac-vertex-iii-ic-vjt63-diffusore-da-incasso-a-soffitto-angolato-con-tweeter-jet",
+ "fonti": [
+  {
+   "label": "scheda tecnica ELAC Vertex Series 3",
+   "url": "https://elac.com/download/iw-vj63/vertex-series-3-lit-sheet.pdf"
+  }
+ ],
+ "slug": "elac-vertex-iii-ic-vjt63",
+ "tab": "Diffusori<br>da soffitto"
+}

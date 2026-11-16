@@ -1,0 +1,189 @@
+{
+ "id": 43546,
+ "tipo": "diffusore",
+ "cat": "P",
+ "brand": "ELAC",
+ "model": "Vertex III IW-VJ63M",
+ "crop": false,
+ "meta": "ELAC Vertex III IW-VJ63M: 2½ vie · jet · 2 woofer + 2 passivi, diffusore da incasso a parete. Foro 226 mm × 830 mm, profondità 97 mm, montaggio e collegamenti.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/ELAC-IW-VJ63M-W-angolo-sx.jpg",
+  "alt": "ELAC Vertex III IW-VJ63M visto di tre quarti da sinistra senza griglia"
+ },
+ "chiave": [
+  "2½ vie · JET · 4 Ω",
+  "Foro 226 × 830 mm",
+  "Profondità 97 mm"
+ ],
+ "righe": [
+  "2½ vie · JET · 2 woofer + 2 passivi",
+  "Diffusore da incasso a parete",
+  "Serie Vertex III"
+ ],
+ "intro": [
+  "Il <strong>Vertex III IW-VJ63M</strong> è un diffusore da incasso a parete in cassa chiusa, 2½ vie, con tweeter JET a nastro e altoparlanti Crystal in alluminio sandwich da 6″ (2 woofer + 2 passivi). Pensato per home cinema: prestazioni da cassa, aspetto da incasso.",
+  "Foro di <strong>226 mm × 830 mm</strong>, profondità di montaggio <strong>97 mm</strong>. Impedenza 4 Ω."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "2½ vie in cassa chiusa (sealed).",
+    "Tweeter JET a nastro ripiegato con guida d'onda Deep Spheroid.",
+    "2 woofer + 2 passivi, Crystal in alluminio sandwich da 6″.",
+    "Incrocio: 450 e 2.400 Hz.",
+    "Griglia metallica magnetica bianca, verniciabile; pannello frontale nero.",
+    "Morsetti a molla.",
+    "Nella confezione: dima di foratura e manuale."
+   ]
+  },
+  {
+   "titolo": "Acustica",
+   "voci": [
+    "Risposta in frequenza: 42 – 50.000 Hz.",
+    "Sensibilità: 88 dB (2,83 V / 1 m).",
+    "Impedenza nominale: 4 Ω.",
+    "Potenza: 120 W nominali, 160 W di picco.",
+    "Amplificazione consigliata: da 40 a 200 W per canale."
+   ]
+  },
+  {
+   "titolo": "Dimensioni",
+   "voci": [
+    "Esterne: 248 mm × 852 mm (L × A).",
+    "Foro nel muro: 226 mm × 830 mm (L × A).",
+    "Profondità di montaggio: 97 mm.",
+    "Cavo ai morsetti: fino a 14 AWG (circa 2,1 mm²)."
+   ]
+  }
+ ],
+ "viste": [
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/ELAC-IW-VJ63M-W-frontale.jpg",
+   "alt": "ELAC Vertex III IW-VJ63M visto di fronte senza griglia",
+   "caption": "Frontale senza griglia"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/ELAC-IW-VJ63M-W-griglia.jpg",
+   "alt": "ELAC Vertex III IW-VJ63M con la griglia bianca montata",
+   "caption": "Griglia montata"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/ELAC-IW-VJ63M-W-laterale.jpg",
+   "alt": "ELAC Vertex III IW-VJ63M visto di lato con i morsetti di fissaggio",
+   "caption": "Lato: staffe di fissaggio"
+  }
+ ],
+ "misure": {
+  "forma": "rett",
+  "est": [
+   "248 mm",
+   "852 mm"
+  ],
+  "foro": [
+   "226 mm",
+   "830 mm"
+  ],
+  "prof_tot": null,
+  "prof": "97 mm",
+  "nota": "Cornice in nero, foro nel muro tratteggiato in rosso. Il foro si traccia con la dima fornita: la cornice copre i bordi."
+ },
+ "cavi": {
+  "righe": [
+   [
+    "Fino a 7,5 m",
+    "18 AWG (circa 0,8 mm²)"
+   ],
+   [
+    "Oltre 7,5 m",
+    "16 AWG (circa 1,3 mm²)"
+   ],
+   [
+    "Massimo ai morsetti",
+    "14 AWG (circa 2,1 mm²)"
+   ]
+  ]
+ },
+ "collega": [
+  {
+   "titolo": "Con gli amplificatori ELAC Integrator",
+   "link": "amplificatori.html",
+   "icona": "sorgente",
+   "voci": [
+    "4 Ω: va sulle uscite normali (4–8 Ω), un diffusore per canale.",
+    "Non in bridge, che richiede diffusori da 8 Ω.",
+    "Controlla che l'amplificatore sia stabile su 4 Ω con tutti i canali in funzione."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Dove montarlo",
+   "voci": [
+    "All'altezza delle orecchie o poco sopra, rivolto verso il punto d'ascolto.",
+    "Ad almeno 60 cm da angoli e soffitto: troppo vicino all'angolo i bassi diventano rimbombanti.",
+    "Lascia almeno 38 mm tra il foro e montanti o travetti.",
+    "La cassa chiusa rende il risultato indipendente dal vano nel muro."
+   ],
+   "posa": {
+    "tipo": "parete",
+    "distanza": "≥ 60 cm"
+   }
+  },
+  {
+   "titolo": "Montaggio",
+   "passi": [
+    [
+     "Traccia il foro",
+     "Ritaglia la dima di carta, appoggiala nel punto scelto e traccia il bordo interno: 226 mm × 830 mm. Il manuale riporta per la dima 223 × 827 mm."
+    ],
+    [
+     "Taglia",
+     "Cutter per cartongesso, seghetto a punta o seghetto alternativo. La cornice copre i bordi."
+    ],
+    [
+     "Porta i cavi",
+     "Lascia circa 60 cm di cavo in più all'apertura, spella 6 mm. Niente chiodi o graffette metalliche; lontano dai cavi elettrici."
+    ],
+    [
+     "Orienta il tweeter",
+     "Il tweeter JET va montato con le fessure e il logo ELAC orizzontali, anche se il diffusore è in orizzontale: se serve, sviti il tweeter, ruotalo e riavvitalo."
+    ],
+    [
+     "Monta il pannello in MDF",
+     "Togli la griglia magnetica e installa il pannello in MDF prima di collegare i cavi."
+    ],
+    [
+     "Collega",
+     "Polarità: + rosso sul + dell'amplificatore. Morsetti a molla: premi, infila, rilascia; nessun trefolo scoperto."
+    ],
+    [
+     "Inserisci e fissa",
+     "Staffe ruotate verso l'interno, inserisci il diffusore e gira ogni vite in senso orario con un cacciavite a croce finché la staffa stringe contro la parete. Non stringere troppo."
+    ],
+    [
+     "Chiudi",
+     "Rimetti la griglia magnetica (verniciabile)."
+    ]
+   ]
+  }
+ ],
+ "nota": "Dati e procedura dal manuale ELAC Vertex III e dalla scheda tecnica della serie, confrontati con la scheda Extrasound.",
+ "extrasound": "https://www.extrasound.it/elac-vertex-iii-iw-vj63m-diffusore-da-incasso-a-parete-con-tweeter-jet-e-doppio-woofer",
+ "fonti": [
+  {
+   "label": "pagina ufficiale ELAC",
+   "url": "https://elac.com/iw-vj63m"
+  },
+  {
+   "label": "scheda tecnica ELAC Vertex Series 3",
+   "url": "https://elac.com/download/iw-vj63/vertex-series-3-lit-sheet.pdf"
+  },
+  {
+   "label": "manuale ELAC Vertex III in-wall",
+   "url": "https://manuals.online/elac/speakers/vertex-iii-series/user-manual/17fuv"
+  }
+ ],
+ "slug": "elac-vertex-iii-iw-vj63m",
+ "tab": "Diffusori<br>da incasso"
+}

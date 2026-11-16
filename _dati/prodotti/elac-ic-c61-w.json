@@ -1,0 +1,160 @@
+{
+ "id": 33224,
+ "tipo": "diffusore",
+ "cat": "S",
+ "brand": "ELAC",
+ "model": "IC-C61-W",
+ "crop": false,
+ "meta": "ELAC IC-C61-W Contractor: diffusore da incasso a soffitto 6,5″. Foro Ø 205 mm, profondità 76,5 mm, montaggio e collegamenti.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/ELAC-IC-C61.jpg",
+  "alt": "ELAC IC-C61-W visto di fronte senza griglia, con tweeter e woofer"
+ },
+ "chiave": [
+  "2 vie · 6,5″ · Contractor",
+  "Foro Ø 205 mm",
+  "Profondità 76,5 mm"
+ ],
+ "righe": [
+  "2 vie · woofer 6,5″",
+  "Diffusore da incasso a soffitto",
+  "Serie Contractor"
+ ],
+ "intro": [
+  "L'<strong>IC-C61-W</strong> della serie Contractor è un diffusore da incasso a soffitto a 2 vie con woofer in polipropilene da 6,5″, pensato per sonorizzare ambienti di servizio, negozi e uffici a costo contenuto.",
+  "Foro di <strong>Ø 205 mm</strong> e solo <strong>76,5 mm</strong> di profondità: adatto anche a controsoffitti bassi."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "2 vie, baffle aperto in ABS (infinite baffle).",
+    "Tweeter da 1″ in polimero (indicato anche come tweeter neodimio con ferrofluido).",
+    "Woofer da 6,5″ (165 mm) in polipropilene.",
+    "Staffe rotanti a vite (quick-turn).",
+    "Griglia metallica magnetica, verniciabile.",
+    "Morsetti a molla, fino a 14 AWG."
+   ]
+  },
+  {
+   "titolo": "Acustica",
+   "voci": [
+    "Risposta in frequenza: 50 – 20.000 Hz.",
+    "Sensibilità: 90 dB (2,83 V / 1 m).",
+    "Impedenza nominale: 6 Ω.",
+    "Amplificazione consigliata: da 20 a 70 W per canale.",
+    "<b>Da confermare:</b> il manuale Contractor riporta 60 – 20.000 Hz, 88 dB, 8 Ω e 60 W (120 W di picco)."
+   ]
+  },
+  {
+   "titolo": "Dimensioni",
+   "voci": [
+    "Diametro esterno: 232 mm.",
+    "Foro nel soffitto: Ø 205 mm.",
+    "Profondità di montaggio: 76,5 mm.",
+    "Peso: circa 1,2 kg."
+   ]
+  }
+ ],
+ "viste": [
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/ELAC-IC-C61-posteriore.jpg",
+   "alt": "ELAC IC-C61-W visto da dietro con i morsetti",
+   "caption": "Retro e morsetti"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/ELAC-IC-C-griglia.jpg",
+   "alt": "ELAC IC-C61-W con la griglia bianca montata",
+   "caption": "Griglia montata"
+  }
+ ],
+ "misure": {
+  "forma": "tondo",
+  "est": "232 mm",
+  "foro": "205 mm",
+  "prof": "76,5 mm"
+ },
+ "cavi": {
+  "righe": [
+   [
+    "Fino a 7,5 m",
+    "18 AWG (circa 0,8 mm²)"
+   ],
+   [
+    "Oltre 7,5 m",
+    "16 AWG (circa 1,3 mm²)"
+   ],
+   [
+    "Massimo ai morsetti",
+    "14 AWG (circa 2,1 mm²)"
+   ]
+  ]
+ },
+ "collega": [
+  {
+   "titolo": "Amplificazione",
+   "icona": "sorgente",
+   "voci": [
+    "Un diffusore per canale su amplificatori a bassa impedenza (4–8 Ω).",
+    "Non è un diffusore per linee 100 V: niente trasformatore."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Dove montarlo",
+   "voci": [
+    "Rivolto verso la zona d'ascolto; in ambienti grandi distribuisci più diffusori a distanza regolare.",
+    "Almeno 38 mm tra il foro e travetti o montanti."
+   ],
+   "posa": {
+    "tipo": "soffitto",
+    "distanza": "≥ 38 mm dai travetti",
+    "nota": "zona d'ascolto"
+   }
+  },
+  {
+   "titolo": "Montaggio",
+   "passi": [
+    [
+     "Traccia il foro",
+     "Ritaglia la dima, appoggiala sul soffitto e traccia il bordo interno: Ø 205 mm. Lascia almeno 38 mm tra il foro e travetti o montanti."
+    ],
+    [
+     "Taglia",
+     "Cutter per cartongesso, seghetto a punta o seghetto alternativo. La cornice copre i bordi."
+    ],
+    [
+     "Porta i cavi",
+     "Lascia circa 60 cm di cavo in più e spella 6 mm. Fino a 7,5 m basta il 18 AWG, oltre usa il 16 AWG; i morsetti accettano fino al 14 AWG."
+    ],
+    [
+     "Collega",
+     "Polarità: + rosso sul + dell'amplificatore. Morsetti a molla: premi il cappuccio, infila il filo, rilascia."
+    ],
+    [
+     "Inserisci e fissa",
+     "Togli la griglia magnetica, ruota le staffe verso l'interno, inserisci e gira le viti in senso orario con un cacciavite a croce finché la staffa stringe. Non stringere troppo."
+    ],
+    [
+     "Chiudi",
+     "Rimetti la griglia magnetica, verniciabile."
+    ]
+   ]
+  }
+ ],
+ "nota": "Dimensioni e procedura dal manuale ELAC Contractor. Dati elettrici: la scheda Extrasound e quella dei rivenditori concordano (90 dB, 6 Ω), il manuale Contractor riporta valori diversi: verificare sull'etichetta del prodotto.",
+ "extrasound": "https://www.extrasound.it/elac-ic-c61-w-diffusore-da-incasso-a-soffitto-65",
+ "fonti": [
+  {
+   "label": "manuale ELAC Contractor IC-C61-W",
+   "url": "https://img.audiomania.ru/data/elac_contractor_ic-c61-w.pdf"
+  },
+  {
+   "label": "scheda Hey Now Hi-Fi (Contractor)",
+   "url": "https://www.heynowhifi.com.au/products/elac-contractor-series-ic-cs61-w-6-5-in-ceiling-speaker"
+  }
+ ],
+ "slug": "elac-ic-c61-w",
+ "tab": "Diffusori<br>da soffitto"
+}

@@ -1,0 +1,169 @@
+{
+ "id": 3010,
+ "tipo": "diffusore",
+ "cat": "L",
+ "brand": "ELAC",
+ "model": "Vertex I IW-VC51",
+ "crop": true,
+ "meta": "ELAC Vertex I IW-VC51: centrale LCR da incasso a parete, 2 × 5,25″. Foro 417 × 157 mm, profondità 84 mm, montaggio e collegamenti.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/virtuemart/product/ELAC-IC-VC51-W-diffusore-incasso-LCR.jpg",
+  "alt": "ELAC Vertex I IW-VC51 senza griglia di tre quarti, con due woofer e tweeter centrale"
+ },
+ "chiave": [
+  "LCR 2 vie · 2 × 5,25″ · 6 Ω",
+  "Foro 417 × 157 mm",
+  "Profondità 84 mm"
+ ],
+ "righe": [
+  "2 vie · 2 × 5,25″",
+  "Centrale / LCR da incasso a parete",
+  "Serie Vertex I"
+ ],
+ "intro": [
+  "Il <strong>Vertex I IW-VC51</strong> è un diffusore da incasso a parete orizzontale per centrale o LCR, con due woofer in polipropilene da 5,25″ e tweeter a cupola morbida da 1″. Impedenza 6 Ω.",
+  "Foro di <strong>417 × 157 mm</strong>, profondità <strong>84 mm</strong>; staffe rotanti a vite e griglia magnetica verniciabile."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "2 vie, formato orizzontale per centrale o LCR.",
+    "Tweeter a cupola morbida da 1″ (25 mm).",
+    "Due woofer da 5,25″ (133 mm) in polipropilene.",
+    "Crossover multi-elemento con componenti audio-grade.",
+    "Griglia metallica magnetica bianca, verniciabile; pannello frontale nero.",
+    "Morsetti a molla.",
+    "Nella confezione: dima di foratura e manuale."
+   ]
+  },
+  {
+   "titolo": "Acustica",
+   "voci": [
+    "Risposta in frequenza: 45 – 20.000 Hz.",
+    "Sensibilità: 87 dB (2,83 V / 1 m).",
+    "Impedenza nominale: 6 Ω.",
+    "Potenza: 50 W nominali, 120 W di picco.",
+    "Amplificazione consigliata: da 30 a 120 W per canale.",
+    "Frequenza di incrocio: 2.200 Hz."
+   ]
+  },
+  {
+   "titolo": "Dimensioni",
+   "voci": [
+    "Esterne: 448,3 × 188,3 × 85,6 mm (L × A × P).",
+    "Foro nel muro: 417 × 157 mm (L × A).",
+    "Profondità di montaggio: 84 mm.",
+    "Cavo ai morsetti: fino a 14 AWG (circa 2,1 mm²)."
+   ]
+  }
+ ],
+ "viste": [
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/virtuemart/product/ELAC-IW-VC51-W-diffusore-incasso-LCR-frontale.jpg",
+   "alt": "ELAC Vertex I IW-VC51 senza griglia, vista frontale del pannello nero",
+   "caption": "Frontale senza griglia"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/virtuemart/product/ELAC-IW-VC51-W-diffusore-incasso-LCR-posteriore.jpg",
+   "alt": "Retro del diffusore da incasso ELAC Vertex I IW-VC51 con i magneti dei woofer",
+   "caption": "Retro"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/virtuemart/product/ELAC-IW-VC51-W-diffusore-incasso-LCR-griglia.jpg",
+   "alt": "Griglia bianca magnetica verniciabile del diffusore ELAC Vertex I IW-VC51",
+   "caption": "Griglia magnetica verniciabile"
+  }
+ ],
+ "misure": {
+  "forma": "rett",
+  "orizzontale": true,
+  "est": [
+   "448,3 mm",
+   "188,3 mm"
+  ],
+  "foro": [
+   "417 mm",
+   "157 mm"
+  ],
+  "prof_tot": "85,6 mm",
+  "prof": "84 mm"
+ },
+ "cavi": {
+  "righe": [
+   [
+    "Fino a 7,5 m",
+    "18 AWG (circa 0,8 mm²)"
+   ],
+   [
+    "Oltre 7,5 m",
+    "16 AWG (circa 1,3 mm²)"
+   ],
+   [
+    "Massimo ai morsetti",
+    "14 AWG (circa 2,1 mm²)"
+   ]
+  ]
+ },
+ "collega": [
+  {
+   "titolo": "Con gli amplificatori ELAC Integrator",
+   "link": "amplificatori.html",
+   "icona": "sorgente",
+   "voci": [
+    "6 Ω: va sulle uscite normali (4–8 Ω), un diffusore per canale.",
+    "Non in bridge, che sugli ELAC Integrator richiede diffusori da 8 Ω.",
+    "Amplificazione consigliata dal produttore: da 30 a 120 W per canale."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Dove montarlo",
+   "voci": [
+    "Come centrale: vicino all'altezza delle orecchie, sopra o sotto lo schermo.",
+    "Come frontale sinistro/destro: ai lati dello schermo, rivolto verso il punto d'ascolto.",
+    "Ad almeno 60 cm da angoli e soffitto; almeno 38 mm tra il foro e i montanti."
+   ]
+  },
+  {
+   "titolo": "Montaggio",
+   "passi": [
+    [
+     "Traccia il foro",
+     "Ritaglia la dima di carta, appoggiala nel punto scelto e traccia il bordo interno: 417 × 157 mm."
+    ],
+    [
+     "Taglia",
+     "Nel cartongesso basta un cutter; vanno bene anche un seghetto a punta o un seghetto alternativo. Taglia pulito: la cornice copre comunque i bordi."
+    ],
+    [
+     "Porta i cavi",
+     "Fai arrivare il cavo all'apertura lasciandone circa 60 cm in più e spella le estremità di 6 mm. Non fissarlo con chiodi o graffette metalliche e tienilo lontano dai cavi elettrici."
+    ],
+    [
+     "Collega",
+     "Rispetta la polarità (+ rosso sul + dell'amplificatore). I morsetti sono a molla: premi il cappuccio, infila il filo, rilascia. Nessun trefolo deve restare scoperto."
+    ],
+    [
+     "Inserisci e fissa",
+     "Togli la griglia magnetica, ruota le staffe verso l'interno e inserisci il diffusore. Con un cacciavite a croce gira ogni vite in senso orario: la staffa ruota in posizione e stringe contro il cartongesso. Non stringere troppo, per non rompere la staffa."
+    ],
+    [
+     "Chiudi",
+     "Rimetti la griglia magnetica. Se vuoi verniciare la cornice, la parte interna della dima protegge il woofer; anche la griglia si può verniciare."
+    ]
+   ]
+  }
+ ],
+ "nota": "Dati confrontati tra scheda Extrasound e schede tecniche dei rivenditori ELAC (la pagina ufficiale non riporta più i dati di questo modello). Procedura di montaggio ELAC comune alle serie Vertex e Contractor (manuali Vertex II, Vertex III e Contractor).",
+ "extrasound": "https://www.extrasound.it/elac-vertex-i-iw-vc51-diffusore-lcr-da-incasso-a-parete-2-vie",
+ "fonti": [
+  {
+   "label": "scheda Hey Now Hi-Fi (ELAC IW-VC51)",
+   "url": "https://heynowhifi.com.au/products/elac-vertex-iw-vc51-w-dual-in-wall-center-speaker"
+  }
+ ],
+ "slug": "elac-vertex-i-iw-vc51",
+ "tab": "Diffusori<br>LCR"
+}

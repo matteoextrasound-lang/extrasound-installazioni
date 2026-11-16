@@ -1,0 +1,155 @@
+{
+ "id": 3103,
+ "tipo": "diffusore",
+ "cat": "W",
+ "brand": "ELAC",
+ "model": "IW-S10EQ",
+ "crop": true,
+ "meta": "ELAC IW-S10EQ: subwoofer da incasso a parete 10″ con amplificatore da rack 400 W, Auto EQ da app e CVC. Collegamenti, montaggio e messa in servizio.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/ELAC-IW-S10EQ.jpg",
+  "alt": "Subwoofer da incasso ELAC IW-S10EQ senza griglia con il suo amplificatore da rack"
+ },
+ "chiave": [
+  "Sub 10″ + ampli rack 400 W",
+  "Profondità 97 mm",
+  "Auto EQ da app, CVC"
+ ],
+ "righe": [
+  "Woofer 10″ · 400 W",
+  "Subwoofer da incasso a parete",
+  "Serie Integrator"
+ ],
+ "intro": [
+  "L'<strong>IW-S10EQ</strong> è un sistema subwoofer da incasso a parete: un woofer da 10″ a lunga escursione con radiatore passivo, in un telaio da 31 × 31 cm profondo 97 mm, pilotato da un amplificatore da rack BASH da 400 W RMS.",
+  "L'amplificatore ha DSP con equalizzatore parametrico a 12 bande, Auto EQ con il microfono dello smartphone e CVC, che adatta la taratura al volume del vano nel muro."
+ ],
+ "colonne": [
+  {
+   "titolo": "Subwoofer",
+   "voci": [
+    "Woofer da 10″ (254 mm) in carta trattata a lunga escursione, più radiatore passivo.",
+    "Dimensioni: 310 × 310 × 107 mm (L × A × P).",
+    "Profondità di montaggio: 97 mm.",
+    "Griglia magnetica.",
+    "Peso: 6,46 kg."
+   ]
+  },
+  {
+   "titolo": "Amplificatore",
+   "voci": [
+    "Amplificatore da rack BASH, 400 W RMS.",
+    "Ingressi: 2 RCA (sinistro/destro) oppure LFE.",
+    "Crossover regolabile 50 – 150 Hz.",
+    "Controllo: Ethernet, RS232, trigger 12 V.",
+    "Standby: 1 W.",
+    "Peso: 5,87 kg."
+   ]
+  },
+  {
+   "titolo": "Prestazioni e app",
+   "voci": [
+    "Risposta: 28 – 150 Hz.",
+    "Equalizzatore parametrico a 12 bande, manuale o automatico.",
+    "Auto EQ con il microfono dello smartphone.",
+    "CVC (Cabinet Volume Correction): taratura in base al volume del vano.",
+    "App ELAC In Wall Sub Control per iOS e Android.",
+    "In confezione: cavo di alimentazione e dima di installazione."
+   ]
+  }
+ ],
+ "viste": [
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/ELAC-IW-S10EQ-amplificatore.jpg",
+   "alt": "Amplificatore da rack 400 W dell’ELAC IW-S10EQ, frontale e pannello posteriore con ingressi RCA",
+   "caption": "Amplificatore da rack"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/ELAC-IW-S10EQ-angolo-dx.jpg",
+   "alt": "ELAC IW-S10EQ visto di lato con il woofer da 254 mm e le staffe di fissaggio",
+   "caption": "Lato: staffe di fissaggio"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/ELAC-IW-S10EQ-frontale.jpg",
+   "alt": "ELAC IW-S10EQ senza griglia, vista frontale del woofer da 254 mm",
+   "caption": "Frontale senza griglia"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/ELAC-IW-S10EQ-griglia.jpg",
+   "alt": "Griglia magnetica bianca quadrata del subwoofer da incasso ELAC IW-S10EQ",
+   "caption": "Griglia magnetica"
+  }
+ ],
+ "lato_titolo": "Cosa si collega",
+ "collega": [
+  {
+   "titolo": "Dal processore o sintoamplificatore",
+   "icona": "sorgente",
+   "voci": [
+    "Uscita subwoofer (LFE) all'ingresso LFE dell'amplificatore, oppure uscite di linea sinistra/destra agli ingressi RCA L/R.",
+    "Con l'ingresso LFE il taglio lo fa il processore; con L/R usa il crossover dell'amplificatore (50 – 150 Hz)."
+   ]
+  },
+  {
+   "titolo": "Domotica e rete",
+   "icona": "domotica",
+   "voci": [
+    "Ethernet e RS232 per il controllo; trigger 12 V per l'accensione insieme al resto dell'impianto."
+   ]
+  },
+  {
+   "titolo": "App e taratura",
+   "icona": "app",
+   "voci": [
+    "ELAC In Wall Sub Control (iOS e Android): Auto EQ con il microfono del telefono, equalizzatore a 12 bande, CVC."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Schema di collegamento",
+   "zone": [
+    {
+     "label": "Uscita LFE del processore → ingresso LFE",
+     "tipo": "linea"
+    },
+    {
+     "label": "Amplificatore 400 W → subwoofer da incasso",
+     "tipo": "sub"
+    }
+   ],
+   "apparecchio": "Processore AV"
+  },
+  {
+   "titolo": "Messa in servizio",
+   "passi": [
+    [
+     "Installa il subwoofer",
+     "Traccia il foro con la dima fornita, porta il cavo di potenza dall'amplificatore e fissa il subwoofer con le staffe."
+    ],
+    [
+     "Collega l'amplificatore",
+     "Ingresso LFE o L/R dal processore; uscita di potenza verso il subwoofer; rete o RS232 se serve il controllo."
+    ],
+    [
+     "Imposta CVC",
+     "Nell'app indica il volume del vano in cui è installato il subwoofer, per adattare la taratura."
+    ],
+    [
+     "Esegui l'Auto EQ",
+     "Con l'app e il microfono dello smartphone nel punto d'ascolto; poi rifinisci a mano con l'equalizzatore a 12 bande."
+    ]
+   ]
+  }
+ ],
+ "nota": "Dati dalla scheda Extrasound e dalle schede tecniche dei rivenditori ELAC. Le fonti consultate non riportano le misure del foro: si ricavano dalla dima fornita.",
+ "extrasound": "https://www.extrasound.it/elac-muro-iw-s10eq-subwoofer-da-incasso-a-parete-con-amplificatore-400-w",
+ "fonti": [
+  {
+   "label": "scheda Sound Approach (ELAC IW-S10EQ)",
+   "url": "https://soundapproach.com/elac-iw-s10eq-wht-10-in-wall-speaker-single.html"
+  }
+ ],
+ "slug": "elac-iw-s10eq",
+ "tab": "Subwoofer<br>da incasso"
+}

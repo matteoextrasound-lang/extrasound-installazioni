@@ -1,0 +1,103 @@
+{
+ "id": 33175,
+ "tipo": "diffusore",
+ "cat": "W",
+ "brand": "ELAC",
+ "model": "Vertex IC-VS6-B",
+ "crop": true,
+ "meta": "ELAC Vertex IC-VS6-B: subwoofer passivo da incasso a soffitto, passa-banda con tubo flessibile. Dimensioni, collegamento e abbinamento con IC-V31.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/esg.jpg",
+  "alt": "Cassone del subwoofer ELAC Vertex IC-VS6-B con tubo flessibile e anello per la griglia"
+ },
+ "chiave": [
+  "Subwoofer passivo · 6,5″ DVC",
+  "Cassone 495 × 230 × 230 mm",
+  "35 – 125 Hz"
+ ],
+ "righe": [
+  "Woofer 6,5″ a doppia bobina",
+  "Subwoofer passivo da soffitto",
+  "Serie Vertex"
+ ],
+ "intro": [
+  "L'<strong>IC-VS6-B</strong> è un subwoofer passivo da soffitto: il woofer da 6,5″ a doppia bobina lavora in un cassone passa-banda che si nasconde tra i travetti, e il suono esce da una griglia tonda o quadrata tramite un tubo flessibile.",
+  "Progettato per completare i diffusori compatti <strong>ELAC IC-V31</strong>, che hanno i bassi da 76 Hz. Serve un amplificatore esterno."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "Cassone passa-banda, uscita tramite condotto.",
+    "Woofer da 6,5″ (165 mm) a doppia bobina mobile.",
+    "Tubo flessibile Ø 76,2 mm: permette di posizionare la griglia dove serve.",
+    "Griglia tonda o quadrata, in linea con i faretti.",
+    "Crossover interno: 125 Hz, 12 dB/ottava."
+   ]
+  },
+  {
+   "titolo": "Acustica",
+   "voci": [
+    "Risposta: 35 – 125 Hz (+3 dB).",
+    "Sensibilità: 87 dB (2,83 V / 1 m).",
+    "Impedenza nominale: 6 Ω.",
+    "Potenza massima in ingresso: 150 W."
+   ]
+  },
+  {
+   "titolo": "Dimensioni",
+   "voci": [
+    "Cassone: 495 × 230 × 230 mm (L × A × P).",
+    "Si installa tra i travetti standard del soffitto.",
+    "Foro per la griglia: non indicato nelle fonti ufficiali, verificare con la dima fornita."
+   ]
+  }
+ ],
+ "viste": [
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/dfbnx.jpg",
+   "alt": "Contenuto della confezione dell’ELAC Vertex IC-VS6-B: cassone, tubo flessibile e accessori di montaggio",
+   "caption": "Contenuto della confezione"
+  }
+ ],
+ "lato_titolo": "Cosa si collega",
+ "collega": [
+  {
+   "titolo": "ELAC Vertex I IC-V31",
+   "link": "scheda-elac-vertex-i-ic-v31.html",
+   "icona": "soffitto",
+   "voci": [
+    "Diffusore da soffitto compatto (foro Ø 102 mm) con bassi da 76 Hz: il subwoofer completa la gamma sotto i 125 Hz."
+   ]
+  },
+  {
+   "titolo": "Amplificatore",
+   "icona": "sorgente",
+   "voci": [
+    "È passivo: serve un canale di potenza (o due, sfruttando la doppia bobina).",
+    "Il taglio a 125 Hz è nel crossover interno."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Come si installa",
+   "voci": [
+    "Scegli un vano tra due travetti abbastanza lungo per il cassone (495 mm) e alto almeno 230 mm.",
+    "Posa il cassone sopra il controsoffitto e porta il tubo flessibile fino al punto della griglia.",
+    "Fai il foro per la griglia con la dima fornita e fissa l'anello della griglia.",
+    "Collega il cavo di potenza ai morsetti del cassone prima di chiudere."
+   ]
+  }
+ ],
+ "nota": "Dati dalla pagina ufficiale ELAC e dalla scheda Extrasound. Le fonti ufficiali non riportano lo schema di collegamento della doppia bobina né il foro della griglia: verificare con il manuale incluso.",
+ "extrasound": "https://www.extrasound.it/elac-vertex-ic-vs6-b-subwoofer-passivo-da-incasso-a-soffitto",
+ "fonti": [
+  {
+   "label": "pagina ufficiale ELAC",
+   "url": "https://elac.com/ic-vs6b"
+  }
+ ],
+ "slug": "elac-vertex-ic-vs6-b",
+ "tab": "Subwoofer<br>da incasso"
+}
