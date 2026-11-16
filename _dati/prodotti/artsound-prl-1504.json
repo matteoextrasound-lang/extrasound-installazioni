@@ -1,0 +1,124 @@
+{
+ "id": 31865,
+ "tipo": "amplificatore",
+ "cat": "M",
+ "brand": "ArtSound",
+ "model": "PRL-1504",
+ "crop": true,
+ "meta": "ArtSound PRL-1504: 4 canali · classe d, finale di potenza. Potenze, ingressi, uscite, collegamenti e messa in servizio.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/artsound-prl1504.jpg",
+  "alt": "ArtSound PRL-1504 nero visto di tre quarti"
+ },
+ "chiave": [
+  "4 × 150 W / 4 Ω",
+  "4 × 75 W / 8 Ω",
+  "Bridge 2 × 300 W · rack 1U"
+ ],
+ "righe": [
+  "4 canali · Classe D",
+  "Finale di potenza",
+  "Rack 1U"
+ ],
+ "intro": [
+  "L'<strong>ArtSound PRL-1504</strong> è un finale di potenza a 4 canali in formato rack 1U: 4 × 150 W su 4 Ω, 2 × 300 W a ponte.",
+  "Pilota due zone stereo."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "4 canali in classe D; risposta 10 Hz – 30 kHz.",
+    "Attenuatore di volume per canale e LED di segnale.",
+    "Protezioni: sovratensione, temperatura, cortocircuito.",
+    "Rack 19″ 1U; 483 × 250 × 44 mm, 4,2 kg."
+   ]
+  },
+  {
+   "titolo": "Ingressi",
+   "voci": [
+    "4 ingressi XLR / jack 6,3 mm.",
+    "Uscite di rilancio XLR / jack per collegare altri finali in cascata."
+   ]
+  },
+  {
+   "titolo": "Uscite",
+   "voci": [
+    "4 × 150 W su 4 Ω, 4 × 75 W su 8 Ω.",
+    "Bridge: 2 × 300 W.",
+    "Uscite euroblock e Speakon (dato Extrasound)."
+   ]
+  }
+ ],
+ "lato_titolo": "Cosa si collega",
+ "collega": [
+  {
+   "titolo": "Diffusori da incasso",
+   "link": "diffusori.html",
+   "icona": "soffitto",
+   "voci": [
+    "Due coppie di diffusori 4 – 8 Ω, oppure due diffusori in bridge."
+   ]
+  },
+  {
+   "titolo": "Sorgenti",
+   "icona": "sorgente",
+   "voci": [
+    "Una sorgente multizona con due uscite stereo."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "2 zone stereo",
+   "voci": [
+    "Canali 1-2 e 3-4 come due zone indipendenti."
+   ],
+   "zone": [
+    {
+     "label": "Zona 1 · 2 × 150 W / 4 Ω"
+    },
+    {
+     "label": "Zona 2 · 2 × 150 W / 4 Ω"
+    }
+   ]
+  },
+  {
+   "titolo": "Messa in servizio",
+   "passi": [
+    [
+     "Monta",
+     "Rack 19″, 1U."
+    ],
+    [
+     "Ingressi",
+     "Segnale di linea sui combo XLR / jack."
+    ],
+    [
+     "Uscite",
+     "Diffusori su euroblock o Speakon; rispetta la polarità."
+    ],
+    [
+     "Livelli",
+     "Volume al minimo all'accensione, poi regola i livelli per canale."
+    ]
+   ]
+  }
+ ],
+ "nota": "Scheda ArtSound non trovata: dati dalla scheda del rivenditore Concerto Audio, confrontati con la scheda Extrasound. Da confermare con ArtSound.",
+ "extrasound": "https://www.extrasound.it/artsound-prl-1504-amplificatore-finale-professionale-classe-d-4x150w",
+ "fonti": [
+  {
+   "label": "scheda ArtSound PRL-1504 (Concerto Audio)",
+   "url": "https://www.concertoaudio.com/gb/power-amps/7967-artsound-prl-1504.html"
+  }
+ ],
+ "retro": {
+  "src": "https://www.extrasound.it/wp-content/uploads/artsound-prl1504-retrio.jpg",
+  "alt": "Pannello posteriore dell'ArtSound PRL-1504 con quattro ingressi combo",
+  "titolo": "Pannello posteriore",
+  "caption": "Quattro ingressi combo e uscite per i diffusori."
+ },
+ "slug": "artsound-prl-1504",
+ "tab": "Amplificatori<br>multicanale"
+}

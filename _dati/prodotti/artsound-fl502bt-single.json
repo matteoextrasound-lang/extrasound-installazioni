@@ -1,0 +1,135 @@
+{
+ "id": 40517,
+ "tipo": "diffusore",
+ "cat": "A",
+ "brand": "ArtSound",
+ "model": "FL502BT Single",
+ "crop": false,
+ "meta": "ArtSound FL502BT Single: 2 vie coassiale · woofer 5, diffusore da incasso attivo con Bluetooth. Foro, profondità e collegamenti per l'installatore.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/Artsound-FL502BT.jpg",
+  "alt": "ArtSound FL502BT senza griglia con woofer e tweeter coassiale"
+ },
+ "chiave": [
+  "2 vie coassiale · 8 Ω",
+  "Foro Ø 180 mm",
+  "Profondità 70 mm"
+ ],
+ "righe": [
+  "2 vie coassiale · woofer 5",
+  "Diffusore da incasso attivo con Bluetooth",
+  "Serie Flat"
+ ],
+ "intro": [
+  "L'<strong>ArtSound FL502BT Single</strong> è un diffusore da incasso attivo con Bluetooth della serie Flat: woofer 5,25″ in polipropilene e carbonio, tweeter 0,5″ in policarbonato. Impedenza 8 Ω.",
+  "Foro <strong>Ø 180 mm</strong>, ingombro in profondità <strong>70 mm</strong>."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "Diffusore da incasso attivo con Bluetooth, serie Flat.",
+    "Sistema: 2 vie coassiale, attivo.",
+    "Woofer 5,25″ in polipropilene e carbonio.",
+    "Tweeter 0,5″ in policarbonato."
+   ]
+  },
+  {
+   "titolo": "Acustica",
+   "voci": [
+    "Risposta: 65 Hz – 20 kHz.",
+    "Sensibilità: 88 dB.",
+    "Impedenza: 8 Ω.",
+    "Amplificazione: amplificatore integrato 45 W in classe D.",
+    "Housing in ABS.",
+    "Bluetooth 5.1 con aptX, aptX HD e aptX Adaptive; ingresso AUX."
+   ]
+  },
+  {
+   "titolo": "Dimensioni",
+   "voci": [
+    "Foro: Ø 180 mm.",
+    "Ingombro: Ø 200 mm × 70 mm di profondità.",
+    "Peso: 1 kg a pezzo."
+   ]
+  }
+ ],
+ "viste": [
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/Artsound-FL502BT-posteriore.jpg",
+   "alt": "Retro dell'ArtSound FL502BT con il modulo amplificatore Bluetooth",
+   "caption": "Retro"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/Artsound-FL502BT-set.jpg",
+   "alt": "Retro di due ArtSound FL502BT della versione SET",
+   "caption": "Retro"
+  }
+ ],
+ "misure": {
+  "forma": "tondo",
+  "foro": "180 mm",
+  "est": "200 mm",
+  "prof": "70 mm",
+  "nota": "Foro tratteggiato in rosso. Profondità = ingombro dichiarato da ArtSound; disegno non in scala."
+ },
+ "collega": [
+  {
+   "titolo": "Alimentazione e sorgenti",
+   "icona": "bluetooth",
+   "voci": [
+    "Diffusore singolo con amplificatore da 45 W in classe D: va alimentato.",
+    "Sorgenti: Bluetooth 5.1 oppure ingresso AUX; il modulo prevede un ingresso a priorità (PRIORITY).",
+    "Versione SET (attivo + passivo) disponibile come opzione. Alimentazione e cablaggio da confermare sul manuale ArtSound."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Dove montarlo",
+   "voci": [
+    "Lontano da pareti e angoli quando possibile.",
+    "Verifica travi, tubi e impianti prima di tagliare."
+   ]
+  },
+  {
+   "titolo": "Montaggio",
+   "passi": [
+    [
+     "Traccia",
+     "Traccia il foro con la dima o con il diffusore: Ø 180 mm."
+    ],
+    [
+     "Taglia",
+     "Fori rotondi: un foro di partenza all'interno del tracciato; fori quadrati o rettangolari: quattro fori negli angoli. Poi taglia con il seghetto alternativo."
+    ],
+    [
+     "Collega prima di montare",
+     "Collega il cavo rispettando la polarità marcata prima di inserire il diffusore: correggerla dopo significa smontarlo."
+    ],
+    [
+     "Fissa",
+     "Inserisci il diffusore e stringi le viti: i ganci si aprono e serrano il pannello."
+    ],
+    [
+     "Chiudi",
+     "Monta la griglia."
+    ]
+   ]
+  }
+ ],
+ "nota": "Dati dalla scheda tecnica ArtSound FL502BT Single, confrontati con la scheda Extrasound. ArtSound non pubblica un manuale di installazione per questa serie: la procedura segue il manuale ArtSound MDC6.",
+ "extrasound": "https://www.extrasound.it/artsound-fl502bt-single-diffusore-da-incasso-bluetooth-attivo-ultra-piatto",
+ "fonti": [
+  {
+   "label": "scheda tecnica ArtSound FL502BT Single",
+   "url": "https://easylounge.com/pdf/Produits/92ac5879-cf0d-4013-8059-4c1cce3c16bc/fl502-bt-single_657872f27223d.pdf"
+  },
+  {
+   "label": "manuale ArtSound MDC6",
+   "url": "https://easylounge.com/pdf/Produits/2f74505f-d093-4dc1-b089-7199a01dfdb6/MDC6_man.pdf"
+  }
+ ],
+ "slug": "artsound-fl502bt-single",
+ "tab": "Diffusori<br>amplificati"
+}

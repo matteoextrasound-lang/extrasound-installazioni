@@ -1,0 +1,140 @@
+{
+ "id": 32142,
+ "tipo": "diffusore",
+ "cat": "S",
+ "brand": "ArtSound",
+ "model": "MDC64",
+ "crop": false,
+ "meta": "ArtSound MDC64: bobina singola · woofer 6, diffusore da incasso a soffitto. Foro, profondità e collegamenti per l'installatore.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/artsound-mdc64.jpg",
+  "alt": "Griglia bianca dell'ArtSound MDC64"
+ },
+ "chiave": [
+  "bobina singola · 8 Ω",
+  "Foro Ø 133 mm",
+  "Profondità 83 mm"
+ ],
+ "righe": [
+  "bobina singola · woofer 6",
+  "Diffusore da incasso a soffitto",
+  "Serie Waterproof"
+ ],
+ "intro": [
+  "L'<strong>ArtSound MDC64</strong> è un diffusore da incasso a soffitto della serie Waterproof: woofer 6,5″ in polipropilene e carbonio a doppio cono. Impedenza 8 Ω.",
+  "Foro <strong>Ø 133 mm</strong>, ingombro in profondità <strong>83 mm</strong>."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "Diffusore da incasso a soffitto, serie Waterproof.",
+    "Sistema: bobina singola, doppio cono.",
+    "Woofer 6,5″ in polipropilene e carbonio a doppio cono.",
+    "Retro chiuso ermeticamente e materiali resistenti all'acqua: piscine, saune, bagni turchi, giardini. Nessun grado IP dichiarato."
+   ]
+  },
+  {
+   "titolo": "Acustica",
+   "voci": [
+    "Risposta: 95 Hz – 20 kHz.",
+    "Sensibilità: 86 dB.",
+    "Impedenza: 8 Ω.",
+    "Amplificazione: 100 W massimi.",
+    "Housing in ABS."
+   ]
+  },
+  {
+   "titolo": "Dimensioni",
+   "voci": [
+    "Foro: Ø 133 mm.",
+    "Ingombro: Ø 180 mm × 83 mm di profondità.",
+    "Peso: 1 kg a pezzo."
+   ]
+  }
+ ],
+ "viste": [
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/artsound-mdc64-lato.jpg",
+   "alt": "Vista laterale dell'ArtSound MDC64",
+   "caption": "Vista"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/artsound-mdc64-retro.jpg",
+   "alt": "Retro dell'ArtSound MDC64 con ganci di fissaggio e morsetti",
+   "caption": "Retro"
+  }
+ ],
+ "misure": {
+  "forma": "tondo",
+  "foro": "133 mm",
+  "est": "180 mm",
+  "prof": "83 mm",
+  "nota": "Foro tratteggiato in rosso. Profondità = ingombro dichiarato da ArtSound; disegno non in scala."
+ },
+ "collega": [
+  {
+   "titolo": "Amplificazione",
+   "link": "amplificatori.html",
+   "icona": "sorgente",
+   "voci": [
+    "8 Ω: un diffusore per canale su qualsiasi amplificatore da installazione.",
+    "Amplificazione: 100 W massimi.",
+    "Ad esempio con ArtSound AMP850 (4 zone) o Smart Zone 4 AMP."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Dove montarlo",
+   "voci": [
+    "Lontano da pareti e angoli quando possibile.",
+    "Verifica travi, tubi e impianti prima di tagliare."
+   ],
+   "posa": {
+    "tipo": "soffitto",
+    "distanza": "lontano dalle pareti",
+    "nota": "zona d'ascolto"
+   }
+  },
+  {
+   "titolo": "Montaggio",
+   "passi": [
+    [
+     "Traccia",
+     "Traccia il foro con la dima o con il diffusore: Ø 133 mm."
+    ],
+    [
+     "Taglia",
+     "Fori rotondi: un foro di partenza all'interno del tracciato; fori quadrati o rettangolari: quattro fori negli angoli. Poi taglia con il seghetto alternativo."
+    ],
+    [
+     "Collega prima di montare",
+     "Collega il cavo rispettando la polarità marcata prima di inserire il diffusore: correggerla dopo significa smontarlo."
+    ],
+    [
+     "Fissa",
+     "Inserisci il diffusore e stringi le viti: i ganci si aprono e serrano il pannello."
+    ],
+    [
+     "Chiudi",
+     "Monta la griglia."
+    ]
+   ]
+  }
+ ],
+ "nota": "Dati dalla scheda tecnica ArtSound MDC64, confrontati con la scheda Extrasound. ArtSound non pubblica un manuale di installazione per questa serie: la procedura segue il manuale ArtSound MDC6.",
+ "extrasound": "https://www.extrasound.it/artsound-mdc64-diffusori-da-incasso-waterproof-compatti-per-ambienti-umidi-coppia",
+ "fonti": [
+  {
+   "label": "scheda tecnica ArtSound MDC64",
+   "url": "https://www.telecontrol.ro/domains/telecontrol.ro/files/download_files/mdc64-0-pdf5481.pdf"
+  },
+  {
+   "label": "manuale ArtSound MDC6",
+   "url": "https://easylounge.com/pdf/Produits/2f74505f-d093-4dc1-b089-7199a01dfdb6/MDC6_man.pdf"
+  }
+ ],
+ "slug": "artsound-mdc64",
+ "tab": "Diffusori<br>da soffitto"
+}

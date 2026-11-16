@@ -1,0 +1,102 @@
+{
+ "id": 31885,
+ "tipo": "amplificatore",
+ "cat": "M",
+ "brand": "ArtSound",
+ "model": "MX60MKII",
+ "crop": true,
+ "meta": "ArtSound MX60MKII: 60 w · 100 v, amplificatore mixer. Potenze, ingressi, uscite, collegamenti e messa in servizio.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/Artsound-MX60MKII-frontale.jpg",
+  "alt": "ArtSound MX60MKII visto di fronte con manopole di volume"
+ },
+ "chiave": [
+  "60 W · 4 – 8 Ω / 70 / 100 V",
+  "2 mic · 2 AUX",
+  "BT · USB · microSD"
+ ],
+ "righe": [
+  "60 W · 100 V",
+  "Amplificatore mixer",
+  "Compatto"
+ ],
+ "intro": [
+  "L'<strong>ArtSound MX60MKII</strong> è un amplificatore mixer da 60 W per musica e annunci in una zona, con uscite 4 – 8 Ω, 70 V e 100 V.",
+  "Bluetooth, USB e microSD integrati; telecomando incluso."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "Potenza 60 W RMS (8 Ω e 100 V); risposta 60 Hz – 18 kHz (dati Extrasound).",
+    "Toni alti e bassi.",
+    "Alimentazione 100 – 240 V AC o 24 V DC.",
+    "63 × 215 × 285 mm, 1,8 kg (dati Extrasound)."
+   ]
+  },
+  {
+   "titolo": "Ingressi",
+   "voci": [
+    "2 ingressi microfono, 600 Ω, 10 mV bilanciati; MIC1 con priorità.",
+    "2 ingressi AUX RCA.",
+    "Sorgenti integrate: Bluetooth, USB, microSD."
+   ]
+  },
+  {
+   "titolo": "Uscite",
+   "voci": [
+    "Diffusori: 4 – 8 Ω, 70 V, 100 V.",
+    "Uscita di linea RCA.",
+    "Mai usare insieme l'uscita a bassa impedenza e quella 70 / 100 V (indicazione del manuale MX-60)."
+   ]
+  }
+ ],
+ "lato_titolo": "Cosa si collega",
+ "collega": [
+  {
+   "titolo": "Diffusori 100 V",
+   "link": "diffusori.html",
+   "icona": "linea100v",
+   "voci": [
+    "La somma delle prese dei diffusori deve restare sotto i 60 W.",
+    "Esempi ArtSound: MDT600-P, MDT500-P."
+   ]
+  },
+  {
+   "titolo": "Microfoni e sorgenti",
+   "icona": "microfono",
+   "voci": [
+    "Due microfoni, due sorgenti RCA e il lettore integrato."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Messa in servizio",
+   "passi": [
+    [
+     "Uscita",
+     "Scegli 4 – 8 Ω oppure 70 / 100 V, mai entrambe; somma delle prese entro i 60 W."
+    ],
+    [
+     "Terra",
+     "Collega la terra a una terra vera, mai a un tubo del gas."
+    ],
+    [
+     "Ventilazione",
+     "Lascia almeno 10 cm liberi ai lati."
+    ]
+   ]
+  }
+ ],
+ "nota": "Non è disponibile una scheda ArtSound della versione MKII: i dati di prodotto sono quelli Extrasound, le avvertenze di collegamento vengono dal manuale ArtSound MX-60 / MX-60M (modello precedente, con 3 ingressi microfono e dimensioni diverse). Da confermare con ArtSound.",
+ "extrasound": "https://www.extrasound.it/artsound-mx60mkii-amplificatore-mixer-60w-bluetooth-per-sistemi-100v",
+ "fonti": [
+  {
+   "label": "manuale ArtSound MX-60 / MX-60M (FR)",
+   "url": "https://res.cloudinary.com/sonepar-fr/raw/upload/s--xJ3UVoN7--/v1/documents/1110/000014713_mx60M_notice.pdf"
+  }
+ ],
+ "slug": "artsound-mx60mkii",
+ "tab": "Amplificatori<br>multicanale"
+}

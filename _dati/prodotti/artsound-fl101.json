@@ -1,0 +1,143 @@
+{
+ "id": 40409,
+ "tipo": "diffusore",
+ "cat": "S",
+ "brand": "ArtSound",
+ "model": "FL101",
+ "crop": false,
+ "meta": "ArtSound FL101: 2 vie coassiale · woofer 5, diffusore da incasso a parete o soffitto. Foro, profondità e collegamenti per l'installatore.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/Artsound-FL101.jpg",
+  "alt": "ArtSound FL101 senza griglia, con woofer e tweeter in vista"
+ },
+ "chiave": [
+  "2 vie coassiale · 8 Ω",
+  "Foro 148 mm × 148 mm",
+  "Profondità 70 mm"
+ ],
+ "righe": [
+  "2 vie coassiale · woofer 5",
+  "Diffusore da incasso a parete o soffitto",
+  "Serie Flat"
+ ],
+ "intro": [
+  "L'<strong>ArtSound FL101</strong> è un diffusore da incasso a parete o soffitto della serie Flat: woofer 5,25″ in polipropilene e carbonio, tweeter 0,5″ in policarbonato. Impedenza 8 Ω.",
+  "Foro <strong>148 mm × 148 mm</strong>, ingombro in profondità <strong>70 mm</strong>."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "Diffusore da incasso a parete o soffitto, serie Flat.",
+    "Sistema: 2 vie coassiale.",
+    "Woofer 5,25″ in polipropilene e carbonio.",
+    "Tweeter 0,5″ in policarbonato.",
+    "Griglia magnetica quasi senza cornice (1 mm), verniciabile.",
+    "Accessori ArtSound: KITSQ1."
+   ]
+  },
+  {
+   "titolo": "Acustica",
+   "voci": [
+    "Risposta: 85 Hz – 20 kHz.",
+    "Sensibilità: 88 dB.",
+    "Impedenza: 8 Ω.",
+    "Amplificazione: 10 – 100 W (consigliata).",
+    "Housing in ABS."
+   ]
+  },
+  {
+   "titolo": "Dimensioni",
+   "voci": [
+    "Foro: 148 mm × 148 mm.",
+    "Ingombro: 170 mm × 170 mm × 70 mm di profondità.",
+    "Peso: 0,95 kg a pezzo."
+   ]
+  }
+ ],
+ "viste": [
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/Artsound-FL101-altoparlante-griglia.jpg",
+   "alt": "ArtSound FL101 senza griglia con la griglia bianca accanto",
+   "caption": "Con griglia"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/Artsound-FL101-griglia.jpg",
+   "alt": "Griglia bianca dell'ArtSound FL101",
+   "caption": "Griglia"
+  }
+ ],
+ "misure": {
+  "forma": "rett",
+  "foro": [
+   "148 mm",
+   "148 mm"
+  ],
+  "est": [
+   "170 mm",
+   "170 mm"
+  ],
+  "prof": "70 mm",
+  "nota": "Foro tratteggiato in rosso. Profondità = ingombro dichiarato da ArtSound; disegno non in scala."
+ },
+ "collega": [
+  {
+   "titolo": "Amplificazione",
+   "link": "amplificatori.html",
+   "icona": "sorgente",
+   "voci": [
+    "8 Ω: un diffusore per canale su qualsiasi amplificatore da installazione.",
+    "Amplificazione: 10 – 100 W (consigliata).",
+    "Ad esempio con ArtSound AMP850 (4 zone) o Smart Zone 4 AMP."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Dove montarlo",
+   "voci": [
+    "Verifica travi, tubi e impianti prima di tagliare.",
+    "Nei soffitti aperti o per isolare acusticamente il diffusore usa il kit posteriore ArtSound (KITSQ1)."
+   ]
+  },
+  {
+   "titolo": "Montaggio",
+   "passi": [
+    [
+     "Traccia",
+     "Traccia il foro con la dima o con il diffusore: 148 mm × 148 mm."
+    ],
+    [
+     "Taglia",
+     "Fori rotondi: un foro di partenza all'interno del tracciato; fori quadrati o rettangolari: quattro fori negli angoli. Poi taglia con il seghetto alternativo."
+    ],
+    [
+     "Collega prima di montare",
+     "Collega il cavo rispettando la polarità marcata prima di inserire il diffusore: correggerla dopo significa smontarlo."
+    ],
+    [
+     "Fissa",
+     "Inserisci il diffusore e stringi le viti: i ganci si aprono e serrano il pannello."
+    ],
+    [
+     "Chiudi",
+     "Monta la griglia magnetica. Cornice e griglia si possono verniciare."
+    ]
+   ]
+  }
+ ],
+ "nota": "Dati dalla scheda tecnica ArtSound FL101, confrontati con la scheda Extrasound. ArtSound non pubblica un manuale di installazione per questa serie: la procedura segue il manuale ArtSound MDC6.",
+ "extrasound": "https://www.extrasound.it/artsound-fl101-coppia-diffusori-da-incasso-quadrati-ultra-piatti-2-vie",
+ "fonti": [
+  {
+   "label": "scheda tecnica ArtSound FL101",
+   "url": "https://avcomfort.ru/uploads/instructions/accoustics/86718/FL101_uk.pdf"
+  },
+  {
+   "label": "manuale ArtSound MDC6",
+   "url": "https://easylounge.com/pdf/Produits/2f74505f-d093-4dc1-b089-7199a01dfdb6/MDC6_man.pdf"
+  }
+ ],
+ "slug": "artsound-fl101",
+ "tab": "Diffusori<br>da soffitto"
+}

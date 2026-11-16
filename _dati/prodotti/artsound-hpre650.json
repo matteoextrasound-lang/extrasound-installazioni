@@ -1,0 +1,138 @@
+{
+ "id": 32050,
+ "tipo": "diffusore",
+ "cat": "P",
+ "brand": "ArtSound",
+ "model": "HPRE650",
+ "crop": false,
+ "meta": "ArtSound HPRE650: 2 vie · woofer 5, diffusore da incasso a parete. Foro, profondità e collegamenti per l'installatore.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/artsound-hpre650.jpg",
+  "alt": "ArtSound HPRE650 senza griglia, con woofer e tweeter in vista"
+ },
+ "chiave": [
+  "2 vie · 8 Ω",
+  "Foro 245 mm × 160 mm",
+  "Profondità 70 mm"
+ ],
+ "righe": [
+  "2 vie · woofer 5",
+  "Diffusore da incasso a parete",
+  "Serie Happi"
+ ],
+ "intro": [
+  "L'<strong>ArtSound HPRE650</strong> è un diffusore da incasso a parete della serie Happi: woofer 5,25″ in alluminio, sospensione in gomma, tweeter 0,75″ in alluminio, orientabile. Impedenza 8 Ω.",
+  "Foro <strong>245 mm × 160 mm</strong>, ingombro in profondità <strong>70 mm</strong>."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "Diffusore da incasso a parete, serie Happi.",
+    "Sistema: 2 vie.",
+    "Woofer 5,25″ in alluminio, sospensione in gomma.",
+    "Tweeter 0,75″ in alluminio, orientabile.",
+    "Resistente all'acqua e agli spruzzi: griglia in alluminio a fissaggio magnetico, adatto a bagni, cucine e portici.",
+    "Accessori ArtSound: KITRE2."
+   ]
+  },
+  {
+   "titolo": "Acustica",
+   "voci": [
+    "Risposta: 50 Hz – 20 kHz.",
+    "Sensibilità: 88 dB.",
+    "Impedenza: 8 Ω.",
+    "Amplificazione: 60 W massimi.",
+    "Housing in ABS."
+   ]
+  },
+  {
+   "titolo": "Dimensioni",
+   "voci": [
+    "Foro: 245 mm × 160 mm.",
+    "Ingombro: 280 mm × 190 mm × 70 mm di profondità.",
+    "Peso: 1,5 kg a pezzo."
+   ]
+  }
+ ],
+ "viste": [
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/artsound-hpre650-lato-1.jpg",
+   "alt": "Vista laterale dell'ArtSound HPRE650",
+   "caption": "Vista"
+  }
+ ],
+ "misure": {
+  "forma": "rett",
+  "foro": [
+   "245 mm",
+   "160 mm"
+  ],
+  "est": [
+   "280 mm",
+   "190 mm"
+  ],
+  "prof": "70 mm",
+  "nota": "Foro tratteggiato in rosso. Profondità = ingombro dichiarato da ArtSound; disegno non in scala."
+ },
+ "collega": [
+  {
+   "titolo": "Amplificazione",
+   "link": "amplificatori.html",
+   "icona": "sorgente",
+   "voci": [
+    "8 Ω: un diffusore per canale su qualsiasi amplificatore da installazione.",
+    "Amplificazione: 60 W massimi.",
+    "Ad esempio con ArtSound AMP850 (4 zone) o Smart Zone 4 AMP."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Dove montarlo",
+   "voci": [
+    "Verifica travi, tubi e impianti prima di tagliare.",
+    "Nei soffitti aperti o per isolare acusticamente il diffusore usa il kit posteriore ArtSound (KITRE2)."
+   ]
+  },
+  {
+   "titolo": "Montaggio",
+   "passi": [
+    [
+     "Traccia",
+     "Traccia il foro con la dima o con il diffusore: 245 mm × 160 mm."
+    ],
+    [
+     "Taglia",
+     "Fori rotondi: un foro di partenza all'interno del tracciato; fori quadrati o rettangolari: quattro fori negli angoli. Poi taglia con il seghetto alternativo."
+    ],
+    [
+     "Collega prima di montare",
+     "Collega il cavo rispettando la polarità marcata prima di inserire il diffusore: correggerla dopo significa smontarlo."
+    ],
+    [
+     "Fissa",
+     "Inserisci il diffusore e stringi le viti: i ganci si aprono e serrano il pannello."
+    ],
+    [
+     "Chiudi",
+     "Monta la griglia magnetica. Cornice e griglia si possono verniciare."
+    ]
+   ]
+  }
+ ],
+ "nota": "Dati dalla scheda tecnica ArtSound HPRE650, confrontati con la scheda Extrasound. ArtSound non pubblica un manuale di installazione per questa serie: la procedura segue il manuale ArtSound MDC6. La scheda Extrasound indica un'amplificazione di 20 – 120 W; ArtSound dichiara 60 W massimi e un woofer da 5,25″. Fa fede il dato ArtSound.",
+ "extrasound": "https://www.extrasound.it/artsound-hpre650-diffusori-da-incasso-rettangolari-2-vie-serie-happi",
+ "fonti": [
+  {
+   "label": "scheda tecnica ArtSound HPRE650",
+   "url": "https://www.telecontrol.ro/domains/telecontrol.ro/files/download_files/hpre650-0-pdf8097.pdf"
+  },
+  {
+   "label": "manuale ArtSound MDC6",
+   "url": "https://easylounge.com/pdf/Produits/2f74505f-d093-4dc1-b089-7199a01dfdb6/MDC6_man.pdf"
+  }
+ ],
+ "slug": "artsound-hpre650",
+ "tab": "Diffusori<br>da incasso"
+}

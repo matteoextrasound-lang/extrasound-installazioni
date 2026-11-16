@@ -1,0 +1,153 @@
+{
+ "id": 39813,
+ "tipo": "diffusore",
+ "cat": "2",
+ "brand": "ArtSound",
+ "model": "FL550",
+ "crop": false,
+ "meta": "ArtSound FL550: 2 vie coassiale stereo · woofer 5, diffusore stereo da incasso a soffitto. Foro, profondità e collegamenti per l'installatore.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/Artsound-FL550.jpg",
+  "alt": "ArtSound FL550 senza griglia con la griglia bianca accanto"
+ },
+ "chiave": [
+  "2 vie coassiale stereo · 8 Ω",
+  "Foro Ø 180 mm",
+  "Profondità 80 mm"
+ ],
+ "righe": [
+  "2 vie coassiale stereo · woofer 5",
+  "Diffusore stereo da incasso a soffitto",
+  "Serie Flat"
+ ],
+ "intro": [
+  "L'<strong>ArtSound FL550</strong> è un diffusore stereo da incasso a soffitto della serie Flat: woofer 5,25″ in polipropilene e carbonio, 2 tweeter 0,5″ in policarbonato. Impedenza 8 Ω.",
+  "Foro <strong>Ø 180 mm</strong>, ingombro in profondità <strong>80 mm</strong>."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "Diffusore stereo da incasso a soffitto, serie Flat.",
+    "Sistema: 2 vie coassiale stereo.",
+    "Woofer 5,25″ in polipropilene e carbonio.",
+    "2 tweeter 0,5″ in policarbonato.",
+    "Griglia magnetica quasi senza cornice (1 mm), verniciabile.",
+    "Stereo in un solo diffusore: due tweeter e doppi morsetti, sinistro e destro.",
+    "Accessori ArtSound: KITRO2."
+   ]
+  },
+  {
+   "titolo": "Acustica",
+   "voci": [
+    "Risposta: 95 Hz – 20 kHz.",
+    "Sensibilità: 87 dB.",
+    "Impedenza: 8 Ω.",
+    "Amplificazione: 10 – 100 W (consigliata).",
+    "Housing in ABS."
+   ]
+  },
+  {
+   "titolo": "Dimensioni",
+   "voci": [
+    "Foro: Ø 180 mm.",
+    "Ingombro: Ø 200 mm × 80 mm di profondità.",
+    "Peso: 1,1 kg a pezzo."
+   ]
+  }
+ ],
+ "viste": [
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/Artsound-FL550-rear.jpg",
+   "alt": "Retro dell'ArtSound FL550 con ganci di fissaggio e morsetti",
+   "caption": "Retro"
+  }
+ ],
+ "misure": {
+  "forma": "tondo",
+  "foro": "180 mm",
+  "est": "200 mm",
+  "prof": "80 mm",
+  "nota": "Foro tratteggiato in rosso. Profondità = ingombro dichiarato da ArtSound; disegno non in scala."
+ },
+ "collega": [
+  {
+   "titolo": "Amplificazione",
+   "link": "amplificatori.html",
+   "icona": "sorgente",
+   "voci": [
+    "Due ingressi: canale sinistro e destro dello stesso amplificatore, 8 Ω per canale.",
+    "Per stanze piccole, bagni o corridoi dove c'è posto per un solo diffusore.",
+    "Amplificazione: 10 – 100 W (consigliata).",
+    "Ad esempio con ArtSound AMP850 (4 zone) o Smart Zone 4 AMP."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Dove montarlo",
+   "voci": [
+    "Al centro della stanza: un solo punto di emissione per i due canali.",
+    "Verifica travi, tubi e impianti prima di tagliare.",
+    "Nei soffitti aperti o per isolare acusticamente il diffusore usa il kit posteriore ArtSound (KITRO2)."
+   ],
+   "posa": {
+    "tipo": "soffitto",
+    "distanza": "lontano dalle pareti",
+    "nota": "zona d'ascolto"
+   }
+  },
+  {
+   "titolo": "Schema",
+   "voci": [
+    "Un solo diffusore riceve i due canali dello stesso amplificatore."
+   ],
+   "zone": [
+    {
+     "label": "FL550 · L + R",
+     "tipo": "2"
+    }
+   ],
+   "apparecchio": "Amplificatore"
+  },
+  {
+   "titolo": "Montaggio",
+   "passi": [
+    [
+     "Traccia",
+     "Traccia il foro con la dima o con il diffusore: Ø 180 mm."
+    ],
+    [
+     "Taglia",
+     "Fori rotondi: un foro di partenza all'interno del tracciato; fori quadrati o rettangolari: quattro fori negli angoli. Poi taglia con il seghetto alternativo."
+    ],
+    [
+     "Collega prima di montare",
+     "Collega il cavo rispettando la polarità marcata prima di inserire il diffusore: correggerla dopo significa smontarlo."
+    ],
+    [
+     "Fissa",
+     "Inserisci il diffusore e stringi le viti: i ganci si aprono e serrano il pannello."
+    ],
+    [
+     "Chiudi",
+     "Monta la griglia magnetica. Cornice e griglia si possono verniciare."
+    ]
+   ]
+  }
+ ],
+ "nota": "Dati dalla scheda tecnica ArtSound FL550, confrontati con la scheda Extrasound. ArtSound non pubblica un manuale di installazione per questa serie: la procedura segue il manuale ArtSound MDC6.",
+ "extrasound": "https://www.extrasound.it/artsound-fl550-diffusore-da-incasso-stereo-in-un-unico-punto-con-griglia-ultrapiatta",
+ "fonti": [
+  {
+   "label": "scheda tecnica ArtSound FL550",
+   "url": "https://homemovie.hu/wp-content/uploads/2018/10/FL550_uk.pdf"
+  },
+  {
+   "label": "manuale ArtSound MDC6",
+   "url": "https://easylounge.com/pdf/Produits/2f74505f-d093-4dc1-b089-7199a01dfdb6/MDC6_man.pdf"
+  }
+ ],
+ "slug": "artsound-fl550",
+ "tab": "Diffusori<br>stereo"
+}

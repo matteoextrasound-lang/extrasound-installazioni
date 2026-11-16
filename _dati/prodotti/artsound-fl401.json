@@ -1,0 +1,141 @@
+{
+ "id": 39961,
+ "tipo": "diffusore",
+ "cat": "S",
+ "brand": "ArtSound",
+ "model": "FL401",
+ "crop": false,
+ "meta": "ArtSound FL401: 2 vie coassiale · woofer 4″, diffusore da incasso a soffitto. Foro, profondità e collegamenti per l'installatore.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/Artsound-FL401.jpg",
+  "alt": "ArtSound FL401 senza griglia, con woofer e tweeter in vista"
+ },
+ "chiave": [
+  "2 vie coassiale · 8 Ω",
+  "Foro Ø 160 mm",
+  "Profondità 70 mm"
+ ],
+ "righe": [
+  "2 vie coassiale · woofer 4″",
+  "Diffusore da incasso a soffitto",
+  "Serie Flat"
+ ],
+ "intro": [
+  "L'<strong>ArtSound FL401</strong> è un diffusore da incasso a soffitto della serie Flat: woofer 4″ in polipropilene e carbonio, tweeter 0,5″ in policarbonato. Impedenza 8 Ω.",
+  "Foro <strong>Ø 160 mm</strong>, ingombro in profondità <strong>70 mm</strong>."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "Diffusore da incasso a soffitto, serie Flat.",
+    "Sistema: 2 vie coassiale.",
+    "Woofer 4″ in polipropilene e carbonio.",
+    "Tweeter 0,5″ in policarbonato.",
+    "Griglia magnetica quasi senza cornice (1 mm), verniciabile."
+   ]
+  },
+  {
+   "titolo": "Acustica",
+   "voci": [
+    "Risposta: 70 Hz – 20 kHz.",
+    "Sensibilità: 84 dB.",
+    "Impedenza: 8 Ω.",
+    "Amplificazione: 60 W massimi.",
+    "Housing in ABS."
+   ]
+  },
+  {
+   "titolo": "Dimensioni",
+   "voci": [
+    "Foro: Ø 160 mm.",
+    "Ingombro: Ø 180 mm × 70 mm di profondità.",
+    "Peso: 1 kg a pezzo."
+   ]
+  }
+ ],
+ "viste": [
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/Artsound-FL401-posteriore.jpg",
+   "alt": "Retro dell'ArtSound FL401 con ganci di fissaggio e morsetti",
+   "caption": "Retro"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/Artsound-FL401-laterale-griglia.jpg",
+   "alt": "Vista laterale dell'ArtSound FL401",
+   "caption": "Vista"
+  }
+ ],
+ "misure": {
+  "forma": "tondo",
+  "foro": "160 mm",
+  "est": "180 mm",
+  "prof": "70 mm",
+  "nota": "Foro tratteggiato in rosso. Profondità = ingombro dichiarato da ArtSound; disegno non in scala."
+ },
+ "collega": [
+  {
+   "titolo": "Amplificazione",
+   "link": "amplificatori.html",
+   "icona": "sorgente",
+   "voci": [
+    "8 Ω: un diffusore per canale su qualsiasi amplificatore da installazione.",
+    "Amplificazione: 60 W massimi.",
+    "Ad esempio con ArtSound AMP850 (4 zone) o Smart Zone 4 AMP."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Dove montarlo",
+   "voci": [
+    "Lontano da pareti e angoli quando possibile.",
+    "Verifica travi, tubi e impianti prima di tagliare."
+   ],
+   "posa": {
+    "tipo": "soffitto",
+    "distanza": "lontano dalle pareti",
+    "nota": "zona d'ascolto"
+   }
+  },
+  {
+   "titolo": "Montaggio",
+   "passi": [
+    [
+     "Traccia",
+     "Traccia il foro con la dima o con il diffusore: Ø 160 mm."
+    ],
+    [
+     "Taglia",
+     "Fori rotondi: un foro di partenza all'interno del tracciato; fori quadrati o rettangolari: quattro fori negli angoli. Poi taglia con il seghetto alternativo."
+    ],
+    [
+     "Collega prima di montare",
+     "Collega il cavo rispettando la polarità marcata prima di inserire il diffusore: correggerla dopo significa smontarlo."
+    ],
+    [
+     "Fissa",
+     "Inserisci il diffusore e stringi le viti: i ganci si aprono e serrano il pannello."
+    ],
+    [
+     "Chiudi",
+     "Monta la griglia magnetica. Cornice e griglia si possono verniciare."
+    ]
+   ]
+  }
+ ],
+ "nota": "Dati dalla scheda tecnica ArtSound FL401, confrontati con la scheda Extrasound. ArtSound non pubblica un manuale di installazione per questa serie: la procedura segue il manuale ArtSound MDC6. La scheda Extrasound indica 90 Hz – 20 kHz e 10 – 100 W; ArtSound dichiara 70 Hz – 20 kHz e 60 W massimi. Fa fede il dato ArtSound.",
+ "extrasound": "https://www.extrasound.it/artsound-fl401-diffusore-da-incasso-rotondo-2-vie-con-griglia-magnetica-verniciabile",
+ "fonti": [
+  {
+   "label": "scheda tecnica ArtSound FL401",
+   "url": "https://www.telecontrol.ro/domains/telecontrol.ro/files/download_files/fl401-0-pdf9639.pdf"
+  },
+  {
+   "label": "manuale ArtSound MDC6",
+   "url": "https://easylounge.com/pdf/Produits/2f74505f-d093-4dc1-b089-7199a01dfdb6/MDC6_man.pdf"
+  }
+ ],
+ "slug": "artsound-fl401",
+ "tab": "Diffusori<br>da soffitto"
+}

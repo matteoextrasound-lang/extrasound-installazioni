@@ -1,0 +1,141 @@
+{
+ "id": 32068,
+ "tipo": "diffusore",
+ "cat": "S",
+ "brand": "ArtSound",
+ "model": "MD30",
+ "crop": false,
+ "meta": "ArtSound MD30: gamma intera · altoparlante 3″, diffusore da incasso a soffitto. Foro, profondità e collegamenti per l'installatore.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/artsound-md30.jpg",
+  "alt": "Griglia bianca dell'ArtSound MD30"
+ },
+ "chiave": [
+  "gamma intera · 8 Ω",
+  "Foro Ø 80 mm",
+  "Profondità 44 mm"
+ ],
+ "righe": [
+  "gamma intera · altoparlante 3″",
+  "Diffusore da incasso a soffitto",
+  "Serie Basic"
+ ],
+ "intro": [
+  "L'<strong>ArtSound MD30</strong> è un diffusore da incasso a soffitto della serie Basic: altoparlante 3″ in polipropilene. Impedenza 8 Ω.",
+  "Foro <strong>Ø 80 mm</strong>, ingombro in profondità <strong>44 mm</strong>."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "Diffusore da incasso a soffitto, serie Basic.",
+    "Sistema: gamma intera.",
+    "Altoparlante 3″ in polipropilene.",
+    "Accessori ArtSound: KIT RO105."
+   ]
+  },
+  {
+   "titolo": "Acustica",
+   "voci": [
+    "Risposta: 50 Hz – 15 kHz.",
+    "Sensibilità: 91 dB.",
+    "Impedenza: 8 Ω.",
+    "Amplificazione: 20 W massimi.",
+    "Housing in ABS."
+   ]
+  },
+  {
+   "titolo": "Dimensioni",
+   "voci": [
+    "Foro: Ø 80 mm.",
+    "Ingombro: Ø 105 mm × 44 mm di profondità.",
+    "Peso: 0,375 kg a pezzo."
+   ]
+  }
+ ],
+ "viste": [
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/artsound-md30-lato.jpg",
+   "alt": "Vista laterale dell'ArtSound MD30",
+   "caption": "Vista"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/artsound-md30-retro.jpg",
+   "alt": "Retro dell'ArtSound MD30 con ganci di fissaggio e morsetti",
+   "caption": "Retro"
+  }
+ ],
+ "misure": {
+  "forma": "tondo",
+  "foro": "80 mm",
+  "est": "105 mm",
+  "prof": "44 mm",
+  "nota": "Foro tratteggiato in rosso. Profondità = ingombro dichiarato da ArtSound; disegno non in scala."
+ },
+ "collega": [
+  {
+   "titolo": "Amplificazione",
+   "link": "amplificatori.html",
+   "icona": "sorgente",
+   "voci": [
+    "8 Ω: un diffusore per canale su qualsiasi amplificatore da installazione.",
+    "Amplificazione: 20 W massimi.",
+    "Ad esempio con ArtSound AMP850 (4 zone) o Smart Zone 4 AMP."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Dove montarlo",
+   "voci": [
+    "Lontano da pareti e angoli quando possibile.",
+    "Verifica travi, tubi e impianti prima di tagliare.",
+    "Nei soffitti aperti o per isolare acusticamente il diffusore usa il kit posteriore ArtSound (KIT RO105)."
+   ],
+   "posa": {
+    "tipo": "soffitto",
+    "distanza": "lontano dalle pareti",
+    "nota": "zona d'ascolto"
+   }
+  },
+  {
+   "titolo": "Montaggio",
+   "passi": [
+    [
+     "Traccia",
+     "Traccia il foro con la dima o con il diffusore: Ø 80 mm."
+    ],
+    [
+     "Taglia",
+     "Fori rotondi: un foro di partenza all'interno del tracciato; fori quadrati o rettangolari: quattro fori negli angoli. Poi taglia con il seghetto alternativo."
+    ],
+    [
+     "Collega prima di montare",
+     "Collega il cavo rispettando la polarità marcata prima di inserire il diffusore: correggerla dopo significa smontarlo."
+    ],
+    [
+     "Fissa",
+     "Inserisci il diffusore e stringi le viti: i ganci si aprono e serrano il pannello."
+    ],
+    [
+     "Chiudi",
+     "Monta la griglia."
+    ]
+   ]
+  }
+ ],
+ "nota": "Dati dalla scheda tecnica ArtSound MD30, confrontati con la scheda Extrasound. ArtSound non pubblica un manuale di installazione per questa serie: la procedura segue il manuale ArtSound MDC6. La scheda Extrasound indica un'amplificazione di 10 – 50 W e corpo in metallo; ArtSound dichiara 20 W massimi e corpo in ABS. Fa fede il dato ArtSound.",
+ "extrasound": "https://www.extrasound.it/artsound-md30-diffusori-da-incasso-soffitto-compatti-multiroom-coppia",
+ "fonti": [
+  {
+   "label": "scheda tecnica ArtSound MD30",
+   "url": "https://www.telecontrol.ro/domains/telecontrol.ro/files/download_files/md30-0-pdf8642.pdf"
+  },
+  {
+   "label": "manuale ArtSound MDC6",
+   "url": "https://easylounge.com/pdf/Produits/2f74505f-d093-4dc1-b089-7199a01dfdb6/MDC6_man.pdf"
+  }
+ ],
+ "slug": "artsound-md30",
+ "tab": "Diffusori<br>da soffitto"
+}

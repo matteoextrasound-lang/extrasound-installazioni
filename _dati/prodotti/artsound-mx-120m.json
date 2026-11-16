@@ -1,0 +1,117 @@
+{
+ "id": 31889,
+ "tipo": "amplificatore",
+ "cat": "M",
+ "brand": "ArtSound",
+ "model": "MX-120M",
+ "crop": true,
+ "meta": "ArtSound MX-120M: 120 w · 100 v, amplificatore mixer. Potenze, ingressi, uscite, collegamenti e messa in servizio.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/artsound-mx-120m.jpg",
+  "alt": "ArtSound MX-120M nero visto di tre quarti"
+ },
+ "chiave": [
+  "120 W · linea 100 V o 4 – 16 Ω",
+  "4 mic/linea · EMC",
+  "USB · SD · BT · FM"
+ ],
+ "righe": [
+  "120 W · 100 V",
+  "Amplificatore mixer",
+  "Rack 1U"
+ ],
+ "intro": [
+  "L'<strong>ArtSound MX-120M</strong> è un amplificatore mixer da 120 W per musica e annunci, con uscita su linea 100 V o a bassa impedenza (4 – 16 Ω), in formato rack 1U.",
+  "Lettore USB/SD, Bluetooth e tuner FM integrati; ingresso di emergenza con la massima priorità."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "Potenza nominale 120 W; risposta 80 Hz – 16 kHz.",
+    "Toni: bassi e alti ±10 dB (100 Hz / 10 kHz).",
+    "Protezioni: temperatura, sovracorrente, cortocircuito; LED PROT, CLIP, SIG.",
+    "Rack 1U, ventilazione forzata da davanti a dietro; 484 × 295 × 44 mm, 4,7 kg.",
+    "230 V, 50 Hz; consumo 180 W."
+   ]
+  },
+  {
+   "titolo": "Ingressi",
+   "voci": [
+    "MIC1 – MIC4: 5 mV, 600 Ω, bilanciati su morsetti europei (MIC4 condiviso con AUX1); phantom selezionabile.",
+    "AUX1, AUX2: 350 mV, 10 kΩ, RCA.",
+    "EMC (emergenza): 775 mV, 10 kΩ, bilanciato.",
+    "Priorità: EMC > MIC1 > MIC2/3/4, AUX, MP3."
+   ]
+  },
+  {
+   "titolo": "Uscite",
+   "voci": [
+    "Diffusori: linea 100 V oppure 4 – 16 Ω, con selettore sul retro.",
+    "Mix out: 1 V, 470 Ω, RCA."
+   ]
+  }
+ ],
+ "lato_titolo": "Cosa si collega",
+ "collega": [
+  {
+   "titolo": "Diffusori 100 V",
+   "link": "diffusori.html",
+   "icona": "linea100v",
+   "voci": [
+    "Selettore su 100 V; la somma delle prese dei diffusori deve restare sotto i 120 W.",
+    "Esempi ArtSound: MDT600-P, MDT500-P."
+   ]
+  },
+  {
+   "titolo": "Microfoni e sorgenti",
+   "icona": "microfono",
+   "voci": [
+    "Microfoni sui morsetti MIC; sorgenti sugli AUX o dal lettore integrato."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Messa in servizio",
+   "passi": [
+    [
+     "Spegni",
+     "Spegni l'MX-120M e gli apparecchi collegati prima di cablare."
+    ],
+    [
+     "Uscita",
+     "Imposta il selettore 100 V / 4 – 16 Ω e collega i diffusori; rimonta il coperchio dei morsetti (alta tensione)."
+    ],
+    [
+     "Terra",
+     "Collega la terra di protezione a una terra vera, mai a un tubo del gas."
+    ],
+    [
+     "Accendi",
+     "Volume al minimo, poi accendi; per riaccendere aspetta circa 5 secondi."
+    ],
+    [
+     "Ventilazione",
+     "Lascia almeno 10 cm liberi ai lati."
+    ]
+   ]
+  }
+ ],
+ "nota": "Dati e procedura dal manuale ArtSound MX-120M, confrontati con la scheda Extrasound.",
+ "extrasound": "https://www.extrasound.it/artsound-mx-120m-amplificatore-mixer-100v-120w-bluetooth-usb-fm",
+ "fonti": [
+  {
+   "label": "manuale ArtSound MX-120M (FR)",
+   "url": "https://res.cloudinary.com/sonepar-fr/raw/upload/s--W1UyJVrY--/v1/documents/1110/00021145_mx120M_notice.pdf"
+  }
+ ],
+ "retro": {
+  "src": "https://www.extrasound.it/wp-content/uploads/artsound-mx-120m-retro.jpg",
+  "alt": "Pannello posteriore dell'ArtSound MX-120M con morsetti euroblock e uscite 100 V",
+  "titolo": "Pannello posteriore",
+  "caption": "Morsetti euroblock per microfoni ed emergenza, RCA, uscite diffusori 100 V / 4 – 16 Ω."
+ },
+ "slug": "artsound-mx-120m",
+ "tab": "Amplificatori<br>multicanale"
+}

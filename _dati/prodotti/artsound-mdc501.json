@@ -1,0 +1,140 @@
+{
+ "id": 30404,
+ "tipo": "diffusore",
+ "cat": "S",
+ "brand": "ArtSound",
+ "model": "MDC501",
+ "crop": false,
+ "meta": "ArtSound MDC501: 2 vie coassiale · woofer 5, diffusore da incasso a soffitto. Foro, profondità e collegamenti per l'installatore.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/artsound-mdc501-diffusore-incasso-1.jpg",
+  "alt": "ArtSound MDC501 senza griglia, con woofer e tweeter in vista"
+ },
+ "chiave": [
+  "2 vie coassiale · 8 Ω",
+  "Foro Ø 175 mm",
+  "Profondità 70 mm"
+ ],
+ "righe": [
+  "2 vie coassiale · woofer 5",
+  "Diffusore da incasso a soffitto",
+  "Serie Basic"
+ ],
+ "intro": [
+  "L'<strong>ArtSound MDC501</strong> è un diffusore da incasso a soffitto della serie Basic: woofer 5,25″ in polipropilene e carbonio, tweeter 0,5″ in policarbonato. Impedenza 8 Ω.",
+  "Foro <strong>Ø 175 mm</strong>, ingombro in profondità <strong>70 mm</strong>."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "Diffusore da incasso a soffitto, serie Basic.",
+    "Sistema: 2 vie coassiale.",
+    "Woofer 5,25″ in polipropilene e carbonio.",
+    "Tweeter 0,5″ in policarbonato."
+   ]
+  },
+  {
+   "titolo": "Acustica",
+   "voci": [
+    "Risposta: 85 Hz – 20 kHz.",
+    "Sensibilità: 88 dB.",
+    "Impedenza: 8 Ω.",
+    "Amplificazione: 10 – 100 W (consigliata).",
+    "Housing in ABS."
+   ]
+  },
+  {
+   "titolo": "Dimensioni",
+   "voci": [
+    "Foro: Ø 175 mm.",
+    "Ingombro: Ø 212 mm × 70 mm di profondità.",
+    "Peso: 0,89 kg a pezzo."
+   ]
+  }
+ ],
+ "viste": [
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/artsound-mdc501-diffusore-incasso.jpg",
+   "alt": "ArtSound MDC501 senza griglia con la griglia bianca accanto",
+   "caption": "Con griglia"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/artsound-mdc501-diffusore-incasso-grid.jpg",
+   "alt": "Griglia bianca dell'ArtSound MDC501",
+   "caption": "Griglia"
+  }
+ ],
+ "misure": {
+  "forma": "tondo",
+  "foro": "175 mm",
+  "est": "212 mm",
+  "prof": "70 mm",
+  "nota": "Foro tratteggiato in rosso. Profondità = ingombro dichiarato da ArtSound; disegno non in scala."
+ },
+ "collega": [
+  {
+   "titolo": "Amplificazione",
+   "link": "amplificatori.html",
+   "icona": "sorgente",
+   "voci": [
+    "8 Ω: un diffusore per canale su qualsiasi amplificatore da installazione.",
+    "Amplificazione: 10 – 100 W (consigliata).",
+    "Ad esempio con ArtSound AMP850 (4 zone) o Smart Zone 4 AMP."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Dove montarlo",
+   "voci": [
+    "Lontano da pareti e angoli quando possibile.",
+    "Verifica travi, tubi e impianti prima di tagliare."
+   ],
+   "posa": {
+    "tipo": "soffitto",
+    "distanza": "lontano dalle pareti",
+    "nota": "zona d'ascolto"
+   }
+  },
+  {
+   "titolo": "Montaggio",
+   "passi": [
+    [
+     "Traccia",
+     "Traccia il foro con la dima o con il diffusore: Ø 175 mm."
+    ],
+    [
+     "Taglia",
+     "Fori rotondi: un foro di partenza all'interno del tracciato; fori quadrati o rettangolari: quattro fori negli angoli. Poi taglia con il seghetto alternativo."
+    ],
+    [
+     "Collega prima di montare",
+     "Collega il cavo rispettando la polarità marcata prima di inserire il diffusore: correggerla dopo significa smontarlo."
+    ],
+    [
+     "Fissa",
+     "Inserisci il diffusore e stringi le viti: i ganci si aprono e serrano il pannello."
+    ],
+    [
+     "Chiudi",
+     "Monta la griglia."
+    ]
+   ]
+  }
+ ],
+ "nota": "Dati dalla manuale ArtSound MDC401 / MDC501 / MDC620, confrontati con la scheda Extrasound. ArtSound non pubblica un manuale di installazione per questa serie: la procedura segue il manuale ArtSound MDC6.",
+ "extrasound": "https://www.extrasound.it/artsound-mdc501-diffusori-da-incasso-soffitto-compatti-per-multiroom-coppia",
+ "fonti": [
+  {
+   "label": "manuale ArtSound MDC401 / MDC501 / MDC620",
+   "url": "https://stylesound.com/wp-content/uploads/2024/01/MDC401-501-620_manual.pdf"
+  },
+  {
+   "label": "manuale ArtSound MDC6",
+   "url": "https://easylounge.com/pdf/Produits/2f74505f-d093-4dc1-b089-7199a01dfdb6/MDC6_man.pdf"
+  }
+ ],
+ "slug": "artsound-mdc501",
+ "tab": "Diffusori<br>da soffitto"
+}

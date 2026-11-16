@@ -1,0 +1,110 @@
+{
+ "id": 31860,
+ "tipo": "amplificatore",
+ "cat": "M",
+ "brand": "ArtSound",
+ "model": "PRL-1502",
+ "crop": true,
+ "meta": "ArtSound PRL-1502: 2 canali · classe d, finale di potenza. Potenze, ingressi, uscite, collegamenti e messa in servizio.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/artsound-prl1502.jpg",
+  "alt": "ArtSound PRL-1502 nero visto di tre quarti"
+ },
+ "chiave": [
+  "2 × 150 W / 4 Ω",
+  "2 × 75 W / 8 Ω",
+  "Bridge 300 W · rack 1U"
+ ],
+ "righe": [
+  "2 canali · Classe D",
+  "Finale di potenza",
+  "Rack 1U"
+ ],
+ "intro": [
+  "L'<strong>ArtSound PRL-1502</strong> è un finale di potenza a 2 canali in formato rack 1U: 2 × 150 W su 4 Ω, 300 W a ponte.",
+  "Ingressi combo XLR/jack, uscite euroblock e Speakon."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "2 canali; risposta 10 Hz – 30 kHz.",
+    "Indicatori di livello e di clip/protezione.",
+    "Protezioni: sovratensione, cortocircuito dei diffusori, temperatura.",
+    "Alimentazione 100 – 240 V AC.",
+    "Rack 19″ 1U; 44,5 × 483 × 275 mm, 4,2 kg."
+   ]
+  },
+  {
+   "titolo": "Ingressi",
+   "voci": [
+    "2 ingressi combo XLR / jack 6,3 mm."
+   ]
+  },
+  {
+   "titolo": "Uscite",
+   "voci": [
+    "2 × 150 W su 4 Ω, 2 × 75 W su 8 Ω.",
+    "Bridge: 300 W.",
+    "2 uscite euroblock a 2 poli e 2 Speakon."
+   ]
+  }
+ ],
+ "lato_titolo": "Cosa si collega",
+ "collega": [
+  {
+   "titolo": "Diffusori da incasso",
+   "link": "diffusori.html",
+   "icona": "soffitto",
+   "voci": [
+    "Una coppia di diffusori 4 – 8 Ω, oppure un diffusore in bridge."
+   ]
+  },
+  {
+   "titolo": "Sorgenti",
+   "icona": "sorgente",
+   "voci": [
+    "Mixer, preamplificatore o streamer con uscita di linea."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Messa in servizio",
+   "passi": [
+    [
+     "Monta",
+     "Rack 19″, 1U."
+    ],
+    [
+     "Ingressi",
+     "Segnale di linea sui combo XLR / jack."
+    ],
+    [
+     "Uscite",
+     "Diffusori su euroblock o Speakon; rispetta la polarità."
+    ],
+    [
+     "Livelli",
+     "Volume al minimo all'accensione, poi regola i livelli per canale."
+    ]
+   ]
+  }
+ ],
+ "nota": "Dati dalla scheda tecnica ArtSound PRL-1502, confrontati con la scheda Extrasound. Uscite 100 V non previste.",
+ "extrasound": "https://www.extrasound.it/artsound-prl-1502-amplificatore-finale-professionale-classe-d-2x150w",
+ "fonti": [
+  {
+   "label": "scheda tecnica ArtSound PRL-1502 (FR)",
+   "url": "https://res.cloudinary.com/sonepar-fr/raw/upload/s--zg6MyV0k--/v1/documents/1110/00026567_PRL-1502-fr.pdf"
+  }
+ ],
+ "retro": {
+  "src": "https://www.extrasound.it/wp-content/uploads/artsound-prl1502-retro.jpg",
+  "alt": "Pannello posteriore dell'ArtSound PRL-1502 con ingressi combo e uscite",
+  "titolo": "Pannello posteriore",
+  "caption": "Ingressi combo XLR/jack, uscite euroblock e Speakon."
+ },
+ "slug": "artsound-prl-1502",
+ "tab": "Amplificatori<br>multicanale"
+}

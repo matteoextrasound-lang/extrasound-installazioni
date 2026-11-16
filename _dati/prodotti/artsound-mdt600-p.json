@@ -1,0 +1,134 @@
+{
+ "id": 42895,
+ "tipo": "diffusore",
+ "cat": "S",
+ "brand": "ArtSound",
+ "model": "MDT600-P",
+ "crop": false,
+ "meta": "ArtSound MDT600-P: gamma intera · altoparlante 6″, diffusore da incasso a soffitto. Foro, profondità e collegamenti per l'installatore.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/Artsound-MDT600-P.jpg",
+  "alt": "Diffusore da incasso a soffitto ArtSound MDT600-P con griglia"
+ },
+ "chiave": [
+  "Linea 100 V · 3 / 6 / 9 W",
+  "Foro Ø 170 mm",
+  "Profondità 80 mm"
+ ],
+ "righe": [
+  "gamma intera · altoparlante 6″",
+  "Diffusore da incasso a soffitto",
+  "Serie Basic 100 V"
+ ],
+ "intro": [
+  "L'<strong>ArtSound MDT600-P</strong> è un diffusore da incasso a soffitto della serie Basic 100 V: altoparlante 6″ con cono in carta. Impedenza solo linea 100 V.",
+  "Foro <strong>Ø 170 mm</strong>, ingombro in profondità <strong>80 mm</strong>."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "Diffusore da incasso a soffitto, serie Basic 100 V.",
+    "Sistema: gamma intera.",
+    "Altoparlante 6″ con cono in carta.",
+    "Fissaggio rapido a molle."
+   ]
+  },
+  {
+   "titolo": "Acustica",
+   "voci": [
+    "Risposta: 80 Hz – 18 kHz.",
+    "Sensibilità: 91 dB (1 W / 1 m).",
+    "Impedenza: solo linea 100 V.",
+    "Amplificazione: prese 100 V: 3 – 6 – 9 W.",
+    "Housing in ABS."
+   ]
+  },
+  {
+   "titolo": "Dimensioni",
+   "voci": [
+    "Foro: Ø 170 mm.",
+    "Ingombro: Ø 200 mm × 80 mm di profondità.",
+    "Peso: 0,9 kg a pezzo."
+   ]
+  }
+ ],
+ "viste": [
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/Artsound-MDT600-P-posteriore.jpg",
+   "alt": "Retro dell'ArtSound MDT600-P",
+   "caption": "Retro"
+  }
+ ],
+ "misure": {
+  "forma": "tondo",
+  "foro": "170 mm",
+  "est": "200 mm",
+  "prof": "80 mm",
+  "nota": "Foro tratteggiato in rosso. Profondità = ingombro dichiarato da ArtSound; disegno non in scala."
+ },
+ "collega": [
+  {
+   "titolo": "Linea 100 V",
+   "link": "amplificatori.html",
+   "icona": "linea100v",
+   "voci": [
+    "Linea a tensione costante 100 V: scegli la presa (3 / 6 / 9 W) in base al livello voluto nella stanza.",
+    "La somma delle prese di tutti i diffusori sulla linea non deve superare la potenza dell'amplificatore.",
+    "Esempi ArtSound: MX60MKII (60 W) o MX-120M (120 W)."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Dove montarlo",
+   "voci": [
+    "Lontano da pareti e angoli quando possibile.",
+    "Verifica travi, tubi e impianti prima di tagliare."
+   ]
+  },
+  {
+   "titolo": "Montaggio",
+   "passi": [
+    [
+     "Traccia",
+     "Traccia il foro con la dima o con il diffusore: Ø 170 mm."
+    ],
+    [
+     "Taglia",
+     "Fori rotondi: un foro di partenza all'interno del tracciato; fori quadrati o rettangolari: quattro fori negli angoli. Poi taglia con il seghetto alternativo."
+    ],
+    [
+     "Collega prima di montare",
+     "Collega il cavo rispettando la polarità marcata prima di inserire il diffusore: correggerla dopo significa smontarlo."
+    ],
+    [
+     "Presa",
+     "Prima di montare scegli la presa di potenza sul trasformatore."
+    ],
+    [
+     "Fissa",
+     "Inserisci il diffusore: le molle lo trattengono in sede."
+    ],
+    [
+     "Chiudi",
+     "Monta la griglia."
+    ]
+   ]
+  }
+ ],
+ "nota": "Dati dalla scheda tecnica ArtSound MDT600-P (FR), confrontati con la scheda Extrasound. ArtSound non pubblica un manuale di installazione per questa serie: la procedura segue il manuale ArtSound MDC6.",
+ "extrasound": "https://www.extrasound.it/artsound-mdt600-p-diffusore-da-incasso-soffitto-100v-per-multiroom",
+ "fonti": [
+  {
+   "label": "scheda tecnica ArtSound MDT600-P (FR)",
+   "url": "https://res.cloudinary.com/sonepar-fr/raw/upload/s--ot5e3d_v--/v1/documents/1110/00007404_MDT600-P_fr.pdf"
+  },
+  {
+   "label": "manuale ArtSound MDC6",
+   "url": "https://easylounge.com/pdf/Produits/2f74505f-d093-4dc1-b089-7199a01dfdb6/MDC6_man.pdf"
+  }
+ ],
+ "slug": "artsound-mdt600-p",
+ "tab": "Diffusori<br>da soffitto"
+}

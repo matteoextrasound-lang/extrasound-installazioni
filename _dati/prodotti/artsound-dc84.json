@@ -1,0 +1,138 @@
+{
+ "id": 42875,
+ "tipo": "diffusore",
+ "cat": "S",
+ "brand": "ArtSound",
+ "model": "DC84",
+ "crop": false,
+ "meta": "ArtSound DC84: 2 vie · woofer 6, diffusore da incasso a parete o soffitto. Foro, profondità e collegamenti per l'installatore.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/Artsound-DC84.jpg",
+  "alt": "Griglia bianca dell'ArtSound DC84"
+ },
+ "chiave": [
+  "2 vie · 8 Ω",
+  "Foro 146 mm × 146 mm",
+  "Profondità 75 mm"
+ ],
+ "righe": [
+  "2 vie · woofer 6",
+  "Diffusore da incasso a parete o soffitto",
+  "Serie Waterproof"
+ ],
+ "intro": [
+  "L'<strong>ArtSound DC84</strong> è un diffusore da incasso a parete o soffitto della serie Waterproof: woofer 6,5″ in polipropilene e carbonio, tweeter 0,5″ a cupola. Impedenza 8 Ω.",
+  "Foro <strong>146 mm × 146 mm</strong>, ingombro in profondità <strong>75 mm</strong>."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "Diffusore da incasso a parete o soffitto, serie Waterproof.",
+    "Sistema: 2 vie.",
+    "Woofer 6,5″ in polipropilene e carbonio.",
+    "Tweeter 0,5″ a cupola.",
+    "Retro chiuso ermeticamente e materiali resistenti all'acqua: piscine, saune, bagni turchi, giardini. Nessun grado IP dichiarato.",
+    "Accessori ArtSound: KIT SQ180/180."
+   ]
+  },
+  {
+   "titolo": "Acustica",
+   "voci": [
+    "Risposta: 63 Hz – 20 kHz.",
+    "Sensibilità: 86 dB.",
+    "Impedenza: 8 Ω.",
+    "Amplificazione: 100 W massimi.",
+    "Housing in ABS."
+   ]
+  },
+  {
+   "titolo": "Dimensioni",
+   "voci": [
+    "Foro: 146 mm × 146 mm.",
+    "Ingombro: 146 mm × 146 mm × 75 mm di profondità.",
+    "Peso: 0,75 kg a pezzo."
+   ]
+  }
+ ],
+ "viste": [
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/Artsound-DC84-altoparlante.jpg",
+   "alt": "Vista laterale dell'ArtSound DC84",
+   "caption": "Vista"
+  }
+ ],
+ "misure": {
+  "forma": "rett",
+  "foro": [
+   "146 mm",
+   "146 mm"
+  ],
+  "est": [
+   "146 mm",
+   "146 mm"
+  ],
+  "prof": "75 mm",
+  "nota": "Foro tratteggiato in rosso. Profondità = ingombro dichiarato da ArtSound; disegno non in scala."
+ },
+ "collega": [
+  {
+   "titolo": "Amplificazione",
+   "link": "amplificatori.html",
+   "icona": "sorgente",
+   "voci": [
+    "8 Ω: un diffusore per canale su qualsiasi amplificatore da installazione.",
+    "Amplificazione: 100 W massimi.",
+    "Ad esempio con ArtSound AMP850 (4 zone) o Smart Zone 4 AMP."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Dove montarlo",
+   "voci": [
+    "Verifica travi, tubi e impianti prima di tagliare.",
+    "Nei soffitti aperti o per isolare acusticamente il diffusore usa il kit posteriore ArtSound (KIT SQ180/180)."
+   ]
+  },
+  {
+   "titolo": "Montaggio",
+   "passi": [
+    [
+     "Traccia",
+     "Traccia il foro con la dima o con il diffusore: 146 mm × 146 mm."
+    ],
+    [
+     "Taglia",
+     "Fori rotondi: un foro di partenza all'interno del tracciato; fori quadrati o rettangolari: quattro fori negli angoli. Poi taglia con il seghetto alternativo."
+    ],
+    [
+     "Collega prima di montare",
+     "Collega il cavo rispettando la polarità marcata prima di inserire il diffusore: correggerla dopo significa smontarlo."
+    ],
+    [
+     "Fissa",
+     "Inserisci il diffusore e stringi le viti: i ganci si aprono e serrano il pannello."
+    ],
+    [
+     "Chiudi",
+     "Monta la griglia."
+    ]
+   ]
+  }
+ ],
+ "nota": "Dati dalla scheda tecnica ArtSound DC84, confrontati con la scheda Extrasound. ArtSound non pubblica un manuale di installazione per questa serie: la procedura segue il manuale ArtSound MDC6. La scheda ArtSound riporta come ingombro le stesse misure del foro (146 × 146 mm): da verificare sul prodotto. Fa fede il dato ArtSound.",
+ "extrasound": "https://www.extrasound.it/artsound-dc84-diffusori-da-incasso-waterproof-per-ambienti-umidi-coppia",
+ "fonti": [
+  {
+   "label": "scheda tecnica ArtSound DC84",
+   "url": "https://www.telecontrol.ro/domains/telecontrol.ro/files/download_files/dc84-0-pdf7604.pdf"
+  },
+  {
+   "label": "manuale ArtSound MDC6",
+   "url": "https://easylounge.com/pdf/Produits/2f74505f-d093-4dc1-b089-7199a01dfdb6/MDC6_man.pdf"
+  }
+ ],
+ "slug": "artsound-dc84",
+ "tab": "Diffusori<br>da soffitto"
+}

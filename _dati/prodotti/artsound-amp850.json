@@ -1,0 +1,111 @@
+{
+ "id": 31903,
+ "tipo": "amplificatore",
+ "cat": "M",
+ "brand": "ArtSound",
+ "model": "AMP850",
+ "crop": true,
+ "meta": "ArtSound AMP850: 8 canali · 4 zone, finale multizona. Potenze, ingressi, uscite, collegamenti e messa in servizio.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/artsound-amp850.jpg",
+  "alt": "ArtSound AMP850 nero visto di tre quarti"
+ },
+ "chiave": [
+  "8 canali · 4 zone stereo",
+  "8 × 50 W / 4 Ω",
+  "Bridge 150 W / 8 Ω"
+ ],
+ "righe": [
+  "8 canali · 4 zone",
+  "Finale multizona",
+  "Classe D"
+ ],
+ "intro": [
+  "L'<strong>ArtSound AMP850</strong> è un finale multizona in classe D a 8 canali per 4 zone stereo, con guadagno regolabile e trigger per zona.",
+  "Si abbina a uno streamer multizona come lo Smart Zone 4."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "8 canali in classe D, 4 zone stereo.",
+    "Guadagno regolabile per canale.",
+    "THD inferiore all'1%.",
+    "Massimo 8 diffusori.",
+    "88 × 430 × 335 mm, 9,5 kg."
+   ]
+  },
+  {
+   "titolo": "Ingressi",
+   "voci": [
+    "8 ingressi RCA sbilanciati, 2 per zona.",
+    "Trigger per ogni zona."
+   ]
+  },
+  {
+   "titolo": "Uscite",
+   "voci": [
+    "Potenza: 50 W per canale su 4 Ω.",
+    "Bridge: 150 W per canale su 8 Ω.",
+    "4 uscite di linea RCA."
+   ]
+  }
+ ],
+ "lato_titolo": "Cosa si collega",
+ "collega": [
+  {
+   "titolo": "Diffusori da incasso",
+   "link": "diffusori.html",
+   "icona": "soffitto",
+   "voci": [
+    "Una coppia di diffusori per zona, 4 – 8 Ω.",
+    "In bridge un solo diffusore da 8 Ω per zona."
+   ]
+  },
+  {
+   "titolo": "Sorgenti",
+   "icona": "sorgente",
+   "voci": [
+    "Uno streamer multizona (es. ArtSound Smart Zone 4) sulle quattro coppie di ingressi."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "4 zone stereo",
+   "voci": [
+    "Una sorgente per zona, accensione da trigger."
+   ],
+   "zone": [
+    {
+     "label": "Zona 1 · 2 × 50 W"
+    },
+    {
+     "label": "Zona 2 · 2 × 50 W"
+    },
+    {
+     "label": "Zona 3 · 2 × 50 W"
+    },
+    {
+     "label": "Zona 4 · 2 × 50 W"
+    }
+   ]
+  }
+ ],
+ "nota": "Dati dalla scheda prodotto EasyLounge (rivenditore ArtSound), confrontati con la scheda Extrasound: manuale ArtSound non trovato. Uscite per diffusori, morsetti e procedura di bridge da confermare.",
+ "extrasound": "https://www.extrasound.it/artsound-amp850-finale-multicanale-8-x-50-w-per-4-zone-stereo",
+ "fonti": [
+  {
+   "label": "scheda ArtSound AMP850 (EasyLounge)",
+   "url": "https://www.easylounge.com/amplificateur-hifi/artsound-amp850-75435"
+  }
+ ],
+ "retro": {
+  "src": "https://www.extrasound.it/wp-content/uploads/artsound-amp850-retro.jpg",
+  "alt": "Pannello posteriore dell'ArtSound AMP850 con morsetti e ingressi",
+  "titolo": "Pannello posteriore",
+  "caption": "Ingressi RCA per zona, trigger e morsetti per i diffusori."
+ },
+ "slug": "artsound-amp850",
+ "tab": "Amplificatori<br>multicanale"
+}

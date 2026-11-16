@@ -1,0 +1,103 @@
+{
+ "id": 31829,
+ "tipo": "amplificatore",
+ "cat": "M",
+ "brand": "ArtSound",
+ "model": "ART1.1",
+ "crop": true,
+ "meta": "ArtSound ART1.1: 2 × 10 w · bluetooth, amplificatore per una zona. Potenze, ingressi, uscite, collegamenti e messa in servizio.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/Artsound-1.1.jpg",
+  "alt": "ArtSound ART1.1 amplificatore Bluetooth compatto"
+ },
+ "chiave": [
+  "2 × 10 W / 8 Ω",
+  "2 × 15 W / 4 Ω",
+  "Bluetooth"
+ ],
+ "righe": [
+  "2 × 10 W · Bluetooth",
+  "Amplificatore per una zona",
+  "Compatto"
+ ],
+ "intro": [
+  "L'<strong>ArtSound ART1.1</strong> è un amplificatore Bluetooth compatto in classe D per una zona e una coppia di diffusori da incasso: 2 × 10 W su 8 Ω, 2 × 15 W su 4 Ω.",
+  "Si nasconde vicino ai diffusori; nessun Wi-Fi o account."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "Classe D: 2 × 10 W RMS su 8 Ω, 2 × 15 W RMS su 4 Ω.",
+    "Sorgente: Bluetooth.",
+    "Alimentazione 110 – 230 V.",
+    "159,5 × 54 × 35,5 mm, 0,21 kg."
+   ]
+  },
+  {
+   "titolo": "Ingressi",
+   "voci": [
+    "Bluetooth (unica sorgente)."
+   ]
+  },
+  {
+   "titolo": "Uscite",
+   "voci": [
+    "Morsetti per una coppia di diffusori."
+   ]
+  }
+ ],
+ "lato_titolo": "Cosa si collega",
+ "collega": [
+  {
+   "titolo": "Diffusori da incasso",
+   "link": "diffusori.html",
+   "icona": "soffitto",
+   "voci": [
+    "Una coppia di diffusori da incasso 4 – 8 Ω, per esempio ArtSound FL501 o MDC501."
+   ]
+  },
+  {
+   "titolo": "Sorgente",
+   "icona": "bluetooth",
+   "voci": [
+    "Smartphone o tablet in Bluetooth."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Messa in servizio",
+   "passi": [
+    [
+     "Posiziona",
+     "Vicino ai diffusori, in un punto ventilato e raggiungibile dall'alimentazione."
+    ],
+    [
+     "Collega",
+     "Diffusori ai morsetti rispettando la polarità."
+    ],
+    [
+     "Abbina",
+     "Abbina lo smartphone in Bluetooth (procedura da confermare sul manuale ArtSound)."
+    ]
+   ]
+  }
+ ],
+ "nota": "Dati dalla scheda tecnica ArtSound ART1.1, confrontati con la scheda Extrasound. Montaggio e abbinamento non descritti da ArtSound.",
+ "extrasound": "https://www.extrasound.it/artsound-art1-1-amplificatore-bluetooth-compatto-2-x-15-w-per-una-zona",
+ "fonti": [
+  {
+   "label": "scheda tecnica ArtSound ART1.1",
+   "url": "https://homemovie.hu/wp-content/uploads/2018/10/ART1.1_uk.pdf"
+  }
+ ],
+ "retro": {
+  "src": "https://www.extrasound.it/wp-content/uploads/Artsound-1.1-retro.jpg",
+  "alt": "Retro dell'ArtSound ART1.1 con i morsetti per i diffusori",
+  "titolo": "Pannello posteriore",
+  "caption": "Morsetti per i diffusori e alimentazione."
+ },
+ "slug": "artsound-art1-1",
+ "tab": "Amplificatori<br>multicanale"
+}

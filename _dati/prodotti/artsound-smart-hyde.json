@@ -1,0 +1,112 @@
+{
+ "id": 31853,
+ "tipo": "amplificatore",
+ "cat": "M",
+ "brand": "ArtSound",
+ "model": "Smart Hyde",
+ "crop": true,
+ "meta": "ArtSound Smart Hyde: 2 × 50 w · streaming, amplificatore multiroom. Potenze, ingressi, uscite, collegamenti e messa in servizio.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/artsound-smrt-hyde.jpg",
+  "alt": "ArtSound Smart Hyde nero visto di tre quarti"
+ },
+ "chiave": [
+  "2 × 50 W / 4 Ω",
+  "Wi-Fi · LAN · AirPlay",
+  "Uscita subwoofer"
+ ],
+ "righe": [
+  "2 × 50 W · streaming",
+  "Amplificatore multiroom",
+  "Compatto"
+ ],
+ "intro": [
+  "L'<strong>ArtSound Smart Hyde</strong> è un amplificatore streaming compatto in classe D da 2 × 50 W su 4 Ω per una stanza; più unità sulla stessa rete formano un impianto multiroom.",
+  "Si comanda dall'app 4STREAM."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "Classe D, 2 × 50 W RMS su 4 Ω; THD 0,03% (1 kHz, 1 W).",
+    "Servizi: Spotify Connect, TIDAL, Qobuz, Deezer, TuneIn, vTuner, radio Internet, AirPlay, UPnP/DLNA.",
+    "Bluetooth 5.0, Wi-Fi 802.11 b/g/n, LAN 10/100.",
+    "Alimentazione 110 – 240 V; 158 × 146 × 40 mm, 0,54 kg."
+   ]
+  },
+  {
+   "titolo": "Ingressi",
+   "voci": [
+    "RCA stereo, ottico, micro USB (DAC), USB (memorie), AUX.",
+    "Rete Wi-Fi o LAN."
+   ]
+  },
+  {
+   "titolo": "Uscite",
+   "voci": [
+    "Morsetti per una coppia di diffusori.",
+    "RCA stereo e uscita subwoofer."
+   ]
+  }
+ ],
+ "lato_titolo": "Cosa si collega",
+ "collega": [
+  {
+   "titolo": "Diffusori da incasso",
+   "link": "diffusori.html",
+   "icona": "soffitto",
+   "voci": [
+    "Una coppia di diffusori da 4 Ω o più."
+   ]
+  },
+  {
+   "titolo": "Subwoofer",
+   "icona": "subwoofer",
+   "voci": [
+    "Subwoofer attivo sull'uscita SUB OUT."
+   ]
+  },
+  {
+   "titolo": "Rete",
+   "icona": "rete",
+   "voci": [
+    "Wi-Fi o cavo LAN; comando dall'app 4STREAM."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Messa in servizio",
+   "passi": [
+    [
+     "Collega",
+     "Diffusori ai morsetti, eventuale subwoofer al SUB OUT."
+    ],
+    [
+     "Rete",
+     "Collega alla rete via Wi-Fi o LAN."
+    ],
+    [
+     "App",
+     "Configura dall'app 4STREAM; più Smart Hyde nella stessa rete si comandano insieme."
+    ]
+   ]
+  }
+ ],
+ "nota": "Dati dalla scheda tecnica ArtSound Smart Hyde, confrontati con la scheda Extrasound. Montaggio nascosto non specificato da ArtSound.",
+ "extrasound": "https://www.extrasound.it/artsound-smart-hyde-amplificatore-multiroom-streaming-2-x-50-w-wifi",
+ "fonti": [
+  {
+   "label": "scheda tecnica ArtSound Smart Hyde (FR)",
+   "url": "https://easylounge.com/pdf/Produits/08d9a72e-5bee-40cb-a07a-a5577ba1d75d/SmartHyde_fr.pdf"
+  }
+ ],
+ "retro": {
+  "src": "https://www.extrasound.it/wp-content/uploads/artsound-smrt-hyde-retro.jpg",
+  "alt": "Pannello posteriore dell'ArtSound Smart Hyde con ingressi, uscite e morsetti",
+  "titolo": "Pannello posteriore",
+  "caption": "Ingressi, uscite, rete e morsetti per i diffusori."
+ },
+ "slug": "artsound-smart-hyde",
+ "tab": "Amplificatori<br>multicanale"
+}

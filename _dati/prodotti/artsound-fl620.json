@@ -1,0 +1,143 @@
+{
+ "id": 40834,
+ "tipo": "diffusore",
+ "cat": "S",
+ "brand": "ArtSound",
+ "model": "FL620",
+ "crop": false,
+ "meta": "ArtSound FL620: 2 vie coassiale · woofer 6, diffusore da incasso a soffitto. Foro, profondità e collegamenti per l'installatore.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/Artsound-FL620.jpg",
+  "alt": "ArtSound FL620 senza griglia, con woofer e tweeter in vista"
+ },
+ "chiave": [
+  "2 vie coassiale · 8 Ω",
+  "Foro Ø 205 mm",
+  "Profondità 75 mm"
+ ],
+ "righe": [
+  "2 vie coassiale · woofer 6",
+  "Diffusore da incasso a soffitto",
+  "Serie Flat"
+ ],
+ "intro": [
+  "L'<strong>ArtSound FL620</strong> è un diffusore da incasso a soffitto della serie Flat: woofer 6,5″ in polipropilene e carbonio, tweeter 0,5″ in policarbonato. Impedenza 8 Ω.",
+  "Foro <strong>Ø 205 mm (da confermare)</strong>, ingombro in profondità <strong>75 mm</strong>."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "Diffusore da incasso a soffitto, serie Flat.",
+    "Sistema: 2 vie coassiale.",
+    "Woofer 6,5″ in polipropilene e carbonio.",
+    "Tweeter 0,5″ in policarbonato.",
+    "Griglia magnetica quasi senza cornice (1 mm), verniciabile.",
+    "Accessori ArtSound: MOKIT RO238."
+   ]
+  },
+  {
+   "titolo": "Acustica",
+   "voci": [
+    "Risposta: 63 Hz – 20 kHz.",
+    "Sensibilità: 92 dB.",
+    "Impedenza: 8 Ω.",
+    "Amplificazione: 40 W RMS, 80 W massimi.",
+    "Housing in ABS."
+   ]
+  },
+  {
+   "titolo": "Dimensioni",
+   "voci": [
+    "Foro: Ø 205 mm (da confermare).",
+    "Ingombro: Ø 245 mm × 75 mm di profondità.",
+    "Peso: 1,75 kg a pezzo."
+   ]
+  }
+ ],
+ "viste": [
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/Artsound-FL620-con-griglia.jpg",
+   "alt": "Vista laterale dell'ArtSound FL620",
+   "caption": "Vista"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/Artsound-FL620-griglia.jpg",
+   "alt": "Griglia bianca dell'ArtSound FL620",
+   "caption": "Griglia"
+  }
+ ],
+ "misure": {
+  "forma": "tondo",
+  "foro": "205 mm",
+  "est": "245 mm",
+  "prof": "75 mm",
+  "nota": "Foro tratteggiato in rosso. Profondità = ingombro dichiarato da ArtSound; disegno non in scala."
+ },
+ "collega": [
+  {
+   "titolo": "Amplificazione",
+   "link": "amplificatori.html",
+   "icona": "sorgente",
+   "voci": [
+    "8 Ω: un diffusore per canale su qualsiasi amplificatore da installazione.",
+    "Amplificazione: 40 W RMS, 80 W massimi.",
+    "Ad esempio con ArtSound AMP850 (4 zone) o Smart Zone 4 AMP."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Dove montarlo",
+   "voci": [
+    "Lontano da pareti e angoli quando possibile.",
+    "Verifica travi, tubi e impianti prima di tagliare.",
+    "Nei soffitti aperti o per isolare acusticamente il diffusore usa il kit posteriore ArtSound (MOKIT RO238)."
+   ],
+   "posa": {
+    "tipo": "soffitto",
+    "distanza": "lontano dalle pareti",
+    "nota": "zona d'ascolto"
+   }
+  },
+  {
+   "titolo": "Montaggio",
+   "passi": [
+    [
+     "Traccia",
+     "Traccia il foro con la dima o con il diffusore: Ø 205 mm (da confermare)."
+    ],
+    [
+     "Taglia",
+     "Fori rotondi: un foro di partenza all'interno del tracciato; fori quadrati o rettangolari: quattro fori negli angoli. Poi taglia con il seghetto alternativo."
+    ],
+    [
+     "Collega prima di montare",
+     "Collega il cavo rispettando la polarità marcata prima di inserire il diffusore: correggerla dopo significa smontarlo."
+    ],
+    [
+     "Fissa",
+     "Inserisci il diffusore e stringi le viti: i ganci si aprono e serrano il pannello."
+    ],
+    [
+     "Chiudi",
+     "Monta la griglia magnetica. Cornice e griglia si possono verniciare."
+    ]
+   ]
+  }
+ ],
+ "nota": "Dati dalla scheda tecnica ArtSound FL620, confrontati con la scheda Extrasound. ArtSound non pubblica un manuale di installazione per questa serie: la procedura segue il manuale ArtSound MDC6. La scheda Extrasound indica 70 Hz – 20 kHz e 20 – 120 W; la scheda ArtSound indica 63 Hz – 20 kHz e 40 W RMS (80 W massimi). La scheda ArtSound non etichetta chiaramente il foro: 205 mm è il valore Extrasound. Fa fede il dato ArtSound.",
+ "extrasound": "https://www.extrasound.it/artsound-fl620-coppia-diffusori-da-incasso-ultra-sottili",
+ "fonti": [
+  {
+   "label": "scheda tecnica ArtSound FL620",
+   "url": "https://www.mstronics.com/images/products/old/285_spec_enfl620.pdf"
+  },
+  {
+   "label": "manuale ArtSound MDC6",
+   "url": "https://easylounge.com/pdf/Produits/2f74505f-d093-4dc1-b089-7199a01dfdb6/MDC6_man.pdf"
+  }
+ ],
+ "slug": "artsound-fl620",
+ "tab": "Diffusori<br>da soffitto"
+}

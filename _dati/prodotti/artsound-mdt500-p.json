@@ -1,0 +1,140 @@
+{
+ "id": 42885,
+ "tipo": "diffusore",
+ "cat": "S",
+ "brand": "ArtSound",
+ "model": "MDT500-P",
+ "crop": false,
+ "meta": "ArtSound MDT500-P: gamma intera · altoparlante 5″, diffusore da incasso a soffitto. Foro, profondità e collegamenti per l'installatore.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/Artsound-MDT500-P.jpg",
+  "alt": "Diffusore da incasso a soffitto ArtSound MDT500-P con griglia"
+ },
+ "chiave": [
+  "Linea 100 V · 3,75 / 7,5 / 15 / 30 W",
+  "Foro Ø 210 mm",
+  "Profondità 155 mm"
+ ],
+ "righe": [
+  "gamma intera · altoparlante 5″",
+  "Diffusore da incasso a soffitto",
+  "Serie Basic 100 V"
+ ],
+ "intro": [
+  "L'<strong>ArtSound MDT500-P</strong> è un diffusore da incasso a soffitto della serie Basic 100 V: altoparlante 5″ con cono in carta. Impedenza 100 V o 8 Ω (selettore).",
+  "Foro <strong>Ø 210 mm (dato Extrasound)</strong>, ingombro in profondità <strong>155 mm</strong>."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "Diffusore da incasso a soffitto, serie Basic 100 V.",
+    "Sistema: gamma intera.",
+    "Altoparlante 5″ con cono in carta.",
+    "Cassa posteriore chiusa inclusa."
+   ]
+  },
+  {
+   "titolo": "Acustica",
+   "voci": [
+    "Risposta: 100 Hz – 18 kHz.",
+    "Sensibilità: 89 dB (1 W / 1 m).",
+    "Impedenza: 100 V o 8 Ω (selettore).",
+    "Amplificazione: prese 100 V: 3,75 – 7,5 – 15 – 30 W.",
+    "Housing in ABS."
+   ]
+  },
+  {
+   "titolo": "Dimensioni",
+   "voci": [
+    "Foro: Ø 210 mm (dato Extrasound).",
+    "Ingombro: Ø 210 mm × 155 mm di profondità.",
+    "Peso: 2,1 kg a pezzo."
+   ]
+  }
+ ],
+ "viste": [
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/Artsound-MDT500-P-laterale.jpg",
+   "alt": "ArtSound MDT500-P visto di lato",
+   "caption": "Lato"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/Artsound-MDT500-P-posteriore.jpg",
+   "alt": "Retro dell'ArtSound MDT500-P",
+   "caption": "Retro"
+  }
+ ],
+ "misure": {
+  "forma": "tondo",
+  "foro": "210 mm",
+  "est": "210 mm",
+  "prof": "155 mm",
+  "nota": "Foro tratteggiato in rosso. Profondità = ingombro dichiarato da ArtSound; disegno non in scala."
+ },
+ "collega": [
+  {
+   "titolo": "Linea 100 V",
+   "link": "amplificatori.html",
+   "icona": "linea100v",
+   "voci": [
+    "Linea a tensione costante 100 V: scegli la presa (3,75 / 7,5 / 15 / 30 W) in base al livello voluto nella stanza.",
+    "Con il selettore su 8 Ω si usa come diffusore normale su un amplificatore a bassa impedenza.",
+    "La somma delle prese di tutti i diffusori sulla linea non deve superare la potenza dell'amplificatore.",
+    "Esempi ArtSound: MX60MKII (60 W) o MX-120M (120 W)."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Dove montarlo",
+   "voci": [
+    "Lontano da pareti e angoli quando possibile.",
+    "Verifica travi, tubi e impianti prima di tagliare."
+   ]
+  },
+  {
+   "titolo": "Montaggio",
+   "passi": [
+    [
+     "Traccia",
+     "Traccia il foro con la dima o con il diffusore: Ø 210 mm (dato Extrasound)."
+    ],
+    [
+     "Taglia",
+     "Fori rotondi: un foro di partenza all'interno del tracciato; fori quadrati o rettangolari: quattro fori negli angoli. Poi taglia con il seghetto alternativo."
+    ],
+    [
+     "Collega prima di montare",
+     "Collega il cavo rispettando la polarità marcata prima di inserire il diffusore: correggerla dopo significa smontarlo."
+    ],
+    [
+     "Presa",
+     "Prima di montare scegli la presa di potenza sul trasformatore o la posizione 8 Ω sul selettore."
+    ],
+    [
+     "Fissa",
+     "Inserisci il diffusore e stringi le viti: i ganci si aprono e serrano il pannello."
+    ],
+    [
+     "Chiudi",
+     "Monta la griglia."
+    ]
+   ]
+  }
+ ],
+ "nota": "Dati dalla scheda tecnica ArtSound MDT500-P, confrontati con la scheda Extrasound. ArtSound non pubblica un manuale di installazione per questa serie: la procedura segue il manuale ArtSound MDC6. La scheda ArtSound non indica il foro; Extrasound indica 210 mm, uguale al diametro esterno dichiarato da ArtSound: da verificare con la dima. Fa fede il dato ArtSound.",
+ "extrasound": "https://www.extrasound.it/artsound-mdt500-p-diffusore-da-incasso-100v-per-sistemi-audio-multiroom",
+ "fonti": [
+  {
+   "label": "scheda tecnica ArtSound MDT500-P",
+   "url": "https://www.telecontrol.ro/domains/telecontrol.ro/files/download_files/mdt500-p-0-pdf5732.pdf"
+  },
+  {
+   "label": "manuale ArtSound MDC6",
+   "url": "https://easylounge.com/pdf/Produits/2f74505f-d093-4dc1-b089-7199a01dfdb6/MDC6_man.pdf"
+  }
+ ],
+ "slug": "artsound-mdt500-p",
+ "tab": "Diffusori<br>da soffitto"
+}

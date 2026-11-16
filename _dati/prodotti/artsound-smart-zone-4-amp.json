@@ -1,0 +1,147 @@
+{
+ "id": 31908,
+ "tipo": "amplificatore",
+ "cat": "M",
+ "brand": "ArtSound",
+ "model": "Smart Zone 4 AMP",
+ "crop": true,
+ "meta": "ArtSound Smart Zone 4 AMP: 4 zone · streaming, amplificatore multiroom. Potenze, ingressi, uscite, collegamenti e messa in servizio.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/artsound-smart-zone-4amp.jpg",
+  "alt": "ArtSound Smart Zone 4 AMP visto di fronte"
+ },
+ "chiave": [
+  "4 zone stereo",
+  "Streaming · AirPlay · Spotify",
+  "Trigger 12 V per zona"
+ ],
+ "righe": [
+  "4 zone · streaming",
+  "Amplificatore multiroom",
+  "Rack"
+ ],
+ "intro": [
+  "L'<strong>ArtSound Smart Zone 4 AMP</strong> è un amplificatore streaming multiroom a 4 zone: ogni zona ha la sua sorgente e i suoi morsetti per una coppia di diffusori.",
+  "Si comanda dall'app 4STREAM; RS232 bidirezionale per i sistemi di domotica."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "4 zone indipendenti, comandate dall'app 4STREAM (iOS e Android).",
+    "Potenza indicata da Extrasound: 2 × 60 W RMS su 8 Ω, 2 × 105 W su 4 Ω (per zona, da confermare: il manuale ArtSound disponibile non riporta la potenza).",
+    "Servizi: Spotify Connect, TIDAL, Qobuz, Deezer, Amazon Music, TuneIn, vTuner, iHeartRadio, AirPlay, UPnP/DLNA, USB.",
+    "RS232 bidirezionale con porta passante per la domotica.",
+    "Rete: Ethernet RJ45 con uscita passante; serve il Wi-Fi per l'app.",
+    "Alimentazione 110 – 240 V; 90 × 430 × 300 mm, 9 kg (dati Extrasound)."
+   ]
+  },
+  {
+   "titolo": "Ingressi",
+   "voci": [
+    "Per zona: Line In RCA (max 2 V RMS) e USB.",
+    "Ingresso master comune a tutte le zone: Line In RCA, coassiale e ottico (fino a 192 kHz / 24 bit).",
+    "Ethernet RJ45, RS232."
+   ]
+  },
+  {
+   "titolo": "Uscite",
+   "voci": [
+    "Per zona: morsetti per una coppia di diffusori, Line Out RCA (max 2 V RMS), uscite ottica e coassiale (44,1 kHz / 16 bit).",
+    "Trigger 12 V (150 mA) master e per zona.",
+    "Ogni zona può uscire in stereo, solo L o solo R."
+   ]
+  }
+ ],
+ "lato_titolo": "Cosa si collega",
+ "collega": [
+  {
+   "titolo": "Diffusori da incasso",
+   "link": "diffusori.html",
+   "icona": "soffitto",
+   "voci": [
+    "Una coppia di diffusori per zona, sui morsetti della zona.",
+    "Per un subwoofer: canale L della Line Out della zona verso il subwoofer o il suo amplificatore."
+   ]
+  },
+  {
+   "titolo": "Sorgenti",
+   "icona": "sorgente",
+   "voci": [
+    "Una sorgente locale per zona, oppure una sorgente comune sull'ingresso master: tutte le zone la ricevono sincronizzate."
+   ]
+  },
+  {
+   "titolo": "Domotica e rete",
+   "icona": "domotica",
+   "voci": [
+    "RS232 bidirezionale verso la centrale domotica.",
+    "Trigger 12 V per accendere amplificatori esterni: cavo mini-jack mono, non stereo."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "4 zone",
+   "voci": [
+    "Ogni zona con la sua sorgente; le zone si raggruppano dall'app trascinando una sull'altra (la prima è la master).",
+    "I gruppi hanno un piccolo ritardo; l'ingresso master invece resta sincronizzato."
+   ],
+   "zone": [
+    {
+     "label": "Zona 1 · Soggiorno"
+    },
+    {
+     "label": "Zona 2 · Cucina"
+    },
+    {
+     "label": "Zona 3 · Camera"
+    },
+    {
+     "label": "Zona 4 · Bagno"
+    }
+   ]
+  },
+  {
+   "titolo": "Messa in servizio",
+   "passi": [
+    [
+     "Monta",
+     "Rack con le staffe incluse (due viti per lato), vicino agli apparecchi da collegare."
+    ],
+    [
+     "Collega",
+     "Diffusori ai morsetti di zona; sorgenti locali o master; eventuali trigger."
+    ],
+    [
+     "Rete",
+     "Cavo Ethernet al router; eventuale altro apparecchio sull'uscita di rete."
+    ],
+    [
+     "App",
+     "Installa 4STREAM sullo smartphone nella stessa rete, scegli la zona e la sorgente."
+    ],
+    [
+     "Aggiorna",
+     "Se compare l'icona «new», aggiorna il firmware. Reset: tieni premuto il tasto per 8 secondi."
+    ]
+   ]
+  }
+ ],
+ "nota": "Dati dal manuale ArtSound Smart Zone 4 (stessa piattaforma 4STREAM), confrontati con la scheda Extrasound. Potenza, dimensioni e peso sono dati Extrasound: da confermare con ArtSound.",
+ "extrasound": "https://www.extrasound.it/artsound-smart-zone-4-amp-amplificatore-multiroom-streaming-4-zone",
+ "fonti": [
+  {
+   "label": "manuale ArtSound Smart Zone 4",
+   "url": "https://easylounge.com/pdf/Produits/2056cc68-408f-4c41-a3b7-35fd26c2da3c/smart-zone-4_6451099d37069.pdf"
+  }
+ ],
+ "retro": {
+  "src": "https://www.extrasound.it/wp-content/uploads/artsound-smart-zone-4amp-retro.jpg",
+  "alt": "Pannello posteriore dell'ArtSound Smart Zone 4 AMP con morsetti e ingressi delle zone",
+  "titolo": "Pannello posteriore",
+  "caption": "Ingressi e uscite per zona, ingressi master, rete, RS232 e trigger."
+ },
+ "slug": "artsound-smart-zone-4-amp",
+ "tab": "Amplificatori<br>multicanale"
+}

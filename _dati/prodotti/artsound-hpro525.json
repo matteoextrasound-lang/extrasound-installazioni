@@ -1,0 +1,143 @@
+{
+ "id": 31975,
+ "tipo": "diffusore",
+ "cat": "S",
+ "brand": "ArtSound",
+ "model": "HPRO525",
+ "crop": false,
+ "meta": "ArtSound HPRO525: 2 vie coassiale · woofer 5, diffusore da incasso a soffitto. Foro, profondità e collegamenti per l'installatore.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/Artsound-HPRO525-1.jpg",
+  "alt": "ArtSound HPRO525 senza griglia, con woofer e tweeter in vista"
+ },
+ "chiave": [
+  "2 vie coassiale · 8 Ω",
+  "Foro Ø 180 mm",
+  "Profondità 70 mm"
+ ],
+ "righe": [
+  "2 vie coassiale · woofer 5",
+  "Diffusore da incasso a soffitto",
+  "Serie Happi"
+ ],
+ "intro": [
+  "L'<strong>ArtSound HPRO525</strong> è un diffusore da incasso a soffitto della serie Happi: woofer 5,25″ in alluminio, sospensione in gomma, tweeter 0,75″ in alluminio, orientabile. Impedenza 8 Ω.",
+  "Foro <strong>Ø 180 mm</strong>, ingombro in profondità <strong>70 mm</strong>."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "Diffusore da incasso a soffitto, serie Happi.",
+    "Sistema: 2 vie coassiale.",
+    "Woofer 5,25″ in alluminio, sospensione in gomma.",
+    "Tweeter 0,75″ in alluminio, orientabile.",
+    "Resistente all'acqua e agli spruzzi: griglia in alluminio a fissaggio magnetico, adatto a bagni, cucine e portici.",
+    "Accessori ArtSound: KITRO2."
+   ]
+  },
+  {
+   "titolo": "Acustica",
+   "voci": [
+    "Risposta: 50 Hz – 20 kHz.",
+    "Sensibilità: 88 dB.",
+    "Impedenza: 8 Ω.",
+    "Amplificazione: 60 W massimi.",
+    "Housing in ABS."
+   ]
+  },
+  {
+   "titolo": "Dimensioni",
+   "voci": [
+    "Foro: Ø 180 mm.",
+    "Ingombro: Ø 200 mm × 70 mm di profondità.",
+    "Peso: 1,1 kg a pezzo."
+   ]
+  }
+ ],
+ "viste": [
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/artsound-HPRO525-griglia.jpg",
+   "alt": "Griglia bianca dell'ArtSound HPRO525",
+   "caption": "Griglia"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/artsound-HPRO525-lato.jpg",
+   "alt": "Vista laterale dell'ArtSound HPRO525",
+   "caption": "Vista"
+  }
+ ],
+ "misure": {
+  "forma": "tondo",
+  "foro": "180 mm",
+  "est": "200 mm",
+  "prof": "70 mm",
+  "nota": "Foro tratteggiato in rosso. Profondità = ingombro dichiarato da ArtSound; disegno non in scala."
+ },
+ "collega": [
+  {
+   "titolo": "Amplificazione",
+   "link": "amplificatori.html",
+   "icona": "sorgente",
+   "voci": [
+    "8 Ω: un diffusore per canale su qualsiasi amplificatore da installazione.",
+    "Amplificazione: 60 W massimi.",
+    "Ad esempio con ArtSound AMP850 (4 zone) o Smart Zone 4 AMP."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Dove montarlo",
+   "voci": [
+    "Lontano da pareti e angoli quando possibile.",
+    "Verifica travi, tubi e impianti prima di tagliare.",
+    "Nei soffitti aperti o per isolare acusticamente il diffusore usa il kit posteriore ArtSound (KITRO2)."
+   ],
+   "posa": {
+    "tipo": "soffitto",
+    "distanza": "lontano dalle pareti",
+    "nota": "zona d'ascolto"
+   }
+  },
+  {
+   "titolo": "Montaggio",
+   "passi": [
+    [
+     "Traccia",
+     "Traccia il foro con la dima o con il diffusore: Ø 180 mm."
+    ],
+    [
+     "Taglia",
+     "Fori rotondi: un foro di partenza all'interno del tracciato; fori quadrati o rettangolari: quattro fori negli angoli. Poi taglia con il seghetto alternativo."
+    ],
+    [
+     "Collega prima di montare",
+     "Collega il cavo rispettando la polarità marcata prima di inserire il diffusore: correggerla dopo significa smontarlo."
+    ],
+    [
+     "Fissa",
+     "Inserisci il diffusore e stringi le viti: i ganci si aprono e serrano il pannello."
+    ],
+    [
+     "Chiudi",
+     "Monta la griglia magnetica. Cornice e griglia si possono verniciare."
+    ]
+   ]
+  }
+ ],
+ "nota": "Dati dalla scheda tecnica ArtSound HPRO525, confrontati con la scheda Extrasound. ArtSound non pubblica un manuale di installazione per questa serie: la procedura segue il manuale ArtSound MDC6. La scheda Extrasound indica 60 Hz – 20 kHz e 10 – 100 W; ArtSound dichiara 50 Hz – 20 kHz e 60 W massimi. Fa fede il dato ArtSound.",
+ "extrasound": "https://www.extrasound.it/artsound-hpro525-coppia-diffusori-da-incasso-rotondi-2-vie-per-ambienti-umidi",
+ "fonti": [
+  {
+   "label": "scheda tecnica ArtSound HPRO525",
+   "url": "https://www.telecontrol.ro/domains/telecontrol.ro/files/download_files/hpro525-0-pdf3269.pdf"
+  },
+  {
+   "label": "manuale ArtSound MDC6",
+   "url": "https://easylounge.com/pdf/Produits/2f74505f-d093-4dc1-b089-7199a01dfdb6/MDC6_man.pdf"
+  }
+ ],
+ "slug": "artsound-hpro525",
+ "tab": "Diffusori<br>da soffitto"
+}

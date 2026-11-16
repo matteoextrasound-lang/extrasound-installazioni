@@ -1,0 +1,147 @@
+{
+ "id": 29843,
+ "tipo": "diffusore",
+ "cat": "S",
+ "brand": "ArtSound",
+ "model": "RO2060",
+ "crop": false,
+ "meta": "ArtSound RO2060: 2 vie coassiale · woofer 6″ al neodimio, diffusore da incasso a soffitto. Foro, profondità e collegamenti per l'installatore.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/Artsound-RO2060.jpg",
+  "alt": "ArtSound RO2060 senza griglia, con woofer e tweeter in vista"
+ },
+ "chiave": [
+  "2 vie coassiale · 4 – 8 Ω",
+  "Foro Ø 210 mm",
+  "Profondità 100 mm"
+ ],
+ "righe": [
+  "2 vie coassiale · woofer 6″ al neodimio",
+  "Diffusore da incasso a soffitto",
+  "Serie Intiimi"
+ ],
+ "intro": [
+  "L'<strong>ArtSound RO2060</strong> è un diffusore da incasso a soffitto della serie Intiimi: woofer 6″ al neodimio, tweeter 1″ a cupola in titanio, orientabile. Impedenza 4 – 8 Ω.",
+  "Foro <strong>Ø 210 mm</strong>, ingombro in profondità <strong>100 mm</strong>."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "Diffusore da incasso a soffitto, serie Intiimi.",
+    "Sistema: 2 vie coassiale.",
+    "Woofer 6″ al neodimio.",
+    "Tweeter 1″ a cupola in titanio, orientabile.",
+    "Tweeter orientabile in una conchiglia acustica e regolazione manuale degli alti.",
+    "Griglia magnetica quasi senza cornice (1 mm), verniciabile.",
+    "Accessori ArtSound: KITRO3."
+   ]
+  },
+  {
+   "titolo": "Acustica",
+   "voci": [
+    "Risposta: 58 Hz – 20 kHz.",
+    "Sensibilità: 87 dB.",
+    "Impedenza: 4 – 8 Ω.",
+    "Amplificazione: 40 – 140 W (consigliata).",
+    "Housing in ABS."
+   ]
+  },
+  {
+   "titolo": "Dimensioni",
+   "voci": [
+    "Foro: Ø 210 mm.",
+    "Ingombro: Ø 235 mm × 100 mm di profondità.",
+    "Peso: 1,8 kg a pezzo.",
+    "Spessore del diffusore a vista: poco meno di 5 mm."
+   ]
+  }
+ ],
+ "viste": [
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/artsound-diffusore-incasso-RO2060.jpg",
+   "alt": "Griglia bianca dell'ArtSound RO2060",
+   "caption": "Griglia"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/Artsound-RO2060-posteriore.jpg",
+   "alt": "Retro dell'ArtSound RO2060 con ganci di fissaggio e morsetti",
+   "caption": "Retro"
+  }
+ ],
+ "misure": {
+  "forma": "tondo",
+  "foro": "210 mm",
+  "est": "235 mm",
+  "prof": "100 mm",
+  "nota": "Foro tratteggiato in rosso. Profondità = ingombro dichiarato da ArtSound; disegno non in scala."
+ },
+ "collega": [
+  {
+   "titolo": "Amplificazione",
+   "link": "amplificatori.html",
+   "icona": "sorgente",
+   "voci": [
+    "4 – 8 Ω: un diffusore per canale su qualsiasi amplificatore da installazione.",
+    "Impedenza fino a 4 Ω: scegli un amplificatore stabile a 4 Ω e non metterne due in parallelo sullo stesso canale.",
+    "Amplificazione: 40 – 140 W (consigliata).",
+    "Ad esempio con ArtSound AMP850 (4 zone) o Smart Zone 4 AMP."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Dove montarlo",
+   "voci": [
+    "Lontano da pareti e angoli quando possibile.",
+    "Verifica travi, tubi e impianti prima di tagliare.",
+    "Orienta il tweeter verso la zona d'ascolto e regola gli alti in base all'ambiente.",
+    "Nei soffitti aperti o per isolare acusticamente il diffusore usa il kit posteriore ArtSound (KITRO3)."
+   ],
+   "posa": {
+    "tipo": "soffitto",
+    "distanza": "lontano dalle pareti",
+    "nota": "zona d'ascolto"
+   }
+  },
+  {
+   "titolo": "Montaggio",
+   "passi": [
+    [
+     "Traccia",
+     "Traccia il foro con la dima o con il diffusore: Ø 210 mm."
+    ],
+    [
+     "Taglia",
+     "Fori rotondi: un foro di partenza all'interno del tracciato; fori quadrati o rettangolari: quattro fori negli angoli. Poi taglia con il seghetto alternativo."
+    ],
+    [
+     "Collega prima di montare",
+     "Collega il cavo rispettando la polarità marcata prima di inserire il diffusore: correggerla dopo significa smontarlo."
+    ],
+    [
+     "Fissa",
+     "Inserisci il diffusore e stringi le viti: i ganci si aprono e serrano il pannello."
+    ],
+    [
+     "Chiudi",
+     "Monta la griglia magnetica. Cornice e griglia si possono verniciare."
+    ]
+   ]
+  }
+ ],
+ "nota": "Dati dalla scheda tecnica ArtSound RO2060, confrontati con la scheda Extrasound. ArtSound non pubblica un manuale di installazione per questa serie: la procedura segue il manuale ArtSound MDC6.",
+ "extrasound": "https://www.extrasound.it/coppia-diffusori-incasso-2-vie-artsound-intiimi-ro2060",
+ "fonti": [
+  {
+   "label": "scheda tecnica ArtSound RO2060",
+   "url": "https://test11.avcomfort.ru/uploads/instructions/accoustics/92855/RO2060_uk.pdf"
+  },
+  {
+   "label": "manuale ArtSound MDC6",
+   "url": "https://easylounge.com/pdf/Produits/2f74505f-d093-4dc1-b089-7199a01dfdb6/MDC6_man.pdf"
+  }
+ ],
+ "slug": "artsound-ro2060",
+ "tab": "Diffusori<br>da soffitto"
+}
