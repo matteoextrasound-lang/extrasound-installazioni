@@ -1,0 +1,152 @@
+{
+ "id": 2401,
+ "tipo": "diffusore",
+ "cat": "P",
+ "brand": "Garvan",
+ "model": "KR112",
+ "crop": false,
+ "meta": "Garvan KR112: coassiale 2 vie · woofer 130 mm, diffusore da incasso a parete o soffitto a filo. Foro, telai, montaggio e collegamenti per l'installatore.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/Garvan-KR112.jpg",
+  "alt": "Garvan KR112 da incasso con telaio e cover quadrata, due esemplari"
+ },
+ "chiave": [
+  "coassiale 2 vie · 8 Ω",
+  "Foro 19,5 × 19,5 cm",
+  "Profondità 6,4 cm"
+ ],
+ "righe": [
+  "coassiale 2 vie · woofer 130 mm",
+  "Diffusore da incasso a parete o soffitto",
+  "Collezione Luna™"
+ ],
+ "intro": [
+  "Il <strong>Garvan KR112</strong> è un diffusore da incasso a parete o soffitto della collezione Luna™: woofer 130 mm + tweeter 14 mm, 50 W AES (100 W continui), 88,5 dB (89 dB a muro), 8 Ω.",
+  "Montaggio: FlushMount™ su cartongesso, EasyFit™, FlushMount™ a muro. Foro <strong>19,5 × 19,5 cm</strong>, ingombro <strong>25,0 × 25,0 × 6,4 cm</strong>."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "Diffusore da incasso a parete o soffitto, collezione Luna™, progettato e costruito in Italia.",
+    "Tipo: coassiale 2 vie.",
+    "Altoparlanti: woofer 130 mm + tweeter 14 mm.",
+    "Nessuna parte in plastica; cover magnetica intercambiabile, a filo della superficie.",
+    "Cover: quadrata 19 × 19 cm.",
+    "Venduto singolarmente; tipo di montaggio e cover si scelgono nella scheda Extrasound."
+   ]
+  },
+  {
+   "titolo": "Acustica",
+   "voci": [
+    "Potenza: 50 W AES (100 W continui).",
+    "Sensibilità (2,83 V / 1 m): 88,5 dB (89 dB a muro).",
+    "SPL massimo calcolato: 117,5 dB.",
+    "Risposta (−3 dB): 95 Hz – 20 kHz.",
+    "Gamma (−10 dB): 56 Hz – 20 kHz (60 Hz – 20 kHz a muro).",
+    "Impedenza: 8 Ω.",
+    "Dispersione: 110° (1–4 kHz), 90° (1–10 kHz).",
+    "Passa-alto consigliato: 80 Hz (65 Hz a muro), 48 dB/ottava."
+   ]
+  },
+  {
+   "titolo": "Installazione",
+   "voci": [
+    "Foro: 19,5 × 19,5 cm.",
+    "Ingombro installato: 25,0 × 25,0 × 6,4 cm.",
+    "Collegamenti a pressione, cavi da 18 a 15 AWG (circa 0,8 – 1,6 mm²).",
+    "FlushMount™ su cartongesso: telaio da rasare nella lastra (da 12,5 a 25 mm); la cover resta perfettamente a filo.",
+    "EasyFit™: telaio frontale in acciaio spazzolato o primer bianco, da montare a lavori finiti su cartongesso, legno, metallo o gres (da 4 a 40 mm), senza stuccare né tinteggiare.",
+    "FlushMount™ a muro: cassaforma da murare, per pareti in muratura di almeno 90 mm.",
+    "Accessori: telaio CC1919 (cartongesso), telaio frontale CF191S / CF191F (EasyFit)."
+   ]
+  }
+ ],
+ "viste": [
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/Garvan-KR112-lifestyle-1.jpg",
+   "alt": "Cover nera quadrata della serie Luna su parete grigia",
+   "caption": "Installato"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/Garvan-KR112-lifestyle-3.jpg",
+   "alt": "Cover nera quadrata della serie Luna su parete metallizzata",
+   "caption": "Installato"
+  }
+ ],
+ "misure": {
+  "forma": "rett",
+  "orizzontale": false,
+  "foro": [
+   "19,5 cm",
+   "19,5 cm"
+  ],
+  "est": [
+   "25,0 cm",
+   "25,0 cm"
+  ],
+  "prof": "6,4 cm",
+  "nota": "Foro tratteggiato in rosso; profondità = ingombro installato. Disegno non in scala."
+ },
+ "collega": [
+  {
+   "titolo": "Amplificazione",
+   "link": "amplificatori.html",
+   "icona": "sorgente",
+   "voci": [
+    "8 Ω: un diffusore per canale su qualsiasi amplificatore da installazione.",
+    "Garvan consiglia un passa-alto a 80 Hz (65 Hz a muro), 48 dB/ottava: serve un amplificatore o un processore con DSP. Garvan fornisce preset EQ, filtri e protezioni."
+   ]
+  },
+  {
+   "titolo": "Linee 70 / 100 V",
+   "icona": "linea100v",
+   "voci": [
+    "Con i trasformatori opzionali Garvan TRT052 e TRT054 (dato Extrasound)."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Dove montarlo",
+   "voci": [
+    "Progetta la posizione prima di chiudere pareti e controsoffitti: telai e casseforme vanno posati in corso d'opera (EasyFit escluso)."
+   ]
+  },
+  {
+   "titolo": "Montaggio",
+   "passi": [
+    [
+     "Mura la cassaforma",
+     "In fase di muratura posa la cassaforma a filo del finito, in parete di almeno 90 mm, e porta il cavo all'interno."
+    ],
+    [
+     "Telaio nel cartongesso",
+     "Taglia il foro (19,5 × 19,5 cm) nella lastra da 12,5 – 25 mm, fissa il telaio e rasalo insieme alla parete."
+    ],
+    [
+     "Oppure EasyFit",
+     "A lavori finiti: foro, telaio frontale EasyFit sulla superficie (4 – 40 mm), senza stucco né tinta."
+    ],
+    [
+     "Collega",
+     "Cavo da 18 a 15 AWG nei morsetti a pressione, rispettando la polarità."
+    ],
+    [
+     "Inserisci e chiudi",
+     "Monta l'altoparlante nel telaio e applica la cover magnetica a filo. Procedura di dettaglio sul foglio di istruzioni Garvan fornito con il telaio."
+    ]
+   ]
+  }
+ ],
+ "nota": "Garvan non pubblica online la scheda tecnica di questo modello: dati dalla scheda Extrasound, ricavata dalla documentazione Garvan. Da verificare sul foglio di istruzioni fornito con il prodotto. La Quick reference guide Garvan indica per il KR112 con telaio EasyFit CF191S 20,6 × 20,6 × 6,7 cm; Extrasound indica una profondità di 6,4 cm.",
+ "extrasound": "https://www.extrasound.it/garvan-kr112-cassa-da-incasso-filo-muro-o-cartongesso",
+ "fonti": [
+  {
+   "label": "Garvan Acoustic, Quick reference guide V2.3",
+   "url": "https://konferencje.ptwp.pl/download/catalogue/25/9707"
+  }
+ ],
+ "slug": "garvan-kr112",
+ "tab": "Diffusori<br>da incasso"
+}

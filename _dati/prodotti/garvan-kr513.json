@@ -1,0 +1,123 @@
+{
+ "id": 2390,
+ "tipo": "diffusore",
+ "cat": "L",
+ "brand": "Garvan",
+ "model": "KR513",
+ "crop": false,
+ "meta": "Garvan KR513: 2 vie · 4 woofer 130 mm, diffusore LCR da incasso a filo. Foro, telai, montaggio e collegamenti per l'installatore.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/garvan-sir513.jpg",
+  "alt": "Garvan KR513 da incasso con quattro woofer e cover"
+ },
+ "chiave": [
+  "2 vie · 8 Ω",
+  "Cassaforma da murare",
+  "Profondità 9,95 cm"
+ ],
+ "righe": [
+  "2 vie · 4 woofer 130 mm",
+  "Diffusore LCR da incasso",
+  "Collezione Luna™"
+ ],
+ "intro": [
+  "Il <strong>Garvan KR513</strong> è un diffusore LCR da incasso della collezione Luna™: 4 woofer 130 mm + tweeter 32 mm, 300 W AES (600 W continui), 92,5 dB, 8 Ω.",
+  "Montaggio: FlushMount™ a muro, FlushMount™ su cartongesso. Ingombro installato <strong>86,0 × 25,0 × 9,95 cm</strong>."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "Diffusore LCR da incasso, collezione Luna™, progettato e costruito in Italia.",
+    "Tipo: 2 vie.",
+    "Altoparlanti: 4 woofer 130 mm + tweeter 32 mm.",
+    "Nessuna parte in plastica; cover magnetica intercambiabile, a filo della superficie.",
+    "Cover: 80 × 19 cm.",
+    "Venduto singolarmente; tipo di montaggio e cover si scelgono nella scheda Extrasound."
+   ]
+  },
+  {
+   "titolo": "Acustica",
+   "voci": [
+    "Potenza: 300 W AES (600 W continui).",
+    "Sensibilità (2,83 V / 1 m): 92,5 dB.",
+    "SPL massimo calcolato: 129 dB.",
+    "Risposta (−3 dB): 70 Hz – 20 kHz.",
+    "Gamma (−10 dB): 58 Hz – 20 kHz.",
+    "Impedenza: 8 Ω.",
+    "Dispersione: oltre 120° (1–4 kHz), 80° (1–10 kHz).",
+    "Passa-alto consigliato: 60 Hz, 48 dB/ottava."
+   ]
+  },
+  {
+   "titolo": "Installazione",
+   "voci": [
+    "Foro: si mura la cassaforma (misure del vano da confermare con Garvan).",
+    "Ingombro installato: 86,0 × 25,0 × 9,95 cm.",
+    "Collegamenti a pressione, cavi da 18 a 15 AWG (circa 0,8 – 1,6 mm²).",
+    "FlushMount™ su cartongesso: telaio da rasare nella lastra (da 12,5 a 25 mm); la cover resta perfettamente a filo.",
+    "FlushMount™ a muro: cassaforma da murare, per pareti in muratura di almeno 90 mm.",
+    "Accessori: cassaforma CR1981 (muratura); telaio dedicato per cartongesso."
+   ]
+  }
+ ],
+ "viste": [
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/virtuemart/product/garvan-sir513-lifestyle.jpg",
+   "alt": "Cover Garvan KR513 a filo su parete in pietra scura",
+   "caption": "Installato"
+  }
+ ],
+ "misure": null,
+ "collega": [
+  {
+   "titolo": "Amplificazione",
+   "link": "amplificatori.html",
+   "icona": "sorgente",
+   "voci": [
+    "8 Ω: un diffusore per canale su qualsiasi amplificatore da installazione.",
+    "Garvan consiglia un passa-alto a 60 Hz, 48 dB/ottava: serve un amplificatore o un processore con DSP. Garvan fornisce preset EQ, filtri e protezioni."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Dove montarlo",
+   "voci": [
+    "Canali frontali e centrale dell'home theater, sopra o sotto lo schermo.",
+    "Progetta la posizione prima di chiudere pareti e controsoffitti: telai e casseforme vanno posati in corso d'opera (EasyFit escluso)."
+   ]
+  },
+  {
+   "titolo": "Montaggio",
+   "passi": [
+    [
+     "Mura la cassaforma",
+     "In fase di muratura posa la cassaforma a filo del finito, in parete di almeno 90 mm, e porta il cavo all'interno."
+    ],
+    [
+     "Telaio nel cartongesso",
+     "Taglia il foro (secondo il telaio) nella lastra da 12,5 – 25 mm, fissa il telaio e rasalo insieme alla parete."
+    ],
+    [
+     "Collega",
+     "Cavo da 18 a 15 AWG nei morsetti a pressione, rispettando la polarità."
+    ],
+    [
+     "Inserisci e chiudi",
+     "Monta l'altoparlante nel telaio e applica la cover magnetica a filo. Procedura di dettaglio sul foglio di istruzioni Garvan fornito con il telaio."
+    ]
+   ]
+  }
+ ],
+ "nota": "Garvan non pubblica online la scheda tecnica di questo modello: dati dalla scheda Extrasound, ricavata dalla documentazione Garvan. Da verificare sul foglio di istruzioni fornito con il prodotto. La Quick reference guide Garvan indica per il KR513 82,0 × 21,0 × 9,9 cm con cover 72CXS3 e cassaforma CR1981; Extrasound indica un ingombro di 86,0 × 25,0 × 9,95 cm.",
+ "extrasound": "https://www.extrasound.it/garvan-kr513-cassa-da-incasso-left-center-right-filo-muro",
+ "fonti": [
+  {
+   "label": "Garvan Acoustic, Quick reference guide V2.3",
+   "url": "https://konferencje.ptwp.pl/download/catalogue/25/9707"
+  }
+ ],
+ "slug": "garvan-kr513",
+ "tab": "Diffusori<br>LCR"
+}

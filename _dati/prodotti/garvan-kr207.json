@@ -1,0 +1,154 @@
+{
+ "id": 2400,
+ "tipo": "diffusore",
+ "cat": "2",
+ "brand": "Garvan",
+ "model": "KR207",
+ "crop": false,
+ "meta": "Garvan KR207: stereo · 2 altoparlanti a larga banda da 76 mm, diffusore stereo da incasso a filo. Foro, telai, montaggio e collegamenti per l'installatore.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/Garvan-Luna-kr207.jpg",
+  "alt": "Garvan KR207 stereo da incasso con telaio e cover tonda, due esemplari"
+ },
+ "chiave": [
+  "stereo · 8 + 8 Ω",
+  "Foro Ø 20,5 cm",
+  "Profondità 6,8 cm"
+ ],
+ "righe": [
+  "stereo · 2 altoparlanti a larga banda da 76 mm",
+  "Diffusore stereo da incasso",
+  "Collezione Luna™"
+ ],
+ "intro": [
+  "Il <strong>Garvan KR207</strong> è un diffusore stereo da incasso della collezione Luna™: 2 altoparlanti a larga banda da 76 mm, 40 + 40 W AES (80 + 80 W continui), 83,5 dB per canale, 8 + 8 Ω.",
+  "Montaggio: FlushMount™ su cartongesso, EasyFit™, FlushMount™ a muro. Foro <strong>Ø 20,5 cm</strong>, ingombro <strong>26,0 × 20,0 × 6,8 cm</strong>."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "Diffusore stereo da incasso, collezione Luna™, progettato e costruito in Italia.",
+    "Tipo: stereo, 2 larga banda.",
+    "Altoparlanti: 2 altoparlanti a larga banda da 76 mm.",
+    "Nessuna parte in plastica; cover magnetica intercambiabile, a filo della superficie.",
+    "Cover: tonda Ø 19,3 cm.",
+    "Venduto singolarmente; tipo di montaggio e cover si scelgono nella scheda Extrasound."
+   ]
+  },
+  {
+   "titolo": "Acustica",
+   "voci": [
+    "Potenza: 40 + 40 W AES (80 + 80 W continui).",
+    "Sensibilità (2,83 V / 1 m): 83,5 dB per canale.",
+    "SPL massimo calcolato: 111,5 dB per canale, 117,5 dB in totale.",
+    "Risposta (−3 dB): 115 Hz – 16 kHz.",
+    "Gamma (−10 dB): 85 Hz – 20 kHz (87 Hz – 20 kHz a muro).",
+    "Impedenza: 8 + 8 Ω.",
+    "Dispersione: 90° (1–10 kHz).",
+    "Passa-alto consigliato: 80 Hz, 48 dB/ottava."
+   ]
+  },
+  {
+   "titolo": "Installazione",
+   "voci": [
+    "Foro: Ø 20,5 cm.",
+    "Ingombro installato: 26,0 × 20,0 × 6,8 cm.",
+    "Collegamenti a pressione, cavi da 18 a 15 AWG (circa 0,8 – 1,6 mm²).",
+    "FlushMount™ su cartongesso: telaio da rasare nella lastra (da 12,5 a 25 mm); la cover resta perfettamente a filo.",
+    "EasyFit™: telaio frontale in acciaio spazzolato o primer bianco, da montare a lavori finiti su cartongesso, legno, metallo o gres (da 4 a 40 mm), senza stuccare né tinteggiare.",
+    "FlushMount™ a muro: cassaforma da murare, per pareti in muratura di almeno 90 mm.",
+    "Accessori: telaio CC2020 (cartongesso), telaio frontale CF202S / CF202F (EasyFit)."
+   ]
+  }
+ ],
+ "viste": [
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/Garvan-Luna-kr111-griglia-easy-fit.jpg",
+   "alt": "Cover tonda microforata della serie Luna a filo soffitto",
+   "caption": "Cover"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/Garvan-Luna-kr111-griglia-inox.jpg",
+   "alt": "Cover tonda in acciaio spazzolato della serie Luna",
+   "caption": "Cover"
+  }
+ ],
+ "misure": {
+  "forma": "tondo",
+  "foro": "20,5 cm",
+  "prof": "6,8 cm",
+  "nota": "Foro tratteggiato in rosso; profondità = ingombro installato. Disegno non in scala."
+ },
+ "collega": [
+  {
+   "titolo": "Amplificazione",
+   "link": "amplificatori.html",
+   "icona": "sorgente",
+   "voci": [
+    "Due ingressi, uno per canale: sinistro e destro dello stesso amplificatore, 8 Ω per canale.",
+    "Per stanze piccole e corridoi dove c'è posto per un solo diffusore.",
+    "Garvan consiglia un passa-alto a 80 Hz, 48 dB/ottava: serve un amplificatore o un processore con DSP. Garvan fornisce preset EQ, filtri e protezioni."
+   ]
+  },
+  {
+   "titolo": "Linee 70 / 100 V",
+   "icona": "linea100v",
+   "voci": [
+    "Con i trasformatori opzionali Garvan TRT052 e TRT054 (dato Extrasound)."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Dove montarlo",
+   "voci": [
+    "Al centro della stanza: un solo punto per i due canali.",
+    "Progetta la posizione prima di chiudere pareti e controsoffitti: telai e casseforme vanno posati in corso d'opera (EasyFit escluso)."
+   ]
+  },
+  {
+   "titolo": "Schema",
+   "voci": [
+    "Un solo diffusore riceve i due canali."
+   ],
+   "zone": [
+    {
+     "label": "KR207 · L + R",
+     "tipo": "2"
+    }
+   ],
+   "apparecchio": "Amplificatore"
+  },
+  {
+   "titolo": "Montaggio",
+   "passi": [
+    [
+     "Mura la cassaforma",
+     "In fase di muratura posa la cassaforma a filo del finito, in parete di almeno 90 mm, e porta il cavo all'interno."
+    ],
+    [
+     "Telaio nel cartongesso",
+     "Taglia il foro (Ø 20,5 cm) nella lastra da 12,5 – 25 mm, fissa il telaio e rasalo insieme alla parete."
+    ],
+    [
+     "Oppure EasyFit",
+     "A lavori finiti: foro, telaio frontale EasyFit sulla superficie (4 – 40 mm), senza stucco né tinta."
+    ],
+    [
+     "Collega",
+     "Cavo da 18 a 15 AWG nei morsetti a pressione, rispettando la polarità."
+    ],
+    [
+     "Inserisci e chiudi",
+     "Monta l'altoparlante nel telaio e applica la cover magnetica a filo. Procedura di dettaglio sul foglio di istruzioni Garvan fornito con il telaio."
+    ]
+   ]
+  }
+ ],
+ "nota": "Garvan non pubblica online la scheda tecnica di questo modello: dati dalla scheda Extrasound, ricavata dalla documentazione Garvan. Da verificare sul foglio di istruzioni fornito con il prodotto.",
+ "extrasound": "https://www.extrasound.it/garvan-kr207-cassa-da-incasso-stereo-filo-muro-o-cartongesso",
+ "fonti": [],
+ "slug": "garvan-kr207",
+ "tab": "Diffusori<br>stereo"
+}

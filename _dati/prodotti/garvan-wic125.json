@@ -1,0 +1,124 @@
+{
+ "id": 2393,
+ "tipo": "diffusore",
+ "cat": "W",
+ "brand": "Garvan",
+ "model": "WIC125",
+ "crop": false,
+ "meta": "Garvan WIC125: subwoofer passivo da incasso 25 cm a doppia bobina, per cartongesso a filo. Foro, telaio e collegamenti per l'installatore.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/garvan-wic125.jpg",
+  "alt": "Subwoofer da incasso Garvan WIC125 con telaio e cover"
+ },
+ "chiave": [
+  "Subwoofer passivo · 25 cm",
+  "Foro 28,5 × 28,5 cm",
+  "Profondità 12,1 cm"
+ ],
+ "righe": [
+  "Subwoofer passivo · 25 cm",
+  "Subwoofer da incasso",
+  "Collezione Luna™"
+ ],
+ "intro": [
+  "Il <strong>Garvan WIC125</strong> è un subwoofer passivo da incasso a filo per cartongesso, collezione Luna™: woofer da 25 cm a doppia bobina, 80 + 80 W RMS, 94 dB, 4 + 4 Ω.",
+  "Foro <strong>28,5 × 28,5 cm</strong>, ingombro installato <strong>34,0 × 34,0 × 12,1 cm</strong>, telaio CC2828."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "Subwoofer passivo da incasso a filo, collezione Luna™.",
+    "Woofer 25 cm, cono in carta trattata, sospensione in tessuto, doppia bobina.",
+    "Cover 28 × 28 cm a filo.",
+    "Peso dell'altoparlante: 3,1 kg."
+   ]
+  },
+  {
+   "titolo": "Acustica",
+   "voci": [
+    "Potenza: 80 + 80 W RMS, 160 + 160 W massimi.",
+    "Risposta: 34 – 200 Hz.",
+    "Sensibilità (2,83 V / 1 m): 94 dB.",
+    "Impedenza: 4 + 4 Ω (doppia bobina)."
+   ]
+  },
+  {
+   "titolo": "Installazione",
+   "voci": [
+    "Foro nel cartongesso: 28,5 × 28,5 cm.",
+    "Ingombro installato: 34,0 × 34,0 × 12,1 cm.",
+    "Telaio CC2828; nella scheda Extrasound si sceglie lo spessore del cartongesso e il tipo di griglia."
+   ]
+  }
+ ],
+ "viste": [],
+ "misure": {
+  "forma": "rett",
+  "foro": [
+   "28,5 cm",
+   "28,5 cm"
+  ],
+  "est": [
+   "34,0 cm",
+   "34,0 cm"
+  ],
+  "prof": "12,1 cm",
+  "nota": "Foro tratteggiato in rosso; profondità = ingombro installato. Disegno non in scala."
+ },
+ "collega": [
+  {
+   "titolo": "Amplificazione",
+   "icona": "subwoofer",
+   "voci": [
+    "Passivo: serve un amplificatore con filtro passa-basso; Garvan propone il suo amplificatore dedicato.",
+    "Doppia bobina 4 + 4 Ω: due canali (uno per bobina) oppure le bobine collegate secondo lo schema Garvan."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Schema 2.1",
+   "voci": [
+    "Coppia di diffusori Luna (es. KR112 o KR111) e WIC125 sullo stesso impianto, con passa-alto sui satelliti e passa-basso sul subwoofer."
+   ],
+   "zone": [
+    {
+     "label": "Diffusori Luna · L + R",
+     "tipo": "2"
+    },
+    {
+     "label": "WIC125 · passa-basso",
+     "tipo": "sub"
+    }
+   ],
+   "apparecchio": "Amplificatore con DSP"
+  },
+  {
+   "titolo": "Montaggio",
+   "passi": [
+    [
+     "Prevedi il vano",
+     "Prima di chiudere pareti e controsoffitti: almeno 12,1 cm di profondità libera."
+    ],
+    [
+     "Telaio",
+     "Taglia il foro 28,5 × 28,5 cm, fissa il telaio CC2828 e rasalo con la lastra."
+    ],
+    [
+     "Collega",
+     "Cavi di potenza sulle due bobine rispettando la polarità."
+    ],
+    [
+     "Chiudi",
+     "Monta il woofer e la cover a filo."
+    ]
+   ]
+  }
+ ],
+ "nota": "Garvan non pubblica online la scheda tecnica di questo modello: dati dalla scheda Extrasound. Collegamento delle due bobine da verificare sulle istruzioni Garvan.",
+ "extrasound": "https://www.extrasound.it/garvan-wic125-subwoofer-da-incasso-a-filo-muro",
+ "fonti": [],
+ "slug": "garvan-wic125",
+ "tab": "Subwoofer<br>da incasso"
+}
