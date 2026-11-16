@@ -1,0 +1,158 @@
+{
+ "id": 63199,
+ "slug": "rotel-c8-plus",
+ "brand": "Rotel",
+ "model": "C8+",
+ "meta": "Rotel C8+: amplificatore da installazione 8 canali, 4 zone, classe AB, DAC e matrice. Potenze, ingressi, controllo e schemi d'impianto.",
+ "chiave": [
+  "8 canali · 4 zone",
+  "8 × 100 W / 8 Ω · 8 × 150 W / 4 Ω",
+  "Bridge 300 W · rack 2U"
+ ],
+ "righe": [
+  "8 canali · 4 zone",
+  "Amplificatore multizona",
+  "Rack 2U"
+ ],
+ "intro": [
+  "Il <strong>Rotel C8+</strong> è un amplificatore da installazione in classe AB a 8 canali e 4 zone: 8 × 100 W su 8 Ω, 8 × 150 W su 4 Ω, 300 W a ponte su 4 Ω.",
+  "4 ingressi analogici e 4 digitali in matrice su tutte le zone, DAC 24 bit / 192 kHz, controllo IP e RS232, rack 2U."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "Classe AB, trasformatore toroidale, 32 dispositivi di uscita.",
+    "Per zona: volume, bassi e alti (±10 dB a 100 Hz e 10 kHz) indipendenti.",
+    "Priority Zone PA Override: annunci su tutte le zone.",
+    "Risposta 10 Hz – 100 kHz (+0, −0,5 dB); S/N 100 dB; THD < 0,1%; fattore di smorzamento 80.",
+    "Rack 2U senza spazio sopra e sotto; 430 × 97 × 414 mm, 18,35 kg.",
+    "Consumo massimo 980 W; standby < 0,5 W (< 2 W in network standby)."
+   ]
+  },
+  {
+   "titolo": "Ingressi",
+   "voci": [
+    "4 analogici RCA stereo (430 mV).",
+    "2 coassiali e 2 ottici, 24 bit / 192 kHz, 4 DAC Texas Instruments.",
+    "Ingressi in matrice su tutte le zone.",
+    "Trigger 12 V, RS232, Ethernet (IP)."
+   ]
+  },
+  {
+   "titolo": "Uscite",
+   "voci": [
+    "Potenza: 8 × 100 W su 8 Ω, 8 × 150 W su 4 Ω (tutti i canali).",
+    "Bridge: 300 W per canale su 4 Ω (4 canali).",
+    "Morsetti Phoenix estraibili con viti di blocco.",
+    "Uscita fissa RCA e uscite link bufferizzate per altri amplificatori."
+   ]
+  }
+ ],
+ "collega": [
+  {
+   "titolo": "Diffusori da incasso",
+   "link": "diffusori.html",
+   "icona": "soffitto",
+   "voci": [
+    "Una coppia di diffusori per zona, 4 – 8 Ω; oppure un diffusore a ponte."
+   ]
+  },
+  {
+   "titolo": "Sorgenti",
+   "icona": "sorgente",
+   "voci": [
+    "Fino a 8 sorgenti (4 analogiche, 4 digitali) distribuite alle zone dalla matrice."
+   ]
+  },
+  {
+   "titolo": "Controllo",
+   "icona": "domotica",
+   "voci": [
+    "IP e RS232 verso i sistemi di controllo; trigger 12 V."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "4 zone stereo",
+   "voci": [
+    "Ogni zona sceglie una delle 8 sorgenti."
+   ],
+   "zone": [
+    {
+     "label": "Zona 1 · 2 × 100 W / 8 Ω"
+    },
+    {
+     "label": "Zona 2 · 2 × 100 W / 8 Ω"
+    },
+    {
+     "label": "Zona 3 · 2 × 100 W / 8 Ω"
+    },
+    {
+     "label": "Zona 4 · 2 × 100 W / 8 Ω"
+    }
+   ]
+  },
+  {
+   "titolo": "Messa in servizio",
+   "passi": [
+    [
+     "Spegni",
+     "Spegni tutti gli apparecchi prima di collegare, diffusori compresi; volume dell'amplificatore al minimo prima di accendere o spegnere."
+    ],
+    [
+     "Ingressi",
+     "Sorgenti sugli ingressi analogici (e digitali sul C8+); la matrice le assegna alle zone."
+    ],
+    [
+     "Diffusori",
+     "Morsetti Phoenix estraibili a vite: cabla il connettore a banco, poi inseriscilo."
+    ],
+    [
+     "Bridge (opzionale)",
+     "Una coppia di canali a ponte per zona: schema di collegamento nella figura 3 del manuale Rotel."
+    ],
+    [
+     "Zone",
+     "Per ogni zona imposta sorgente, volume, bassi, alti e bilanciamento."
+    ],
+    [
+     "Controllo",
+     "Trigger 12 V, RS232 o IP verso il sistema di controllo."
+    ]
+   ]
+  }
+ ],
+ "nota": "Dati dalla scheda tecnica Rotel C8+ e dal distributore Henley Audio, procedura dal manuale Rotel, confrontati con la scheda Extrasound.",
+ "extrasound": "https://www.extrasound.it/rotel-c8-plus-amplificatore-multizona-8-canali",
+ "fonti": [
+  {
+   "label": "scheda tecnica Rotel C8+",
+   "url": "https://iear.be/docs/spec-sheet/198266.pdf"
+  },
+  {
+   "label": "scheda Rotel C8+ (Henley Audio, distributore UK)",
+   "url": "https://www.henleyaudio.co.uk/brands/rotel/products/c8plus-amplifiers/"
+  },
+  {
+   "label": "manuale Rotel C8 / C8+",
+   "url": "https://manuals.plus/rotel/c8-and-c8plus-eight-channel-power-amplifiers-manual"
+  }
+ ],
+ "tipo": "amplificatore",
+ "cat": "M",
+ "crop": true,
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/rotel-c8-plus-1000.jpg",
+  "alt": "Rotel C8+ nero, vista frontale"
+ },
+ "lato_titolo": "Cosa si collega",
+ "retro": {
+  "src": "https://www.extrasound.it/wp-content/uploads/rotel-c8-plus-retro-1000.jpg",
+  "alt": "Pannello posteriore del Rotel C8+ con ingressi e uscite",
+  "titolo": "Pannello posteriore",
+  "caption": "Ingressi analogici e digitali, morsetti Phoenix, trigger, RS232 ed Ethernet."
+ },
+ "tab": "Amplificatori<br>multicanale"
+}

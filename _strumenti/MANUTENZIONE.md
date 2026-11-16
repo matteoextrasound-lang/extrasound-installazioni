@@ -62,3 +62,10 @@ Questa cartella non viene pubblicata (GitHub Pages ignora le cartelle che inizia
 
 - Attivo dal 16/11 su https://matteoextrasound-lang.github.io/extrasound-installazioni/ e, per ora, pubblica il ramo `bozza` (scelta di Extrasound per vedere il sito in costruzione). Ogni salvataggio su `bozza` va online in 1–2 minuti.
 - Quando il sito sarà pronto: unire `bozza` in `main`, impostare Pages su `main`, togliere `noindex` dalle pagine e aggiungere il dominio definitivo (`CNAME`).
+
+## Schede prodotto (16/11/2026)
+- 173 schede, una per prodotto custom di extrasound.it (inventario in `_dati/inventario.json`, campo `stato`).
+- Ogni marchio ha il suo script in `_strumenti/marchi_*.py` che scrive i JSON in `_dati/prodotti/`; poi `python3 _strumenti/genera_schede.py && python3 _strumenti/build.py`.
+- Dati dalle fonti ufficiali del produttore (elencate in fondo a ogni scheda); dove mancano si usa la scheda Extrasound e la scheda lo dice. Le differenze con Extrasound sono scritte nella nota della scheda («Fa fede il dato …»).
+- Garvan non pubblica online le schede dei singoli modelli: dati dalla scheda Extrasound.
+- Slug uguali: impostare `slug` a mano (es. Rotel C8+ → `rotel-c8-plus`).

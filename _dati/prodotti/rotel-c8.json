@@ -1,0 +1,145 @@
+{
+ "id": 63195,
+ "brand": "Rotel",
+ "model": "C8",
+ "meta": "Rotel C8: amplificatore da installazione 8 canali, 4 zone, classe AB. Potenze, ingressi, controllo e schemi d'impianto.",
+ "chiave": [
+  "8 canali · 4 zone",
+  "8 × 50 W / 8 Ω · 8 × 70 W / 4 Ω",
+  "Bridge 140 W / 4 Ω"
+ ],
+ "righe": [
+  "8 canali · 4 zone",
+  "Amplificatore multizona",
+  "Classe AB"
+ ],
+ "intro": [
+  "Il <strong>Rotel C8</strong> è un amplificatore da installazione in classe AB a 8 canali e 4 zone: 8 × 50 W su 8 Ω, 8 × 70 W su 4 Ω, 140 W a ponte su 4 Ω.",
+  "4 ingressi analogici, toni per zona, controllo IP e RS232. Rispetto al C8+ non ha ingressi digitali."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "Classe AB, trasformatore toroidale; THD < 0,1%.",
+    "Per zona: volume, bassi e alti (±10 dB a 100 Hz e 10 kHz).",
+    "Risposta 10 Hz – 100 kHz (±0,5 dB); S/N 100 dB; fattore di smorzamento 80.",
+    "Consumo 570 W; standby < 0,5 W."
+   ]
+  },
+  {
+   "titolo": "Ingressi",
+   "voci": [
+    "4 RCA stereo (0,3 V / 31 kΩ).",
+    "Trigger 12 V, RS232, IP."
+   ]
+  },
+  {
+   "titolo": "Uscite",
+   "voci": [
+    "Potenza: 8 × 50 W su 8 Ω, 8 × 70 W su 4 Ω (tutti i canali).",
+    "Bridge: 140 W su 4 Ω.",
+    "Morsetti Phoenix."
+   ]
+  }
+ ],
+ "collega": [
+  {
+   "titolo": "Diffusori da incasso",
+   "link": "diffusori.html",
+   "icona": "soffitto",
+   "voci": [
+    "Una coppia di diffusori per zona, 4 – 8 Ω; oppure un diffusore a ponte."
+   ]
+  },
+  {
+   "titolo": "Sorgenti",
+   "icona": "sorgente",
+   "voci": [
+    "4 sorgenti analogiche assegnabili alle zone."
+   ]
+  },
+  {
+   "titolo": "Controllo",
+   "icona": "domotica",
+   "voci": [
+    "IP e RS232 verso i sistemi di controllo; trigger 12 V."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "4 zone stereo",
+   "voci": [
+    "Ogni zona con sorgente e toni propri."
+   ],
+   "zone": [
+    {
+     "label": "Zona 1 · 2 × 50 W / 8 Ω"
+    },
+    {
+     "label": "Zona 2 · 2 × 50 W / 8 Ω"
+    },
+    {
+     "label": "Zona 3 · 2 × 50 W / 8 Ω"
+    },
+    {
+     "label": "Zona 4 · 2 × 50 W / 8 Ω"
+    }
+   ]
+  },
+  {
+   "titolo": "Messa in servizio",
+   "passi": [
+    [
+     "Spegni",
+     "Spegni tutti gli apparecchi prima di collegare, diffusori compresi; volume dell'amplificatore al minimo prima di accendere o spegnere."
+    ],
+    [
+     "Ingressi",
+     "Sorgenti sugli ingressi analogici (e digitali sul C8+); la matrice le assegna alle zone."
+    ],
+    [
+     "Diffusori",
+     "Morsetti Phoenix estraibili a vite: cabla il connettore a banco, poi inseriscilo."
+    ],
+    [
+     "Bridge (opzionale)",
+     "Una coppia di canali a ponte per zona: schema di collegamento nella figura 3 del manuale Rotel."
+    ],
+    [
+     "Zone",
+     "Per ogni zona imposta sorgente, volume, bassi, alti e bilanciamento."
+    ],
+    [
+     "Controllo",
+     "Trigger 12 V, RS232 o IP verso il sistema di controllo."
+    ]
+   ]
+  }
+ ],
+ "nota": "Rotel non pubblica una scheda tecnica separata del C8: potenze, consumo e ingressi sono dati Extrasound; procedura dal manuale Rotel C8 / C8+. Da confermare con Rotel.",
+ "extrasound": "https://www.extrasound.it/rotel-c8-amplificatore-multizona-8-canali",
+ "fonti": [
+  {
+   "label": "manuale Rotel C8 / C8+",
+   "url": "https://manuals.plus/rotel/c8-and-c8plus-eight-channel-power-amplifiers-manual"
+  }
+ ],
+ "tipo": "amplificatore",
+ "cat": "M",
+ "crop": true,
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/rotel-c8-1000.jpg",
+  "alt": "Rotel C8 nero, vista frontale"
+ },
+ "lato_titolo": "Cosa si collega",
+ "retro": {
+  "src": "https://www.extrasound.it/wp-content/uploads/rotel-c8-retro-1000.jpg",
+  "alt": "Pannello posteriore del Rotel C8 con ingressi e uscite",
+  "titolo": "Pannello posteriore",
+  "caption": "Ingressi RCA, morsetti Phoenix, trigger, RS232 ed Ethernet."
+ },
+ "slug": "rotel-c8",
+ "tab": "Amplificatori<br>multicanale"
+}

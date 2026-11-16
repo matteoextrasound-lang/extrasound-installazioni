@@ -1,0 +1,143 @@
+{
+ "id": 29683,
+ "brand": "Yamaha",
+ "model": "XDA-AMP5400RK",
+ "meta": "Yamaha XDA-AMP5400RK: amplificatore multizona 8 canali, 4 zone, classe D, rack 1U. Potenze, bridge, trigger, Audio Sense e collegamenti.",
+ "chiave": [
+  "8 canali · 4 zone",
+  "50 W / 8 Ω · 90 W / 4 Ω",
+  "Bridge 100 W / 8 Ω · 1U"
+ ],
+ "righe": [
+  "8 canali · 4 zone",
+  "Amplificatore multizona",
+  "Rack 1U"
+ ],
+ "intro": [
+  "Lo <strong>Yamaha XDA-AMP5400RK</strong> è un amplificatore multizona a 8 canali per 4 zone stereo, in formato 1U: 50 W su 8 Ω e 90 W su 4 Ω per canale, ponte da 100 W su 8 Ω.",
+  "Non ha controlli di volume: va pilotato da una sorgente con volume, ad esempio lo streamer XDA-QS5400RK o un preamplificatore."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "Potenza nominale: 90 / 50 W su 4 / 8 Ω (2 canali); dinamica tutti i canali 80 / 50 W.",
+    "Massima effettiva (JEITA): 130 / 65 W; 260 W a ponte.",
+    "THD 0,04% (25 W, 8 Ω); S/N 108 dB; risposta 5 Hz – 40 kHz.",
+    "Audio Sense: accende la zona quando arriva il segnale (modalità STANDBY ~7 s, ACTIVE ~1 s). Auto standby dopo 8 ore.",
+    "437 × 46 × 443 mm, 6 kg; consumo massimo 130 W, standby 0,3 – 0,5 W."
+   ]
+  },
+  {
+   "titolo": "Ingressi",
+   "voci": [
+    "4 ingressi RCA stereo (AMP 1–4 IN), massimo 1 V; uscite passanti THRU OUT, attive anche in standby.",
+    "Trigger IN 1–4 (mini-jack mono, 12 V).",
+    "IR IN / OUT (mini-jack mono)."
+   ]
+  },
+  {
+   "titolo": "Uscite",
+   "voci": [
+    "4 uscite diffusori su Euroblock (L/R), cavo da AWG26 a AWG16, non stagnato.",
+    "Bridge: 100 W su 8 Ω per zona; diffusori da 8 Ω o più.",
+    "Carico minimo 4 Ω in modalità normale.",
+    "Trigger OUT 1–4, 12 V."
+   ]
+  }
+ ],
+ "collega": [
+  {
+   "titolo": "Diffusori da incasso",
+   "link": "diffusori.html",
+   "icona": "soffitto",
+   "voci": [
+    "Una coppia di diffusori per zona, 4 Ω o più; a ponte 8 Ω o più."
+   ]
+  },
+  {
+   "titolo": "Sorgenti con volume",
+   "icona": "sorgente",
+   "voci": [
+    "Streamer o preamplificatore con regolazione di volume: l'amplificatore non ne ha.",
+    "Per configurazioni mono o con una sorgente su più zone usa i ponticelli e i cavi RCA mono (esempi 1–7 del manuale)."
+   ]
+  },
+  {
+   "titolo": "Trigger e IR",
+   "icona": "domotica",
+   "voci": [
+    "Trigger IN per accendere ogni zona, trigger OUT per accendere altri apparecchi; IR passante."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "4 zone stereo",
+   "voci": [
+    "Una sorgente per zona, accensione da trigger o Audio Sense."
+   ],
+   "zone": [
+    {
+     "label": "Zona 1 · 2 × 50 W / 8 Ω"
+    },
+    {
+     "label": "Zona 2 · 2 × 50 W / 8 Ω"
+    },
+    {
+     "label": "Zona 3 · 2 × 50 W / 8 Ω"
+    },
+    {
+     "label": "Zona 4 · 2 × 50 W / 8 Ω"
+    }
+   ]
+  },
+  {
+   "titolo": "Messa in servizio",
+   "passi": [
+    [
+     "Stacca la corrente",
+     "Scollega il cavo di alimentazione prima di collegare o di cambiare gli interruttori NORMAL/BRIDGE e AUDIO SENSE."
+    ],
+    [
+     "Sorgente",
+     "Collega una sorgente con volume."
+    ],
+    [
+     "Diffusori",
+     "Allenta le viti degli Euroblock, inserisci i cavi, stringi e inserisci il connettore in SPEAKERS."
+    ],
+    [
+     "Ingressi",
+     "Cavi RCA stereo, o ponticelli e RCA mono per gli schemi del manuale."
+    ],
+    [
+     "Trigger e IR",
+     "Cavi mini-jack mono."
+    ],
+    [
+     "Installazione",
+     "Rack EIA con le staffe e le viti incluse; con altri apparecchi che scaldano lascia più di 1U sopra e sotto, retro del rack aperto, almeno 10 cm dalle pareti."
+    ]
+   ]
+  }
+ ],
+ "nota": "Dati e procedura dal manuale Yamaha XDA-AMP5400RK, confrontati con la scheda Extrasound.",
+ "extrasound": "https://www.extrasound.it/yamaha-xda-amp5400rk-amplificatore-multi-room-8-canali-4-zone-classe-d",
+ "fonti": [
+  {
+   "label": "manuale Yamaha XDA-AMP5400RK",
+   "url": "https://au.yamaha.com/files/download/other_assets/7/1229907/web_VCM9320_XDA-AMP5400RK_om_UAGLF_EnFrEs_C0.pdf"
+  }
+ ],
+ "tipo": "amplificatore",
+ "cat": "M",
+ "crop": true,
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/XDA-AMP5400RK-frontale.jpg",
+  "alt": "Yamaha XDA-AMP5400RK visto di fronte"
+ },
+ "lato_titolo": "Cosa si collega",
+ "slug": "yamaha-xda-amp5400rk",
+ "tab": "Amplificatori<br>multicanale"
+}

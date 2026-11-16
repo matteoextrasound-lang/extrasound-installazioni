@@ -4,7 +4,7 @@
   "cat": "P",
   "brand": "JBL",
   "name": "JBL Studio 2 88IW",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "jbl-studio-2-88iw"
  },
@@ -13,7 +13,7 @@
   "cat": "S",
   "brand": "JBL",
   "name": "JBL Stage 260C",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "jbl-stage-260c"
  },
@@ -22,7 +22,7 @@
   "cat": "S",
   "brand": "JBL",
   "name": "JBL Stage 280C",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "jbl-stage-280c"
  },
@@ -31,7 +31,7 @@
   "cat": "2",
   "brand": "JBL",
   "name": "JBL Stage 260CDT",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "jbl-stage-260cdt"
  },
@@ -40,7 +40,7 @@
   "cat": "S",
   "brand": "JBL",
   "name": "JBL Stage 280CSA",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "jbl-stage-280csa"
  },
@@ -49,7 +49,7 @@
   "cat": "S",
   "brand": "JBL",
   "name": "JBL Stage 260CSA",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "jbl-stage-260csa"
  },
@@ -58,7 +58,7 @@
   "cat": "P",
   "brand": "JBL",
   "name": "JBL Stage 260W",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "jbl-stage-260w"
  },
@@ -67,7 +67,7 @@
   "cat": "P",
   "brand": "JBL",
   "name": "JBL Stage 280W",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "jbl-stage-280w"
  },
@@ -76,7 +76,7 @@
   "cat": "P",
   "brand": "JBL",
   "name": "JBL Stage 250WL",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "jbl-stage-250wl"
  },
@@ -85,7 +85,7 @@
   "cat": "S",
   "brand": "JBL",
   "name": "JBL Studio 2 6IC",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "jbl-studio-2-6ic"
  },
@@ -94,7 +94,7 @@
   "cat": "2",
   "brand": "JBL",
   "name": "JBL Studio 2 6ICDT",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "jbl-studio-2-6icdt"
  },
@@ -103,7 +103,7 @@
   "cat": "S",
   "brand": "JBL",
   "name": "JBL Studio 2 8IC",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "jbl-studio-2-8ic"
  },
@@ -112,7 +112,7 @@
   "cat": "P",
   "brand": "JBL",
   "name": "JBL Studio 2 6IW",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "jbl-studio-2-6iw"
  },
@@ -121,7 +121,7 @@
   "cat": "P",
   "brand": "JBL",
   "name": "JBL Studio 2 8IW",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "jbl-studio-2-8iw"
  },
@@ -130,7 +130,7 @@
   "cat": "P",
   "brand": "JBL",
   "name": "JBL Studio 2 55IW",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "jbl-studio-2-55iw"
  },
@@ -139,7 +139,7 @@
   "cat": "P",
   "brand": "JBL",
   "name": "JBL Studio 6IW",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "jbl-studio-6iw"
  },
@@ -148,7 +148,7 @@
   "cat": "P",
   "brand": "JBL",
   "name": "JBL Studio 8IW",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "jbl-studio-8iw"
  },
@@ -157,7 +157,7 @@
   "cat": "L",
   "brand": "JBL",
   "name": "JBL Studio 88LCR",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "jbl-studio-88lcr"
  },
@@ -166,7 +166,7 @@
   "cat": "L",
   "brand": "JBL",
   "name": "JBL Studio 66LCR",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "jbl-studio-66lcr"
  },
@@ -175,7 +175,7 @@
   "cat": "L",
   "brand": "JBL",
   "name": "JBL Studio 6 Theater",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "jbl-studio-6-theater"
  },
@@ -184,7 +184,7 @@
   "cat": "P",
   "brand": "JBL",
   "name": "JBL Conceal C62",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "jbl-conceal-c62"
  },
@@ -193,7 +193,7 @@
   "cat": "P",
   "brand": "JBL",
   "name": "JBL Conceal C83",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "jbl-conceal-c83"
  },
@@ -202,7 +202,7 @@
   "cat": "P",
   "brand": "JBL",
   "name": "JBL Conceal C86",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "jbl-conceal-c86"
  },
@@ -211,7 +211,7 @@
   "cat": "W",
   "brand": "JBL",
   "name": "JBL Conceal C82W",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "jbl-conceal-c82w"
  },
@@ -220,7 +220,7 @@
   "cat": "PL",
   "brand": "Focal",
   "name": "Focal 300 IWLCR6",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "focal-300-iwlcr6"
  },
@@ -229,7 +229,7 @@
   "cat": "LS",
   "brand": "Focal",
   "name": "Focal 300 ICLCR5",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "focal-300-iclcr5"
  },
@@ -238,7 +238,7 @@
   "cat": "P",
   "brand": "Focal",
   "name": "Focal 300 IW6",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "focal-300-iw6"
  },
@@ -247,7 +247,7 @@
   "cat": "PS",
   "brand": "Focal",
   "name": "Focal 300 ICW8",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "focal-300-icw8"
  },
@@ -256,7 +256,7 @@
   "cat": "PS",
   "brand": "Focal",
   "name": "Focal 300 ICW6",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "focal-300-icw6"
  },
@@ -265,7 +265,7 @@
   "cat": "S",
   "brand": "Focal",
   "name": "Focal 300 ICA6",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "focal-300-ica6"
  },
@@ -274,7 +274,7 @@
   "cat": "MW",
   "brand": "Focal",
   "name": "Focal 100 IWSUB8 Amplifier",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "amplificatore",
   "slug": "focal-100-iwsub8-amplifier"
  },
@@ -283,7 +283,7 @@
   "cat": "W",
   "brand": "Focal",
   "name": "Focal 100 IWSUB8",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "focal-100-iwsub8"
  },
@@ -292,7 +292,7 @@
   "cat": "PS",
   "brand": "Focal",
   "name": "Focal 100 IW6",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "focal-100-iw6"
  },
@@ -301,7 +301,7 @@
   "cat": "S2",
   "brand": "Focal",
   "name": "Focal 100 IC6ST",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "focal-100-ic6st"
  },
@@ -310,7 +310,7 @@
   "cat": "LS",
   "brand": "Focal",
   "name": "Focal 100 ICLCR5",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "focal-100-iclcr5"
  },
@@ -319,7 +319,7 @@
   "cat": "PS",
   "brand": "Focal",
   "name": "Focal 100 ICW8",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "focal-100-icw8"
  },
@@ -328,7 +328,7 @@
   "cat": "PS",
   "brand": "Focal",
   "name": "Focal 100 ICW6",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "focal-100-icw6"
  },
@@ -337,7 +337,7 @@
   "cat": "PS",
   "brand": "Focal",
   "name": "Focal 100 ICW5",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "focal-100-icw5"
  },
@@ -346,7 +346,7 @@
   "cat": "PS",
   "brand": "Focal",
   "name": "Focal 300 ICW4",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "focal-300-icw4"
  },
@@ -355,7 +355,7 @@
   "cat": "P",
   "brand": "KEF",
   "name": "KEF Ci160.2CL",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "kef-ci160-2cl"
  },
@@ -364,7 +364,7 @@
   "cat": "S",
   "brand": "KEF",
   "name": "KEF Ci130QR",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "kef-ci130qr"
  },
@@ -373,7 +373,7 @@
   "cat": "P",
   "brand": "KEF",
   "name": "KEF Ci200QL",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "kef-ci200ql"
  },
@@ -382,7 +382,7 @@
   "cat": "L",
   "brand": "KEF",
   "name": "KEF Ci3120QLM-THX",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "kef-ci3120qlm-thx"
  },
@@ -391,7 +391,7 @@
   "cat": "L",
   "brand": "KEF",
   "name": "KEF Ci5120QLM-THX",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "kef-ci5120qlm-thx"
  },
@@ -400,7 +400,7 @@
   "cat": "P",
   "brand": "Elac",
   "name": "ELAC Vertex III IW-VJ63L",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "elac-vertex-iii-iw-vj63l"
  },
@@ -409,7 +409,7 @@
   "cat": "P",
   "brand": "Elac",
   "name": "ELAC Vertex III IW-VJ63M",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "elac-vertex-iii-iw-vj63m"
  },
@@ -418,7 +418,7 @@
   "cat": "P",
   "brand": "Elac",
   "name": "ELAC Vertex III IW-VJ63S",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "elac-vertex-iii-iw-vj63s"
  },
@@ -427,7 +427,7 @@
   "cat": "P",
   "brand": "Elac",
   "name": "ELAC Vertex III IW-VJ63",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "elac-vertex-iii-iw-vj63"
  },
@@ -436,7 +436,7 @@
   "cat": "S",
   "brand": "Elac",
   "name": "ELAC Vertex III IC-VJT63",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "elac-vertex-iii-ic-vjt63"
  },
@@ -445,7 +445,7 @@
   "cat": "S",
   "brand": "Elac",
   "name": "ELAC Vertex III IC-VJ63",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "elac-vertex-iii-ic-vj63"
  },
@@ -463,7 +463,7 @@
   "cat": "L",
   "brand": "Elac",
   "name": "ELAC Vertex II IW-VC52",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "elac-vertex-ii-iw-vc52"
  },
@@ -472,7 +472,7 @@
   "cat": "S",
   "brand": "Elac",
   "name": "ELAC Vertex II IC-VT62",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "elac-vertex-ii-ic-vt62"
  },
@@ -481,7 +481,7 @@
   "cat": "S",
   "brand": "Elac",
   "name": "ELAC Vertex II IC-V62",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "elac-vertex-ii-ic-v62"
  },
@@ -490,7 +490,7 @@
   "cat": "S",
   "brand": "ArtSound",
   "name": "ArtSound MDT600-P",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "artsound-mdt600-p"
  },
@@ -499,7 +499,7 @@
   "cat": "S",
   "brand": "ArtSound",
   "name": "ArtSound MDT500-P",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "artsound-mdt500-p"
  },
@@ -508,7 +508,7 @@
   "cat": "S",
   "brand": "ArtSound",
   "name": "ArtSound DC84",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "artsound-dc84"
  },
@@ -517,7 +517,7 @@
   "cat": "A",
   "brand": "ArtSound",
   "name": "ArtSound FL101BT",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "artsound-fl101bt"
  },
@@ -526,7 +526,7 @@
   "cat": "S",
   "brand": "ArtSound",
   "name": "ArtSound FL620",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "artsound-fl620"
  },
@@ -535,7 +535,7 @@
   "cat": "P",
   "brand": "ArtSound",
   "name": "ArtSound FL301",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "artsound-fl301"
  },
@@ -544,7 +544,7 @@
   "cat": "A",
   "brand": "ArtSound",
   "name": "ArtSound FL502BT Single",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "artsound-fl502bt-single"
  },
@@ -553,7 +553,7 @@
   "cat": "S",
   "brand": "ArtSound",
   "name": "ArtSound FL101",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "artsound-fl101"
  },
@@ -562,7 +562,7 @@
   "cat": "S",
   "brand": "ArtSound",
   "name": "ArtSound FL501",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "artsound-fl501"
  },
@@ -571,7 +571,7 @@
   "cat": "S",
   "brand": "ArtSound",
   "name": "ArtSound FL401",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "artsound-fl401"
  },
@@ -580,7 +580,7 @@
   "cat": "2",
   "brand": "ArtSound",
   "name": "ArtSound FL550",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "artsound-fl550"
  },
@@ -589,7 +589,7 @@
   "cat": "S",
   "brand": "ArtSound",
   "name": "ArtSound FL30",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "artsound-fl30"
  },
@@ -598,7 +598,7 @@
   "cat": "L",
   "brand": "KEF",
   "name": "KEF Ci5160RLM-THX",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "kef-ci5160rlm-thx"
  },
@@ -607,7 +607,7 @@
   "cat": "L",
   "brand": "KEF",
   "name": "KEF Ci3160RLM-THX",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "kef-ci3160rlm-thx"
  },
@@ -616,7 +616,7 @@
   "cat": "S",
   "brand": "KEF",
   "name": "KEF Ci250RRM-THX",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "kef-ci250rrm-thx"
  },
@@ -625,7 +625,7 @@
   "cat": "2",
   "brand": "Elac",
   "name": "ELAC IC-CS61-W",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "elac-ic-cs61-w"
  },
@@ -634,7 +634,7 @@
   "cat": "S",
   "brand": "Elac",
   "name": "ELAC Vertex I IC-VT61",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "elac-vertex-i-ic-vt61"
  },
@@ -643,7 +643,7 @@
   "cat": "S",
   "brand": "Elac",
   "name": "ELAC Vertex I IC-V81",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "elac-vertex-i-ic-v81"
  },
@@ -652,7 +652,7 @@
   "cat": "S",
   "brand": "Elac",
   "name": "ELAC IC-C61-W",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "elac-ic-c61-w"
  },
@@ -661,7 +661,7 @@
   "cat": "S",
   "brand": "Elac",
   "name": "ELAC Vertex I IC-V31",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "elac-vertex-i-ic-v31"
  },
@@ -670,7 +670,7 @@
   "cat": "W",
   "brand": "Elac",
   "name": "ELAC Vertex IC-VS6-B",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "elac-vertex-ic-vs6-b"
  },
@@ -679,7 +679,7 @@
   "cat": "S",
   "brand": "ArtSound",
   "name": "ArtSound MDC64",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "artsound-mdc64"
  },
@@ -688,7 +688,7 @@
   "cat": "S",
   "brand": "ArtSound",
   "name": "ArtSound MDC6",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "artsound-mdc6"
  },
@@ -697,7 +697,7 @@
   "cat": "S",
   "brand": "ArtSound",
   "name": "ArtSound MDC620",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "artsound-mdc620"
  },
@@ -706,7 +706,7 @@
   "cat": "S",
   "brand": "ArtSound",
   "name": "ArtSound MD30",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "artsound-md30"
  },
@@ -715,7 +715,7 @@
   "cat": "S",
   "brand": "ArtSound",
   "name": "ArtSound HPRO650 Happi",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "artsound-hpro650-happi"
  },
@@ -724,7 +724,7 @@
   "cat": "P",
   "brand": "ArtSound",
   "name": "ArtSound HPRE650 Happi",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "artsound-hpre650-happi"
  },
@@ -733,7 +733,7 @@
   "cat": "S",
   "brand": "ArtSound",
   "name": "ArtSound HPRO525 Happi",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "artsound-hpro525-happi"
  },
@@ -742,7 +742,7 @@
   "cat": "S",
   "brand": "ArtSound",
   "name": "ArtSound HPSQ525 Happi",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "artsound-hpsq525-happi"
  },
@@ -751,7 +751,7 @@
   "cat": "2",
   "brand": "ArtSound",
   "name": "ArtSound HPRO550 Happi",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "artsound-hpro550-happi"
  },
@@ -760,7 +760,7 @@
   "cat": "L",
   "brand": "Elipson",
   "name": "Elipson Infinite 14",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "elipson-infinite-14"
  },
@@ -769,7 +769,7 @@
   "cat": "W",
   "brand": "Elipson",
   "name": "Elipson Infinite S12",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "elipson-infinite-s12"
  },
@@ -778,7 +778,7 @@
   "cat": "P",
   "brand": "Elipson",
   "name": "Elipson Infinite 8",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "elipson-infinite-8"
  },
@@ -787,7 +787,7 @@
   "cat": "S",
   "brand": "Elipson",
   "name": "Elipson IC8 Ultra Slim",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "elipson-ic8-ultra-slim"
  },
@@ -796,7 +796,7 @@
   "cat": "S",
   "brand": "ArtSound",
   "name": "ArtSound SQ2060 Intiimi",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "artsound-sq2060-intiimi"
  },
@@ -805,7 +805,7 @@
   "cat": "S",
   "brand": "ArtSound",
   "name": "ArtSound MDC501",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "artsound-mdc501"
  },
@@ -814,7 +814,7 @@
   "cat": "S",
   "brand": "ArtSound",
   "name": "ArtSound MDC401",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "artsound-mdc401"
  },
@@ -823,7 +823,7 @@
   "cat": "S",
   "brand": "ArtSound",
   "name": "ArtSound SQ2040 Intiimi",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "artsound-sq2040-intiimi"
  },
@@ -832,7 +832,7 @@
   "cat": "P",
   "brand": "ArtSound",
   "name": "ArtSound RE2080 Intiimi",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "artsound-re2080-intiimi"
  },
@@ -841,7 +841,7 @@
   "cat": "P",
   "brand": "ArtSound",
   "name": "ArtSound RE2060 Intiimi",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "artsound-re2060-intiimi"
  },
@@ -850,7 +850,7 @@
   "cat": "S",
   "brand": "ArtSound",
   "name": "ArtSound RO2060 Intiimi",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "artsound-ro2060-intiimi"
  },
@@ -859,7 +859,7 @@
   "cat": "S",
   "brand": "ArtSound",
   "name": "ArtSound RO2040 Intiimi",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "artsound-ro2040-intiimi"
  },
@@ -868,7 +868,7 @@
   "cat": "S",
   "brand": "KEF",
   "name": "KEF Ci200ER",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "kef-ci200er"
  },
@@ -877,7 +877,7 @@
   "cat": "S",
   "brand": "KEF",
   "name": "KEF Ci160ER",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "kef-ci160er"
  },
@@ -886,7 +886,7 @@
   "cat": "S",
   "brand": "KEF",
   "name": "KEF Ci130ER",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "kef-ci130er"
  },
@@ -895,7 +895,7 @@
   "cat": "S",
   "brand": "KEF",
   "name": "KEF Ci200.2CR",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "kef-ci200-2cr"
  },
@@ -904,7 +904,7 @@
   "cat": "S",
   "brand": "KEF",
   "name": "KEF Ci130.2CR",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "kef-ci130-2cr"
  },
@@ -913,7 +913,7 @@
   "cat": "S",
   "brand": "KEF",
   "name": "KEF Ci160.2CR",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "kef-ci160-2cr"
  },
@@ -922,7 +922,7 @@
   "cat": "S",
   "brand": "KEF",
   "name": "KEF Ci130QSfl",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "kef-ci130qsfl"
  },
@@ -931,7 +931,7 @@
   "cat": "S",
   "brand": "KEF",
   "name": "KEF Ci200QR",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "kef-ci200qr"
  },
@@ -940,7 +940,7 @@
   "cat": "S",
   "brand": "KEF",
   "name": "KEF Ci200QS",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "kef-ci200qs"
  },
@@ -949,7 +949,7 @@
   "cat": "S",
   "brand": "KEF",
   "name": "KEF Ci130QRfl",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "kef-ci130qrfl"
  },
@@ -958,7 +958,7 @@
   "cat": "S",
   "brand": "KEF",
   "name": "KEF Ci160QR",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "kef-ci160qr"
  },
@@ -967,7 +967,7 @@
   "cat": "P",
   "brand": "KEF",
   "name": "KEF Ci160QL",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "kef-ci160ql"
  },
@@ -976,7 +976,7 @@
   "cat": "S",
   "brand": "KEF",
   "name": "KEF Ci100.2QR",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "kef-ci100-2qr"
  },
@@ -985,7 +985,7 @@
   "cat": "2",
   "brand": "KEF",
   "name": "KEF Ci160CSds",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "kef-ci160csds"
  },
@@ -994,7 +994,7 @@
   "cat": "W",
   "brand": "KEF",
   "name": "KEF Ci200TRB",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "kef-ci200trb"
  },
@@ -1003,7 +1003,7 @@
   "cat": "P",
   "brand": "KEF",
   "name": "KEF Ci160TS",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "kef-ci160ts"
  },
@@ -1012,7 +1012,7 @@
   "cat": "W",
   "brand": "KEF",
   "name": "KEF Ci200QSb-THX",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "kef-ci200qsb-thx"
  },
@@ -1021,7 +1021,7 @@
   "cat": "W",
   "brand": "KEF",
   "name": "KEF Ci250RRb-THX",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "kef-ci250rrb-thx"
  },
@@ -1030,7 +1030,7 @@
   "cat": "P",
   "brand": "KEF",
   "name": "KEF Ci200RS-THX",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "kef-ci200rs-thx"
  },
@@ -1039,7 +1039,7 @@
   "cat": "S",
   "brand": "KEF",
   "name": "KEF Ci200RR-THX",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "kef-ci200rr-thx"
  },
@@ -1048,7 +1048,7 @@
   "cat": "S",
   "brand": "KEF",
   "name": "KEF Ci160RR-THX",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "kef-ci160rr-thx"
  },
@@ -1057,7 +1057,7 @@
   "cat": "W",
   "brand": "Elac",
   "name": "ELAC IW-S10EQ",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "elac-iw-s10eq"
  },
@@ -1066,7 +1066,7 @@
   "cat": "S",
   "brand": "Elac",
   "name": "ELAC Vertex II IC-V82",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "elac-vertex-ii-ic-v82"
  },
@@ -1075,7 +1075,7 @@
   "cat": "P",
   "brand": "Elac",
   "name": "ELAC Vertex I IW-V61",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "elac-vertex-i-iw-v61"
  },
@@ -1084,7 +1084,7 @@
   "cat": "L",
   "brand": "Elac",
   "name": "ELAC Vertex I IW-VC51",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "elac-vertex-i-iw-vc51"
  },
@@ -1093,7 +1093,7 @@
   "cat": "S",
   "brand": "Elac",
   "name": "ELAC Vertex I IC-V61",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "elac-vertex-i-ic-v61"
  },
@@ -1102,7 +1102,7 @@
   "cat": "S",
   "brand": "KEF",
   "name": "KEF Ci130.2CS",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "kef-ci130-2cs"
  },
@@ -1111,7 +1111,7 @@
   "cat": "L",
   "brand": "KEF",
   "name": "KEF Ci4100QL-THX",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "kef-ci4100ql-thx"
  },
@@ -1120,7 +1120,7 @@
   "cat": "W",
   "brand": "KEF",
   "name": "KEF Ci3160RLb-THX",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "kef-ci3160rlb-thx"
  },
@@ -1129,7 +1129,7 @@
   "cat": "P",
   "brand": "ArtSound",
   "name": "ArtSound RE2040 Intiimi",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "artsound-re2040-intiimi"
  },
@@ -1138,7 +1138,7 @@
   "cat": "PL",
   "brand": "Focal",
   "name": "Focal 100 IWLCR5",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "focal-100-iwlcr5"
  },
@@ -1147,7 +1147,7 @@
   "cat": "L",
   "brand": "Elipson",
   "name": "Elipson IW14C",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "elipson-iw14c"
  },
@@ -1156,7 +1156,7 @@
   "cat": "2",
   "brand": "Elipson",
   "name": "Elipson IC6ST",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "elipson-ic6st"
  },
@@ -1185,7 +1185,7 @@
   "cat": "L",
   "brand": "Garvan",
   "name": "Garvan KR313",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "garvan-kr313"
  },
@@ -1194,7 +1194,7 @@
   "cat": "L",
   "brand": "Garvan",
   "name": "Garvan KR316",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "garvan-kr316"
  },
@@ -1203,7 +1203,7 @@
   "cat": "P",
   "brand": "Garvan",
   "name": "Garvan KR213",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "garvan-kr213"
  },
@@ -1212,7 +1212,7 @@
   "cat": "2",
   "brand": "Garvan",
   "name": "Garvan KR208",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "garvan-kr208"
  },
@@ -1221,7 +1221,7 @@
   "cat": "P",
   "brand": "Garvan",
   "name": "Garvan KR112",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "garvan-kr112"
  },
@@ -1230,7 +1230,7 @@
   "cat": "2",
   "brand": "Garvan",
   "name": "Garvan KR207",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "garvan-kr207"
  },
@@ -1239,7 +1239,7 @@
   "cat": "S",
   "brand": "Garvan",
   "name": "Garvan KR111",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "garvan-kr111"
  },
@@ -1248,7 +1248,7 @@
   "cat": "W",
   "brand": "Garvan",
   "name": "Garvan WIC125",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "garvan-wic125"
  },
@@ -1257,7 +1257,7 @@
   "cat": "PS",
   "brand": "Garvan",
   "name": "Garvan KR117N30",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "garvan-kr117n30"
  },
@@ -1266,7 +1266,7 @@
   "cat": "L",
   "brand": "Garvan",
   "name": "Garvan KR513",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "garvan-kr513"
  },
@@ -1275,7 +1275,7 @@
   "cat": "L",
   "brand": "Garvan",
   "name": "Garvan KC316",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "garvan-kc316"
  },
@@ -1284,7 +1284,7 @@
   "cat": "P",
   "brand": "Garvan",
   "name": "Garvan KC216",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "garvan-kc216"
  },
@@ -1293,7 +1293,7 @@
   "cat": "P",
   "brand": "Garvan",
   "name": "Garvan KR117",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "garvan-kr117"
  },
@@ -1302,7 +1302,7 @@
   "cat": "S",
   "brand": "Garvan",
   "name": "Garvan KR118",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "garvan-kr118"
  },
@@ -1311,7 +1311,7 @@
   "cat": "P",
   "brand": "Elipson",
   "name": "Elipson IW8",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "elipson-iw8"
  },
@@ -1320,7 +1320,7 @@
   "cat": "P",
   "brand": "Elipson",
   "name": "Elipson IW6",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "elipson-iw6"
  },
@@ -1329,7 +1329,7 @@
   "cat": "S",
   "brand": "Elipson",
   "name": "Elipson IC8",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "elipson-ic8"
  },
@@ -1338,7 +1338,7 @@
   "cat": "S",
   "brand": "Elipson",
   "name": "Elipson IC6",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "elipson-ic6"
  },
@@ -1347,7 +1347,7 @@
   "cat": "S",
   "brand": "Elipson",
   "name": "Elipson IC4",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "elipson-ic4"
  },
@@ -1356,7 +1356,7 @@
   "cat": "S",
   "brand": "KEF",
   "name": "KEF Ci160TR",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "kef-ci160tr"
  },
@@ -1365,7 +1365,7 @@
   "cat": "2",
   "brand": "KEF",
   "name": "KEF Ci160CRds",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "kef-ci160crds"
  },
@@ -1374,7 +1374,7 @@
   "cat": "S",
   "brand": "KEF",
   "name": "KEF Ci160.2CS",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "kef-ci160-2cs"
  },
@@ -1383,7 +1383,7 @@
   "cat": "S",
   "brand": "KEF",
   "name": "KEF Ci130QS",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "kef-ci130qs"
  },
@@ -1392,7 +1392,7 @@
   "cat": "S",
   "brand": "KEF",
   "name": "KEF Ci160QS",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "kef-ci160qs"
  },
@@ -1401,7 +1401,7 @@
   "cat": "S",
   "brand": "KEF",
   "name": "KEF Ci3-80QT",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "kef-ci3-80qt"
  },
@@ -1410,7 +1410,7 @@
   "cat": "S",
   "brand": "KEF",
   "name": "KEF Ci100QS",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "diffusore",
   "slug": "kef-ci100qs"
  },
@@ -1419,7 +1419,7 @@
   "cat": "M",
   "brand": "Rotel",
   "name": "Rotel C8",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "amplificatore",
   "slug": "rotel-c8"
  },
@@ -1428,7 +1428,7 @@
   "cat": "M",
   "brand": "Rotel",
   "name": "Rotel C8+",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "amplificatore",
   "slug": "rotel-c8"
  },
@@ -1437,7 +1437,7 @@
   "cat": "M",
   "brand": "JBL",
   "name": "JBL DA1650",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "amplificatore",
   "slug": "jbl-da1650"
  },
@@ -1446,7 +1446,7 @@
   "cat": "M",
   "brand": "JBL",
   "name": "JBL DA850",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "amplificatore",
   "slug": "jbl-da850"
  },
@@ -1465,7 +1465,7 @@
   "cat": "M",
   "brand": "Marantz",
   "name": "Marantz Model M4",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "amplificatore",
   "slug": "marantz-model-m4"
  },
@@ -1474,7 +1474,7 @@
   "cat": "M",
   "brand": "Elac",
   "name": "ELAC IS-AMP1650",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "amplificatore",
   "slug": "elac-is-amp1650"
  },
@@ -1483,7 +1483,7 @@
   "cat": "M",
   "brand": "Elac",
   "name": "ELAC IS-AMP1275",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "amplificatore",
   "slug": "elac-is-amp1275"
  },
@@ -1502,7 +1502,7 @@
   "cat": "M",
   "brand": "ArtSound",
   "name": "ArtSound Smart Zone 4 AMP",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "amplificatore",
   "slug": "artsound-smart-zone-4-amp"
  },
@@ -1511,7 +1511,7 @@
   "cat": "M",
   "brand": "ArtSound",
   "name": "ArtSound AMP850",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "amplificatore",
   "slug": "artsound-amp850"
  },
@@ -1520,7 +1520,7 @@
   "cat": "M",
   "brand": "ArtSound",
   "name": "ArtSound MX-120M",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "amplificatore",
   "slug": "artsound-mx-120m"
  },
@@ -1529,7 +1529,7 @@
   "cat": "M",
   "brand": "ArtSound",
   "name": "ArtSound MX60MKII",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "amplificatore",
   "slug": "artsound-mx60mkii"
  },
@@ -1538,7 +1538,7 @@
   "cat": "M",
   "brand": "ArtSound",
   "name": "ArtSound PRL-1504",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "amplificatore",
   "slug": "artsound-prl-1504"
  },
@@ -1547,7 +1547,7 @@
   "cat": "M",
   "brand": "ArtSound",
   "name": "ArtSound PRL-1502",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "amplificatore",
   "slug": "artsound-prl-1502"
  },
@@ -1556,7 +1556,7 @@
   "cat": "M",
   "brand": "ArtSound",
   "name": "ArtSound Smart Hyde",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "amplificatore",
   "slug": "artsound-smart-hyde"
  },
@@ -1565,7 +1565,7 @@
   "cat": "M",
   "brand": "ArtSound",
   "name": "ArtSound ART1.1",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "amplificatore",
   "slug": "artsound-art1-1"
  },
@@ -1583,7 +1583,7 @@
   "cat": "M",
   "brand": "Yamaha",
   "name": "Yamaha XDA-QS5400RK",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "amplificatore",
   "slug": "yamaha-xda-qs5400rk"
  },
@@ -1592,7 +1592,7 @@
   "cat": "M",
   "brand": "Yamaha",
   "name": "Yamaha XDA-AMP5400RK",
-  "stato": "da_fare",
+  "stato": "fatto",
   "tipo": "amplificatore",
   "slug": "yamaha-xda-amp5400rk"
  }

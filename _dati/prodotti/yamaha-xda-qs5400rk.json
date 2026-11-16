@@ -1,0 +1,148 @@
+{
+ "id": 29693,
+ "brand": "Yamaha",
+ "model": "XDA-QS5400RK",
+ "meta": "Yamaha XDA-QS5400RK: streamer MusicCast a 4 zone con amplificatore 8 canali, rack 1U. Potenze, ingressi, CUT IN, zone e messa in servizio.",
+ "chiave": [
+  "4 zone · MusicCast",
+  "50 W / 8 Ω · 90 W / 4 Ω",
+  "CUT IN · rack 1U"
+ ],
+ "righe": [
+  "8 canali · 4 zone",
+  "Streamer amplificato MusicCast",
+  "Rack 1U"
+ ],
+ "intro": [
+  "Lo <strong>Yamaha XDA-QS5400RK</strong> è uno streamer MusicCast a 4 zone con amplificatore a 8 canali integrato, in formato 1U: 50 W su 8 Ω e 90 W su 4 Ω per canale, ponte da 100 W su 8 Ω.",
+  "Ogni zona ha sorgente, volume e limite massimo propri; ingresso CUT IN per annunci e due porte Ethernet."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "Potenza nominale: 90 / 50 W su 4 / 8 Ω (2 canali); a ponte 100 W su 8 Ω.",
+    "MusicCast, AirPlay, radio Internet, servizi di streaming, server di rete.",
+    "Formati: WAV, MP3, WMA, AAC, FLAC, ALAC, AIFF.",
+    "Per zona: accensione, volume (−80 a 0 dB), mute, sorgente, volume massimo e iniziale.",
+    "437 × 46 × 443 mm, 6,3 kg; consumo massimo 130 W; standby 0,2 W (6 W con 4 zone in network standby)."
+   ]
+  },
+  {
+   "titolo": "Ingressi",
+   "voci": [
+    "CUT IN e AUX RCA stereo (AUX massimo 2,4 V).",
+    "4 USB 2.0 per memorie.",
+    "2 Ethernet: mai entrambe sullo stesso router.",
+    "IR IN."
+   ]
+  },
+  {
+   "titolo": "Uscite",
+   "voci": [
+    "4 uscite diffusori su Euroblock; carico minimo 4 Ω (8 Ω a ponte).",
+    "4 PRE OUT RCA stereo (2 V nominali).",
+    "4 trigger OUT 12 V, IR OUT, 4 chime."
+   ]
+  }
+ ],
+ "collega": [
+  {
+   "titolo": "Diffusori da incasso",
+   "link": "diffusori.html",
+   "icona": "soffitto",
+   "voci": [
+    "Una coppia di diffusori per zona; a ponte un diffusore da 8 Ω o più."
+   ]
+  },
+  {
+   "titolo": "Annunci (CUT IN)",
+   "icona": "microfono",
+   "voci": [
+    "Fade: abbassa la musica e mixa l'annuncio; Cut: sostituisce la musica. Sensibilità, trim e accensione da CUT IN regolabili."
+   ]
+  },
+  {
+   "titolo": "Rete",
+   "icona": "rete",
+   "voci": [
+    "App MusicCast CONTROLLER; configurazione avanzata dal browser all'indirizzo IP seguito da /Setup."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "4 zone",
+   "voci": [
+    "Output Select assegna ogni coppia di canali a una zona (predefinito AMP1 → zona 1 … AMP4 → zona 4)."
+   ],
+   "zone": [
+    {
+     "label": "Zona 1 · 2 × 50 W / 8 Ω"
+    },
+    {
+     "label": "Zona 2 · 2 × 50 W / 8 Ω"
+    },
+    {
+     "label": "Zona 3 · 2 × 50 W / 8 Ω"
+    },
+    {
+     "label": "Zona 4 · 2 × 50 W / 8 Ω"
+    }
+   ]
+  },
+  {
+   "titolo": "Messa in servizio",
+   "passi": [
+    [
+     "Installa",
+     "Rack EIA con le staffe e le viti incluse; con altri apparecchi che scaldano lascia più di 1U sopra e sotto, retro del rack aperto, almeno 10 cm dalle pareti."
+    ],
+    [
+     "Collega",
+     "Diffusori agli Euroblock, eventuali PRE OUT, CUT IN e trigger; un solo cavo Ethernet verso il router."
+    ],
+    [
+     "MusicCast",
+     "Apri l'app MusicCast CONTROLLER, tocca Setup, tieni premuto CONNECT per 5 secondi e segui le istruzioni."
+    ],
+    [
+     "Altre zone",
+     "Aggiungi ogni zona con «Add New Device» nelle impostazioni dell'app."
+    ],
+    [
+     "Web setup",
+     "Indirizzo IP + /Setup nel browser per Output Select, CUT IN, volumi e standby."
+    ],
+    [
+     "Bridge (opzionale)",
+     "Cavo di alimentazione staccato, interruttore su BRIDGE, diffusori da 8 Ω o più."
+    ]
+   ]
+  }
+ ],
+ "nota": "Dati e procedura dal manuale Yamaha XDA-QS5400RK, confrontati con la scheda Extrasound.",
+ "extrasound": "https://www.extrasound.it/yamaha-xda-qs5400rk-streamer-musiccast-multi-room-4-zone-con-amplificatore-8-canali",
+ "fonti": [
+  {
+   "label": "manuale Yamaha XDA-QS5400RK",
+   "url": "https://se.yamaha.com/files/download/other_assets/2/1229902/web_VCM9300_XDA-QS5400RK_om_UAGLF_EnFrEs_C0.pdf"
+  }
+ ],
+ "tipo": "amplificatore",
+ "cat": "M",
+ "crop": true,
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/XDA-QS5400rk-frontale.jpg",
+  "alt": "Yamaha XDA-QS5400RK visto di fronte"
+ },
+ "lato_titolo": "Cosa si collega",
+ "retro": {
+  "src": "https://www.extrasound.it/wp-content/uploads/XDA-QS5400rk-retro.jpg",
+  "alt": "Pannello posteriore dello Yamaha XDA-QS5400RK",
+  "titolo": "Pannello posteriore",
+  "caption": "Euroblock dei diffusori, PRE OUT, CUT IN, AUX, USB, Ethernet, trigger e IR."
+ },
+ "slug": "yamaha-xda-qs5400rk",
+ "tab": "Amplificatori<br>multicanale"
+}
