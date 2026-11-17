@@ -9,7 +9,7 @@ import pathlib, re
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 SCHEDE = sorted(p.name for p in ROOT.glob("scheda-*.html"))   # schede prodotto generate da genera_schede.py
-PAGES = ["index.html", "amplificatori.html", "diffusori.html", "esterno.html", "home-cinema.html", "contatti.html"] + SCHEDE
+PAGES = ["index.html", "amplificatori.html", "diffusori.html", "esterno.html", "home-cinema.html", "impianti.html", "contatti.html"] + SCHEDE
 PRODOTTI = ["amplificatori.html", "diffusori.html", "esterno.html", "home-cinema.html"] + SCHEDE
 
 GRUNGE = '''<svg width="0" height="0" style="position:absolute" aria-hidden="true">
@@ -42,6 +42,7 @@ def header(page):
         <a href="home-cinema.html"{cur(page, "home-cinema.html")}>Home cinema</a>
       </div>
     </div>
+    <a href="impianti.html" class="menu-link"{cur(page, "impianti.html")}>Impianti tipo</a>
     <a href="contatti.html" class="menu-cta"{cur(page, "contatti.html")}>Contattaci</a>
   </nav>
 </header>'''
@@ -60,7 +61,7 @@ FOOTER = '''<footer class="site-footer">
     </div>
     <div class="footer-col">
       <p class="footer-head">Prodotti</p>
-      <p><a href="amplificatori.html">Amplificatori</a><br><a href="diffusori.html">Diffusori</a><br><a href="esterno.html">Da esterno</a><br><a href="home-cinema.html">Home cinema</a></p>
+      <p><a href="amplificatori.html">Amplificatori</a><br><a href="diffusori.html">Diffusori</a><br><a href="esterno.html">Da esterno</a><br><a href="home-cinema.html">Home cinema</a><br><a href="impianti.html">Impianti tipo</a></p>
       <p class="footer-head">Negozio</p>
       <p><a href="https://www.extrasound.it" target="_blank" rel="noopener">extrasound.it</a></p>
     </div>

@@ -271,7 +271,61 @@ def amplificatore(d, tutti):
     return d
 
 
+# ---------------- niente riferimenti alla scheda Extrasound nei testi ----------------
+SOST = [
+    (r"\s*\((?:dato|dati) Extrasound\)", ""), (r"\s*\(scheda Extrasound\)", ""), (r"\s*\(come Extrasound\)", ""),
+    (r"Potenza indicata da Extrasound:", "Potenza:"), (r"\s*\((\d[^()]*?) secondo Extrasound\)", r" (\1)"),
+    (r"\s*secondo la scheda Extrasound\)", ")"), (r"\(([^()]*?) secondo la scheda Extrasound\)", r"(\1)"),
+    (r"(\S+) secondo la scheda Extrasound, (\S+) secondo il manuale Contractor", r"\1 o \2 secondo le fonti"),
+    (r"(\d+ dB) secondo la scheda Extrasound, (\d+ dB) secondo il manuale Contractor", r"\1 o \2 secondo le fonti"),
+    (r"(\d+ mm) secondo la scheda Extrasound, (\d+ mm) secondo il manuale Contractor", r"\1 o \2 secondo le fonti"),
+    (r"IPX4 \(Elipson\); Extrasound indica IP66", "IPX4"), (r"Su Extrasound è venduto in coppia\.", "Venduto in coppia."),
+    (r"nella scheda Extrasound si sceglie", "all'ordine si sceglie"), (r"si scelgono nella scheda Extrasound", "si scelgono all'ordine"),
+    (r";?\s*il manuale ArtSound disponibile non riporta la potenza", ""), (r"\s*\(per zona, da confermare: il manuale ArtSound disponibile non riporta la potenza\)", " (per zona)"),
+]
+FRASE = re.compile(r"[^.]*?(?:\d\.\d[^.]*?)*\.(?=\s|$)")
+
+
+def pulisci(t):
+    for a, b in SOST:
+        t = re.sub(a, b, t)
+    return t
+
+
+def pulisci_nota(n):
+    out = []
+    for f in re.split(r"(?<=\.)\s+(?=[A-ZÈ])", n):
+        f = re.sub(r",? confrontat[ie] con la scheda Extrasound", "", f)
+        f = re.sub(r"\s*\(come Extrasound\)", "", f)
+        if "Extrasound" in f and "calcolo Extrasound" not in f:
+            continue
+        if re.match(r"(Fa fede il dato \w+|Da confermare con \w+|Da verificare sul foglio di istruzioni fornito con il prodotto|Da verificare prima di installarlo esposto alla pioggia)\.?$", f.strip()):
+            continue
+        f = pulisci(f).strip()
+        if f and f != ".":
+            out.append(f if f.endswith(".") else f + ".")
+    return " ".join(out)
+
+
+def ripulisci(d):
+    def walk(x):
+        if isinstance(x, str):
+            return pulisci(x)
+        if isinstance(x, list):
+            return [walk(i) for i in x]
+        if isinstance(x, dict):
+            return {k: (v if k in ("src", "link", "url", "alt") else walk(v)) for k, v in x.items()}
+        return x
+    for k in ("chiave", "righe", "intro", "colonne", "sistemi", "collega"):
+        if k in d:
+            d[k] = walk(d[k])
+    if d.get("nota"):
+        d["nota"] = pulisci_nota(d["nota"])
+    return d
+
+
 def uniforma(d, tutti):
+    d = ripulisci(d)
     if d["slug"] in MODELLI:
         return d
     d["_tutti"] = tutti

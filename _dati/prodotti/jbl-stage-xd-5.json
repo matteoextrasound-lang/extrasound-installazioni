@@ -12,7 +12,7 @@
   "alt": "JBL Stage XD-5 nero di tre quarti senza griglia"
  },
  "chiave": [
-  "2 vie · 6 Ω",
+  "2 vie · 4 Ω",
   "Ingombro 179 mm × 250 mm × 162 mm",
   "IP67"
  ],
@@ -22,7 +22,7 @@
   "JBL"
  ],
  "intro": [
-  "Il <strong>JBL Stage XD-5</strong> è un diffusore da esterno 2 vie: woofer 13 cm in polipropilene caricato con grafite, tweeter 25 mm a cupola in alluminio con guida d'onda HDI. 6 Ω (JBL rev. 2.0: 4 Ω), IP67, da −35 a +75 °C.",
+  "Il <strong>JBL Stage XD-5</strong> è un diffusore da esterno 2 vie: woofer 13 cm in polipropilene caricato con grafite, tweeter 25 mm a cupola in alluminio con guida d'onda HDI. 4 Ω, IP67, da −35 a +75 °C.",
   "Ingombro <strong>179 mm × 250 mm × 162 mm</strong>; staffa orientabile, sporgenza 71 mm."
  ],
  "colonne": [
@@ -42,7 +42,7 @@
    "voci": [
     "Risposta: 75 Hz – 25 kHz (−6 dB).",
     "Sensibilità: 86 dB (2,83 V / 1 m).",
-    "Impedenza: 6 Ω (JBL rev. 2.0: 4 Ω).",
+    "Impedenza: 4 Ω.",
     "Amplificazione: 20 – 100 W RMS."
    ]
   },
@@ -78,7 +78,7 @@
    "titolo": "Amplificazione",
    "icona": "sorgente",
    "voci": [
-    "6 Ω (JBL rev. 2.0: 4 Ω): un diffusore per canale.",
+    "4 Ω: un diffusore per canale.",
     "Amplificazione: 20 – 100 W RMS."
    ]
   }
