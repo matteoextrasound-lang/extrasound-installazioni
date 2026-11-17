@@ -1,0 +1,151 @@
+{
+ "id": 65971,
+ "tipo": "amplificatore",
+ "cat": "H",
+ "brand": "Arcam",
+ "model": "AVP45",
+ "crop": true,
+ "tab": "Home<br>cinema",
+ "lista": "home-cinema.html",
+ "lista_label": "Home cinema",
+ "tipo_label": "Processore AV",
+ "meta": "Arcam AVP45: 16 canali · dolby atmos, processore av. Ingressi, uscite, configurazioni e collegamenti per l'installatore.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/arcam-avp45-1-1000.jpg",
+  "alt": "Arcam AVP45 processore AV, vista frontale"
+ },
+ "chiave": [
+  "Processore AV · 16 canali",
+  "7 HDMI 2.1a · 8K",
+  "XLR · Auro-3D · IMAX"
+ ],
+ "righe": [
+  "16 canali · Dolby Atmos",
+  "Processore AV",
+  "Rack o libero"
+ ],
+ "intro": [
+  "L'<strong>Arcam AVP45</strong> è un processore AV a 16 canali assegnabili con Dolby Atmos, DTS:X, IMAX Enhanced, Auro-3D e MPEG-H, 7 ingressi HDMI 2.1a e uscite XLR e RCA per tutti i canali.",
+  "Streaming integrato, display a colori da 6,5″, Bluetooth 5.4."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "16 canali assegnabili; Dolby Atmos, TrueHD, DTS:X, DTS-HD MA, IMAX Enhanced, Auro-3D, MPEG-H.",
+    "HDMI 2.1a, HDCP 2.3, 8K a 60 Hz o 4K a 120 Hz; HDR10, HDR10+, Dolby Vision, HLG; VRR, ALLM, eARC.",
+    "Streaming: Spotify, Tidal e Qobuz Connect, Roon Ready, AirPlay, Google Cast, UPnP, fino a 24 bit / 192 kHz.",
+    "Consumo 50 W massimi.",
+    "432 × 399 × 170 mm, 9,4 kg."
+   ]
+  },
+  {
+   "titolo": "Ingressi",
+   "voci": [
+    "7 HDMI (Zona 1).",
+    "3 RCA, 1 XLR, 2 coassiali, 2 ottici.",
+    "Bluetooth 5.4 (AAC, LE Audio, Auracast)."
+   ]
+  },
+  {
+   "titolo": "Uscite",
+   "voci": [
+    "2 HDMI Zona 1, 1 HDMI Zona 2.",
+    "16 XLR (5 V di picco).",
+    "16 RCA (2 V)."
+   ]
+  }
+ ],
+ "collega": [
+  {
+   "titolo": "Con l'Arcam PA720",
+   "link": "scheda-arcam-pa720.html",
+   "img": "https://www.extrasound.it/wp-content/uploads/arcam-pa720-1-1000.jpg",
+   "alt": "Arcam PA720 finale di potenza 7 canali, vista frontale",
+   "voci": [
+    "Finale a 7 canali, ingressi XLR."
+   ]
+  },
+  {
+   "titolo": "KEF Ci3160RLM-THX",
+   "link": "scheda-kef-ci3160rlm-thx.html",
+   "img": "https://www.extrasound.it/wp-content/uploads/KEF-Ci3160RLM-THX.jpg",
+   "alt": "KEF Ci3160RLM-THX diffusore da incasso 3 vie THX Ultra MAT",
+   "voci": [
+    "LCR da incasso THX, 4 Ω: serve un finale robusto."
+   ]
+  },
+  {
+   "titolo": "Subwoofer",
+   "icona": "subwoofer",
+   "voci": [
+    "Subwoofer sulle uscite assegnate."
+   ]
+  },
+  {
+   "titolo": "Controllo",
+   "icona": "domotica",
+   "voci": [
+    "Rete, IR e RS232."
+   ]
+  }
+ ],
+ "gui": {
+  "src": "https://www.extrasound.it/wp-content/uploads/arcam-avp45-1-1000.jpg",
+  "alt": "Arcam AVP45 processore AV, vista frontale",
+  "caption": "Si configura dal menu a schermo e dal display frontale; correzione ambientale Dirac Live."
+ },
+ "sistemi": [
+  {
+   "titolo": "7.1.4 · Dolby Atmos",
+   "voci": [
+    "Frontali, centrale, 4 surround, 4 altezze e subwoofer.",
+    "Le uscite pre vanno al finale (Arcam PA720 + PA410)."
+   ],
+   "zone": [
+    {
+     "label": "Frontali L · C · R",
+     "tipo": "3"
+    },
+    {
+     "label": "Surround e surround back",
+     "tipo": "4"
+    },
+    {
+     "label": "Altezze Atmos",
+     "tipo": "4"
+    },
+    {
+     "label": "Subwoofer · LFE",
+     "tipo": "sub"
+    }
+   ]
+  },
+  {
+   "titolo": "Zona 2",
+   "voci": [
+    "Sala principale in 7.1.4 e una seconda zona con la sua uscita HDMI."
+   ],
+   "zone": [
+    {
+     "label": "Sala · 7.1.4",
+     "tipo": "4"
+    },
+    {
+     "label": "Zona 2 · HDMI e uscita stereo",
+     "tipo": "2"
+    }
+   ]
+  }
+ ],
+ "nota": "Dati dalla scheda Extrasound.",
+ "extrasound": "https://www.extrasound.it/arcam-avp45-processore-av-16-canali-uscite-xlr-auro-3d-dirac-live",
+ "fonti": [],
+ "retro": {
+  "src": "https://www.extrasound.it/wp-content/uploads/arcam-avp45-3-1000.jpg",
+  "alt": "Arcam AVP45, pannello posteriore con i collegamenti",
+  "titolo": "Pannello posteriore",
+  "caption": "Ingressi, uscite e collegamenti di controllo."
+ },
+ "slug": "arcam-avp45"
+}

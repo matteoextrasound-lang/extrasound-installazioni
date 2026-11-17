@@ -1,0 +1,153 @@
+{
+ "id": 31047,
+ "tipo": "amplificatore",
+ "cat": "H",
+ "brand": "Hegel",
+ "model": "C55",
+ "crop": true,
+ "tab": "Home<br>cinema",
+ "lista": "home-cinema.html",
+ "lista_label": "Home cinema",
+ "tipo_label": "Finale multicanale",
+ "meta": "Hegel C55: 5 canali, finale multicanale da installazione. Ingressi, uscite, configurazioni e collegamenti per l'installatore.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/hegel-c55.jpg",
+  "alt": "Hegel C55, vista frontale"
+ },
+ "chiave": [
+  "5 canali · 150 W / 8 Ω",
+  "300 W / 4 Ω · 600 W / 2 Ω",
+  "Rack 3U"
+ ],
+ "righe": [
+  "5 canali",
+  "Finale multicanale da installazione",
+  "Hegel"
+ ],
+ "intro": [
+  "L'<strong>Hegel C55</strong> è un finale di potenza a 5 canali per home theater e installazioni: 150 W su 8 Ω, 300 W su 4 Ω, 600 W su 2 Ω per canale.",
+  "Guadagno e fase regolabili per canale; rack 3U con staffe integrate."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "5 × 150 / 300 / 600 W su 8 / 4 / 2 Ω (1 kHz, 1% THD).",
+    "Carico minimo 2 Ω; fattore di smorzamento oltre 2.000.",
+    "THD < 0,01% a 100 W / 8 Ω; S/N oltre 100 dB.",
+    "Guadagno 23 o 29 dB e fase 0 / 180° per canale.",
+    "Rack 3U, staffe posteriori regolabili; Hegel consiglia 1U libera sopra e sotto.",
+    "482 × 132 × 520 mm, 37,5 kg."
+   ]
+  },
+  {
+   "titolo": "Ingressi",
+   "voci": [
+    "5 XLR e 5 RCA.",
+    "Trigger: ingresso mini-jack 5 – 12 V."
+   ]
+  },
+  {
+   "titolo": "Uscite",
+   "voci": [
+    "5 uscite diffusori.",
+    "Trigger: uscita mini-jack 11,9 V, per il collegamento in cascata."
+   ]
+  }
+ ],
+ "collega": [
+  {
+   "titolo": "KEF Ci3160RLM-THX",
+   "link": "scheda-kef-ci3160rlm-thx.html",
+   "img": "https://www.extrasound.it/wp-content/uploads/KEF-Ci3160RLM-THX.jpg",
+   "alt": "KEF Ci3160RLM-THX diffusore da incasso 3 vie THX Ultra MAT",
+   "voci": [
+    "LCR da incasso THX, 4 Ω: il C55 regge fino a 2 Ω."
+   ]
+  },
+  {
+   "titolo": "Con l'Arcam AV41",
+   "link": "scheda-arcam-av41.html",
+   "img": "https://www.extrasound.it/wp-content/uploads/arcam-av41-1-1000.jpg",
+   "alt": "Arcam AV41 processore AV, vista frontale",
+   "voci": [
+    "Processore AV con uscite XLR."
+   ]
+  },
+  {
+   "titolo": "Controllo",
+   "icona": "domotica",
+   "voci": [
+    "Trigger in / out per l'accensione a cascata."
+   ]
+  }
+ ],
+ "gui": {
+  "src": "https://www.extrasound.it/wp-content/uploads/hegel-c55.jpg",
+  "alt": "Hegel C55, vista frontale",
+  "caption": "Non ha un'interfaccia a schermo: guadagno e fase si impostano per canale sul retro; accensione via trigger."
+ },
+ "sistemi": [
+  {
+   "titolo": "5.1",
+   "voci": [
+    "Frontali, centrale e surround; subwoofer dal processore."
+   ],
+   "zone": [
+    {
+     "label": "Frontali L · R · 150 W",
+     "tipo": "2"
+    },
+    {
+     "label": "Centrale · 150 W",
+     "tipo": "1"
+    },
+    {
+     "label": "Surround · 150 W",
+     "tipo": "2"
+    },
+    {
+     "label": "Subwoofer attivo · dal processore",
+     "tipo": "sub"
+    }
+   ],
+   "apparecchio": "Hegel C55"
+  },
+  {
+   "titolo": "Bi-amp frontali",
+   "voci": [
+    "Quattro canali per i frontali in bi-amp, il quinto per il centrale; fase e guadagno per canale."
+   ],
+   "zone": [
+    {
+     "label": "Frontale L · bassi + alti",
+     "tipo": "2"
+    },
+    {
+     "label": "Frontale R · bassi + alti",
+     "tipo": "2"
+    },
+    {
+     "label": "Centrale",
+     "tipo": "1"
+    }
+   ],
+   "apparecchio": "Hegel C55"
+  }
+ ],
+ "nota": "Dati dalla scheda Extrasound, confrontata con la pagina Hegel.",
+ "extrasound": "https://www.extrasound.it/hegel-c55-finale-multicanale-5x150w-home-theater",
+ "fonti": [
+  {
+   "label": "pagina Hegel C55",
+   "url": "https://www.hegel.com/products/custom/c55"
+  }
+ ],
+ "retro": {
+  "src": "https://www.extrasound.it/wp-content/uploads/hegel-c55-retro.jpg",
+  "alt": "Hegel C55, pannello posteriore",
+  "titolo": "Pannello posteriore",
+  "caption": "Ingressi, uscite e collegamenti di controllo."
+ },
+ "slug": "hegel-c55"
+}

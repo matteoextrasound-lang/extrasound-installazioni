@@ -1,0 +1,158 @@
+{
+ "id": 30398,
+ "tipo": "amplificatore",
+ "cat": "H",
+ "brand": "Marantz",
+ "model": "AMP 10",
+ "crop": true,
+ "tab": "Home<br>cinema",
+ "lista": "home-cinema.html",
+ "lista_label": "Home cinema",
+ "tipo_label": "Finale multicanale",
+ "meta": "Marantz AMP 10: 16 canali · classe d, finale multicanale. Ingressi, uscite, configurazioni e collegamenti per l'installatore.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/marantz-amp-10.jpg",
+  "alt": "Marantz AMP 10, vista frontale"
+ },
+ "chiave": [
+  "16 canali · classe D",
+  "200 W / 8 Ω · 400 W / 4 Ω",
+  "BTL 400 W / 8 Ω"
+ ],
+ "righe": [
+  "16 canali · classe D",
+  "Finale multicanale",
+  "Marantz"
+ ],
+ "intro": [
+  "Il <strong>Marantz AMP 10</strong> è un finale di potenza a 16 canali in classe D: 200 W su 8 Ω, 400 W su 4 Ω, 400 W su 8 Ω con due canali in BTL.",
+  "Bi-amp, ingressi XLR o RCA, RS232, Remote Bus e trigger."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "16 canali in classe D Marantz, moduli HDAM-SA2.",
+    "Potenza: 200 W su 8 Ω (1 kHz, 0,05%, 2 canali), 400 W su 4 Ω.",
+    "BTL: due canali in uno da 400 W su 8 Ω; bi-amp.",
+    "16 XLR e 16 RCA (selettore); 16 coppie di morsetti SPKT-1+; consumo 500 W (140 W senza segnale), 0,2 W in standby; circa 442 × 488 × 188 mm, 19,8 kg."
+   ]
+  },
+  {
+   "titolo": "Ingressi",
+   "voci": [
+    "16 ingressi XLR e 16 RCA, selezionabili.",
+    "RS232, Remote Bus, trigger in / out, IR."
+   ]
+  },
+  {
+   "titolo": "Uscite",
+   "voci": [
+    "16 coppie di morsetti SPKT-1+."
+   ]
+  }
+ ],
+ "collega": [
+  {
+   "titolo": "KEF Ci3160RLM-THX",
+   "link": "scheda-kef-ci3160rlm-thx.html",
+   "img": "https://www.extrasound.it/wp-content/uploads/KEF-Ci3160RLM-THX.jpg",
+   "alt": "KEF Ci3160RLM-THX diffusore da incasso 3 vie THX Ultra MAT",
+   "voci": [
+    "LCR da incasso THX, 4 Ω."
+   ]
+  },
+  {
+   "titolo": "Con il Marantz AV 10",
+   "link": "scheda-marantz-av-10.html",
+   "img": "https://www.extrasound.it/wp-content/uploads/av-10.jpg",
+   "alt": "Marantz AV 10, vista frontale",
+   "voci": [
+    "Processore AV di riferimento Marantz."
+   ]
+  },
+  {
+   "titolo": "Controllo",
+   "icona": "domotica",
+   "voci": [
+    "RS232, Remote Bus, trigger."
+   ]
+  }
+ ],
+ "gui": {
+  "src": "https://www.extrasound.it/wp-content/uploads/marantz-amp-10.jpg",
+  "alt": "Marantz AMP 10, vista frontale",
+  "caption": "Non ha un'interfaccia a schermo: si accende e si controlla dal processore, via Remote Bus, trigger o RS232."
+ },
+ "sistemi": [
+  {
+   "titolo": "9.1.6 · 15 canali",
+   "voci": [
+    "Uscite pre del processore sugli ingressi XLR."
+   ],
+   "zone": [
+    {
+     "label": "Frontali L · C · R",
+     "tipo": "3"
+    },
+    {
+     "label": "Surround, back e wide",
+     "tipo": "4"
+    },
+    {
+     "label": "Wide aggiuntivi",
+     "tipo": "2"
+    },
+    {
+     "label": "Altezze Atmos",
+     "tipo": "4"
+    },
+    {
+     "label": "Altezze aggiuntive",
+     "tipo": "2"
+    },
+    {
+     "label": "Subwoofer attivi · dal processore",
+     "tipo": "sub"
+    }
+   ],
+   "apparecchio": "Marantz AMP 10"
+  },
+  {
+   "titolo": "BTL · frontali da 400 W",
+   "voci": [
+    "Due canali in BTL per ogni diffusore più impegnativo."
+   ],
+   "zone": [
+    {
+     "label": "Frontali L · R · BTL 400 W / 8 Ω",
+     "tipo": "2"
+    },
+    {
+     "label": "Centrale · BTL 400 W / 8 Ω",
+     "tipo": "1"
+    },
+    {
+     "label": "Altri canali · 200 W / 8 Ω",
+     "tipo": "4"
+    }
+   ],
+   "apparecchio": "Marantz AMP 10"
+  }
+ ],
+ "nota": "Dati dalla scheda Extrasound, confrontata con l'infosheet Marantz AMP 10.",
+ "extrasound": "https://www.extrasound.it/finale-di-potenza-16-canali-400-200-watt-marantz-amp-10",
+ "fonti": [
+  {
+   "label": "infosheet Marantz AMP 10",
+   "url": "https://www.cepro.com/wp-content/uploads/2023/01/Marantz-Amp-10-–-Infosheet.pdf"
+  }
+ ],
+ "retro": {
+  "src": "https://www.extrasound.it/wp-content/uploads/marantz-amp-10-retro.jpg",
+  "alt": "Marantz AMP 10, pannello posteriore",
+  "titolo": "Pannello posteriore",
+  "caption": "Ingressi, uscite e collegamenti di controllo."
+ },
+ "slug": "marantz-amp-10"
+}

@@ -1,0 +1,158 @@
+{
+ "id": 27580,
+ "tipo": "amplificatore",
+ "cat": "H",
+ "brand": "Rotel",
+ "model": "RSP-1576 MKII",
+ "crop": true,
+ "tab": "Home<br>cinema",
+ "lista": "home-cinema.html",
+ "lista_label": "Home cinema",
+ "tipo_label": "Processore AV",
+ "meta": "Rotel RSP-1576 MKII: 7.1.4 · dolby atmos, processore av. Ingressi, uscite, configurazioni e collegamenti per l'installatore.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/RSP-1576.jpg",
+  "alt": "Rotel RSP-1576 MKII, vista frontale"
+ },
+ "chiave": [
+  "Processore AV · 7.1.4",
+  "7 HDMI 2.0b · 4K/60",
+  "Dirac Live · rack 3U"
+ ],
+ "righe": [
+  "7.1.4 · Dolby Atmos",
+  "Processore AV",
+  "Rack 3U"
+ ],
+ "intro": [
+  "Il <strong>Rotel RSP-1576 MKII</strong> è un processore A/V 7.1.4 con Dolby Atmos e DTS:X, 7 ingressi HDMI e correzione ambientale Dirac Live Full.",
+  "Ingressi analogici con Analog Bypass; si abbina ai finali Rotel RMB."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "Formati: LPCM fino a 192 kHz / 24 bit, Dolby TrueHD, Dolby Atmos, DTS-HD MA, DTS:X; fino a 7.1.4.",
+    "DSP Texas Instruments quad-core; DAC Wolfson 24 bit / 192 kHz.",
+    "Dirac Live Full.",
+    "S/N 112 dB; Analog Bypass 10 Hz – 100 kHz (±1 dB).",
+    "230 V; consumo 60 W, standby < 0,5 W.",
+    "431 × 144 × 348 mm (3U), 8,8 kg."
+   ]
+  },
+  {
+   "titolo": "Ingressi",
+   "voci": [
+    "7 HDMI (HDCP 2.2, HDMI 2.0b), fino a 4K 60 Hz, HDR10.",
+    "RCA 270 mV, XLR 500 mV (100 kΩ); phono 3,5 mV (47 kΩ)."
+   ]
+  },
+  {
+   "titolo": "Uscite",
+   "voci": [
+    "2 HDMI con ARC.",
+    "Uscite pre: 1 V."
+   ]
+  }
+ ],
+ "collega": [
+  {
+   "titolo": "Con il Rotel RMB-1587MKII",
+   "link": "scheda-rotel-rmb-1587mkii.html",
+   "img": "https://www.extrasound.it/wp-content/uploads/rotel-rmb-1587mkii-nero-e-silver-1000.jpg",
+   "alt": "Rotel RMB-1587MKII nero e silver, vista frontale",
+   "voci": [
+    "Finale a 7 canali da 155 W su 8 Ω."
+   ]
+  },
+  {
+   "titolo": "JBL Studio 66LCR",
+   "link": "scheda-jbl-studio-66lcr.html",
+   "img": "https://www.extrasound.it/wp-content/uploads/jbl-studio-66lcr-tre-quarti-senza-griglia-1000.jpg",
+   "alt": "JBL Studio 66LCR, vista di tre quarti senza griglia",
+   "voci": [
+    "LCR da incasso, 6 Ω."
+   ]
+  },
+  {
+   "titolo": "Subwoofer",
+   "icona": "subwoofer",
+   "voci": [
+    "Subwoofer attivo sull'uscita sub."
+   ]
+  },
+  {
+   "titolo": "Controllo",
+   "icona": "domotica",
+   "voci": [
+    "RS232, IR e trigger."
+   ]
+  }
+ ],
+ "gui": {
+  "src": "https://www.extrasound.it/wp-content/uploads/RSP-1576.jpg",
+  "alt": "Rotel RSP-1576 MKII, vista frontale",
+  "caption": "Si configura dal menu a schermo; Dirac Live per la correzione ambientale."
+ },
+ "sistemi": [
+  {
+   "titolo": "7.1.4 · Dolby Atmos",
+   "voci": [
+    "Frontali, centrale, 4 surround, 4 altezze e subwoofer.",
+    "Le uscite pre vanno al finale (Rotel RMB-1587MKII + RMB-1504)."
+   ],
+   "zone": [
+    {
+     "label": "Frontali L · C · R",
+     "tipo": "3"
+    },
+    {
+     "label": "Surround e surround back",
+     "tipo": "4"
+    },
+    {
+     "label": "Altezze Atmos",
+     "tipo": "4"
+    },
+    {
+     "label": "Subwoofer · LFE",
+     "tipo": "sub"
+    }
+   ]
+  },
+  {
+   "titolo": "5.1.4",
+   "voci": [
+    "Senza surround back: basta un finale a 5 canali più uno a 4 per le altezze."
+   ],
+   "zone": [
+    {
+     "label": "Frontali L · C · R",
+     "tipo": "3"
+    },
+    {
+     "label": "Surround",
+     "tipo": "2"
+    },
+    {
+     "label": "Altezze Atmos",
+     "tipo": "4"
+    },
+    {
+     "label": "Subwoofer · LFE",
+     "tipo": "sub"
+    }
+   ]
+  }
+ ],
+ "nota": "Dati dalla scheda Extrasound.",
+ "extrasound": "https://www.extrasound.it/preamplificatore-av-multicanale-7-1-4-rotel-rsp-1576mkii",
+ "fonti": [],
+ "retro": {
+  "src": "https://www.extrasound.it/wp-content/uploads/RSP-1576-retro.jpg",
+  "alt": "Rotel RSP-1576 MKII, pannello posteriore",
+  "titolo": "Pannello posteriore",
+  "caption": "Ingressi, uscite e collegamenti di controllo."
+ },
+ "slug": "rotel-rsp-1576-mkii"
+}

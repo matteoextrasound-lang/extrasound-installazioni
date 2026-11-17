@@ -1,0 +1,139 @@
+{
+ "id": 31572,
+ "tipo": "amplificatore",
+ "cat": "H",
+ "brand": "Elipson",
+ "model": "Infinite A1000",
+ "crop": true,
+ "tab": "Home<br>cinema",
+ "lista": "home-cinema.html",
+ "lista_label": "Home cinema",
+ "tipo_label": "Finale multicanale",
+ "meta": "Elipson Infinite A1000: mono · classe d · dsp, amplificatore per subwoofer. Ingressi, uscite, configurazioni e collegamenti per l'installatore.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/elipson-infinite-a1000.jpg",
+  "alt": "Elipson Infinite A1000, vista frontale"
+ },
+ "chiave": [
+  "Mono · 1000 W / 4 Ω",
+  "DSP · filtro 40 – 200 Hz",
+  "Per Infinite S12"
+ ],
+ "righe": [
+  "Mono · classe D · DSP",
+  "Amplificatore per subwoofer",
+  "Infinite"
+ ],
+ "intro": [
+  "L'<strong>Elipson Infinite A1000</strong> è un amplificatore mono in classe D da 1000 W su 4 Ω con DSP, per subwoofer passivi come l'Elipson Infinite S12.",
+  "Filtro, equalizzatore, fase e filtro subsonico regolabili; modalità SUB o LFE."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "1000 W RMS su 4 Ω (< 1% THD), classe D.",
+    "Filtro passa-basso 39,4 – 204 Hz, pendenza 12 – 48 dB/ottava a passi di 6 dB (scheda Elipson).",
+    "Equalizzatore a 9 bande 19,7 – 125 Hz (−6 / +3 dB); 7 preset, 3 per l'Infinite S12.",
+    "Fase 0 – 315° a passi di 45°; subsonico 24 dB/ottava regolabile 20,3 – 40,5 Hz.",
+    "Spegnimento automatico regolabile 5 – 30 minuti; standby < 0,5 W; 115 / 230 V.",
+    "425 × 89 × 368 mm senza piedini e staffe, 12,5 kg."
+   ]
+  },
+  {
+   "titolo": "Ingressi",
+   "voci": [
+    "XLR bilanciato L/R, RCA, alto livello a morsetti (sensibilità 220 mV RCA/XLR, 2,6 V alto livello).",
+    "Trigger 12 V; accensione automatica a 3,2 mV."
+   ]
+  },
+  {
+   "titolo": "Uscite",
+   "voci": [
+    "Morsetti per il subwoofer.",
+    "Uscite di linea RCA L/R (200 mV)."
+   ]
+  }
+ ],
+ "collega": [
+  {
+   "titolo": "Elipson Infinite S12",
+   "link": "scheda-elipson-infinite-s12.html",
+   "img": "https://www.extrasound.it/wp-content/uploads/Elipson-infinite-12.jpg",
+   "alt": "Elipson Infinite S12 senza copertura con woofer da 30 cm e due reflex",
+   "voci": [
+    "Subwoofer passivo da incasso 12″, 8 Ω: 3 preset dedicati nel DSP."
+   ]
+  },
+  {
+   "titolo": "Processore AV",
+   "icona": "sorgente",
+   "voci": [
+    "Uscita LFE su XLR o RCA."
+   ]
+  },
+  {
+   "titolo": "Controllo",
+   "icona": "domotica",
+   "voci": [
+    "Trigger 12 V e accensione automatica col segnale."
+   ]
+  }
+ ],
+ "gui": {
+  "src": "https://www.extrasound.it/wp-content/uploads/elipson-infinite-a1000.jpg",
+  "alt": "Elipson Infinite A1000, vista frontale",
+  "caption": "Regolazioni dal frontale e dal telecomando: modalità SUB / LFE, filtro, equalizzatore, fase, volume."
+ },
+ "sistemi": [
+  {
+   "titolo": "Home cinema · LFE",
+   "voci": [
+    "Uscita LFE del processore all'A1000 in modalità LFE: il filtro lo fa il processore."
+   ],
+   "zone": [
+    {
+     "label": "LFE dal processore",
+     "tipo": "linea"
+    },
+    {
+     "label": "Infinite S12 · 8 Ω",
+     "tipo": "sub"
+    }
+   ],
+   "apparecchio": "Elipson A1000"
+  },
+  {
+   "titolo": "Stereo · SUB",
+   "voci": [
+    "Modalità SUB: l'A1000 filtra il segnale; dalle uscite RCA il segnale va al finale dei diffusori."
+   ],
+   "zone": [
+    {
+     "label": "Ingresso alto livello o RCA",
+     "tipo": "linea"
+    },
+    {
+     "label": "Infinite S12 · filtro 40 – 200 Hz",
+     "tipo": "sub"
+    }
+   ],
+   "apparecchio": "Elipson A1000"
+  }
+ ],
+ "nota": "Dati dalla scheda prodotto Elipson, confrontati con la scheda Extrasound: la scheda Extrasound indica un filtro 40 – 200 Hz e un equalizzatore 20 – 125 Hz.",
+ "extrasound": "https://www.extrasound.it/elipson-infinite-a1000-amplificatore-mono-1000-w-classe-d-dsp-per-subwoofer",
+ "fonti": [
+  {
+   "label": "scheda prodotto Elipson Infinite A1000",
+   "url": "https://cdn.shopify.com/s/files/1/0528/0291/2421/files/Fiche_produit_Infinite_A1000_Elipson.pdf"
+  }
+ ],
+ "retro": {
+  "src": "https://www.extrasound.it/wp-content/uploads/elipson-infinite-a1000-retro.jpg",
+  "alt": "Elipson Infinite A1000, pannello posteriore",
+  "titolo": "Pannello posteriore",
+  "caption": "Ingressi, uscite e collegamenti di controllo."
+ },
+ "slug": "elipson-infinite-a1000"
+}

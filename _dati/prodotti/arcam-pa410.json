@@ -1,0 +1,134 @@
+{
+ "id": 65975,
+ "tipo": "amplificatore",
+ "cat": "H",
+ "brand": "Arcam",
+ "model": "PA410",
+ "crop": true,
+ "tab": "Home<br>cinema",
+ "lista": "home-cinema.html",
+ "lista_label": "Home cinema",
+ "tipo_label": "Finale multicanale",
+ "meta": "Arcam PA410: 4 canali · classe ab, finale multicanale. Ingressi, uscite, configurazioni e collegamenti per l'installatore.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/arcam-pa410-1-1000.jpg",
+  "alt": "Arcam PA410 finale di potenza 4 canali, vista frontale"
+ },
+ "chiave": [
+  "4 canali · classe AB",
+  "4 × 50 W / 8 Ω",
+  "RS232"
+ ],
+ "righe": [
+  "4 canali · classe AB",
+  "Finale multicanale",
+  "Arcam"
+ ],
+ "intro": [
+  "L'<strong>Arcam PA410</strong> è un finale di potenza a 4 canali in classe AB: 50 W per canale su 8 Ω con tutti i canali in funzione.",
+  "Ideale per le altezze Atmos accanto a un PA720, o per due zone stereo."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "4 canali in classe AB.",
+    "4 canali 20 Hz – 20 kHz: 50 / 70 W (8 / 4 Ω); 2 canali: 60 / 90 W.",
+    "THD 0,003%; S/N 105 dB.",
+    "Consumo 700 W massimi, 90 W a riposo, < 0,5 W in standby.",
+    "433 × 325 × 105 mm, 10 kg."
+   ]
+  },
+  {
+   "titolo": "Ingressi",
+   "voci": [
+    "4 ingressi, sensibilità 600 mV (50 W / 8 Ω), 10 kΩ.",
+    "RS232."
+   ]
+  },
+  {
+   "titolo": "Uscite",
+   "voci": [
+    "4 uscite diffusori."
+   ]
+  }
+ ],
+ "collega": [
+  {
+   "titolo": "KEF Ci160.2CR",
+   "link": "scheda-kef-ci160-2cr.html",
+   "img": "https://www.extrasound.it/wp-content/uploads/CI1602CR.jpg",
+   "alt": "KEF Ci160.2CR diffusore in-ceiling 2 vie Uni-Q 6,5 pollici",
+   "voci": [
+    "Diffusore da soffitto per le altezze Atmos, 8 Ω."
+   ]
+  },
+  {
+   "titolo": "Con l'Arcam AV41",
+   "link": "scheda-arcam-av41.html",
+   "img": "https://www.extrasound.it/wp-content/uploads/arcam-av41-1-1000.jpg",
+   "alt": "Arcam AV41 processore AV, vista frontale",
+   "voci": [
+    "Processore AV a 16 canali."
+   ]
+  },
+  {
+   "titolo": "Controllo",
+   "icona": "domotica",
+   "voci": [
+    "RS232."
+   ]
+  }
+ ],
+ "gui": {
+  "src": "https://www.extrasound.it/wp-content/uploads/arcam-pa410-1-1000.jpg",
+  "alt": "Arcam PA410 finale di potenza 4 canali, vista frontale",
+  "caption": "Non ha un'interfaccia a schermo: si controlla via RS232 o dal processore."
+ },
+ "sistemi": [
+  {
+   "titolo": "4 altezze Atmos",
+   "voci": [
+    "Con un PA720 per i 7 canali principali completa un 7.1.4."
+   ],
+   "zone": [
+    {
+     "label": "Altezze anteriori · 50 W",
+     "tipo": "2"
+    },
+    {
+     "label": "Altezze posteriori · 50 W",
+     "tipo": "2"
+    }
+   ],
+   "apparecchio": "Arcam PA410"
+  },
+  {
+   "titolo": "2 zone stereo",
+   "voci": [
+    "Due coppie di diffusori, ognuna dalla sua sorgente."
+   ],
+   "zone": [
+    {
+     "label": "Zona 1 · 2 × 50 W",
+     "tipo": "2"
+    },
+    {
+     "label": "Zona 2 · 2 × 50 W",
+     "tipo": "2"
+    }
+   ],
+   "apparecchio": "Arcam PA410"
+  }
+ ],
+ "nota": "Dati dalla scheda Extrasound.",
+ "extrasound": "https://www.extrasound.it/arcam-pa410-finale-di-potenza-4-canali-classe-ab-4x50w",
+ "fonti": [],
+ "retro": {
+  "src": "https://www.extrasound.it/wp-content/uploads/arcam-pa410-2-1000.jpg",
+  "alt": "Arcam PA410, pannello posteriore",
+  "titolo": "Pannello posteriore",
+  "caption": "Ingressi, uscite e collegamenti di controllo."
+ },
+ "slug": "arcam-pa410"
+}

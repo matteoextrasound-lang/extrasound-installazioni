@@ -1,0 +1,141 @@
+{
+ "id": 27592,
+ "tipo": "amplificatore",
+ "cat": "H",
+ "brand": "Rotel",
+ "model": "RMB-1555",
+ "crop": true,
+ "tab": "Home<br>cinema",
+ "lista": "home-cinema.html",
+ "lista_label": "Home cinema",
+ "tipo_label": "Finale multicanale",
+ "meta": "Rotel RMB-1555: 5 canali · classe ab, finale multicanale. Ingressi, uscite, configurazioni e collegamenti per l'installatore.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/rmb1555.jpg",
+  "alt": "Rotel RMB-1555, vista frontale"
+ },
+ "chiave": [
+  "5 canali · classe AB",
+  "120 W / 8 Ω · 170 W / 4 Ω",
+  "Trigger 12 V"
+ ],
+ "righe": [
+  "5 canali · classe AB",
+  "Finale multicanale",
+  "Rotel"
+ ],
+ "intro": [
+  "Il <strong>Rotel RMB-1555</strong> è un finale multicanale in classe AB a 5 canali: 120 W per canale su 8 Ω e 170 W su 4 Ω con tutti i canali in funzione.",
+  "Per home cinema e impianti multizona; carico minimo 4 Ω."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "5 canali in classe AB; THD e intermodulazione < 0,03%.",
+    "Potenza continua: 120 W su 8 Ω, 170 W su 4 Ω (tutti i canali).",
+    "Impedenza minima 4 Ω.",
+    "fattore di smorzamento 180; S/N 116 dB; guadagno 26,5 dB; consumo 650 W, standby 0,5 W; 431 × 188 × 454 mm (4U), 21,8 kg."
+   ]
+  },
+  {
+   "titolo": "Ingressi",
+   "voci": [
+    "Ingressi RCA.",
+    "Trigger 12 V."
+   ]
+  },
+  {
+   "titolo": "Uscite",
+   "voci": [
+    "5 uscite diffusori."
+   ]
+  }
+ ],
+ "collega": [
+  {
+   "titolo": "JBL Studio 66LCR",
+   "link": "scheda-jbl-studio-66lcr.html",
+   "img": "https://www.extrasound.it/wp-content/uploads/jbl-studio-66lcr-tre-quarti-senza-griglia-1000.jpg",
+   "alt": "JBL Studio 66LCR, vista di tre quarti senza griglia",
+   "voci": [
+    "LCR da incasso, 6 Ω."
+   ]
+  },
+  {
+   "titolo": "Con il Rotel RSP-1576 MKII",
+   "link": "scheda-rotel-rsp-1576-mkii.html",
+   "img": "https://www.extrasound.it/wp-content/uploads/RSP-1576.jpg",
+   "alt": "Rotel RSP-1576 MKII, vista frontale",
+   "voci": [
+    "Processore A/V 7.1.4 con Dirac Live."
+   ]
+  },
+  {
+   "titolo": "Controllo",
+   "icona": "domotica",
+   "voci": [
+    "Trigger 12 V dal processore."
+   ]
+  }
+ ],
+ "gui": {
+  "src": "https://www.extrasound.it/wp-content/uploads/rmb1555.jpg",
+  "alt": "Rotel RMB-1555, vista frontale",
+  "caption": "Non ha un'interfaccia a schermo: si accende con trigger 12 V o col segnale."
+ },
+ "sistemi": [
+  {
+   "titolo": "5 canali · home cinema",
+   "voci": [
+    "Uscite pre del processore sugli ingressi RCA."
+   ],
+   "zone": [
+    {
+     "label": "Frontali L · R",
+     "tipo": "2"
+    },
+    {
+     "label": "Centrale",
+     "tipo": "1"
+    },
+    {
+     "label": "Surround",
+     "tipo": "2"
+    },
+    {
+     "label": "Subwoofer attivo · dal processore",
+     "tipo": "sub"
+    }
+   ],
+   "apparecchio": "Rotel RMB-1555"
+  },
+  {
+   "titolo": "3 frontali + 2 altezze",
+   "voci": [
+    "Assegnazione alternativa dei canali."
+   ],
+   "zone": [
+    {
+     "label": "Frontali L · C · R",
+     "tipo": "3"
+    },
+    {
+     "label": "Altezze Atmos",
+     "tipo": "2"
+    }
+   ],
+   "apparecchio": "Rotel RMB-1555"
+  }
+ ],
+ "nota": "Dati dalla scheda Extrasound.",
+ "extrasound": "https://www.extrasound.it/finale-di-potenza-multicanale-120w-x-5-rotel-rmb-1555",
+ "fonti": [],
+ "retro": {
+  "src": "https://www.extrasound.it/wp-content/uploads/rmb1555-retro.jpg",
+  "alt": "Rotel RMB-1555, pannello posteriore",
+  "titolo": "Pannello posteriore",
+  "caption": "Ingressi, uscite e collegamenti di controllo."
+ },
+ "slug": "rotel-rmb-1555"
+}

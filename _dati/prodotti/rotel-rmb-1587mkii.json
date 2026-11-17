@@ -1,0 +1,163 @@
+{
+ "id": 63191,
+ "tipo": "amplificatore",
+ "cat": "H",
+ "brand": "Rotel",
+ "model": "RMB-1587MKII",
+ "crop": true,
+ "tab": "Home<br>cinema",
+ "lista": "home-cinema.html",
+ "lista_label": "Home cinema",
+ "tipo_label": "Finale multicanale",
+ "meta": "Rotel RMB-1587MKII: 7 canali · classe ab, finale multicanale. Ingressi, uscite, configurazioni e collegamenti per l'installatore.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/rotel-rmb-1587mkii-nero-e-silver-1000.jpg",
+  "alt": "Rotel RMB-1587MKII nero e silver, vista frontale"
+ },
+ "chiave": [
+  "7 canali · classe AB",
+  "155 W / 8 Ω · 250 W / 4 Ω",
+  "Rack 5U · XLR"
+ ],
+ "righe": [
+  "7 canali · classe AB",
+  "Finale multicanale",
+  "Rotel"
+ ],
+ "intro": [
+  "Il <strong>Rotel RMB-1587MKII</strong> è un finale multicanale in classe AB a 7 canali: 155 W su 8 Ω e 250 W su 4 Ω per canale con tutti i canali in funzione.",
+  "Due trasformatori toroidali, ingressi XLR e RCA, rack 5U per installazione."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "7 canali in classe AB, 2 trasformatori toroidali.",
+    "Potenza: 155 W su 8 Ω, 250 W su 4 Ω (tutti i canali); 2 × 335 W su 4 Ω.",
+    "Fattore di smorzamento 330; S/N 111 dB; consumo 1.400 W.",
+    "431 × 237 × 456 mm (5U), circa 37,5 kg.",
+    "Lascia almeno 10 cm attorno al telaio; 4 ventole termostatiche; protezioni termica e da sovracorrente."
+   ]
+  },
+  {
+   "titolo": "Ingressi",
+   "voci": [
+    "Ingressi XLR e RCA a commutazione automatica.",
+    "Trigger 12 V in (3 – 30 V AC/DC) con uscita pass-through."
+   ]
+  },
+  {
+   "titolo": "Uscite",
+   "voci": [
+    "7 uscite diffusori: cavo nudo, forcelle o banane doppie."
+   ]
+  }
+ ],
+ "collega": [
+  {
+   "titolo": "KEF Ci3160RLM-THX",
+   "link": "scheda-kef-ci3160rlm-thx.html",
+   "img": "https://www.extrasound.it/wp-content/uploads/KEF-Ci3160RLM-THX.jpg",
+   "alt": "KEF Ci3160RLM-THX diffusore da incasso 3 vie THX Ultra MAT",
+   "voci": [
+    "LCR da incasso THX, 4 Ω."
+   ]
+  },
+  {
+   "titolo": "Con il Rotel RSP-1576 MKII",
+   "link": "scheda-rotel-rsp-1576-mkii.html",
+   "img": "https://www.extrasound.it/wp-content/uploads/RSP-1576.jpg",
+   "alt": "Rotel RSP-1576 MKII, vista frontale",
+   "voci": [
+    "Processore A/V 7.1.4 con Dirac Live."
+   ]
+  },
+  {
+   "titolo": "Controllo",
+   "icona": "domotica",
+   "voci": [
+    "Trigger 12 V."
+   ]
+  }
+ ],
+ "gui": {
+  "src": "https://www.extrasound.it/wp-content/uploads/rotel-rmb-1587mkii-nero-e-silver-1000.jpg",
+  "alt": "Rotel RMB-1587MKII nero e silver, vista frontale",
+  "caption": "Non ha un'interfaccia a schermo: si accende con il trigger 12 V del processore."
+ },
+ "sistemi": [
+  {
+   "titolo": "7.1",
+   "voci": [
+    "Uscite pre del processore sugli ingressi XLR o RCA."
+   ],
+   "zone": [
+    {
+     "label": "Frontali L · R",
+     "tipo": "2"
+    },
+    {
+     "label": "Centrale",
+     "tipo": "1"
+    },
+    {
+     "label": "Surround",
+     "tipo": "2"
+    },
+    {
+     "label": "Surround back",
+     "tipo": "2"
+    },
+    {
+     "label": "Subwoofer attivo · dal processore",
+     "tipo": "sub"
+    }
+   ],
+   "apparecchio": "Rotel RMB-1587MKII"
+  },
+  {
+   "titolo": "5.1.2",
+   "voci": [
+    "Due canali alle altezze Atmos."
+   ],
+   "zone": [
+    {
+     "label": "Frontali L · R",
+     "tipo": "2"
+    },
+    {
+     "label": "Centrale",
+     "tipo": "1"
+    },
+    {
+     "label": "Surround",
+     "tipo": "2"
+    },
+    {
+     "label": "Altezze Atmos",
+     "tipo": "2"
+    },
+    {
+     "label": "Subwoofer attivo",
+     "tipo": "sub"
+    }
+   ],
+   "apparecchio": "Rotel RMB-1587MKII"
+  }
+ ],
+ "nota": "Dati dalla scheda Extrasound, confrontata con la scheda Rotel.",
+ "extrasound": "https://www.extrasound.it/rotel-rmb-1587mkii-finale-multicanale-7-canali",
+ "fonti": [
+  {
+   "label": "scheda tecnica Rotel RMB-1587MKII",
+   "url": "https://iear.be/docs/spec-sheet/199315.pdf"
+  }
+ ],
+ "retro": {
+  "src": "https://www.extrasound.it/wp-content/uploads/rotel-rmb-1587mkii-retro-1000.jpg",
+  "alt": "Rotel RMB-1587MKII, pannello posteriore",
+  "titolo": "Pannello posteriore",
+  "caption": "Ingressi, uscite e collegamenti di controllo."
+ },
+ "slug": "rotel-rmb-1587mkii"
+}

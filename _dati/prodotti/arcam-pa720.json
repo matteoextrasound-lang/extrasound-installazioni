@@ -1,0 +1,163 @@
+{
+ "id": 65973,
+ "tipo": "amplificatore",
+ "cat": "H",
+ "brand": "Arcam",
+ "model": "PA720",
+ "crop": true,
+ "tab": "Home<br>cinema",
+ "lista": "home-cinema.html",
+ "lista_label": "Home cinema",
+ "tipo_label": "Finale multicanale",
+ "meta": "Arcam PA720: 7 canali · classe g, finale multicanale. Ingressi, uscite, configurazioni e collegamenti per l'installatore.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/arcam-pa720-1-1000.jpg",
+  "alt": "Arcam PA720 finale di potenza 7 canali, vista frontale"
+ },
+ "chiave": [
+  "7 canali · classe G",
+  "7 × 100 W / 8 Ω",
+  "XLR o RCA · RS232"
+ ],
+ "righe": [
+  "7 canali · classe G",
+  "Finale multicanale",
+  "Arcam"
+ ],
+ "intro": [
+  "L'<strong>Arcam PA720</strong> è un finale di potenza a 7 canali in classe G (primi 20 W in classe A): 100 W per canale su 8 Ω con tutti i canali in funzione.",
+  "Ingressi RCA o XLR commutabili; controllo Ethernet e RS232."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "7 canali in classe G, primi 20 W in classe A.",
+    "7 canali 20 Hz – 20 kHz: 100 / 140 W (8 / 4 Ω); 5 canali 1 kHz: 110 / 175 W; 2 canali: 140 / 225 W.",
+    "THD 0,002%; S/N 105 dB; risposta 20 Hz – 20 kHz ±0,05 dB.",
+    "Consumo 1,5 kW massimi, 90 W a riposo, < 0,5 W in standby.",
+    "433 × 425 × 177 mm, 18 kg."
+   ]
+  },
+  {
+   "titolo": "Ingressi",
+   "voci": [
+    "7 ingressi RCA o XLR commutabili: 800 mV RCA, 1,6 V XLR (50 W / 8 Ω), 10 kΩ.",
+    "Ethernet e RS232."
+   ]
+  },
+  {
+   "titolo": "Uscite",
+   "voci": [
+    "7 uscite diffusori."
+   ]
+  }
+ ],
+ "collega": [
+  {
+   "titolo": "Elipson Infinite 14",
+   "link": "scheda-elipson-infinite-14.html",
+   "img": "https://www.extrasound.it/wp-content/uploads/elipson-infinite-14.jpg",
+   "alt": "Elipson Infinite 14 senza griglia con due woofer e tweeter centrale",
+   "voci": [
+    "Frontali e centrale da incasso, 8 Ω."
+   ]
+  },
+  {
+   "titolo": "Con l'Arcam AV41",
+   "link": "scheda-arcam-av41.html",
+   "img": "https://www.extrasound.it/wp-content/uploads/arcam-av41-1-1000.jpg",
+   "alt": "Arcam AV41 processore AV, vista frontale",
+   "voci": [
+    "Processore AV a 16 canali con uscite XLR."
+   ]
+  },
+  {
+   "titolo": "Controllo",
+   "icona": "domotica",
+   "voci": [
+    "Ethernet e RS232."
+   ]
+  }
+ ],
+ "gui": {
+  "src": "https://www.extrasound.it/wp-content/uploads/arcam-pa720-1-1000.jpg",
+  "alt": "Arcam PA720 finale di potenza 7 canali, vista frontale",
+  "caption": "Non ha un'interfaccia a schermo: si accende e si controlla da Ethernet e RS232 o dal processore."
+ },
+ "sistemi": [
+  {
+   "titolo": "7.1",
+   "voci": [
+    "Frontali, centrale, surround e surround back; subwoofer dal processore."
+   ],
+   "zone": [
+    {
+     "label": "Frontali L · R · 100 W",
+     "tipo": "2"
+    },
+    {
+     "label": "Centrale · 100 W",
+     "tipo": "1"
+    },
+    {
+     "label": "Surround · 100 W",
+     "tipo": "2"
+    },
+    {
+     "label": "Surround back · 100 W",
+     "tipo": "2"
+    },
+    {
+     "label": "Subwoofer attivo · dal processore",
+     "tipo": "sub"
+    }
+   ],
+   "apparecchio": "Arcam PA720"
+  },
+  {
+   "titolo": "5.1.2",
+   "voci": [
+    "Due canali alle altezze Atmos al posto dei surround back."
+   ],
+   "zone": [
+    {
+     "label": "Frontali L · R",
+     "tipo": "2"
+    },
+    {
+     "label": "Centrale",
+     "tipo": "1"
+    },
+    {
+     "label": "Surround",
+     "tipo": "2"
+    },
+    {
+     "label": "Altezze Atmos",
+     "tipo": "2"
+    },
+    {
+     "label": "Subwoofer attivo",
+     "tipo": "sub"
+    }
+   ],
+   "apparecchio": "Arcam PA720"
+  }
+ ],
+ "nota": "Dati dalla scheda Extrasound, confrontata con la pagina Arcam (7 × 100 W su 8 Ω, classe G, ingressi RCA o XLR).",
+ "extrasound": "https://www.extrasound.it/arcam-pa720-finale-di-potenza-7-canali-classe-g-7x100w",
+ "fonti": [
+  {
+   "label": "pagina Arcam PA720",
+   "url": "https://www.arcam.co.uk/product,hda,power-amplifiers,pa720.htm"
+  }
+ ],
+ "retro": {
+  "src": "https://www.extrasound.it/wp-content/uploads/arcam-pa720-2-1000.jpg",
+  "alt": "Arcam PA720, pannello posteriore",
+  "titolo": "Pannello posteriore",
+  "caption": "Ingressi, uscite e collegamenti di controllo."
+ },
+ "slug": "arcam-pa720"
+}

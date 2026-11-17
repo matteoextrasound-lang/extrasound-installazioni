@@ -1,0 +1,137 @@
+{
+ "id": 27653,
+ "tipo": "amplificatore",
+ "cat": "H",
+ "brand": "Rotel",
+ "model": "RMB-1506",
+ "crop": true,
+ "tab": "Home<br>cinema",
+ "lista": "home-cinema.html",
+ "lista_label": "Home cinema",
+ "tipo_label": "Finale multicanale",
+ "meta": "Rotel RMB-1506: 6 canali · classe ab, finale multicanale. Ingressi, uscite, configurazioni e collegamenti per l'installatore.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/RMB-1506-frontale.jpg",
+  "alt": "Rotel RMB-1506, vista frontale"
+ },
+ "chiave": [
+  "6 canali · classe AB",
+  "50 W / 8 Ω · 80 W / 4 Ω",
+  "Trigger 12 V"
+ ],
+ "righe": [
+  "6 canali · classe AB",
+  "Finale multicanale",
+  "Rotel"
+ ],
+ "intro": [
+  "Il <strong>Rotel RMB-1506</strong> è un finale multicanale in classe AB a 6 canali: 50 W per canale su 8 Ω e 80 W su 4 Ω con tutti i canali in funzione.",
+  "Per home cinema e impianti multizona; carico minimo 4 Ω."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "6 canali in classe AB; THD e intermodulazione < 0,03%.",
+    "Potenza continua: 50 W su 8 Ω, 80 W su 4 Ω (tutti i canali).",
+    "Impedenza minima 4 Ω.",
+    "fattore di smorzamento > 200; S/N 115 dB; trigger 12 V, rilevamento del segnale, uscita link; consumo 450 W; 431 × 144 × 424 mm (3U), 15,3 kg."
+   ]
+  },
+  {
+   "titolo": "Ingressi",
+   "voci": [
+    "Ingressi RCA.",
+    "Trigger 12 V."
+   ]
+  },
+  {
+   "titolo": "Uscite",
+   "voci": [
+    "6 uscite diffusori."
+   ]
+  }
+ ],
+ "collega": [
+  {
+   "titolo": "JBL Studio 66LCR",
+   "link": "scheda-jbl-studio-66lcr.html",
+   "img": "https://www.extrasound.it/wp-content/uploads/jbl-studio-66lcr-tre-quarti-senza-griglia-1000.jpg",
+   "alt": "JBL Studio 66LCR, vista di tre quarti senza griglia",
+   "voci": [
+    "LCR da incasso, 6 Ω."
+   ]
+  },
+  {
+   "titolo": "Con il Rotel RSP-1576 MKII",
+   "link": "scheda-rotel-rsp-1576-mkii.html",
+   "img": "https://www.extrasound.it/wp-content/uploads/RSP-1576.jpg",
+   "alt": "Rotel RSP-1576 MKII, vista frontale",
+   "voci": [
+    "Processore A/V 7.1.4 con Dirac Live."
+   ]
+  },
+  {
+   "titolo": "Controllo",
+   "icona": "domotica",
+   "voci": [
+    "Trigger 12 V dal processore."
+   ]
+  }
+ ],
+ "gui": {
+  "src": "https://www.extrasound.it/wp-content/uploads/RMB-1506-frontale.jpg",
+  "alt": "Rotel RMB-1506, vista frontale",
+  "caption": "Non ha un'interfaccia a schermo: si accende con trigger 12 V o col segnale."
+ },
+ "sistemi": [
+  {
+   "titolo": "6 canali · home cinema",
+   "voci": [
+    "Uscite pre del processore sugli ingressi RCA."
+   ],
+   "zone": [
+    {
+     "label": "Surround e back",
+     "tipo": "2"
+    },
+    {
+     "label": "Altezze Atmos",
+     "tipo": "4"
+    }
+   ],
+   "apparecchio": "Rotel RMB-1506"
+  },
+  {
+   "titolo": "3 zone stereo",
+   "voci": [
+    "Assegnazione alternativa dei canali."
+   ],
+   "zone": [
+    {
+     "label": "Zona 1 · 2 × 50 W",
+     "tipo": "2"
+    },
+    {
+     "label": "Zona 2 · 2 × 50 W",
+     "tipo": "2"
+    },
+    {
+     "label": "Zona 3 · 2 × 50 W",
+     "tipo": "2"
+    }
+   ],
+   "apparecchio": "Rotel RMB-1506"
+  }
+ ],
+ "nota": "Dati dalla scheda Extrasound.",
+ "extrasound": "https://www.extrasound.it/rotel-rmb-1506-finale-multicanale-6x50w-in-classe-ab",
+ "fonti": [],
+ "retro": {
+  "src": "https://www.extrasound.it/wp-content/uploads/RMB-1506-retro.jpg",
+  "alt": "Rotel RMB-1506, pannello posteriore",
+  "titolo": "Pannello posteriore",
+  "caption": "Ingressi, uscite e collegamenti di controllo."
+ },
+ "slug": "rotel-rmb-1506"
+}

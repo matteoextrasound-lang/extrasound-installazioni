@@ -1,0 +1,129 @@
+{
+ "id": 27645,
+ "tipo": "amplificatore",
+ "cat": "H",
+ "brand": "Rotel",
+ "model": "RMB-1504",
+ "crop": true,
+ "tab": "Home<br>cinema",
+ "lista": "home-cinema.html",
+ "lista_label": "Home cinema",
+ "tipo_label": "Finale multicanale",
+ "meta": "Rotel RMB-1504: 4 canali · classe ab, finale multicanale. Ingressi, uscite, configurazioni e collegamenti per l'installatore.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/rmb1504.jpg",
+  "alt": "Rotel RMB-1504, vista frontale"
+ },
+ "chiave": [
+  "4 canali · classe AB",
+  "70 W / 8 Ω · 115 W / 4 Ω",
+  "Trigger 12 V"
+ ],
+ "righe": [
+  "4 canali · classe AB",
+  "Finale multicanale",
+  "Rotel"
+ ],
+ "intro": [
+  "Il <strong>Rotel RMB-1504</strong> è un finale multicanale in classe AB a 4 canali: 70 W per canale su 8 Ω e 115 W su 4 Ω con tutti i canali in funzione.",
+  "Per home cinema e impianti multizona; carico minimo 4 Ω."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "4 canali in classe AB; THD e intermodulazione < 0,03%.",
+    "Potenza continua: 70 W su 8 Ω, 115 W su 4 Ω (tutti i canali).",
+    "Impedenza minima 4 Ω.",
+    "fattore di smorzamento > 200; S/N 115 dB; guadagno 26 dB; accensione con segnale da 4 mV; consumo 450 W; 431 × 144 × 443 mm (3U), 14,9 kg."
+   ]
+  },
+  {
+   "titolo": "Ingressi",
+   "voci": [
+    "Ingressi RCA.",
+    "Trigger 12 V."
+   ]
+  },
+  {
+   "titolo": "Uscite",
+   "voci": [
+    "4 uscite diffusori."
+   ]
+  }
+ ],
+ "collega": [
+  {
+   "titolo": "JBL Studio 66LCR",
+   "link": "scheda-jbl-studio-66lcr.html",
+   "img": "https://www.extrasound.it/wp-content/uploads/jbl-studio-66lcr-tre-quarti-senza-griglia-1000.jpg",
+   "alt": "JBL Studio 66LCR, vista di tre quarti senza griglia",
+   "voci": [
+    "LCR da incasso, 6 Ω."
+   ]
+  },
+  {
+   "titolo": "Con il Rotel RSP-1576 MKII",
+   "link": "scheda-rotel-rsp-1576-mkii.html",
+   "img": "https://www.extrasound.it/wp-content/uploads/RSP-1576.jpg",
+   "alt": "Rotel RSP-1576 MKII, vista frontale",
+   "voci": [
+    "Processore A/V 7.1.4 con Dirac Live."
+   ]
+  },
+  {
+   "titolo": "Controllo",
+   "icona": "domotica",
+   "voci": [
+    "Trigger 12 V dal processore."
+   ]
+  }
+ ],
+ "gui": {
+  "src": "https://www.extrasound.it/wp-content/uploads/rmb1504.jpg",
+  "alt": "Rotel RMB-1504, vista frontale",
+  "caption": "Non ha un'interfaccia a schermo: si accende con trigger 12 V o col segnale."
+ },
+ "sistemi": [
+  {
+   "titolo": "4 canali · home cinema",
+   "voci": [
+    "Uscite pre del processore sugli ingressi RCA."
+   ],
+   "zone": [
+    {
+     "label": "Altezze Atmos",
+     "tipo": "4"
+    }
+   ],
+   "apparecchio": "Rotel RMB-1504"
+  },
+  {
+   "titolo": "2 zone stereo",
+   "voci": [
+    "Assegnazione alternativa dei canali."
+   ],
+   "zone": [
+    {
+     "label": "Zona 1 · 2 × 70 W",
+     "tipo": "2"
+    },
+    {
+     "label": "Zona 2 · 2 × 70 W",
+     "tipo": "2"
+    }
+   ],
+   "apparecchio": "Rotel RMB-1504"
+  }
+ ],
+ "nota": "Dati dalla scheda Extrasound.",
+ "extrasound": "https://www.extrasound.it/finale-di-potenza-multicanale-70w-x-4-rotel-rmb-1504",
+ "fonti": [],
+ "retro": {
+  "src": "https://www.extrasound.it/wp-content/uploads/rmb1504-retro.jpg",
+  "alt": "Rotel RMB-1504, pannello posteriore",
+  "titolo": "Pannello posteriore",
+  "caption": "Ingressi, uscite e collegamenti di controllo."
+ },
+ "slug": "rotel-rmb-1504"
+}

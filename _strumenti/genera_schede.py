@@ -21,7 +21,7 @@ V = "13"  # versione di css/js
 
 SOTTO = {  # sottocategorie: codice -> etichetta
     "M": "Amplificatori multicanale", "P": "Da incasso a parete", "S": "Da incasso a soffitto",
-    "L": "LCR per home cinema", "2": "Stereo 2+2 vie", "W": "Subwoofer da incasso", "A": "Amplificati", "E": "Da esterno",
+    "L": "LCR per home cinema", "2": "Stereo 2+2 vie", "W": "Subwoofer da incasso", "A": "Amplificati", "E": "Da esterno", "H": "Home cinema",
 }
 
 esc = lambda s: html.escape(str(s), quote=True)

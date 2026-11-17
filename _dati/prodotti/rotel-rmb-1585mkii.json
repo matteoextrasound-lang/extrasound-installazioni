@@ -1,0 +1,146 @@
+{
+ "id": 63186,
+ "tipo": "amplificatore",
+ "cat": "H",
+ "brand": "Rotel",
+ "model": "RMB-1585MKII",
+ "crop": true,
+ "tab": "Home<br>cinema",
+ "lista": "home-cinema.html",
+ "lista_label": "Home cinema",
+ "tipo_label": "Finale multicanale",
+ "meta": "Rotel RMB-1585MKII: 5 canali · classe ab, finale multicanale. Ingressi, uscite, configurazioni e collegamenti per l'installatore.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/rotel-rmb-1585mkii-nero-e-silver-1000.jpg",
+  "alt": "Rotel RMB-1585MKII nero e silver, vista frontale"
+ },
+ "chiave": [
+  "5 canali · classe AB",
+  "210 W / 8 Ω · 340 W / 4 Ω",
+  "Rack 5U · XLR"
+ ],
+ "righe": [
+  "5 canali · classe AB",
+  "Finale multicanale",
+  "Rotel"
+ ],
+ "intro": [
+  "Il <strong>Rotel RMB-1585MKII</strong> è un finale multicanale in classe AB a 5 canali: 210 W su 8 Ω e 340 W su 4 Ω per canale con tutti i canali in funzione.",
+  "Due trasformatori toroidali, ingressi XLR e RCA, rack 5U per installazione."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "5 canali in classe AB, 2 trasformatori toroidali.",
+    "Potenza: 210 W su 8 Ω, 340 W su 4 Ω (tutti i canali); 2 × 440 W su 4 Ω.",
+    "Selettore 5 canali / Bi-Amp; fattore di smorzamento 223; S/N 120 dB; consumo 1.200 W.",
+    "431 × 237 × 456 mm (5U), circa 37,5 kg.",
+    "Lascia almeno 10 cm attorno al telaio; 4 ventole termostatiche; protezioni termica e da sovracorrente."
+   ]
+  },
+  {
+   "titolo": "Ingressi",
+   "voci": [
+    "Ingressi XLR e RCA a commutazione automatica.",
+    "Trigger 12 V in (3 – 30 V AC/DC) con uscita pass-through."
+   ]
+  },
+  {
+   "titolo": "Uscite",
+   "voci": [
+    "5 uscite diffusori: cavo nudo, forcelle o banane doppie."
+   ]
+  }
+ ],
+ "collega": [
+  {
+   "titolo": "KEF Ci3160RLM-THX",
+   "link": "scheda-kef-ci3160rlm-thx.html",
+   "img": "https://www.extrasound.it/wp-content/uploads/KEF-Ci3160RLM-THX.jpg",
+   "alt": "KEF Ci3160RLM-THX diffusore da incasso 3 vie THX Ultra MAT",
+   "voci": [
+    "LCR da incasso THX, 4 Ω."
+   ]
+  },
+  {
+   "titolo": "Con il Rotel RSP-1576 MKII",
+   "link": "scheda-rotel-rsp-1576-mkii.html",
+   "img": "https://www.extrasound.it/wp-content/uploads/RSP-1576.jpg",
+   "alt": "Rotel RSP-1576 MKII, vista frontale",
+   "voci": [
+    "Processore A/V 7.1.4 con Dirac Live."
+   ]
+  },
+  {
+   "titolo": "Controllo",
+   "icona": "domotica",
+   "voci": [
+    "Trigger 12 V."
+   ]
+  }
+ ],
+ "gui": {
+  "src": "https://www.extrasound.it/wp-content/uploads/rotel-rmb-1585mkii-nero-e-silver-1000.jpg",
+  "alt": "Rotel RMB-1585MKII nero e silver, vista frontale",
+  "caption": "Non ha un'interfaccia a schermo: si accende con il trigger 12 V del processore."
+ },
+ "sistemi": [
+  {
+   "titolo": "5.1",
+   "voci": [
+    "Uscite pre del processore sugli ingressi XLR o RCA."
+   ],
+   "zone": [
+    {
+     "label": "Frontali L · R",
+     "tipo": "2"
+    },
+    {
+     "label": "Centrale",
+     "tipo": "1"
+    },
+    {
+     "label": "Surround",
+     "tipo": "2"
+    },
+    {
+     "label": "Subwoofer attivo · dal processore",
+     "tipo": "sub"
+    }
+   ],
+   "apparecchio": "Rotel RMB-1585MKII"
+  },
+  {
+   "titolo": "Bi-amp frontali",
+   "voci": [
+    "Selettore su Bi-Amp: quattro canali per i frontali (alti e bassi separati)."
+   ],
+   "zone": [
+    {
+     "label": "Frontale L · bassi + alti",
+     "tipo": "2"
+    },
+    {
+     "label": "Frontale R · bassi + alti",
+     "tipo": "2"
+    },
+    {
+     "label": "Centrale",
+     "tipo": "1"
+    }
+   ],
+   "apparecchio": "Rotel RMB-1585MKII"
+  }
+ ],
+ "nota": "Dati dalla scheda Extrasound.",
+ "extrasound": "https://www.extrasound.it/rotel-rmb-1585mkii-finale-multicanale-5-canali",
+ "fonti": [],
+ "retro": {
+  "src": "https://www.extrasound.it/wp-content/uploads/rotel-rmb-1585mkii-retro-1000.jpg",
+  "alt": "Rotel RMB-1585MKII, pannello posteriore",
+  "titolo": "Pannello posteriore",
+  "caption": "Ingressi, uscite e collegamenti di controllo."
+ },
+ "slug": "rotel-rmb-1585mkii"
+}

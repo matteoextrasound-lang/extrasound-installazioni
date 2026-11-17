@@ -1,0 +1,141 @@
+{
+ "id": 39671,
+ "tipo": "amplificatore",
+ "cat": "H",
+ "brand": "Marantz",
+ "model": "AMP 20",
+ "crop": true,
+ "tab": "Home<br>cinema",
+ "lista": "home-cinema.html",
+ "lista_label": "Home cinema",
+ "tipo_label": "Finale multicanale",
+ "meta": "Marantz AMP 20: 12 canali · classe d, finale multicanale. Ingressi, uscite, configurazioni e collegamenti per l'installatore.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/Marantz-AMP20.jpg",
+  "alt": "Marantz AMP 20, vista di tre quarti"
+ },
+ "chiave": [
+  "12 canali · classe D",
+  "200 W / 8 Ω · 400 W / 4 Ω",
+  "BTL 400 W / 8 Ω"
+ ],
+ "righe": [
+  "12 canali · classe D",
+  "Finale multicanale",
+  "Marantz"
+ ],
+ "intro": [
+  "Il <strong>Marantz AMP 20</strong> è un finale di potenza a 12 canali in classe D: 200 W su 8 Ω, 400 W su 4 Ω, 400 W su 8 Ω con due canali in BTL.",
+  "Bi-amp, ingressi XLR o RCA, RS232, Remote Bus e trigger."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "12 canali in classe D Marantz, moduli HDAM-SA2.",
+    "Potenza: 200 W su 8 Ω (1 kHz, 0,05%, 2 canali), 400 W su 4 Ω.",
+    "BTL: due canali in uno da 400 W su 8 Ω; bi-amp.",
+    "12 XLR e 12 RCA (selettore); 12 coppie di morsetti SPKT-1+; consumo 400 W (110 W senza segnale), 0,2 W in standby; circa 442 × 442 × 191 mm, 18 kg."
+   ]
+  },
+  {
+   "titolo": "Ingressi",
+   "voci": [
+    "12 ingressi XLR e 12 RCA, selezionabili.",
+    "RS232, Remote Bus, trigger in / out, IR."
+   ]
+  },
+  {
+   "titolo": "Uscite",
+   "voci": [
+    "12 coppie di morsetti SPKT-1+."
+   ]
+  }
+ ],
+ "collega": [
+  {
+   "titolo": "KEF Ci3160RLM-THX",
+   "link": "scheda-kef-ci3160rlm-thx.html",
+   "img": "https://www.extrasound.it/wp-content/uploads/KEF-Ci3160RLM-THX.jpg",
+   "alt": "KEF Ci3160RLM-THX diffusore da incasso 3 vie THX Ultra MAT",
+   "voci": [
+    "LCR da incasso THX, 4 Ω."
+   ]
+  },
+  {
+   "titolo": "Con il Marantz AV 20",
+   "link": "scheda-marantz-av-20.html",
+   "img": "https://www.extrasound.it/wp-content/uploads/Marantz-AV20.jpg",
+   "alt": "Marantz AV 20, vista di tre quarti",
+   "voci": [
+    "Processore AV di riferimento Marantz."
+   ]
+  },
+  {
+   "titolo": "Controllo",
+   "icona": "domotica",
+   "voci": [
+    "RS232, Remote Bus, trigger."
+   ]
+  }
+ ],
+ "gui": {
+  "src": "https://www.extrasound.it/wp-content/uploads/Marantz-AMP20-frontale.jpg",
+  "alt": "Marantz AMP 20, vista frontale",
+  "caption": "Non ha un'interfaccia a schermo: si accende e si controlla dal processore, via Remote Bus, trigger o RS232."
+ },
+ "sistemi": [
+  {
+   "titolo": "7.1.4 · 11 canali",
+   "voci": [
+    "Uscite pre del processore sugli ingressi XLR."
+   ],
+   "zone": [
+    {
+     "label": "Frontali L · C · R",
+     "tipo": "3"
+    },
+    {
+     "label": "Surround e back",
+     "tipo": "4"
+    },
+    {
+     "label": "Altezze Atmos",
+     "tipo": "4"
+    },
+    {
+     "label": "Subwoofer attivi · dal processore",
+     "tipo": "sub"
+    }
+   ],
+   "apparecchio": "Marantz AMP 20"
+  },
+  {
+   "titolo": "BTL · frontali da 400 W",
+   "voci": [
+    "Due canali in BTL per ogni diffusore più impegnativo."
+   ],
+   "zone": [
+    {
+     "label": "Frontali L · R · BTL 400 W / 8 Ω",
+     "tipo": "2"
+    },
+    {
+     "label": "Altri canali · 200 W / 8 Ω",
+     "tipo": "4"
+    }
+   ],
+   "apparecchio": "Marantz AMP 20"
+  }
+ ],
+ "nota": "Dati dalla scheda Extrasound.",
+ "extrasound": "https://www.extrasound.it/marantz-amp-20-finale-multicanale-12x200-w-con-ingressi-bilanciati-e-modalita-btl-bi-amp",
+ "fonti": [],
+ "retro": {
+  "src": "https://www.extrasound.it/wp-content/uploads/Marantz-AMP20-posteriore.jpg",
+  "alt": "Marantz AMP 20, pannello posteriore",
+  "titolo": "Pannello posteriore",
+  "caption": "Ingressi, uscite e collegamenti di controllo."
+ },
+ "slug": "marantz-amp-20"
+}

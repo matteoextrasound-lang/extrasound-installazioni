@@ -1,0 +1,154 @@
+{
+ "id": 46074,
+ "tipo": "amplificatore",
+ "cat": "H",
+ "brand": "Lyngdorf",
+ "model": "MXA-8400",
+ "crop": true,
+ "tab": "Home<br>cinema",
+ "lista": "home-cinema.html",
+ "lista_label": "Home cinema",
+ "tipo_label": "Finale multicanale",
+ "meta": "Lyngdorf MXA-8400: 8 canali · purifi eigentakt, finale multicanale. Ingressi, uscite, configurazioni e collegamenti per l'installatore.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/Lyngdorf-MXA-8400.jpg",
+  "alt": "Lyngdorf MXA-8400, vista di tre quarti"
+ },
+ "chiave": [
+  "8 canali · Purifi",
+  "8 × 200 W / 8 Ω · 400 W / 4 Ω",
+  "Bridge 4 × 800 W"
+ ],
+ "righe": [
+  "8 canali · Purifi Eigentakt",
+  "Finale multicanale",
+  "Lyngdorf"
+ ],
+ "intro": [
+  "Il <strong>Lyngdorf MXA-8400</strong> è un finale a 8 canali con moduli Purifi Eigentakt: 8 × 200 W su 8 Ω, 8 × 400 W su 4 Ω, 4 × 800 W su 8 Ω in bridge.",
+  "Ingressi XLR, uscite Neutrik speakON."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "8 × 400 W su 4 Ω, 8 × 200 W su 8 Ω; bridge 4 × 800 W su 8 Ω.",
+    "Corrente massima 25 A per canale; THD 0,001%; S/N 128 dB; fattore di smorzamento > 1.200.",
+    "Sensibilità HIGH (2 V) o LOW (6 V).",
+    "Consumo 29 W a riposo, < 0,5 W in standby; standby automatico dopo 15 minuti.",
+    "450 × 145 × 349 mm, 10,3 kg."
+   ]
+  },
+  {
+   "titolo": "Ingressi",
+   "voci": [
+    "8 XLR analogici, 10 kΩ."
+   ]
+  },
+  {
+   "titolo": "Uscite",
+   "voci": [
+    "8 Neutrik speakON."
+   ]
+  }
+ ],
+ "collega": [
+  {
+   "titolo": "KEF Ci3160RLM-THX",
+   "link": "scheda-kef-ci3160rlm-thx.html",
+   "img": "https://www.extrasound.it/wp-content/uploads/KEF-Ci3160RLM-THX.jpg",
+   "alt": "KEF Ci3160RLM-THX diffusore da incasso 3 vie THX Ultra MAT",
+   "voci": [
+    "LCR da incasso THX, 4 Ω."
+   ]
+  },
+  {
+   "titolo": "Con il Lyngdorf MP-60 2.1",
+   "link": "scheda-lyngdorf-mp-60-2-1.html",
+   "img": "https://www.extrasound.it/wp-content/uploads/Lyngdorf-MP-60-2-1.jpg",
+   "alt": "Lyngdorf MP-60 2.1, vista frontale",
+   "voci": [
+    "Processore a 16 canali con RoomPerfect™."
+   ]
+  },
+  {
+   "titolo": "Controllo",
+   "icona": "domotica",
+   "voci": [
+    "Accensione e standby automatici."
+   ]
+  }
+ ],
+ "gui": {
+  "src": "https://www.extrasound.it/wp-content/uploads/Lyngdorf-MXA-8400-frontale.jpg",
+  "alt": "Lyngdorf MXA-8400, vista frontale",
+  "caption": "Non ha un'interfaccia a schermo: sensibilità e modalità si impostano sull'apparecchio; si comanda dal processore Lyngdorf."
+ },
+ "sistemi": [
+  {
+   "titolo": "7.1 · 8 canali",
+   "voci": [
+    "Frontali, centrale, surround, surround back e un canale libero."
+   ],
+   "zone": [
+    {
+     "label": "Frontali L · R · 200 W",
+     "tipo": "2"
+    },
+    {
+     "label": "Centrale · 200 W",
+     "tipo": "1"
+    },
+    {
+     "label": "Surround",
+     "tipo": "2"
+    },
+    {
+     "label": "Surround back",
+     "tipo": "2"
+    },
+    {
+     "label": "Canale 8 · altezza o sub passivo",
+     "tipo": "1"
+    }
+   ],
+   "apparecchio": "Lyngdorf MXA-8400"
+  },
+  {
+   "titolo": "Bridge · 4 × 800 W",
+   "voci": [
+    "Coppie di canali in bridge per LCR e subwoofer passivi."
+   ],
+   "zone": [
+    {
+     "label": "Frontali L · R · 800 W bridge",
+     "tipo": "2"
+    },
+    {
+     "label": "Centrale · 800 W bridge",
+     "tipo": "1"
+    },
+    {
+     "label": "Subwoofer passivo · 800 W bridge",
+     "tipo": "sub"
+    }
+   ],
+   "apparecchio": "Lyngdorf MXA-8400"
+  }
+ ],
+ "nota": "Dati dalla scheda Extrasound, confrontata con la pagina Lyngdorf.",
+ "extrasound": "https://www.extrasound.it/lyngdorf-mxa-8400-finale-multicanale-8-x-400-w-purifi-eigentakt",
+ "fonti": [
+  {
+   "label": "pagina Lyngdorf MXA-8400",
+   "url": "https://www.lyngdorf.com/lyngdorf-mxa-8400"
+  }
+ ],
+ "retro": {
+  "src": "https://www.extrasound.it/wp-content/uploads/Lyngdorf-MXA-8400-posteriore.jpg",
+  "alt": "Lyngdorf MXA-8400, pannello posteriore",
+  "titolo": "Pannello posteriore",
+  "caption": "Ingressi, uscite e collegamenti di controllo."
+ },
+ "slug": "lyngdorf-mxa-8400"
+}
