@@ -69,3 +69,9 @@ Questa cartella non viene pubblicata (GitHub Pages ignora le cartelle che inizia
 - Dati dalle fonti ufficiali del produttore (elencate in fondo a ogni scheda); dove mancano si usa la scheda Extrasound e la scheda lo dice. Le differenze con Extrasound sono scritte nella nota della scheda («Fa fede il dato …»).
 - Garvan non pubblica online le schede dei singoli modelli: dati dalla scheda Extrasound.
 - Slug uguali: impostare `slug` a mano (es. Rotel C8+ → `rotel-c8-plus`).
+
+## Struttura unica delle schede (17/11/2026)
+- Modelli: `scheda-elac-is-amp8100.html` (amplificatori) e `scheda-elac-vertex-ii-iw-v62.html` (diffusori).
+- `_strumenti/uniforma.py` porta ogni scheda alla stessa struttura in fase di generazione: colonne fisse, misure, sezione cavi (calcolata se il produttore non la dà), amplificatore/diffusore consigliato con foto e link, «Dove montarlo», «Montaggio in 6 passi», due configurazioni con grafiche, interfaccia e pannello posteriore per gli amplificatori.
+- Nuove categorie: `esterno.html` (cat E, `marchi_esterno.py`, Garvan KR16M in `marchi_garvan.py`) e `home-cinema.html` (cat H, `marchi_homecinema.py`).
+- Esclusi: Biamp MASK2 (ex-demo), German Maestro (marini per barche).
