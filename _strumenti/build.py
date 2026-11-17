@@ -9,8 +9,11 @@ import pathlib, re
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 SCHEDE = sorted(p.name for p in ROOT.glob("scheda-*.html"))   # schede prodotto generate da genera_schede.py
-PAGES = ["index.html", "amplificatori.html", "diffusori.html", "esterno.html", "home-cinema.html", "impianti.html", "contatti.html"] + SCHEDE
-PRODOTTI = ["amplificatori.html", "diffusori.html", "esterno.html", "home-cinema.html"] + SCHEDE
+PAGES = ["index.html", "elettroniche.html", "diffusori.html", "impianti.html", "contatti.html"] + SCHEDE
+PRODOTTI = ["elettroniche.html", "diffusori.html"] + SCHEDE
+# amplificatori.html, esterno.html e home-cinema.html sono solo rimandi alle nuove pagine (vecchi link)
+LOGO = ('<img src="https://www.extrasound.it/wp-content/uploads/logo-rosso-bianco-extrasound.png" alt="Extrasound" width="500" height="76">'
+        '<span class="logo-b2b">B2B</span>')
 
 GRUNGE = '''<svg width="0" height="0" style="position:absolute" aria-hidden="true">
   <filter id="grunge" x="0" y="0" width="100%" height="100%">
@@ -28,18 +31,16 @@ def header(page):
     return f'''{GRUNGE}
 <canvas class="bg-waves" aria-hidden="true"></canvas>
 <header class="site-header">
-  <a class="logo" href="index.html" aria-label="Extrasound Custom, home">
-    <span class="logo-red">EXTRASOUND</span><span class="logo-white">CUSTOM</span>
-  </a>
+  <a class="logo" href="index.html" aria-label="Extrasound B2B, home">{LOGO}</a>
   <button class="menu-toggle" aria-expanded="false" aria-controls="menu" aria-label="Apri il menu"><span></span><span></span></button>
   <nav id="menu" class="main-menu" aria-label="Menu principale">
     <div class="has-sub{' is-current' if in_prod else ''}">
       <button class="sub-toggle" aria-expanded="false" aria-controls="sub-prodotti">Prodotti<svg viewBox="0 0 12 8" aria-hidden="true"><path d="M1 1.5l5 5 5-5" fill="none" stroke="currentColor" stroke-width="1.6"/></svg></button>
       <div class="submenu" id="sub-prodotti">
-        <a href="amplificatori.html"{cur(page, "amplificatori.html")}>Amplificatori</a>
+        <a href="elettroniche.html"{cur(page, "elettroniche.html")}>Elettroniche</a>
         <a href="diffusori.html"{cur(page, "diffusori.html")}>Diffusori</a>
-        <a href="esterno.html"{cur(page, "esterno.html")}>Da esterno</a>
-        <a href="home-cinema.html"{cur(page, "home-cinema.html")}>Home cinema</a>
+        <a class="sub-2" href="diffusori.html#linea=Z">A impedenza</a>
+        <a class="sub-2" href="diffusori.html#linea=V">A tensione costante 70/100 V</a>
       </div>
     </div>
     <a href="impianti.html" class="menu-link"{cur(page, "impianti.html")}>Impianti tipo</a>
@@ -50,7 +51,7 @@ def header(page):
 FOOTER = '''<footer class="site-footer">
   <div class="footer-inner">
     <div class="footer-col footer-brand">
-      <a class="logo logo-sm" href="index.html" aria-label="Extrasound Custom, home"><span class="logo-red">EXTRASOUND</span><span class="logo-white">CUSTOM</span></a>
+      <a class="logo logo-sm" href="index.html" aria-label="Extrasound B2B, home">''' + LOGO + '''</a>
       <p>Progetto, fornitura e installazione di impianti hi-fi, multiroom e home cinema su misura, a cura di Extrasound.</p>
       <a class="btn btn-sm" href="contatti.html">Richiedi un preventivo</a>
     </div>
@@ -61,7 +62,7 @@ FOOTER = '''<footer class="site-footer">
     </div>
     <div class="footer-col">
       <p class="footer-head">Prodotti</p>
-      <p><a href="amplificatori.html">Amplificatori</a><br><a href="diffusori.html">Diffusori</a><br><a href="esterno.html">Da esterno</a><br><a href="home-cinema.html">Home cinema</a><br><a href="impianti.html">Impianti tipo</a></p>
+      <p><a href="elettroniche.html">Elettroniche</a><br><a href="diffusori.html">Diffusori</a><br><a href="diffusori.html#linea=Z">· a impedenza</a><br><a href="diffusori.html#linea=V">· a tensione costante 70/100 V</a><br><a href="impianti.html">Impianti tipo</a></p>
       <p class="footer-head">Negozio</p>
       <p><a href="https://www.extrasound.it" target="_blank" rel="noopener">extrasound.it</a></p>
     </div>

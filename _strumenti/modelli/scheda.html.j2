@@ -19,7 +19,7 @@
 <main>
   <section class="page-hero page-hero-sm">
     <div class="wrap">
-      <p class="kicker"><span class="eq" aria-hidden="true"><i></i><i></i><i></i><i></i></span><a class="crumb" href="{{ p.lista }}">{{ p.lista_label }}</a></p>
+      <p class="kicker"><span class="eq" aria-hidden="true"><i></i><i></i><i></i><i></i></span><a class="crumb" href="{{ p.lista }}">{{ p.lista_label }}</a>{% for c in p.crumb2 %}<span class="crumb-sep" aria-hidden="true">/</span><a class="crumb" href="{{ c[1] }}">{{ c[0] }}</a>{% endfor %}</p>
       <h1>{{ p.brand }} <em>{{ p.model }}</em></h1>
     </div>
   </section>

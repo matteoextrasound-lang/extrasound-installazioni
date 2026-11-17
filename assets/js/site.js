@@ -56,21 +56,34 @@
   /* Filtri degli elenchi prodotti */
   document.querySelectorAll('.filters').forEach(function(box){
     var grid = document.querySelector(box.dataset.target), count = box.querySelector('.count span');
-    var state = {cat:'*', brand:'*'};
+    var state = {cat:'*', brand:'*', linea:'*'};
     function apply(){
       var n = 0;
       grid.querySelectorAll('.pcard').forEach(function(c){
-        var ok = (state.cat === '*' || c.dataset.cat.indexOf(state.cat) > -1) && (state.brand === '*' || c.dataset.brand === state.brand);
+        var ok = (state.cat === '*' || c.dataset.cat.indexOf(state.cat) > -1) &&
+                 (state.brand === '*' || c.dataset.brand === state.brand) &&
+                 (state.linea === '*' || (c.dataset.linea || '').indexOf(state.linea) > -1);
         c.hidden = !ok; if (ok){ n++; c.classList.add('in'); }
       });
       count.textContent = n;
     }
+    function pick(f, v){
+      var b = box.querySelector('.chip[data-f="'+f+'"][data-v="'+v+'"]'); if (!b) return;
+      state[f] = v;
+      box.querySelectorAll('.chip[data-f="'+f+'"]').forEach(function(x){ x.classList.toggle('is-on', x === b); });
+    }
     box.addEventListener('click', function(e){
       var b = e.target.closest('.chip'); if (!b) return;
-      state[b.dataset.f] = b.dataset.v;
-      box.querySelectorAll('.chip[data-f="'+b.dataset.f+'"]').forEach(function(x){ x.classList.toggle('is-on', x === b); });
-      apply();
+      pick(b.dataset.f, b.dataset.v); apply();
     });
+    /* preselezione da indirizzo: pagina.html#linea=V oppure #cat=E */
+    function fromHash(){
+      var h = decodeURIComponent(location.hash.slice(1)); if (h.indexOf('=') < 0) return;
+      Object.keys(state).forEach(function(k){ pick(k, '*'); });
+      h.split('&').forEach(function(kv){ var p = kv.split('='); if (p.length === 2 && p[0] in state) pick(p[0], p[1]); });
+      apply();
+    }
+    fromHash(); window.addEventListener('hashchange', fromHash);
   });
 
   /* Comparsa degli elementi .reveal (schede prodotto) */

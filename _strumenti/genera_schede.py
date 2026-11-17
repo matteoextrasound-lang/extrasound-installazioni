@@ -17,14 +17,39 @@ from jinja2 import Environment, FileSystemLoader
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 DATI = ROOT / "_dati" / "prodotti"
-V = "13"  # versione di css/js
+V = "14"  # versione di css/js
 
 SOTTO = {  # sottocategorie: codice -> etichetta
     "M": "Amplificatori multicanale", "P": "Da incasso a parete", "S": "Da incasso a soffitto",
-    "L": "LCR per home cinema", "2": "Stereo 2+2 vie", "W": "Subwoofer da incasso", "A": "Amplificati", "E": "Da esterno", "H": "Home cinema",
+    "L": "LCR per home cinema", "2": "Stereo 2+2 vie", "W": "Subwoofer da incasso", "A": "Amplificati", "E": "Da esterno", "H": "Home cinema, AV e finali",
 }
 
 esc = lambda s: html.escape(str(s), quote=True)
+
+# Collegamento dei diffusori: Z = a impedenza (bassa impedenza, 4-8 Ω), V = a tensione costante (linea 70/100 V),
+# ZV = entrambi (selettore sul diffusore o versione "-T" dello stesso modello).
+# Verificato sulle pagine dei produttori:
+#  - ArtSound MDT600-P: solo prese 100 V 3/6/9 W, nessun dato a 8 Ω (scheda ArtSound MDT600-P).
+#  - ArtSound MDT500-P: commutatore 100 V / 8 Ω, prese 3,75/7,5/15/30 W (scheda ArtSound MDT500-P).
+#  - ArtSound Kurv: 6 Ω e 100 V con prese 7,5/15/30 W, schemi "stereo" e "100 V" (manuale ArtSound Kurv).
+#  - Focal 100 ICW5/ICW6/ICW8 e 100 OD6/OD8: versioni 8 Ω e versioni "-T" con trasformatore 70/100 V
+#    (serie Focal 100-T: ICW5-T, ICW6-T, ICW8-T, OD6-T, OD8-T; focal.com).
+#  Tutti gli altri diffusori del catalogo sono a impedenza (Garvan: trasformatore solo come accessorio opzionale).
+LINEA = {"artsound-mdt600-p": "V", "artsound-mdt500-p": "ZV", "artsound-kurv": "ZV",
+         "focal-100-icw5": "ZV", "focal-100-icw6": "ZV", "focal-100-icw8": "ZV", "focal-100-od6": "ZV", "focal-100-od8": "ZV"}
+LINEA_LABEL = {"Z": "A impedenza", "V": "A tensione costante 70/100 V"}
+VECCHIE = {'href="amplificatori.html"': 'href="elettroniche.html#cat=M"', 'href="home-cinema.html"': 'href="elettroniche.html#cat=H"',
+           'href="esterno.html"': 'href="diffusori.html#cat=E"'}
+
+
+def linea(p):
+    return LINEA.get(p["slug"], "Z") if p["tipo"] == "diffusore" else ""
+
+
+def vecchi_link(s):
+    for a, b in VECCHIE.items():
+        s = s.replace(a, b)
+    return s
 
 
 # ---------- disegni SVG ----------
@@ -162,14 +187,26 @@ def icona(nome):
 def card(p):
     chiave = "".join(f"<li>{esc(k)}</li>" for k in p.get("chiave", [])[:3])
     sotto = " · ".join(SOTTO[c] for c in p["cat"] if c in SOTTO and c != "M") or SOTTO.get(p["cat"][0], "")
-    return (f'<a class="pcard reveal" href="scheda-{p["slug"]}.html" data-cat="{esc(p["cat"])}" data-brand="{esc(p["brand"])}">'
+    ln = linea(p)
+    if ln == "V":
+        sotto += " · linea 70/100 V"
+    elif ln == "ZV":
+        sotto += " · anche 70/100 V"
+    return (f'<a class="pcard reveal" href="scheda-{p["slug"]}.html" data-cat="{esc(p["cat"])}" data-brand="{esc(p["brand"])}" data-linea="{ln}">'
             f'<span class="pcard-img"><img src="{esc(p["img"]["src"])}" alt="{esc(p["img"]["alt"])}" width="1000" height="1000" loading="lazy"></span>'
             f'<span class="pcard-brand">{esc(p["brand"])}</span><span class="pcard-name">{esc(p["model"])}</span>'
             f'<span class="pcard-sub">{esc(sotto)}</span><ul class="pcard-keys">{chiave}</ul></a>')
 
 
-def lista(prodotti, filtri):
+def lista(prodotti, filtri, conlinea=False):
     marche = sorted({p["brand"] for p in prodotti})
+    lchips = ""
+    if conlinea:
+        lc = ['<button class="chip is-on" data-f="linea" data-v="*">Tutti i collegamenti</button>']
+        for k, lab in LINEA_LABEL.items():
+            n = sum(1 for p in prodotti if k in linea(p))
+            lc.append(f'<button class="chip chip-linea" data-f="linea" data-v="{k}">{lab} <small>{n}</small></button>')
+        lchips = '<div class="chips chips-linea">' + "".join(lc) + "</div>"
     chips = ['<button class="chip is-on" data-f="cat" data-v="*">Tutti</button>']
     for c in filtri:
         n = sum(1 for p in prodotti if c in p["cat"])
@@ -178,7 +215,7 @@ def lista(prodotti, filtri):
     bchips = ['<button class="chip is-on" data-f="brand" data-v="*">Tutti i marchi</button>'] + [
         f'<button class="chip" data-f="brand" data-v="{esc(b)}">{esc(b)}</button>' for b in marche]
     cards = "\n".join(card(p) for p in prodotti)
-    return (f'<div class="filters" data-target="#griglia">' + ("<div class=\"chips\">" + "".join(chips) + "</div>" if len(chips) > 2 else "")
+    return (f'<div class="filters" data-target="#griglia">' + lchips + ("<div class=\"chips\">" + "".join(chips) + "</div>" if len(chips) > 2 else "")
             + "<div class=\"chips chips-brand\">" + "".join(bchips) + f'</div><p class="count"><span>{len(prodotti)}</span> prodotti</p></div>'
             f'<div class="pgrid" id="griglia">\n{cards}\n</div>')
 
@@ -195,15 +232,18 @@ def main():
     for f in sorted(DATI.glob("*.json")):
         p = uniforma(json.loads(f.read_text(encoding="utf-8")), tutti)
         amp = p["tipo"] == "amplificatore"
-        p.setdefault("lista", "amplificatori.html" if amp else "diffusori.html")
-        p.setdefault("lista_label", "Amplificatori" if amp else "Diffusori")
+        p["lista"] = "elettroniche.html" if amp else "diffusori.html"
+        p["lista_label"] = "Elettroniche" if amp else "Diffusori"
+        ln = linea(p)
+        p["crumb2"] = ([(LINEA_LABEL[k], f"diffusori.html#linea={k}") for k in ln] if ln
+                       else [(SOTTO[p["cat"][0]], f'elettroniche.html#cat={p["cat"][0]}')] if p["cat"][0] in SOTTO else [])
         p.setdefault("tipo_label", "Amplificatore da installazione" if amp else "Diffusore da incasso")
         p.setdefault("lato_titolo", "Cosa si collega" if amp else "Misure di montaggio")
         for k in ("collega", "sistemi", "viste", "intro", "fonti"):
             p.setdefault(k, [])
         out = ROOT / f'scheda-{p["slug"]}.html'
         old = out.read_text(encoding="utf-8") if out.exists() else ""
-        new = tpl.render(p=p, v=V)
+        new = vecchi_link(tpl.render(p=p, v=V))
         # conserva header/footer già inseriti da build.py
         for name in ("HEADER", "FOOTER"):
             m = re.search(rf"<!-- {name} -->.*?<!-- /{name} -->", old, re.S)
@@ -212,17 +252,15 @@ def main():
         out.write_text(new, encoding="utf-8")
         prodotti.append(p)
     # elenchi
-    for nome, sel_f, filtri in (("amplificatori.html", lambda p: p["tipo"] == "amplificatore" and p["cat"][0] == "M", ["M"]),
-                                ("diffusori.html", lambda p: p["tipo"] == "diffusore" and p["cat"] != "E", ["P", "S", "L", "2", "W", "A"]),
-                                ("esterno.html", lambda p: p["cat"] == "E", []),
-                                ("home-cinema.html", lambda p: p["cat"][0] == "H", ["H"])):
+    for nome, sel_f, filtri in (("elettroniche.html", lambda p: p["tipo"] == "amplificatore", ["M", "H"]),
+                                ("diffusori.html", lambda p: p["tipo"] == "diffusore", ["P", "S", "L", "2", "W", "A", "E"])):
         f = ROOT / nome
         if not f.exists():
             continue
         s = f.read_text(encoding="utf-8")
         sel = [p for p in prodotti if sel_f(p)]
         sel.sort(key=lambda p: (p["brand"], p["model"]))
-        s = re.sub(r"<!-- LISTA -->.*?<!-- /LISTA -->", lambda _: "<!-- LISTA -->\n" + lista(sel, filtri) + "\n<!-- /LISTA -->", s, flags=re.S)
+        s = re.sub(r"<!-- LISTA -->.*?<!-- /LISTA -->", lambda _: "<!-- LISTA -->\n" + lista(sel, filtri, nome == "diffusori.html") + "\n<!-- /LISTA -->", s, flags=re.S)
         f.write_text(s, encoding="utf-8")
     print(f"{len(prodotti)} schede generate")
 

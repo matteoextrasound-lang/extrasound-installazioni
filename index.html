@@ -3,27 +3,33 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Extrasound Custom · Area installatori</title>
+<title>Extrasound B2B · Area installatori</title>
 <meta name="description" content="Extrasound Custom, area installatori: schede tecniche di amplificatori, diffusori da incasso, da esterno e home cinema, con impianti tipo.">
 <meta name="robots" content="noindex, nofollow">
 <meta name="theme-color" content="#0a0a0a">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Anton&family=Barlow+Condensed:wght@300;400;500;600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="assets/css/site.css?v=13">
+<link rel="stylesheet" href="assets/css/site.css?v=14">
 <style>
 .pro-hero{padding:clamp(110px,12vw,140px) 0 clamp(28px,4vw,40px)}
 .pro-hero + .band{padding-top:clamp(28px,4vw,44px)}
 .pro-hero h1{font-family:var(--display);font-weight:300;font-size:clamp(40px,5.4vw,72px);line-height:1;letter-spacing:-.01em;text-transform:uppercase}
 .pro-hero h1 em{font-style:normal;color:var(--red)}
 .pro-hero .lead{color:var(--muted);max-width:52ch;margin-top:18px}
-.tiles{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:18px}
-.tile{display:flex;flex-direction:column;background:#f6f6f6;border-radius:18px;padding:18px 18px 22px;text-decoration:none;color:#111;transition:transform .5s var(--ease),box-shadow .5s var(--ease)}
+.tiles{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:22px}
+.tile{display:flex;flex-direction:column;background:#f6f6f6;border-radius:18px;padding:18px 18px 20px;transition:transform .5s var(--ease),box-shadow .5s var(--ease)}
 .tile:hover{transform:translateY(-6px);box-shadow:0 22px 40px -22px rgba(0,0,0,.35)}
-.tile .ph{aspect-ratio:1;display:grid;place-items:center;background:#fff;border-radius:12px;overflow:hidden}
-.tile .ph img{width:86%;height:86%;object-fit:contain}
-.tile b{font-family:var(--display);font-weight:400;font-size:30px;text-transform:uppercase;letter-spacing:.02em;margin-top:16px;line-height:1}
-.tile span{font-size:13px;color:#777;margin-top:6px}
+.tile-main{display:flex;flex-direction:column;text-decoration:none;color:#111}
+.tile .ph{aspect-ratio:16/9;display:grid;grid-template-columns:1fr 1fr;place-items:center;background:#fff;border-radius:12px;overflow:hidden;padding:4%}
+.tile .ph img{width:92%;height:92%;object-fit:contain;transition:transform .6s var(--ease)}
+.tile-main:hover .ph img{transform:scale(1.04)}
+.tile b{font-family:var(--display);font-weight:400;font-size:clamp(32px,3.6vw,44px);text-transform:uppercase;letter-spacing:.02em;margin-top:16px;line-height:1}
+.tile .n{font-size:13px;color:#777;margin-top:6px}
+.tile-subs{display:flex;flex-wrap:wrap;gap:8px;margin-top:16px}
+.tile-subs a{border:1px solid #d6d6d6;background:#fff;color:#222;border-radius:999px;padding:8px 14px;font:500 13px var(--sans);text-decoration:none;transition:border-color .25s,color .25s}
+.tile-subs a:hover{border-color:var(--red);color:var(--red)}
+.tile-subs small{color:#999;font-size:11px;margin-left:2px}
 .tile.soon{pointer-events:none;opacity:.45}
 .tile.soon .ph{background:repeating-linear-gradient(135deg,#fff 0 10px,#f1f1f1 10px 20px)}
 .tile.soon .ph i{font-style:normal;font:600 12px var(--sans);letter-spacing:.16em;text-transform:uppercase;color:#888}
@@ -41,7 +47,8 @@
 .job .go:after{content:"→";font-size:18px;transition:transform .4s var(--ease)}
 .job:hover .go:after{transform:translateX(5px)}
 .note-prev{background:#fff3cd;color:#5c4400;font-size:13px;text-align:center;padding:8px 16px;position:relative;z-index:60}
-@media(max-width:900px){.tiles,.jobs{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:900px){.jobs{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:700px){.tiles{grid-template-columns:1fr}}
 </style>
 </head>
 <body>
@@ -55,18 +62,16 @@
 </svg>
 <canvas class="bg-waves" aria-hidden="true"></canvas>
 <header class="site-header">
-  <a class="logo" href="index.html" aria-label="Extrasound Custom, home">
-    <span class="logo-red">EXTRASOUND</span><span class="logo-white">CUSTOM</span>
-  </a>
+  <a class="logo" href="index.html" aria-label="Extrasound B2B, home"><img src="https://www.extrasound.it/wp-content/uploads/logo-rosso-bianco-extrasound.png" alt="Extrasound" width="500" height="76"><span class="logo-b2b">B2B</span></a>
   <button class="menu-toggle" aria-expanded="false" aria-controls="menu" aria-label="Apri il menu"><span></span><span></span></button>
   <nav id="menu" class="main-menu" aria-label="Menu principale">
     <div class="has-sub">
       <button class="sub-toggle" aria-expanded="false" aria-controls="sub-prodotti">Prodotti<svg viewBox="0 0 12 8" aria-hidden="true"><path d="M1 1.5l5 5 5-5" fill="none" stroke="currentColor" stroke-width="1.6"/></svg></button>
       <div class="submenu" id="sub-prodotti">
-        <a href="amplificatori.html">Amplificatori</a>
+        <a href="elettroniche.html">Elettroniche</a>
         <a href="diffusori.html">Diffusori</a>
-        <a href="esterno.html">Da esterno</a>
-        <a href="home-cinema.html">Home cinema</a>
+        <a class="sub-2" href="diffusori.html#linea=Z">A impedenza</a>
+        <a class="sub-2" href="diffusori.html#linea=V">A tensione costante 70/100 V</a>
       </div>
     </div>
     <a href="impianti.html" class="menu-link">Impianti tipo</a>
@@ -86,10 +91,26 @@
   <section class="band">
     <div class="wrap">
       <div class="tiles">
-        <a class="tile" href="amplificatori.html"><span class="ph"><img src="https://www.extrasound.it/wp-content/uploads/ELAC-IS-AMP8100-angolo-dx.jpg" alt="Amplificatore multizona da installazione"></span><b>Amplificatori</b><span>19 prodotti</span></a>
-        <a class="tile" href="diffusori.html"><span class="ph"><img src="https://www.extrasound.it/wp-content/uploads/ELAC-IW-V62-W-angolo-sx.jpg" alt="Diffusore da incasso a parete"></span><b>Diffusori</b><span>154 prodotti</span></a>
-        <a class="tile" href="esterno.html"><span class="ph"><img src="https://www.extrasound.it/wp-content/uploads/focal-100-od6-nero-bianco-tre-quarti.jpg" alt="Diffusori da esterno"></span><b>Da esterno</b><span>28 prodotti</span></a>
-        <a class="tile" href="home-cinema.html"><span class="ph"><img src="https://www.extrasound.it/wp-content/uploads/arcam-av41-1-1000.jpg" alt="Processore AV per home cinema"></span><b>Home cinema</b><span>17 prodotti</span></a>
+        <div class="tile">
+          <a class="tile-main" href="elettroniche.html">
+            <span class="ph"><img src="https://www.extrasound.it/wp-content/uploads/ELAC-IS-AMP8100-angolo-dx.jpg" alt="Amplificatore multizona da installazione"><img src="https://www.extrasound.it/wp-content/uploads/arcam-av41-1-1000.jpg" alt="Processore AV per home cinema"></span>
+            <b>Elettroniche</b><span class="n">36 prodotti</span>
+          </a>
+          <div class="tile-subs">
+            <a href="elettroniche.html#cat=M">Amplificatori multicanale <small>19</small></a>
+            <a href="elettroniche.html#cat=H">Home cinema, AV e finali <small>17</small></a>
+          </div>
+        </div>
+        <div class="tile">
+          <a class="tile-main" href="diffusori.html">
+            <span class="ph"><img src="https://www.extrasound.it/wp-content/uploads/ELAC-IW-V62-W-angolo-sx.jpg" alt="Diffusore da incasso a parete"><img src="https://www.extrasound.it/wp-content/uploads/focal-100-od6-nero-bianco-tre-quarti.jpg" alt="Diffusori da esterno"></span>
+            <b>Diffusori</b><span class="n">182 prodotti</span>
+          </a>
+          <div class="tile-subs">
+            <a href="diffusori.html#linea=Z">A impedenza <small>181</small></a>
+            <a href="diffusori.html#linea=V">A tensione costante 70/100 V <small>8</small></a>
+          </div>
+        </div>
       </div>
     </div>
   </section>
@@ -111,7 +132,7 @@
 <footer class="site-footer">
   <div class="footer-inner">
     <div class="footer-col footer-brand">
-      <a class="logo logo-sm" href="index.html" aria-label="Extrasound Custom, home"><span class="logo-red">EXTRASOUND</span><span class="logo-white">CUSTOM</span></a>
+      <a class="logo logo-sm" href="index.html" aria-label="Extrasound B2B, home"><img src="https://www.extrasound.it/wp-content/uploads/logo-rosso-bianco-extrasound.png" alt="Extrasound" width="500" height="76"><span class="logo-b2b">B2B</span></a>
       <p>Progetto, fornitura e installazione di impianti hi-fi, multiroom e home cinema su misura, a cura di Extrasound.</p>
       <a class="btn btn-sm" href="contatti.html">Richiedi un preventivo</a>
     </div>
@@ -122,7 +143,7 @@
     </div>
     <div class="footer-col">
       <p class="footer-head">Prodotti</p>
-      <p><a href="amplificatori.html">Amplificatori</a><br><a href="diffusori.html">Diffusori</a><br><a href="esterno.html">Da esterno</a><br><a href="home-cinema.html">Home cinema</a><br><a href="impianti.html">Impianti tipo</a></p>
+      <p><a href="elettroniche.html">Elettroniche</a><br><a href="diffusori.html">Diffusori</a><br><a href="diffusori.html#linea=Z">· a impedenza</a><br><a href="diffusori.html#linea=V">· a tensione costante 70/100 V</a><br><a href="impianti.html">Impianti tipo</a></p>
       <p class="footer-head">Negozio</p>
       <p><a href="https://www.extrasound.it" target="_blank" rel="noopener">extrasound.it</a></p>
     </div>
@@ -133,6 +154,6 @@
   </div>
 </footer>
 <!-- /FOOTER -->
-<script src="assets/js/site.js?v=13" defer></script>
+<script src="assets/js/site.js?v=14" defer></script>
 </body>
 </html>

@@ -75,3 +75,10 @@ Questa cartella non viene pubblicata (GitHub Pages ignora le cartelle che inizia
 - `_strumenti/uniforma.py` porta ogni scheda alla stessa struttura in fase di generazione: colonne fisse, misure, sezione cavi (calcolata se il produttore non la dà), amplificatore/diffusore consigliato con foto e link, «Dove montarlo», «Montaggio in 6 passi», due configurazioni con grafiche, interfaccia e pannello posteriore per gli amplificatori.
 - Nuove categorie: `esterno.html` (cat E, `marchi_esterno.py`, Garvan KR16M in `marchi_garvan.py`) e `home-cinema.html` (cat H, `marchi_homecinema.py`).
 - Esclusi: Biamp MASK2 (ex-demo), German Maestro (marini per barche).
+
+## Struttura prodotti (dal 17/11/2026)
+- Due elenchi: `elettroniche.html` (tutti gli amplificatori: cat M e H) e `diffusori.html` (tutti i diffusori, da esterno compresi).
+- `amplificatori.html`, `esterno.html`, `home-cinema.html` sono solo rimandi per i vecchi link.
+- Diffusori divisi per collegamento: dizionario `LINEA` in `genera_schede.py` (Z impedenza, V tensione costante 70/100 V, ZV entrambi). Default Z. Un nuovo diffusore 70/100 V va aggiunto lì, con la fonte del produttore nel commento.
+- Filtri preselezionabili da indirizzo: `diffusori.html#linea=V`, `diffusori.html#cat=E`, `elettroniche.html#cat=H`.
+- Logo: immagine `logo-rosso-bianco-extrasound.png` di extrasound.it + "B2B" (costante `LOGO` in `build.py`).

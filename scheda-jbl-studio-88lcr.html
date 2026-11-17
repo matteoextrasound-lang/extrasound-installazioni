@@ -10,7 +10,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Anton&family=Barlow+Condensed:wght@300;400;500;600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="assets/css/site.css?v=13">
+<link rel="stylesheet" href="assets/css/site.css?v=14">
 </head>
 <body>
 <!-- HEADER -->
@@ -23,18 +23,16 @@
 </svg>
 <canvas class="bg-waves" aria-hidden="true"></canvas>
 <header class="site-header">
-  <a class="logo" href="index.html" aria-label="Extrasound Custom, home">
-    <span class="logo-red">EXTRASOUND</span><span class="logo-white">CUSTOM</span>
-  </a>
+  <a class="logo" href="index.html" aria-label="Extrasound B2B, home"><img src="https://www.extrasound.it/wp-content/uploads/logo-rosso-bianco-extrasound.png" alt="Extrasound" width="500" height="76"><span class="logo-b2b">B2B</span></a>
   <button class="menu-toggle" aria-expanded="false" aria-controls="menu" aria-label="Apri il menu"><span></span><span></span></button>
   <nav id="menu" class="main-menu" aria-label="Menu principale">
     <div class="has-sub is-current">
       <button class="sub-toggle" aria-expanded="false" aria-controls="sub-prodotti">Prodotti<svg viewBox="0 0 12 8" aria-hidden="true"><path d="M1 1.5l5 5 5-5" fill="none" stroke="currentColor" stroke-width="1.6"/></svg></button>
       <div class="submenu" id="sub-prodotti">
-        <a href="amplificatori.html">Amplificatori</a>
+        <a href="elettroniche.html">Elettroniche</a>
         <a href="diffusori.html">Diffusori</a>
-        <a href="esterno.html">Da esterno</a>
-        <a href="home-cinema.html">Home cinema</a>
+        <a class="sub-2" href="diffusori.html#linea=Z">A impedenza</a>
+        <a class="sub-2" href="diffusori.html#linea=V">A tensione costante 70/100 V</a>
       </div>
     </div>
     <a href="impianti.html" class="menu-link">Impianti tipo</a>
@@ -46,7 +44,7 @@
 <main>
   <section class="page-hero page-hero-sm">
     <div class="wrap">
-      <p class="kicker"><span class="eq" aria-hidden="true"><i></i><i></i><i></i><i></i></span><a class="crumb" href="diffusori.html">Diffusori</a></p>
+      <p class="kicker"><span class="eq" aria-hidden="true"><i></i><i></i><i></i><i></i></span><a class="crumb" href="diffusori.html">Diffusori</a><span class="crumb-sep" aria-hidden="true">/</span><a class="crumb" href="diffusori.html#linea=Z">A impedenza</a></p>
       <h1>JBL <em>Studio 88LCR</em></h1>
     </div>
   </section>
@@ -201,7 +199,7 @@
 <footer class="site-footer">
   <div class="footer-inner">
     <div class="footer-col footer-brand">
-      <a class="logo logo-sm" href="index.html" aria-label="Extrasound Custom, home"><span class="logo-red">EXTRASOUND</span><span class="logo-white">CUSTOM</span></a>
+      <a class="logo logo-sm" href="index.html" aria-label="Extrasound B2B, home"><img src="https://www.extrasound.it/wp-content/uploads/logo-rosso-bianco-extrasound.png" alt="Extrasound" width="500" height="76"><span class="logo-b2b">B2B</span></a>
       <p>Progetto, fornitura e installazione di impianti hi-fi, multiroom e home cinema su misura, a cura di Extrasound.</p>
       <a class="btn btn-sm" href="contatti.html">Richiedi un preventivo</a>
     </div>
@@ -212,7 +210,7 @@
     </div>
     <div class="footer-col">
       <p class="footer-head">Prodotti</p>
-      <p><a href="amplificatori.html">Amplificatori</a><br><a href="diffusori.html">Diffusori</a><br><a href="esterno.html">Da esterno</a><br><a href="home-cinema.html">Home cinema</a><br><a href="impianti.html">Impianti tipo</a></p>
+      <p><a href="elettroniche.html">Elettroniche</a><br><a href="diffusori.html">Diffusori</a><br><a href="diffusori.html#linea=Z">· a impedenza</a><br><a href="diffusori.html#linea=V">· a tensione costante 70/100 V</a><br><a href="impianti.html">Impianti tipo</a></p>
       <p class="footer-head">Negozio</p>
       <p><a href="https://www.extrasound.it" target="_blank" rel="noopener">extrasound.it</a></p>
     </div>
@@ -224,6 +222,6 @@
 </footer>
 <!-- /FOOTER -->
 
-<script src="assets/js/site.js?v=13" defer></script>
+<script src="assets/js/site.js?v=14" defer></script>
 </body>
 </html>
