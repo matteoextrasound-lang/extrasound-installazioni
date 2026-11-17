@@ -21,7 +21,7 @@ V = "13"  # versione di css/js
 
 SOTTO = {  # sottocategorie: codice -> etichetta
     "M": "Amplificatori multicanale", "P": "Da incasso a parete", "S": "Da incasso a soffitto",
-    "L": "LCR per home cinema", "2": "Stereo 2+2 vie", "W": "Subwoofer da incasso", "A": "Amplificati",
+    "L": "LCR per home cinema", "2": "Stereo 2+2 vie", "W": "Subwoofer da incasso", "A": "Amplificati", "E": "Da esterno",
 }
 
 esc = lambda s: html.escape(str(s), quote=True)
@@ -32,6 +32,18 @@ def disegno(m):
     """Disegno quotato: frontale (rettangolare o tondo) + vista laterale."""
     tondo = m.get("forma") == "tondo"
     q = []  # elementi SVG
+    if m.get("forma") == "box":  # diffusore da appoggio o da parete: solo ingombro
+        q.append('<rect x="40" y="40" width="172" height="258" rx="10" class="frame"/>')
+        q.append('<circle cx="126" cy="105" r="22" class="drv"/><circle cx="126" cy="205" r="50" class="drv"/>')
+        q.append(f'<path d="M40 330H212M40 324v12M212 324v12" class="q"/><text x="126" y="350" class="qt">{esc(m["l"])}</text>')
+        q.append(f'<path d="M20 40V298M14 40h12M14 298h12" class="q"/><text x="12" y="172" class="qt" transform="rotate(-90 12 172)">{esc(m["a"])}</text>')
+        q.append('<rect x="276" y="40" width="70" height="258" rx="10" class="box"/>')
+        if m.get("staffa"): q.append(f'<path d="M346 169H362M362 120V218" class="q q-red"/><text x="317" y="392" class="qt qt-red">staffa {esc(m["staffa"])}</text>')
+        q.append(f'<path d="M276 330H346M276 324v12M346 324v12" class="q"/><text x="311" y="350" class="qt">{esc(m["p"])}</text>')
+        q.append('<text x="126" y="392" class="qt qt-muted">frontale</text>')
+        label = f'Ingombro: {m["l"]} × {m["a"]} × {m["p"]}'
+        return (f'<figure class="drawing reveal"><svg class="diagram dim" viewBox="-10 0 380 400" role="img" aria-label="{esc(label)}">'
+                + "".join(q) + f'</svg><figcaption>{esc(m.get("nota", "Ingombro del diffusore (L × A × P). Misure del produttore; disegno non in scala."))}</figcaption></figure>')
     if tondo:
         q.append('<circle cx="126" cy="169" r="118" class="frame"/>')
         q.append('<circle cx="126" cy="169" r="104" class="cut"/>')
@@ -200,10 +212,15 @@ def main():
         out.write_text(new, encoding="utf-8")
         prodotti.append(p)
     # elenchi
-    for nome, tipo, filtri in (("amplificatori.html", "amplificatore", ["M"]), ("diffusori.html", "diffusore", ["P", "S", "L", "2", "W", "A"])):
+    for nome, sel_f, filtri in (("amplificatori.html", lambda p: p["tipo"] == "amplificatore" and p["cat"][0] == "M", ["M"]),
+                                ("diffusori.html", lambda p: p["tipo"] == "diffusore" and p["cat"] != "E", ["P", "S", "L", "2", "W", "A"]),
+                                ("esterno.html", lambda p: p["cat"] == "E", []),
+                                ("home-cinema.html", lambda p: p["cat"][0] == "H", ["H"])):
         f = ROOT / nome
+        if not f.exists():
+            continue
         s = f.read_text(encoding="utf-8")
-        sel = [p for p in prodotti if p["tipo"] == tipo]
+        sel = [p for p in prodotti if sel_f(p)]
         sel.sort(key=lambda p: (p["brand"], p["model"]))
         s = re.sub(r"<!-- LISTA -->.*?<!-- /LISTA -->", lambda _: "<!-- LISTA -->\n" + lista(sel, filtri) + "\n<!-- /LISTA -->", s, flags=re.S)
         f.write_text(s, encoding="utf-8")

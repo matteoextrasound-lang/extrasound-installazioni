@@ -21,6 +21,7 @@ M = [
  (2406, "KR313", "L", "2 vie D'Appolito", "2 woofer 130 mm + tweeter 25 mm", "160 W AES (320 W continui)", "93 dB", "124 dB", "65 Hz – 20 kHz", "57 Hz – 20 kHz", "4 Ω", "oltre 120° (1–4 kHz), 120° (1–10 kHz)", "55 Hz", "M", None, "50,0 × 25,0 × 7,6 cm", "44 × 19 cm", "cassaforma CM1944 (muratura)", "garvan-kr313-cassa-da-incasso-left-center-right-filo-muro", {}),
  (2390, "KR513", "L", "2 vie", "4 woofer 130 mm + tweeter 32 mm", "300 W AES (600 W continui)", "92,5 dB", "129 dB", "70 Hz – 20 kHz", "58 Hz – 20 kHz", "8 Ω", "oltre 120° (1–4 kHz), 80° (1–10 kHz)", "60 Hz", "MC", None, "86,0 × 25,0 × 9,95 cm", "80 × 19 cm", "cassaforma CR1981 (muratura); telaio dedicato per cartongesso", "garvan-kr513-cassa-da-incasso-left-center-right-filo-muro", {"qrg": "La Quick reference guide Garvan indica per il KR513 82,0 × 21,0 × 9,9 cm con cover 72CXS3 e cassaforma CR1981; Extrasound indica un ingombro di 86,0 × 25,0 × 9,95 cm."}),
  (2389, "KC316", "L", "2 vie D'Appolito", "2 woofer 160 mm + tweeter 25 mm", "150 W AES (300 W continui)", "93 dB", "124 dB", "58 Hz – 20 kHz", "41 Hz – 20 kHz", "4 Ω", "90° (1–10 kHz)", "40 Hz", "C", "44,5 × 19,5 cm", "50,0 × 25,0 × 8,3 cm", "44 × 19 cm", "telaio CC1944 (cartongesso)", "garvan-kc316-diffusore-lcr-da-incasso-filo-muro-44x19-cm-2", {}),
+ (2398, "KR16M", "E", "2 vie, marino", "woofer 160 mm + tweeter 20 mm", "150 W AES (300 W continui)", "86,5 dB", "120,5 dB", "60 Hz – 20 kHz", "50 Hz – 20 kHz", "8 Ω", "120° (1–10 kHz)", "45 Hz", "MC", None, "50,5 × 25,5 × 10,5 cm", "44 × 19 cm", "cassaforma da murare (muratura); telaio dedicato per cartongesso", "garvan-kr16m-diffusore-marino-da-incasso-filo-muro-44x19-cm", {"marino": True}),
  (2387, "KC216", "P", "2 vie", "woofer 160 mm + tweeter 25 mm", "75 W AES (150 W continui)", "87,5 dB", "118 dB", "60 Hz – 20 kHz", "53 Hz – 20 kHz", "8 Ω", "90° (1–10 kHz)", "55 Hz", "C", "28,5 × 19,5 cm", "34,0 × 25,0 × 8,3 cm", "28 × 19 cm", "telaio CC1928 (cartongesso)", "garvan-kc216-cassa-da-incasso-hi-fi-filo-muro-28x19", {}),
 ]
 
@@ -38,9 +39,10 @@ IMG = {
  2390: "garvan-sir513.jpg » Garvan KR513 da incasso con quattro woofer e cover ;; virtuemart/product/garvan-sir513-lifestyle.jpg » Cover Garvan KR513 a filo su parete in pietra scura",
  2389: "garvan-sic316.jpg » Garvan KC316 da incasso con due woofer, tweeter e telaio ;; virtuemart/product/garvan-sic316-lifestyle.jpg » Garvan KC316 a filo parete sotto il televisore",
  2387: "Garvan-KC216-diffusore-incasso.jpg » Garvan KC216 da incasso con telaio e cover ;; Garvan-KC216-griglia-cornice.jpg » Cover rossa Garvan KC216 a filo parete ;; Garvan-KC216-griglia-verde.jpg » Cover verde Garvan KC216 su parete decorata",
+ 2398: "sir16M.jpg » Diffusore marino Garvan KR16M da incasso con telaio e cover",
  2393: "garvan-wic125.jpg » Subwoofer da incasso Garvan WIC125 con telaio e cover",
 }
-TIPO = {"P": "Diffusore da incasso a parete o soffitto", "S": "Diffusore da incasso a soffitto o parete", "L": "Diffusore LCR da incasso",
+TIPO = {"E": "Diffusore marino da incasso", "P": "Diffusore da incasso a parete o soffitto", "S": "Diffusore da incasso a soffitto o parete", "L": "Diffusore LCR da incasso",
         "2": "Diffusore stereo da incasso", "W": "Subwoofer passivo da incasso"}
 MONT = {"C": "FlushMount™ su cartongesso", "E": "EasyFit™", "M": "FlushMount™ a muro"}
 
@@ -71,6 +73,8 @@ def scheda(t):
     I = imgs(IMG[id])
     car = [f"{tipo}, collezione Luna™, progettato e costruito in Italia.", f"Tipo: {tipo_s}.", f"Altoparlanti: {drv}.", "Nessuna parte in plastica; cover magnetica intercambiabile, a filo della superficie.",
            f"Cover: {cover}.", "Venduto singolarmente; tipo di montaggio e cover si scelgono nella scheda Extrasound."]
+    if ex.get("marino"):
+        car.insert(2, "Per esterni, barche, saune e bagni turchi: da −25 a +70 °C.")
     if ex.get("incl"):
         car.insert(2, "Altoparlante inclinato di 30° per orientare il suono verso la zona d'ascolto.")
     acu = [f"Potenza: {aes}.", f"Sensibilità (2,83 V / 1 m): {sens}.", f"SPL massimo calcolato: {spl}.", f"Risposta (−3 dB): {r3}.", f"Gamma (−10 dB): {r10}.",
@@ -135,6 +139,8 @@ def scheda(t):
          "colonne": [{"titolo": "Caratteristiche", "voci": car}, {"titolo": "Acustica", "voci": acu}, {"titolo": "Installazione", "voci": dim}],
          "viste": [vista(i, caption(i["alt"])) for i in I[1:4]], "misure": mis, "collega": col, "sistemi": sist,
          "nota": nota, "extrasound": X + url, "fonti": [QRG] if ex.get("qrg") else []}
+    if cat == "E":
+        d.update(lista="esterno.html", lista_label="Da esterno", tab="Diffusori<br>da esterno")
     return salva(d)
 
 

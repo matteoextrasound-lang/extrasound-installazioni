@@ -1,0 +1,138 @@
+{
+ "id": 42959,
+ "tipo": "diffusore",
+ "cat": "E",
+ "tab": "Diffusori<br>da esterno",
+ "brand": "ArtSound",
+ "model": "ASW55.2",
+ "crop": false,
+ "meta": "ArtSound ASW55.2: diffusore da esterno, 2 vie bass-reflex. Ingombro, staffa, collegamenti e montaggio per l'installatore.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/artsound-asw55-2-coppia-1000.jpg",
+  "alt": "Coppia di ArtSound ASW55.2 neri con staffa a U"
+ },
+ "chiave": [
+  "2 vie bass-reflex · 8 Ω",
+  "Ingombro 190 mm × 240 mm × 150 mm",
+  "per esterni e ambienti umidi"
+ ],
+ "righe": [
+  "2 vie bass-reflex · woofer 5,25″ in",
+  "Diffusore da esterno",
+  "ArtSound"
+ ],
+ "intro": [
+  "L'<strong>ArtSound ASW55.2</strong> è un diffusore da esterno 2 vie bass-reflex: woofer 5,25″ in polimica, tweeter 0,5″ a cupola in PEI. 8 Ω, per esterni e ambienti umidi.",
+  "Ingombro <strong>190 mm × 240 mm × 150 mm</strong>, 2,3 kg; staffa a U."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "Diffusore da esterno, 2 vie bass-reflex.",
+    "Woofer 5,25″ in polimica.",
+    "Tweeter 0,5″ a cupola in PEI.",
+    "Protezione: per esterni e ambienti umidi; ambienti fino a 40 m².",
+    "Cassa in ABS; nero o bianco.",
+    "Staffa a U inclusa.",
+    "Venduto in coppia."
+   ]
+  },
+  {
+   "titolo": "Acustica",
+   "voci": [
+    "Risposta: 75 Hz – 20 kHz.",
+    "Sensibilità: 87 dB.",
+    "Impedenza: 8 Ω.",
+    "Amplificazione: 20 – 120 W."
+   ]
+  },
+  {
+   "titolo": "Dimensioni",
+   "voci": [
+    "Ingombro (L × A × P): 190 mm × 240 mm × 150 mm.",
+    "Peso: 2,3 kg.",
+    "Montaggio: staffa a U."
+   ]
+  }
+ ],
+ "viste": [
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/artsound-asw55-2-laterale-1000.jpg",
+   "alt": "ArtSound ASW55.2 visto di lato sulla staffa",
+   "caption": "Lato"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/artsound-asw55-2-retro-1000.jpg",
+   "alt": "Retro dell'ArtSound ASW55.2 con i morsetti",
+   "caption": "Retro"
+  }
+ ],
+ "misure": {
+  "forma": "box",
+  "l": "190 mm",
+  "a": "240 mm",
+  "p": "150 mm"
+ },
+ "collega": [
+  {
+   "titolo": "Amplificazione",
+   "icona": "sorgente",
+   "voci": [
+    "8 Ω: un diffusore per canale.",
+    "Amplificazione: 20 – 120 W."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Dove montarlo",
+   "voci": [
+    "All'altezza delle orecchie o più in alto, inclinato verso la zona d'ascolto.",
+    "Al riparo dalla pioggia diretta e dal sole pieno quando possibile: dura di più.",
+    "Coppie a 2–3 m l'una dall'altra; per giardini grandi meglio più diffusori a volume basso."
+   ],
+   "posa": {
+    "tipo": "parete",
+    "distanza": "spazio libero",
+    "nota": "zona d'ascolto"
+   }
+  },
+  {
+   "titolo": "Montaggio in 6 passi",
+   "passi": [
+    [
+     "Scegli il punto",
+     "Al riparo dalla pioggia diretta quando possibile, all'altezza delle orecchie o più in alto con il diffusore inclinato verso la zona d'ascolto."
+    ],
+    [
+     "Fissa la staffa",
+     "Fissa la staffa a una superficie solida con viti e tasselli adatti al supporto (muratura, legno); sul cartongesso solo su un montante."
+    ],
+    [
+     "Porta i cavi",
+     "Usa cavo per esterni (da interramento se corre nel terreno). Lascia un'ansa sotto il diffusore, così l'acqua gocciola via prima dei morsetti."
+    ],
+    [
+     "Collega",
+     "Rispetta la polarità: + sul morsetto rosso, − sul nero, uguale su tutti i diffusori."
+    ],
+    [
+     "Monta e orienta",
+     "Monta il diffusore nella staffa a U e stringi i pomelli all'angolo voluto."
+    ],
+    [
+     "Chiudi",
+     "Verifica che i pomelli siano ben stretti."
+    ]
+   ]
+  }
+ ],
+ "nota": "Dati dalla scheda Extrasound: scheda ArtSound del modello non reperita online.",
+ "extrasound": "https://www.extrasound.it/artsound-asw55-2-coppia-diffusori-outdoor-2-vie-ip54-con-staffa",
+ "fonti": [],
+ "lista": "esterno.html",
+ "lista_label": "Da esterno",
+ "tipo_label": "Diffusore da esterno",
+ "slug": "artsound-asw55-2"
+}

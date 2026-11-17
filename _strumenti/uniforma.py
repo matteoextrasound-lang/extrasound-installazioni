@@ -65,8 +65,10 @@ def amp_per(d):
         return None
     if s == "elac-iw-s10eq":
         return None
-    if "100 V" in " ".join(d.get("chiave", [])) or z == "v100":
+    if d.get("chiave", [""])[0].startswith("Linea 100 V") or z == "v100":
         return "artsound-mx-120m"
+    if b == "Polk Audio":
+        return "yamaha-xda-qs5400rk"
     if b == "ELAC":
         return "elac-is-amp8100"
     if b == "Garvan":
@@ -151,14 +153,14 @@ def diffusore(d, tutti):
     # cavi
     if not d.get("cavi") and d["cat"] != "A":
         z = impedenza(d)
-        if z == "v100" or "100 V" in " ".join(d.get("chiave", [])):
+        if z == "v100" or d.get("chiave", [""])[0].startswith("Linea 100 V"):
             d["cavi"] = cavi_100v()
         elif z:
             d["cavi"] = cavi_calcolati(z)
         if d.get("cavi") and NOTA_CAVI not in d.get("nota", ""):
             d["nota"] = (d.get("nota", "") + " " + NOTA_CAVI).strip()
     # amplificatore consigliato con foto e link
-    a = amp_per(d)
+    a = d.pop("amp", None) or amp_per(d)
     if a and a in tutti and not any(c.get("img") for c in d["collega"]):
         A = tutti[a]
         gen = next((c for c in d["collega"] if c.get("icona") in ("sorgente", "linea100v", "subwoofer") or c["titolo"] in ("Amplificazione", "Linea 100 V")), None)
@@ -181,7 +183,10 @@ def diffusore(d, tutti):
             dove["posa"] = {"tipo": "parete", "distanza": "spazio libero", "nota": "altezza orecchie" if d["cat"] != "W" else "posizione libera"}
     mont = [s for s in sis if s.get("passi")]
     vecchi = [p for s in mont for p in s["passi"]]
-    if d["slug"] not in MODELLI:
+    pronto = next((x for x in sis if x["titolo"] == "Montaggio in 6 passi" and len(x.get("passi", [])) == 6), None)
+    if pronto:
+        d["sistemi"] = [dove, pronto] + [x for x in sis if x is not dove and x is not pronto]
+    elif d["slug"] not in MODELLI:
         nuovo = {"titolo": "Montaggio in 6 passi", "passi": sei_passi(d, vecchi)}
         altri = [s for s in sis if s is not dove and not s.get("passi")]
         d["sistemi"] = [dove, nuovo] + altri

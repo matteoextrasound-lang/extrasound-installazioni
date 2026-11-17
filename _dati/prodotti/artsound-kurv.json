@@ -1,0 +1,143 @@
+{
+ "id": 42640,
+ "tipo": "diffusore",
+ "cat": "E",
+ "tab": "Diffusori<br>da esterno",
+ "brand": "ArtSound",
+ "model": "Kurv",
+ "crop": false,
+ "meta": "ArtSound Kurv: diffusore da giardino, 2 vie coassiale. Ingombro, staffa, collegamenti e montaggio per l'installatore.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/Artsund-Kurv.jpg",
+  "alt": "Diffusore da esterno ArtSound Kurv"
+ },
+ "chiave": [
+  "2 vie coassiale · 6 Ω o linea 100 V",
+  "Ingombro 391 mm × 308 mm × 212 mm",
+  "IP66"
+ ],
+ "righe": [
+  "2 vie coassiale · woofer 5,25″ in",
+  "Diffusore da giardino",
+  "ArtSound"
+ ],
+ "intro": [
+  "L'<strong>ArtSound Kurv</strong> è un diffusore da giardino 2 vie coassiale: woofer 5,25″ in polipropilene, tweeter 0,75″ a cupola in seta coassiale. 6 Ω o linea 100 V, IP66.",
+  "Ingombro <strong>391 mm × 308 mm × 212 mm</strong>, 4,9 kg."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "Diffusore da giardino, 2 vie coassiale.",
+    "Woofer 5,25″ in polipropilene.",
+    "Tweeter 0,75″ a cupola in seta coassiale.",
+    "Protezione: IP66; ambienti fino a 50 m².",
+    "Da appoggio, emissione verso il basso a 360°.",
+    "Corpo in LLDPE, griglia in alluminio; bianco o quarzo.",
+    "Collegamento a bassa impedenza o su linea 100 V.",
+    "Venduto singolarmente."
+   ]
+  },
+  {
+   "titolo": "Acustica",
+   "voci": [
+    "Risposta: 60 Hz – 20 kHz.",
+    "Sensibilità: 85 dB.",
+    "Impedenza: 6 Ω o linea 100 V.",
+    "Amplificazione: 10 – 100 W."
+   ]
+  },
+  {
+   "titolo": "Dimensioni",
+   "voci": [
+    "Ingombro (L × A × P): 391 mm × 308 mm × 212 mm.",
+    "Peso: 4,9 kg."
+   ]
+  }
+ ],
+ "viste": [
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/Artsund-Kurv-bianco-sotto.jpg",
+   "alt": "ArtSound Kurv bianco visto dal basso",
+   "caption": "Vista"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/Artsund-Kurv-bianco-lifestyle.jpg",
+   "alt": "ArtSound Kurv bianco in giardino",
+   "caption": "Installato"
+  }
+ ],
+ "misure": {
+  "forma": "box",
+  "l": "391 mm",
+  "a": "308 mm",
+  "p": "212 mm"
+ },
+ "collega": [
+  {
+   "titolo": "Amplificazione",
+   "icona": "sorgente",
+   "voci": [
+    "6 Ω o linea 100 V: un diffusore per canale.",
+    "Amplificazione: 10 – 100 W."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Dove montarlo",
+   "voci": [
+    "Tra le piante o al centro della zona da sonorizzare.",
+    "Per giardini grandi meglio più diffusori a volume basso che pochi ad alto volume."
+   ],
+   "posa": {
+    "tipo": "parete",
+    "distanza": "spazio libero",
+    "nota": "zona d'ascolto"
+   }
+  },
+  {
+   "titolo": "Montaggio in 6 passi",
+   "passi": [
+    [
+     "Scegli il punto",
+     "A terra, su un piano stabile, al centro della zona da sonorizzare: il suono esce verso il basso a 360°."
+    ],
+    [
+     "Prepara il passaggio",
+     "Porta il cavo fino al punto, interrato in un corrugato se attraversa il giardino."
+    ],
+    [
+     "Porta i cavi",
+     "Usa cavo per esterni (da interramento se corre nel terreno). Lascia un'ansa sotto il diffusore, così l'acqua gocciola via prima dei morsetti."
+    ],
+    [
+     "Collega",
+     "Scegli bassa impedenza (6 Ω) o linea 100 V secondo l'impianto e collega rispettando la polarità (schemi «Connecting stereo» e «Connecting 100V» del manuale ArtSound)."
+    ],
+    [
+     "Posiziona",
+     "Appoggia il Kurv e verifica che il cavo non resti teso."
+    ],
+    [
+     "Chiudi",
+     "Controlla la tenuta dei passacavi."
+    ]
+   ]
+  }
+ ],
+ "nota": "Dati dal manuale ArtSound Kurv, confrontati con la scheda Extrasound.",
+ "extrasound": "https://www.extrasound.it/artsound-kurv-diffusore-outdoor-di-design-ip66-360-8-ohm-100v",
+ "fonti": [
+  {
+   "label": "manuale ArtSound Kurv",
+   "url": "https://stylesound.com/wp-content/uploads/2024/01/KURV_manual_uk.pdf"
+  }
+ ],
+ "lista": "esterno.html",
+ "lista_label": "Da esterno",
+ "tipo_label": "Diffusore da giardino",
+ "amp": "artsound-amp850",
+ "slug": "artsound-kurv"
+}

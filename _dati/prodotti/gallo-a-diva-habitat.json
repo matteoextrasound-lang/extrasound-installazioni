@@ -1,0 +1,133 @@
+{
+ "id": 57238,
+ "tipo": "diffusore",
+ "cat": "E",
+ "tab": "Diffusori<br>da esterno",
+ "brand": "Gallo",
+ "model": "A'Diva Habitat",
+ "crop": false,
+ "meta": "Gallo A'Diva Habitat: diffusore da esterno, una via, senza crossover. Ingombro, staffa, collegamenti e montaggio per l'installatore.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/Gallo-ADiva-Habitat-finiture-1000-1.jpg",
+  "alt": "Gallo A'Diva Habitat nelle finiture bianca, nera e acciaio"
+ },
+ "chiave": [
+  "una via · 8 Ω",
+  "Sfera Ø 5″ (circa 125 mm)",
+  "IP66"
+ ],
+ "righe": [
+  "una via · altoparlante 3″ impermeabile,",
+  "Diffusore da esterno",
+  "Gallo"
+ ],
+ "intro": [
+  "Il <strong>Gallo A'Diva Habitat</strong> è un diffusore da esterno una via, senza crossover: altoparlante 3″ impermeabile, cono in polipropilene e mica. 8 Ω, IP66, da −20 a +50 °C.",
+  "Sfera <strong>Ø 5″ (circa 125 mm)</strong> in acciaio inox, 970 g senza cavo."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "Diffusore da esterno, una via, senza crossover.",
+    "Altoparlante 3″ impermeabile, cono in polipropilene e mica.",
+    "Protezione: IP66, da −20 a +50 °C.",
+    "Sfera da 5″ in acciaio inox marino 316.",
+    "Cavo impermeabile fisso, 2 m.",
+    "Accessori Gallo: staffa a parete per esterni, picchetto da terreno.",
+    "Venduto singolarmente."
+   ]
+  },
+  {
+   "titolo": "Acustica",
+   "voci": [
+    "Risposta: 80 Hz – 22 kHz (sito Gallo; il manuale indica 20 kHz).",
+    "Sensibilità: 85 dB ±2 dB (1 m).",
+    "Impedenza: 8 Ω.",
+    "Amplificazione: 50 W a gamma intera, 100 W con crossover."
+   ]
+  },
+  {
+   "titolo": "Dimensioni",
+   "voci": [
+    "Sfera Ø 5″ (circa 125 mm).",
+    "Peso: 970 g senza cavo."
+   ]
+  }
+ ],
+ "viste": [
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/Gallo-ADiva-Habitat-2-1000.jpg",
+   "alt": "Gallo A'Diva Habitat bianco a parete all'esterno",
+   "caption": "Installato"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/Gallo-ADiva-Habitat-3-1000.jpg",
+   "alt": "Gallo A'Diva Habitat in acciaio con la staffa",
+   "caption": "Con la staffa"
+  }
+ ],
+ "misure": null,
+ "collega": [
+  {
+   "titolo": "Amplificazione",
+   "icona": "sorgente",
+   "voci": [
+    "8 Ω: un diffusore per canale.",
+    "Amplificazione: 50 W a gamma intera, 100 W con crossover."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Dove montarlo",
+   "voci": [
+    "All'altezza delle orecchie o più in alto, inclinato verso la zona d'ascolto.",
+    "Al riparo dalla pioggia diretta e dal sole pieno quando possibile: dura di più.",
+    "Coppie a 2–3 m l'una dall'altra; per giardini grandi meglio più diffusori a volume basso."
+   ],
+   "posa": {
+    "tipo": "parete",
+    "distanza": "spazio libero",
+    "nota": "zona d'ascolto"
+   }
+  },
+  {
+   "titolo": "Montaggio in 6 passi",
+   "passi": [
+    [
+     "Scegli il punto",
+     "Al riparo dalla pioggia diretta quando possibile, all'altezza delle orecchie o più in alto con il diffusore inclinato verso la zona d'ascolto."
+    ],
+    [
+     "Fissa la staffa",
+     "Fissa la staffa a parete Gallo per esterni con viti e tasselli adatti, oppure usa il picchetto da terreno."
+    ],
+    [
+     "Porta i cavi",
+     "Usa cavo per esterni (da interramento se corre nel terreno). Lascia un'ansa sotto il diffusore, così l'acqua gocciola via prima dei morsetti."
+    ],
+    [
+     "Collega",
+     "Unisci il cavo fisso da 2 m alla linea dell'amplificatore con una giunzione stagna, rispettando la polarità."
+    ],
+    [
+     "Monta e orienta",
+     "Orienta la sfera verso la zona d'ascolto e blocca lo snodo."
+    ],
+    [
+     "Chiudi",
+     "Proteggi la giunzione dall'acqua."
+    ]
+   ]
+  }
+ ],
+ "nota": "Dati dalla scheda Extrasound, ricavata dal sito e dal manuale Gallo.",
+ "extrasound": "https://www.extrasound.it/gallo-adiva-habitat-diffusore-da-esterno-ip66-in-acciaio-inox-singolo",
+ "fonti": [],
+ "lista": "esterno.html",
+ "lista_label": "Da esterno",
+ "tipo_label": "Diffusore da esterno",
+ "amp": "yamaha-xda-qs5400rk",
+ "slug": "gallo-a-diva-habitat"
+}

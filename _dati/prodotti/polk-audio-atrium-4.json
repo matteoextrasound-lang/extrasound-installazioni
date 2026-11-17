@@ -1,0 +1,138 @@
+{
+ "id": 37516,
+ "tipo": "diffusore",
+ "cat": "E",
+ "tab": "Diffusori<br>da esterno",
+ "brand": "Polk Audio",
+ "model": "Atrium 4",
+ "crop": false,
+ "meta": "Polk Audio Atrium 4: diffusore da esterno, 2 vie. Ingombro, staffa, collegamenti e montaggio per l'installatore.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/polk-atrium-4-nero-bianco-1000.jpg",
+  "alt": "Polk Atrium 4 nero senza griglia e bianco con griglia"
+ },
+ "chiave": [
+  "2 vie · compatibile con uscite da 8 Ω",
+  "Ingombro 144 mm × 219 mm × 170 mm",
+  "test ASTM D5894 (UV e nebbia salina)"
+ ],
+ "righe": [
+  "2 vie · woofer 11,4 cm",
+  "Diffusore da esterno",
+  "Polk Audio"
+ ],
+ "intro": [
+  "Il <strong>Polk Audio Atrium 4</strong> è un diffusore da esterno 2 vie: woofer 11,4 cm Dynamic Balance, cono in polimero caricato con minerali, tweeter 19 mm a cupola in alluminio anodizzato. compatibile con uscite da 8 Ω, test ASTM D5894 (UV e nebbia salina), MIL-STD 810 (immersione).",
+  "Ingombro <strong>144 mm × 219 mm × 170 mm</strong>, 1,63 kg; staffa Speed-Lock."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "Diffusore da esterno, 2 vie.",
+    "Woofer 11,4 cm Dynamic Balance, cono in polimero caricato con minerali.",
+    "Tweeter 19 mm a cupola in alluminio anodizzato.",
+    "Protezione: test ASTM D5894 (UV e nebbia salina), MIL-STD 810 (immersione).",
+    "Staffa Speed-Lock in alluminio: verticale o orizzontale, rotazione 180°, inclinazione 45° verso il basso.",
+    "Morsetti a 5 vie dorati; viteria inox e ottone; verniciabile.",
+    "Venduto in coppia."
+   ]
+  },
+  {
+   "titolo": "Acustica",
+   "voci": [
+    "Risposta: 75 Hz – 25 kHz.",
+    "Sensibilità: 89 dB (1 W / 1 m).",
+    "Impedenza: compatibile con uscite da 8 Ω.",
+    "Amplificazione: 10 – 80 W."
+   ]
+  },
+  {
+   "titolo": "Dimensioni",
+   "voci": [
+    "Ingombro (L × A × P): 144 mm × 219 mm × 170 mm.",
+    "Peso: 1,63 kg.",
+    "Montaggio: staffa Speed-Lock."
+   ]
+  }
+ ],
+ "viste": [
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/polk-atrium-4-lato-staffa-1000.jpg",
+   "alt": "Polk Atrium 4 visto di lato con la staffa Speed-Lock",
+   "caption": "Lato"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/polk-atrium-4-retro-1000.jpg",
+   "alt": "Retro del Polk Atrium 4 con i morsetti dorati",
+   "caption": "Retro"
+  }
+ ],
+ "misure": {
+  "forma": "box",
+  "l": "144 mm",
+  "a": "219 mm",
+  "p": "170 mm"
+ },
+ "collega": [
+  {
+   "titolo": "Amplificazione",
+   "icona": "sorgente",
+   "voci": [
+    "compatibile con uscite da 8 Ω: un diffusore per canale.",
+    "Amplificazione: 10 – 80 W."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Dove montarlo",
+   "voci": [
+    "All'altezza delle orecchie o più in alto, inclinato verso la zona d'ascolto.",
+    "Al riparo dalla pioggia diretta e dal sole pieno quando possibile: dura di più.",
+    "Coppie a 2–3 m l'una dall'altra; per giardini grandi meglio più diffusori a volume basso."
+   ],
+   "posa": {
+    "tipo": "parete",
+    "distanza": "spazio libero",
+    "nota": "zona d'ascolto"
+   }
+  },
+  {
+   "titolo": "Montaggio in 6 passi",
+   "passi": [
+    [
+     "Scegli il punto",
+     "Al riparo dalla pioggia diretta quando possibile, all'altezza delle orecchie o più in alto con il diffusore inclinato verso la zona d'ascolto."
+    ],
+    [
+     "Fissa la staffa",
+     "Fissa la staffa a una superficie solida con viti e tasselli adatti al supporto (muratura, legno); sul cartongesso solo su un montante."
+    ],
+    [
+     "Porta i cavi",
+     "Usa cavo per esterni (da interramento se corre nel terreno). Lascia un'ansa sotto il diffusore, così l'acqua gocciola via prima dei morsetti."
+    ],
+    [
+     "Collega",
+     "Rispetta la polarità: + sul morsetto rosso, − sul nero, uguale su tutti i diffusori."
+    ],
+    [
+     "Monta e orienta",
+     "Aggancia il diffusore alla staffa Speed-Lock, ruotalo (180°) e inclinalo fino a 45° verso il basso."
+    ],
+    [
+     "Chiudi",
+     "Blocca i pomelli della staffa."
+    ]
+   ]
+  }
+ ],
+ "nota": "Dati dalla scheda Extrasound, ricavata dalla documentazione Polk.",
+ "extrasound": "https://www.extrasound.it/diffusore-da-esterno-polk-atrium-4",
+ "fonti": [],
+ "lista": "esterno.html",
+ "lista_label": "Da esterno",
+ "tipo_label": "Diffusore da esterno",
+ "slug": "polk-audio-atrium-4"
+}

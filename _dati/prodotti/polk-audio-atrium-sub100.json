@@ -1,0 +1,135 @@
+{
+ "id": 37718,
+ "tipo": "diffusore",
+ "cat": "E",
+ "tab": "Diffusori<br>da esterno",
+ "brand": "Polk Audio",
+ "model": "Atrium SUB100",
+ "crop": false,
+ "meta": "Polk Audio Atrium SUB100: subwoofer da esterno, subwoofer passivo. Ingombro, staffa, collegamenti e montaggio per l'installatore.",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/polk-atrium-sub100-terracotta-grigio-1000.jpg",
+  "alt": "Polk Atrium SUB100 terracotta e grigio"
+ },
+ "chiave": [
+  "subwoofer passivo · doppia bobina",
+  "Ingombro 428 mm × 279 mm × 428 mm",
+  "IPX66"
+ ],
+ "righe": [
+  "subwoofer passivo · woofer 10″ (25,4",
+  "Subwoofer da esterno",
+  "Polk Audio"
+ ],
+ "intro": [
+  "Il <strong>Polk Audio Atrium SUB100</strong> è un subwoofer da esterno subwoofer passivo: woofer 10″ (25,4 cm) a lunga escursione, rivolto verso il basso, doppia bobina 2″. doppia bobina, IPX66.",
+  "Ingombro <strong>428 mm × 279 mm × 428 mm</strong>."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "Subwoofer da esterno, subwoofer passivo.",
+    "Woofer 10″ (25,4 cm) a lunga escursione, rivolto verso il basso, doppia bobina 2″.",
+    "Protezione: IPX66.",
+    "Filtri passa-basso integrati.",
+    "Cavo da interramento CL3 a 4 conduttori da 1 m; scatola di giunzione stagna inclusa.",
+    "Terracotta o grigio, verniciabile.",
+    "Venduto singolarmente."
+   ]
+  },
+  {
+   "titolo": "Acustica",
+   "voci": [
+    "Impedenza: doppia bobina.",
+    "Amplificazione: 200 W."
+   ]
+  },
+  {
+   "titolo": "Dimensioni",
+   "voci": [
+    "Ingombro (L × A × P): 428 mm × 279 mm × 428 mm."
+   ]
+  }
+ ],
+ "viste": [
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/polk-atrium-sub100-woofer-1000.jpg",
+   "alt": "Polk Atrium SUB100 visto dal basso con il woofer",
+   "caption": "Vista"
+  },
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/polk-atrium-sub100-dotazione-1000.jpg",
+   "alt": "Polk Atrium SUB100 con la scatola di giunzione",
+   "caption": "Vista"
+  }
+ ],
+ "misure": {
+  "forma": "box",
+  "l": "428 mm",
+  "a": "279 mm",
+  "p": "428 mm"
+ },
+ "collega": [
+  {
+   "titolo": "Amplificazione",
+   "icona": "sorgente",
+   "voci": [
+    "doppia bobina: un diffusore per canale.",
+    "Amplificazione: 200 W."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Dove montarlo",
+   "voci": [
+    "Tra le piante o al centro della zona da sonorizzare.",
+    "Per giardini grandi meglio più diffusori a volume basso che pochi ad alto volume."
+   ],
+   "posa": {
+    "tipo": "parete",
+    "distanza": "spazio libero",
+    "nota": "zona d'ascolto"
+   }
+  },
+  {
+   "titolo": "Montaggio in 6 passi",
+   "passi": [
+    [
+     "Scegli il punto",
+     "Tra le piante o a ridosso di un muretto: la posizione del subwoofer si sente poco."
+    ],
+    [
+     "Interra",
+     "Interra il subwoofer secondo il manuale Polk, con la griglia in alluminio in alto."
+    ],
+    [
+     "Porta i cavi",
+     "Usa cavo per esterni (da interramento se corre nel terreno). Lascia un'ansa sotto il diffusore, così l'acqua gocciola via prima dei morsetti."
+    ],
+    [
+     "Collega",
+     "Collega il cavo a 4 conduttori nella scatola di giunzione stagna con i morsetti a cappuccio inclusi."
+    ],
+    [
+     "Collega i satelliti",
+     "I filtri passa-basso sono integrati: il subwoofer si abbina ai satelliti Atrium Sat300."
+    ],
+    [
+     "Chiudi",
+     "Chiudi la scatola di giunzione."
+    ]
+   ]
+  }
+ ],
+ "nota": "Dati dalla scheda Extrasound. Sensibilità e impedenza non sono dichiarate; procedura di collegamento da verificare sul manuale Polk.",
+ "extrasound": "https://www.extrasound.it/subwoofer-da-esterno-polk-atrium-sub-100",
+ "fonti": [],
+ "lista": "esterno.html",
+ "lista_label": "Da esterno",
+ "tipo_label": "Subwoofer da esterno",
+ "amp": "elac-is-amp8100",
+ "cavi": null,
+ "slug": "polk-audio-atrium-sub100"
+}
