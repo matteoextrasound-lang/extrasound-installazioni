@@ -28,7 +28,7 @@ def header(page):
     return f'''{GRUNGE}
 <canvas class="bg-waves" aria-hidden="true"></canvas>
 <header class="site-header">
-  <a class="logo" href="./" aria-label="Extrasound Custom, home">
+  <a class="logo" href="index.html" aria-label="Extrasound Custom, home">
     <span class="logo-red">EXTRASOUND</span><span class="logo-white">CUSTOM</span>
   </a>
   <button class="menu-toggle" aria-expanded="false" aria-controls="menu" aria-label="Apri il menu"><span></span><span></span></button>
@@ -50,7 +50,7 @@ def header(page):
 FOOTER = '''<footer class="site-footer">
   <div class="footer-inner">
     <div class="footer-col footer-brand">
-      <a class="logo logo-sm" href="./" aria-label="Extrasound Custom, home"><span class="logo-red">EXTRASOUND</span><span class="logo-white">CUSTOM</span></a>
+      <a class="logo logo-sm" href="index.html" aria-label="Extrasound Custom, home"><span class="logo-red">EXTRASOUND</span><span class="logo-white">CUSTOM</span></a>
       <p>Progetto, fornitura e installazione di impianti hi-fi, multiroom e home cinema su misura, a cura di Extrasound.</p>
       <a class="btn btn-sm" href="contatti.html">Richiedi un preventivo</a>
     </div>
