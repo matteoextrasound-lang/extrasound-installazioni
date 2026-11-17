@@ -128,7 +128,7 @@
    ]
   }
  ],
- "nota": "Dati dalla KEF Ci Group Specification Sheet, confrontati con la scheda Extrasound. La scheda Extrasound indica una risposta di «110 Hz – 24 Hz»: il limite alto corretto è 24 kHz. Fa fede il dato KEF.",
+ "nota": "Dati dalla KEF Ci Group Specification Sheet, confrontati con la scheda Extrasound.",
  "extrasound": "https://www.extrasound.it/kef-ci160ts-diffusore-in-wall-ultra-sottile",
  "fonti": [
   {

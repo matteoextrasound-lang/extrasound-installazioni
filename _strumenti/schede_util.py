@@ -32,7 +32,23 @@ def vista(i, caption):
     return {"src": i["src"], "alt": i["alt"], "caption": caption}
 
 
+# Prodotti la cui scheda su extrasound.it è stata allineata ai dati del produttore (17/11/2026):
+# dalla nota si tolgono le frasi sulle differenze con Extrasound.
+CORRETTI = {28281, 28178, 28046, 2918, 28246, 28234, 1757, 39961, 40834, 31975, 32050, 32085, 32068, 2909, 31048, 29870,
+            2361, 2822, 31580, 31589, 62254, 62268, 62280, 62294, 62308, 62322, 62336, 62350, 62439, 62453, 62467}
+FINE = r"\.(?=\s|$)"
+
+
+def pulisci_nota(n):
+    n = re.sub(r"\s*La scheda Extrasound (indica|riporta).*?" + FINE, "", n)
+    n = re.sub(r"\s*La profondità di montaggio \w+ differisce da quella indicata nella scheda Extrasound.*?" + FINE, "", n)
+    n = re.sub(r"\s*Fa fede il dato \w+" + FINE, "", n)
+    return n.strip()
+
+
 def salva(d):
+    if d.get("id") in CORRETTI and d.get("nota"):
+        d["nota"] = pulisci_nota(d["nota"])
     d.setdefault("slug", slug(f'{d["brand"]} {d["model"]}'))
     d.setdefault("tab", TAB.get(d["cat"][0], "Prodotti"))
     DATI.mkdir(parents=True, exist_ok=True)

@@ -134,7 +134,7 @@
    ]
   }
  ],
- "nota": "Dati dalla KEF Ci Group Specification Sheet, confrontati con la scheda Extrasound. La scheda Extrasound indica una risposta di 45 Hz – 20 kHz; KEF dichiara 35 Hz – 34 kHz. Fa fede il dato KEF.",
+ "nota": "Dati dalla KEF Ci Group Specification Sheet, confrontati con la scheda Extrasound.",
  "extrasound": "https://www.extrasound.it/diffusore-da-incasso-2-vie-woofer-200mm-uni-q-kef-ci200qs",
  "fonti": [
   {

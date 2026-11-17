@@ -219,7 +219,7 @@ def scheda(t):
     righe0 = f"{vie.split(',')[0]} · {drv[0].split(' in ')[0].split(' con ')[0].split(',')[0]}"
     chiave = [f"{vie.split(',')[0]} · {imp.split(' (')[0]}" if not ex.get("v100") else f"Linea 100 V · {ex['v100']}",
               f"Foro {fstr.replace(' (da confermare)', '').replace(' (dato Extrasound)', '')}", f"Profondità {prof}"]
-    nota = f"Dati dalla {f0['label']}, confrontati con la scheda Extrasound. ArtSound non pubblica un manuale di installazione per questa serie: la procedura segue il manuale ArtSound MDC6."
+    nota = ("Dati dal " if f0['label'].startswith('manuale') else "Dati dalla ") + f"{f0['label']}, confrontati con la scheda Extrasound. ArtSound non pubblica un manuale di installazione per questa serie: la procedura segue il manuale ArtSound MDC6."
     if ex.get("diff"):
         nota += " " + ex["diff"] + " Fa fede il dato ArtSound."
     intro = [f"L'<strong>ArtSound {mod}</strong> è un {tipo[0].lower() + tipo[1:]} della {serie}: {', '.join(drv)}. Impedenza {imp}.",
