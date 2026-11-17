@@ -8,6 +8,10 @@ in _strumenti/MANUTENZIONE.md). Da ognuno nasce scheda-<slug>.html; gli elenchi
 amplificatori.html e diffusori.html vengono aggiornati tra i segnaposto
 <!-- LISTA --> e <!-- /LISTA -->.
 """
+import json
+import sys
+sys.path.insert(0, str(__import__('pathlib').Path(__file__).parent))
+from uniforma import uniforma
 import json, pathlib, re, html
 from jinja2 import Environment, FileSystemLoader
 
@@ -33,7 +37,7 @@ def disegno(m):
         q.append('<circle cx="126" cy="169" r="104" class="cut"/>')
         q.append('<circle cx="126" cy="169" r="62" class="drv"/><circle cx="126" cy="169" r="20" class="drv-in"/>')
         if m.get("est"): q.append(f'<path d="M8 330H244M8 324v12M244 324v12" class="q"/><text x="126" y="350" class="qt">Ø {esc(m["est"])}</text>')
-        q.append(f'<path d="M22 22H230M22 16v12M230 16v12" class="q q-red"/><text x="126" y="14" class="qt qt-red">foro Ø {esc(m["foro"])}</text>')
+        q.append(f'<path d="M22 22H230M22 16v12M230 16v12" class="q q-red"/><text x="126" y="14" class="qt qt-red">foro {"Ø " + esc(m["foro"]) if m.get("foro") else "da dima"}</text>')
         top, bot = 51, 287
     else:
         l, a = m.get("est") or ["", ""], m["foro"]
@@ -172,8 +176,12 @@ def main():
     env.globals.update(disegno=disegno, schema=schema, posa=posa, icona=icona)
     tpl = env.get_template("scheda.html.j2")
     prodotti = []
+    tutti = {}
     for f in sorted(DATI.glob("*.json")):
-        p = json.loads(f.read_text(encoding="utf-8"))
+        q = json.loads(f.read_text(encoding="utf-8"))
+        tutti[q["slug"]] = q
+    for f in sorted(DATI.glob("*.json")):
+        p = uniforma(json.loads(f.read_text(encoding="utf-8")), tutti)
         amp = p["tipo"] == "amplificatore"
         p.setdefault("lista", "amplificatori.html" if amp else "diffusori.html")
         p.setdefault("lista_label", "Amplificatori" if amp else "Diffusori")
