@@ -23,7 +23,12 @@ CTRL = {"titolo": "Controllo", "icona": "domotica"}
 P = []  # schede: dict già nella forma finale (senza img, che si risolve sotto)
 
 
+ESCLUSI = {"marantz-av-10", "marantz-av-20", "marantz-av7706", "nad-m17-v2i", "nad-m28", "marantz-mm7025", "marantz-mm7055", "marantz-mm8077"}  # non specifici da installazione
+
+
 def scheda(id, brand, model, url, kind, chiave, righe, intro, car, ing, usc, imgs_spec, gui_cap, conf, collega, nota, fonti, slug=None):
+    if (slug or globals()["slug"](f"{brand} {model}")) in ESCLUSI:
+        return None
     I = imgs(imgs_spec)
     front, retro = I[0], next((i for i in I if any(k in i["alt"].lower() for k in ("posteriore", "retro"))), None)
     guiimg = next((i for i in I if "frontal" in i["alt"].lower() and i is not front), front)
@@ -203,7 +208,7 @@ def run():
             [f"{ch} ingressi XLR e {ch} RCA, selezionabili.", "RS232, Remote Bus, trigger in / out, IR."], [f"{ch} coppie di morsetti SPKT-1+."],
             img, "Non ha un'interfaccia a schermo: si accende e si controlla dal processore, via Remote Bus, trigger o RS232.",
             [conf_a and {"titolo": conf_a[0], "voci": ["Uscite pre del processore sugli ingressi XLR."], "zone": conf_a[1], "apparecchio": f"Marantz {mod}"}, {"titolo": conf_b[0], "voci": ["Due canali in BTL per ogni diffusore più impegnativo."], "zone": conf_b[1], "apparecchio": f"Marantz {mod}"}],
-            [THX(["LCR da incasso THX, 4 Ω."]), card("marantz-av-10" if ch == 16 else "marantz-av-20", ["Processore AV di riferimento Marantz."], "Con il Marantz AV 10" if ch == 16 else "Con il Marantz AV 20"), CTRL | {"voci": ["RS232, Remote Bus, trigger."]}],
+            [THX(["LCR da incasso THX, 4 Ω."]), card("arcam-av41", ["Processore AV a 16 canali con uscite XLR."], "Con l'Arcam AV41"), CTRL | {"voci": ["RS232, Remote Bus, trigger."]}],
             ESTR + ", confrontata con l'infosheet Marantz AMP 10." if ch == 16 else ESTR + ".", [F("infosheet Marantz AMP 10", "https://www.cepro.com/wp-content/uploads/2023/01/Marantz-Amp-10-–-Infosheet.pdf")] if ch == 16 else []))
     for (id, mod, url, ch, w8, w4, ex, conf_b, img, slug) in (
         (27592, "RMB-1555", "finale-di-potenza-multicanale-120w-x-5-rotel-rmb-1555", 5, "120 W", "170 W", "fattore di smorzamento 180; S/N 116 dB; guadagno 26,5 dB; consumo 650 W, standby 0,5 W; 431 × 188 × 454 mm (4U), 21,8 kg",
@@ -278,4 +283,5 @@ def run():
 
 if __name__ == "__main__":
     for s in run():
-        print(s)
+        if s:
+            print(s)

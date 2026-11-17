@@ -237,4 +237,5 @@ def scheda(t):
 
 if __name__ == "__main__":
     for t in M:
-        print(scheda(t))
+        if t[0] != 42904:  # ArtSound UNI75: cassa professionale per eventi, esclusa
+            print(scheda(t))
