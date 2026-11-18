@@ -38,6 +38,8 @@ def header(page):
       <button class="sub-toggle" aria-expanded="false" aria-controls="sub-prodotti">Prodotti<svg viewBox="0 0 12 8" aria-hidden="true"><path d="M1 1.5l5 5 5-5" fill="none" stroke="currentColor" stroke-width="1.6"/></svg></button>
       <div class="submenu" id="sub-prodotti">
         <a href="elettroniche.html"{cur(page, "elettroniche.html")}>Elettroniche</a>
+        <a class="sub-2" href="elettroniche.html#linea=Z">Uscita a impedenza</a>
+        <a class="sub-2" href="elettroniche.html#linea=V">Uscita a tensione costante 70/100 V</a>
         <a href="diffusori.html"{cur(page, "diffusori.html")}>Diffusori</a>
         <a class="sub-2" href="diffusori.html#linea=Z">A impedenza</a>
         <a class="sub-2" href="diffusori.html#linea=V">A tensione costante 70/100 V</a>
@@ -62,7 +64,7 @@ FOOTER = '''<footer class="site-footer">
     </div>
     <div class="footer-col">
       <p class="footer-head">Prodotti</p>
-      <p><a href="elettroniche.html">Elettroniche</a><br><a href="diffusori.html">Diffusori</a><br><a href="diffusori.html#linea=Z">· a impedenza</a><br><a href="diffusori.html#linea=V">· a tensione costante 70/100 V</a><br><a href="impianti.html">Impianti tipo</a></p>
+      <p><a href="elettroniche.html">Elettroniche</a><br><a href="elettroniche.html#linea=Z">· uscita a impedenza</a><br><a href="elettroniche.html#linea=V">· uscita a tensione costante 70/100 V</a><br><a href="diffusori.html">Diffusori</a><br><a href="diffusori.html#linea=Z">· a impedenza</a><br><a href="diffusori.html#linea=V">· a tensione costante 70/100 V</a><br><a href="impianti.html">Impianti tipo</a></p>
       <p class="footer-head">Negozio</p>
       <p><a href="https://www.extrasound.it" target="_blank" rel="noopener">extrasound.it</a></p>
     </div>

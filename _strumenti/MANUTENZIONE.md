@@ -79,6 +79,6 @@ Questa cartella non viene pubblicata (GitHub Pages ignora le cartelle che inizia
 ## Struttura prodotti (dal 17/11/2026)
 - Due elenchi: `elettroniche.html` (tutti gli amplificatori: cat M e H) e `diffusori.html` (tutti i diffusori, da esterno compresi).
 - `amplificatori.html`, `esterno.html`, `home-cinema.html` sono solo rimandi per i vecchi link.
-- Diffusori divisi per collegamento: dizionario `LINEA` in `genera_schede.py` (Z impedenza, V tensione costante 70/100 V, ZV entrambi). Default Z. Un nuovo diffusore 70/100 V va aggiunto lì, con la fonte del produttore nel commento.
+- Diffusori ed elettroniche divisi per collegamento (per le elettroniche: tipo di uscita): dizionario `LINEA` in `genera_schede.py` (Z impedenza, V tensione costante 70/100 V, ZV entrambi). Default Z. Un nuovo diffusore 70/100 V va aggiunto lì, con la fonte del produttore nel commento.
 - Filtri preselezionabili da indirizzo: `diffusori.html#linea=V`, `diffusori.html#cat=E`, `elettroniche.html#cat=H`.
 - Logo: immagine `logo-rosso-bianco-extrasound.png` di extrasound.it + "B2B" (costante `LOGO` in `build.py`).

@@ -17,7 +17,7 @@ from jinja2 import Environment, FileSystemLoader
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 DATI = ROOT / "_dati" / "prodotti"
-V = "14"  # versione di css/js
+V = "15"  # versione di css/js
 
 SOTTO = {  # sottocategorie: codice -> etichetta
     "M": "Amplificatori multicanale", "P": "Da incasso a parete", "S": "Da incasso a soffitto",
@@ -35,15 +35,25 @@ esc = lambda s: html.escape(str(s), quote=True)
 #  - Focal 100 ICW5/ICW6/ICW8 e 100 OD6/OD8: versioni 8 Ω e versioni "-T" con trasformatore 70/100 V
 #    (serie Focal 100-T: ICW5-T, ICW6-T, ICW8-T, OD6-T, OD8-T; focal.com).
 #  Tutti gli altri diffusori del catalogo sono a impedenza (Garvan: trasformatore solo come accessorio opzionale).
+# Elettroniche, stesso criterio sull'uscita:
+#  - ArtSound MX-120M: "sortie directe 70V / 100V / 4-16 Ω" (scheda ArtSound MX-120M).
+#  - ArtSound MX60MKII: 1 x 60 W su 4 / 8 Ω / 70 V / 100 V, le due uscite non in contemporanea (scheda ArtSound MX60MKII).
+#  Tutte le altre elettroniche hanno solo uscite a bassa impedenza.
 LINEA = {"artsound-mdt600-p": "V", "artsound-mdt500-p": "ZV", "artsound-kurv": "ZV",
+         "artsound-mx-120m": "ZV", "artsound-mx60mkii": "ZV",
          "focal-100-icw5": "ZV", "focal-100-icw6": "ZV", "focal-100-icw8": "ZV", "focal-100-od6": "ZV", "focal-100-od8": "ZV"}
 LINEA_LABEL = {"Z": "A impedenza", "V": "A tensione costante 70/100 V"}
+LINEA_LABEL_AMP = {"Z": "Uscita a impedenza", "V": "Uscita a tensione costante 70/100 V"}
 VECCHIE = {'href="amplificatori.html"': 'href="elettroniche.html#cat=M"', 'href="home-cinema.html"': 'href="elettroniche.html#cat=H"',
            'href="esterno.html"': 'href="diffusori.html#cat=E"'}
 
 
 def linea(p):
-    return LINEA.get(p["slug"], "Z") if p["tipo"] == "diffusore" else ""
+    return LINEA.get(p["slug"], "Z")
+
+
+def etichette(p):
+    return LINEA_LABEL_AMP if p["tipo"] == "amplificatore" else LINEA_LABEL
 
 
 def vecchi_link(s):
@@ -191,19 +201,20 @@ def card(p):
     if ln == "V":
         sotto += " · linea 70/100 V"
     elif ln == "ZV":
-        sotto += " · anche 70/100 V"
+        sotto += " · uscita anche 70/100 V" if p["tipo"] == "amplificatore" else " · anche 70/100 V"
     return (f'<a class="pcard reveal" href="scheda-{p["slug"]}.html" data-cat="{esc(p["cat"])}" data-brand="{esc(p["brand"])}" data-linea="{ln}">'
             f'<span class="pcard-img"><img src="{esc(p["img"]["src"])}" alt="{esc(p["img"]["alt"])}" width="1000" height="1000" loading="lazy"></span>'
             f'<span class="pcard-brand">{esc(p["brand"])}</span><span class="pcard-name">{esc(p["model"])}</span>'
             f'<span class="pcard-sub">{esc(sotto)}</span><ul class="pcard-keys">{chiave}</ul></a>')
 
 
-def lista(prodotti, filtri, conlinea=False):
+def lista(prodotti, filtri, conlinea=True):
     marche = sorted({p["brand"] for p in prodotti})
     lchips = ""
     if conlinea:
-        lc = ['<button class="chip is-on" data-f="linea" data-v="*">Tutti i collegamenti</button>']
-        for k, lab in LINEA_LABEL.items():
+        amp = prodotti[0]["tipo"] == "amplificatore"
+        lc = [f'<button class="chip is-on" data-f="linea" data-v="*">{"Tutte le uscite" if amp else "Tutti i collegamenti"}</button>']
+        for k, lab in etichette(prodotti[0]).items():
             n = sum(1 for p in prodotti if k in linea(p))
             lc.append(f'<button class="chip chip-linea" data-f="linea" data-v="{k}">{lab} <small>{n}</small></button>')
         lchips = '<div class="chips chips-linea">' + "".join(lc) + "</div>"
@@ -235,8 +246,7 @@ def main():
         p["lista"] = "elettroniche.html" if amp else "diffusori.html"
         p["lista_label"] = "Elettroniche" if amp else "Diffusori"
         ln = linea(p)
-        p["crumb2"] = ([(LINEA_LABEL[k], f"diffusori.html#linea={k}") for k in ln] if ln
-                       else [(SOTTO[p["cat"][0]], f'elettroniche.html#cat={p["cat"][0]}')] if p["cat"][0] in SOTTO else [])
+        p["crumb2"] = [(etichette(p)[k], f'{p["lista"]}#linea={k}') for k in ln]
         p.setdefault("tipo_label", "Amplificatore da installazione" if amp else "Diffusore da incasso")
         p.setdefault("lato_titolo", "Cosa si collega" if amp else "Misure di montaggio")
         for k in ("collega", "sistemi", "viste", "intro", "fonti"):
@@ -260,7 +270,7 @@ def main():
         s = f.read_text(encoding="utf-8")
         sel = [p for p in prodotti if sel_f(p)]
         sel.sort(key=lambda p: (p["brand"], p["model"]))
-        s = re.sub(r"<!-- LISTA -->.*?<!-- /LISTA -->", lambda _: "<!-- LISTA -->\n" + lista(sel, filtri, nome == "diffusori.html") + "\n<!-- /LISTA -->", s, flags=re.S)
+        s = re.sub(r"<!-- LISTA -->.*?<!-- /LISTA -->", lambda _: "<!-- LISTA -->\n" + lista(sel, filtri) + "\n<!-- /LISTA -->", s, flags=re.S)
         f.write_text(s, encoding="utf-8")
     print(f"{len(prodotti)} schede generate")
 
