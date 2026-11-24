@@ -9,7 +9,7 @@ import pathlib, re
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 SCHEDE = sorted(p.name for p in ROOT.glob("scheda-*.html"))   # schede prodotto generate da genera_schede.py
-PAGES = ["index.html", "elettroniche.html", "diffusori.html", "impianti.html", "contatti.html"] + SCHEDE
+PAGES = ["index.html", "elettroniche.html", "diffusori.html", "impianti.html", "contatti.html", "richiesta.html"] + SCHEDE
 PRODOTTI = ["elettroniche.html", "diffusori.html"] + SCHEDE
 # amplificatori.html, esterno.html e home-cinema.html sono solo rimandi alle nuove pagine (vecchi link)
 LOGO = ('<img src="https://www.extrasound.it/wp-content/uploads/logo-rosso-bianco-extrasound.png" alt="Extrasound" width="500" height="76">'
@@ -55,7 +55,7 @@ FOOTER = '''<footer class="site-footer">
     <div class="footer-col footer-brand">
       <a class="logo logo-sm" href="index.html" aria-label="Extrasound B2B, home">''' + LOGO + '''</a>
       <p>Progetto, fornitura e installazione di impianti hi-fi, multiroom e home cinema su misura, a cura di Extrasound.</p>
-      <a class="btn btn-sm" href="contatti.html">Richiedi un preventivo</a>
+      <a class="btn btn-sm" href="richiesta.html">Concludi la lista</a>
     </div>
     <div class="footer-col">
       <p class="footer-head">Contatti</p>

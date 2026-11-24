@@ -296,6 +296,11 @@ main{padding-top:96px}
 .crumb-sep{margin:0 8px;opacity:.5}
 .count{font-size:13px;color:#888}
 .pgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:18px}
+.pcard-link{display:flex;flex-direction:column;flex:1;text-decoration:none;color:inherit}
+.pcard-add{margin-top:14px;width:100%;border:1px solid #d9d9d9;background:#fff;color:#111;border-radius:999px;padding:10px 14px;
+  font:600 13px var(--sans);cursor:pointer;transition:border-color .25s,color .25s,background .25s}
+.pcard-add:hover{border-color:var(--red);color:var(--red)}
+.pcard-add.is-in,.btn-add.is-in{background:#111;border-color:#111;color:#fff}
 .pcard{display:flex;flex-direction:column;text-decoration:none;color:#111;border:1px solid #ececec;border-radius:14px;padding:16px;background:#fff;
   transition:box-shadow .35s,transform .35s var(--ease),border-color .35s}
 .pcard:hover{box-shadow:0 16px 36px rgba(0,0,0,.08);transform:translateY(-3px);border-color:#ddd}
@@ -369,3 +374,76 @@ main{padding-top:96px}
   .js .feature-media,.js .feature-text > *,.main-menu > *,.js .reveal{transform:none!important;opacity:1!important}
   .bg-waves{display:none}
 }
+
+/* ===== Lista prodotti B2B ===== */
+.btn-add{border:0;cursor:pointer;font:600 16px var(--sans)}
+.model-add{margin-top:22px}
+.lista-dock{position:fixed;right:20px;bottom:20px;z-index:60;display:flex;flex-direction:column;align-items:flex-end;gap:10px;font-family:var(--sans)}
+.lista-toggle{display:inline-flex;align-items:center;gap:10px;background:#111;color:#fff;border:1px solid #333;border-radius:999px;
+  padding:13px 18px 13px 16px;font:600 15px var(--sans);cursor:pointer;box-shadow:0 14px 34px -12px rgba(0,0,0,.55);transition:transform .3s var(--ease)}
+.lista-toggle svg{width:20px;height:20px;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round}
+.lista-toggle:hover{transform:translateY(-2px)}
+.lista-n{min-width:24px;height:24px;border-radius:12px;background:var(--red);display:inline-grid;place-items:center;font-size:13px;padding:0 6px}
+.lista-dock.is-empty .lista-n{background:#444}
+.lista-dock.bump .lista-toggle{animation:listaBump .5s var(--ease)}
+@keyframes listaBump{40%{transform:scale(1.08)}}
+.lista-toast{background:#fff;color:#111;border-radius:10px;padding:9px 14px;font-size:13px;box-shadow:0 10px 30px -10px rgba(0,0,0,.4);
+  opacity:0;transform:translateY(6px);transition:opacity .25s,transform .25s;pointer-events:none;max-width:280px}
+.lista-dock.has-toast:not(.is-open) .lista-toast{opacity:1;transform:none}
+.lista-dock.is-open .lista-toast{display:none}
+.lista-panel{width:min(380px,calc(100vw - 32px));max-height:min(70vh,560px);display:flex;flex-direction:column;background:#fff;color:#111;
+  border-radius:16px;box-shadow:0 24px 60px -18px rgba(0,0,0,.55);overflow:hidden}
+.lista-panel[hidden]{display:none}
+.lista-head{display:flex;align-items:center;justify-content:space-between;padding:14px 16px;border-bottom:1px solid #eee}
+.lista-head b{font-family:var(--display);font-weight:500;font-size:22px;text-transform:uppercase;letter-spacing:.02em}
+.lista-x{border:0;background:none;font-size:26px;line-height:1;cursor:pointer;color:#777;padding:0 4px}
+.lista-items{list-style:none;overflow:auto;padding:4px 16px;margin:0}
+.lista-items li,.riepilogo li{display:grid;grid-template-columns:48px 1fr auto auto;align-items:center;gap:10px;padding:10px 0;border-bottom:1px solid #f2f2f2}
+.li-img{display:block;width:48px;height:48px}
+.li-img img{width:100%;height:100%;object-fit:contain;mix-blend-mode:multiply}
+.li-t{color:#111;text-decoration:none;font-weight:600;font-size:14px;line-height:1.25}
+.li-t small{display:block;font-size:10px;letter-spacing:.2em;text-transform:uppercase;color:#999;font-weight:600}
+.li-q{display:inline-flex;align-items:center;border:1px solid #ddd;border-radius:999px;overflow:hidden}
+.li-q button{border:0;background:none;width:28px;height:30px;cursor:pointer;font-size:16px;color:#333}
+.li-q input{width:36px;border:0;text-align:center;font:600 14px var(--sans);-moz-appearance:textfield;background:transparent;color:#111}
+.li-q input::-webkit-inner-spin-button,.li-q input::-webkit-outer-spin-button{-webkit-appearance:none;margin:0}
+.li-rm{border:0;background:none;color:#aaa;font-size:20px;cursor:pointer;padding:0 2px}
+.li-rm:hover{color:var(--red)}
+.lista-empty{display:none;padding:18px 16px;font-size:14px;color:#666}
+.lista-dock.is-empty .lista-empty{display:block}
+.lista-foot{display:flex;align-items:center;justify-content:space-between;gap:10px;padding:14px 16px;border-top:1px solid #eee}
+.lista-go{flex:1;text-align:center}
+.lista-go.is-off{opacity:.35;pointer-events:none}
+.lista-clear{border:0;background:none;color:#888;font:500 13px var(--sans);cursor:pointer;text-decoration:underline}
+@media(max-width:600px){.lista-dock{right:12px;bottom:12px}.lista-toggle{padding:11px 14px}}
+
+/* ===== Pagina richiesta ===== */
+.req-grid{display:grid;grid-template-columns:minmax(0,1.35fr) minmax(0,1fr);gap:40px;align-items:start}
+.req-form fieldset{border:0;padding:0;margin:0 0 30px}
+.req-form legend{font-family:var(--display);font-weight:500;font-size:26px;text-transform:uppercase;letter-spacing:.02em;margin-bottom:12px;color:#111}
+.req-row{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}
+.req-row.r3{grid-template-columns:2fr 1fr 1fr}
+.req-form label{display:block;font-size:13px;font-weight:600;color:#333;margin-bottom:14px}
+.req-form label span.opz{font-weight:400;color:#999}
+.req-form input[type=text],.req-form input[type=email],.req-form input[type=tel],.req-form textarea{display:block;width:100%;margin-top:6px;
+  border:1px solid #d6d6d6;border-radius:10px;padding:12px 14px;font:400 16px var(--sans);color:#111;background:#fff}
+.req-form input:focus,.req-form textarea:focus{outline:2px solid var(--red);outline-offset:0;border-color:transparent}
+.req-form textarea{min-height:96px;resize:vertical}
+.req-form .hint{font-size:12.5px;color:#777;margin:-6px 0 14px}
+.req-radio label{display:flex;gap:10px;align-items:center;font-weight:500;margin-bottom:8px}
+.req-check{display:flex!important;gap:10px;align-items:flex-start;font-weight:400!important}
+.req-check input{margin-top:4px}
+.hp{position:absolute;left:-9999px;width:1px;height:1px;overflow:hidden}
+.req-side{position:sticky;top:100px;background:#f6f6f6;border-radius:18px;padding:22px}
+.req-side h2{font-family:var(--display);font-weight:500;font-size:26px;text-transform:uppercase;margin-bottom:6px;color:#111}
+.req-side .riepilogo{list-style:none;margin:0 0 10px;padding:0}
+.req-side .riepilogo li{border-color:#e6e6e6}
+.req-side .vuota{font-size:14px;color:#666;margin:10px 0}
+.req-msg{border-radius:12px;padding:16px 18px;margin-top:18px;font-size:15px}
+.req-msg.ok{background:#eaf6ec;color:#1d5b2a}
+.req-msg.err{background:#fdeceb;color:#8a1c17}
+.req-msg pre{white-space:pre-wrap;font:13px/1.5 ui-monospace,monospace;background:#fff;border-radius:8px;padding:10px;margin-top:10px;max-height:240px;overflow:auto;color:#333}
+.req-form button[type=submit]{border:0;cursor:pointer;font:600 17px var(--sans)}
+.req-form button[disabled]{opacity:.5;cursor:wait}
+@media(max-width:900px){.req-grid{grid-template-columns:1fr}.req-side{position:static;order:-1}}
+@media(max-width:560px){.req-row,.req-row.r3{grid-template-columns:1fr}}

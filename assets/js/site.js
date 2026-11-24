@@ -144,3 +144,123 @@
   document.addEventListener('visibilitychange', function(){ if (!document.hidden) size(); });
   requestAnimationFrame(draw);
 })();
+
+/* ===== Lista prodotti (B2B) =====
+   La lista resta nel browser di chi la compila (localStorage, se disponibile).
+   "Concludi lista" porta a richiesta.html, dove si inviano lista e dati aziendali. */
+(function(){
+  var KEY = 'esb2b-lista', mem = [];
+  function load(){ try { var v = JSON.parse(localStorage.getItem(KEY) || '[]'); return Array.isArray(v) ? v : []; } catch(e){ return mem; } }
+  function save(l){ mem = l; try { localStorage.setItem(KEY, JSON.stringify(l)); } catch(e){} render(); }
+  function esc(s){ return String(s).replace(/[&<>"']/g, function(c){ return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]; }); }
+  function totale(l){ return l.reduce(function(n, x){ return n + x.qty; }, 0); }
+  window.ESLista = {
+    get: load,
+    set: function(slug, qty){ var l = load(); l.forEach(function(x){ if (x.slug === slug) x.qty = Math.max(1, Math.min(999, qty | 0 || 1)); }); save(l); },
+    remove: function(slug){ save(load().filter(function(x){ return x.slug !== slug; })); },
+    clear: function(){ save([]); },
+    onchange: []
+  };
+
+  /* finestrella in basso a destra (non su richiesta.html, dove la lista è nella pagina) */
+  var inPagina = !!document.getElementById('richiesta');
+  var dock = null, panel, items, nEl, toast;
+  if (!inPagina){
+    dock = document.createElement('aside');
+    dock.className = 'lista-dock';
+    dock.setAttribute('aria-label', 'Lista prodotti');
+    dock.innerHTML =
+      '<div class="lista-panel" id="lista-panel" hidden>' +
+        '<div class="lista-head"><b>La tua lista</b><button type="button" class="lista-x" aria-label="Chiudi la lista">&times;</button></div>' +
+        '<ul class="lista-items"></ul>' +
+        '<p class="lista-empty">Nessun prodotto. Apri una scheda o un elenco e premi <em>Aggiungi alla lista</em>.</p>' +
+        '<div class="lista-foot"><a class="btn lista-go" href="richiesta.html">Concludi lista</a><button type="button" class="lista-clear">Svuota</button></div>' +
+      '</div>' +
+      '<p class="lista-toast" role="status" aria-live="polite"></p>' +
+      '<button type="button" class="lista-toggle" aria-expanded="false" aria-controls="lista-panel">' +
+        '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 6h13M8 12h13M8 18h13M3.5 6h.01M3.5 12h.01M3.5 18h.01"/></svg>' +
+        '<span>Lista</span><span class="lista-n">0</span></button>';
+    document.body.appendChild(dock);
+    panel = dock.querySelector('.lista-panel'); items = dock.querySelector('.lista-items');
+    nEl = dock.querySelector('.lista-n'); toast = dock.querySelector('.lista-toast');
+    var tg = dock.querySelector('.lista-toggle');
+    function apri(on){ panel.hidden = !on; tg.setAttribute('aria-expanded', on); dock.classList.toggle('is-open', on);
+      try { sessionStorage.setItem(KEY + '-open', on ? '1' : ''); } catch(e){} }
+    tg.addEventListener('click', function(){ apri(panel.hidden); });
+    dock.querySelector('.lista-x').addEventListener('click', function(){ apri(false); });
+    dock.querySelector('.lista-clear').addEventListener('click', function(){ window.ESLista.clear(); });
+    document.addEventListener('keydown', function(e){ if (e.key === 'Escape' && !panel.hidden) apri(false); });
+    try { if (sessionStorage.getItem(KEY + '-open') && load().length) apri(true); } catch(e){}
+  }
+
+  /* riga modificabile: usata sia nella finestrella sia in richiesta.html */
+  function riga(x){
+    return '<li data-slug="' + esc(x.slug) + '">' +
+      '<a class="li-img" href="scheda-' + esc(x.slug) + '.html"><img src="' + esc(x.img || '') + '" alt="" loading="lazy"></a>' +
+      '<a class="li-t" href="scheda-' + esc(x.slug) + '.html"><small>' + esc(x.brand) + '</small>' + esc(x.model) + '</a>' +
+      '<span class="li-q"><button type="button" data-q="-1" aria-label="Diminuisci">&minus;</button>' +
+      '<input type="number" min="1" max="999" value="' + x.qty + '" aria-label="Quantità ' + esc(x.brand + ' ' + x.model) + '">' +
+      '<button type="button" data-q="1" aria-label="Aumenta">+</button></span>' +
+      '<button type="button" class="li-rm" aria-label="Togli ' + esc(x.brand + ' ' + x.model) + ' dalla lista">&times;</button></li>';
+  }
+  function collega(ul){
+    ul.addEventListener('click', function(e){
+      var li = e.target.closest('li'); if (!li) return;
+      var s = li.dataset.slug, b = e.target.closest('button'); if (!b) return;
+      if (b.classList.contains('li-rm')) return window.ESLista.remove(s);
+      if (b.dataset.q){ var inp = li.querySelector('input'); window.ESLista.set(s, (+inp.value || 1) + (+b.dataset.q)); }
+    });
+    ul.addEventListener('change', function(e){
+      var li = e.target.closest('li'); if (li && e.target.tagName === 'INPUT') window.ESLista.set(li.dataset.slug, +e.target.value);
+    });
+  }
+  window.ESLista.riga = riga; window.ESLista.collega = collega;
+  if (items) collega(items);
+
+  function render(){
+    var l = load();
+    if (dock){
+      items.innerHTML = l.map(riga).join('');
+      nEl.textContent = totale(l);
+      dock.classList.toggle('is-empty', !l.length);
+      dock.querySelector('.lista-go').classList.toggle('is-off', !l.length);
+    }
+    document.querySelectorAll('[data-add]').forEach(function(b){
+      var x = l.filter(function(y){ return y.slug === b.dataset.slug; })[0];
+      b.classList.toggle('is-in', !!x);
+      b.textContent = x ? 'In lista (' + x.qty + ') · aggiungi' : 'Aggiungi alla lista';
+    });
+    window.ESLista.onchange.forEach(function(f){ f(l); });
+  }
+
+  var tt;
+  function avvisa(t){
+    if (!dock) return;
+    toast.textContent = t;
+    dock.classList.remove('bump'); void dock.offsetWidth; dock.classList.add('bump', 'has-toast');
+    clearTimeout(tt); tt = setTimeout(function(){ dock.classList.remove('has-toast'); }, 2400);
+  }
+  /* impianti tipo: aggiunge tutti i prodotti con le quantità indicate */
+  document.addEventListener('click', function(e){
+    var b = e.target.closest('[data-add-set]'); if (!b) return;
+    var set; try { set = JSON.parse(b.dataset.addSet); } catch(err){ return; }
+    var l = load();
+    set.forEach(function(s){
+      var x = l.filter(function(y){ return y.slug === s.slug; })[0];
+      if (x) x.qty = Math.min(999, x.qty + s.qty); else l.push(s);
+    });
+    save(l);
+    avvisa('Aggiunti ' + set.length + ' prodotti dell\u2019impianto');
+  });
+  document.addEventListener('click', function(e){
+    var b = e.target.closest('[data-add]'); if (!b) return;
+    e.preventDefault();
+    var l = load(), x = l.filter(function(y){ return y.slug === b.dataset.slug; })[0];
+    if (x) x.qty = Math.min(999, x.qty + 1);
+    else l.push({slug: b.dataset.slug, brand: b.dataset.brand, model: b.dataset.model, img: b.dataset.img, qty: 1});
+    save(l);
+    avvisa('Aggiunto: ' + b.dataset.brand + ' ' + b.dataset.model);
+  });
+  window.addEventListener('storage', function(e){ if (e.key === KEY) render(); });
+  render();
+})();

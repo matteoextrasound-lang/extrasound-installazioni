@@ -17,7 +17,7 @@ from jinja2 import Environment, FileSystemLoader
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 DATI = ROOT / "_dati" / "prodotti"
-V = "15"  # versione di css/js
+V = "16"  # versione di css/js
 
 SOTTO = {  # sottocategorie: codice -> etichetta
     "M": "Amplificatori multicanale", "P": "Da incasso a parete", "S": "Da incasso a soffitto",
@@ -202,10 +202,14 @@ def card(p):
         sotto += " · linea 70/100 V"
     elif ln == "ZV":
         sotto += " · uscita anche 70/100 V" if p["tipo"] == "amplificatore" else " · anche 70/100 V"
-    return (f'<a class="pcard reveal" href="scheda-{p["slug"]}.html" data-cat="{esc(p["cat"])}" data-brand="{esc(p["brand"])}" data-linea="{ln}">'
+    dati = (f'data-slug="{esc(p["slug"])}" data-brand="{esc(p["brand"])}" data-model="{esc(p["model"])}" '
+            f'data-img="{esc(p["img"]["src"])}"')
+    return (f'<article class="pcard reveal" data-cat="{esc(p["cat"])}" data-brand="{esc(p["brand"])}" data-linea="{ln}">'
+            f'<a class="pcard-link" href="scheda-{p["slug"]}.html">'
             f'<span class="pcard-img"><img src="{esc(p["img"]["src"])}" alt="{esc(p["img"]["alt"])}" width="1000" height="1000" loading="lazy"></span>'
             f'<span class="pcard-brand">{esc(p["brand"])}</span><span class="pcard-name">{esc(p["model"])}</span>'
-            f'<span class="pcard-sub">{esc(sotto)}</span><ul class="pcard-keys">{chiave}</ul></a>')
+            f'<span class="pcard-sub">{esc(sotto)}</span><ul class="pcard-keys">{chiave}</ul></a>'
+            f'<button class="pcard-add" type="button" data-add {dati}>Aggiungi alla lista</button></article>')
 
 
 def lista(prodotti, filtri, conlinea=True):

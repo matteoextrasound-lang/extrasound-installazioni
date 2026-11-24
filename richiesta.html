@@ -1,0 +1,146 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Concludi la lista · Extrasound B2B</title>
+<meta name="description" content="Invia la lista dei prodotti e i dati aziendali: Extrasound prepara il preventivo per la tua azienda.">
+<meta name="robots" content="noindex, nofollow">
+<meta name="theme-color" content="#0a0a0a">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Barlow+Condensed:wght@300;400;500;600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/site.css?v=16">
+</head>
+<body>
+<!-- HEADER -->
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+  <filter id="grunge" x="0" y="0" width="100%" height="100%">
+    <feTurbulence type="fractalNoise" baseFrequency="1.4 0.09" numOctaves="2" seed="7" result="n"/>
+    <feColorMatrix in="n" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 -1.7 1.95" result="mask"/>
+    <feComposite in="SourceGraphic" in2="mask" operator="in"/>
+  </filter>
+</svg>
+<canvas class="bg-waves" aria-hidden="true"></canvas>
+<header class="site-header">
+  <a class="logo" href="index.html" aria-label="Extrasound B2B, home"><img src="https://www.extrasound.it/wp-content/uploads/logo-rosso-bianco-extrasound.png" alt="Extrasound" width="500" height="76"><span class="logo-b2b">B2B</span></a>
+  <button class="menu-toggle" aria-expanded="false" aria-controls="menu" aria-label="Apri il menu"><span></span><span></span></button>
+  <nav id="menu" class="main-menu" aria-label="Menu principale">
+    <div class="has-sub">
+      <button class="sub-toggle" aria-expanded="false" aria-controls="sub-prodotti">Prodotti<svg viewBox="0 0 12 8" aria-hidden="true"><path d="M1 1.5l5 5 5-5" fill="none" stroke="currentColor" stroke-width="1.6"/></svg></button>
+      <div class="submenu" id="sub-prodotti">
+        <a href="elettroniche.html">Elettroniche</a>
+        <a class="sub-2" href="elettroniche.html#linea=Z">Uscita a impedenza</a>
+        <a class="sub-2" href="elettroniche.html#linea=V">Uscita a tensione costante 70/100 V</a>
+        <a href="diffusori.html">Diffusori</a>
+        <a class="sub-2" href="diffusori.html#linea=Z">A impedenza</a>
+        <a class="sub-2" href="diffusori.html#linea=V">A tensione costante 70/100 V</a>
+      </div>
+    </div>
+    <a href="impianti.html" class="menu-link">Impianti tipo</a>
+    <a href="contatti.html" class="menu-cta">Contattaci</a>
+  </nav>
+</header>
+<!-- /HEADER -->
+
+<main id="richiesta">
+  <section class="page-hero page-hero-sm">
+    <div class="wrap">
+      <p class="kicker"><span class="eq" aria-hidden="true"><i></i><i></i><i></i><i></i></span>Lista prodotti</p>
+      <h1>Concludi la <em>lista</em></h1>
+      <p class="lead">Controlla prodotti e quantità, poi inserisci i dati dell'azienda. Ti mandiamo il preventivo e, a conferma, la fattura intestata.</p>
+    </div>
+  </section>
+
+  <section class="band">
+    <div class="wrap req-grid">
+      <form class="req-form" id="req-form" novalidate>
+        <fieldset>
+          <legend>Azienda</legend>
+          <label>Ragione sociale<input type="text" name="ragione_sociale" required autocomplete="organization"></label>
+          <div class="req-row">
+            <label>Partita IVA<input type="text" name="piva" required inputmode="numeric" placeholder="IT01234567890"></label>
+            <label>Codice fiscale <span class="opz">(se diverso)</span><input type="text" name="cf"></label>
+          </div>
+          <div class="req-row">
+            <label>Codice destinatario SDI<input type="text" name="sdi" maxlength="7" placeholder="7 caratteri"></label>
+            <label>PEC<input type="email" name="pec" placeholder="azienda@pec.it"></label>
+          </div>
+          <p class="hint">Per la fattura elettronica basta uno dei due: codice SDI oppure PEC.</p>
+          <label>Indirizzo sede legale<input type="text" name="indirizzo" required autocomplete="street-address"></label>
+          <div class="req-row r3">
+            <label>Città<input type="text" name="citta" required autocomplete="address-level2"></label>
+            <label>CAP<input type="text" name="cap" required inputmode="numeric" maxlength="5" autocomplete="postal-code"></label>
+            <label>Provincia<input type="text" name="provincia" required maxlength="2" placeholder="FC"></label>
+          </div>
+        </fieldset>
+
+        <fieldset>
+          <legend>Referente</legend>
+          <label>Nome e cognome<input type="text" name="referente" required autocomplete="name"></label>
+          <div class="req-row">
+            <label>Email<input type="email" name="email" required autocomplete="email"></label>
+            <label>Telefono<input type="tel" name="telefono" required autocomplete="tel"></label>
+          </div>
+        </fieldset>
+
+        <fieldset>
+          <legend>Consegna</legend>
+          <div class="req-radio">
+            <label><input type="radio" name="consegna" value="Ritiro presso Extrasound, Cesena" checked> Ritiro presso Extrasound, Cesena</label>
+            <label><input type="radio" name="consegna" value="Spedizione alla sede legale"> Spedizione alla sede legale</label>
+            <label><input type="radio" name="consegna" value="Spedizione a un altro indirizzo"> Spedizione a un altro indirizzo</label>
+          </div>
+          <label id="req-altro" hidden>Indirizzo di consegna<textarea name="indirizzo_consegna" rows="2"></textarea></label>
+          <label>Riferimento cantiere o commessa <span class="opz">(facoltativo)</span><input type="text" name="riferimento"></label>
+          <label>Note <span class="opz">(facoltativo)</span><textarea name="note" placeholder="Tempi, finiture, prodotti non presenti nel sito…"></textarea></label>
+        </fieldset>
+
+        <label class="hp" aria-hidden="true">Lascia vuoto<input type="text" name="sito_web" tabindex="-1" autocomplete="off"></label>
+        <label class="req-check"><input type="checkbox" name="privacy" required> <span>Ho letto l'<a href="https://www.extrasound.it/privacy-policy" target="_blank" rel="noopener">informativa privacy</a> e acconsento al trattamento dei dati per ricevere il preventivo.</span></label>
+
+        <button type="submit" class="btn">Invia la lista</button>
+        <div class="req-msg" id="req-msg" hidden></div>
+      </form>
+
+      <aside class="req-side">
+        <h2>La tua lista</h2>
+        <ul class="riepilogo" id="riepilogo"></ul>
+        <p class="vuota" id="vuota" hidden>La lista è vuota. Torna su <a href="elettroniche.html">Elettroniche</a> o <a href="diffusori.html">Diffusori</a> e premi <em>Aggiungi alla lista</em> sui prodotti che ti servono.</p>
+        <p class="count" id="req-tot"></p>
+      </aside>
+    </div>
+  </section>
+</main>
+
+<!-- FOOTER -->
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div class="footer-col footer-brand">
+      <a class="logo logo-sm" href="index.html" aria-label="Extrasound B2B, home"><img src="https://www.extrasound.it/wp-content/uploads/logo-rosso-bianco-extrasound.png" alt="Extrasound" width="500" height="76"><span class="logo-b2b">B2B</span></a>
+      <p>Progetto, fornitura e installazione di impianti hi-fi, multiroom e home cinema su misura, a cura di Extrasound.</p>
+      <a class="btn btn-sm" href="richiesta.html">Concludi la lista</a>
+    </div>
+    <div class="footer-col">
+      <p class="footer-head">Contatti</p>
+      <p>Via Archimede, 605<br>47521 Cesena (FC) – Italia</p>
+      <p>Tel. <a href="tel:+390547645626">+39 0547 645626</a><br><a href="mailto:info@extrasound.it">info@extrasound.it</a></p>
+    </div>
+    <div class="footer-col">
+      <p class="footer-head">Prodotti</p>
+      <p><a href="elettroniche.html">Elettroniche</a><br><a href="elettroniche.html#linea=Z">· uscita a impedenza</a><br><a href="elettroniche.html#linea=V">· uscita a tensione costante 70/100 V</a><br><a href="diffusori.html">Diffusori</a><br><a href="diffusori.html#linea=Z">· a impedenza</a><br><a href="diffusori.html#linea=V">· a tensione costante 70/100 V</a><br><a href="impianti.html">Impianti tipo</a></p>
+      <p class="footer-head">Negozio</p>
+      <p><a href="https://www.extrasound.it" target="_blank" rel="noopener">extrasound.it</a></p>
+    </div>
+  </div>
+  <div class="footer-legal">
+    <p><strong>EXTRASOUND Srl</strong> · Via Archimede, 605 · 47521 Cesena (FC) · Partita IVA IT04436860409 · CCIAA Forlì-Cesena REA FO411761 · Capitale sociale € 3.900,00 i.v.</p>
+    <p><a href="https://www.extrasound.it/privacy-policy" target="_blank" rel="noopener">Privacy policy</a> · <a href="https://www.extrasound.it/utilizzo-dei-cookies" target="_blank" rel="noopener">Utilizzo dei cookies</a> · <a href="https://www.extrasound.it/condizioni-generali" target="_blank" rel="noopener">Condizioni generali</a></p>
+  </div>
+</footer>
+<!-- /FOOTER -->
+
+<script src="assets/js/site.js?v=16" defer></script>
+<script src="assets/js/richiesta.js?v=16" defer></script>
+</body>
+</html>

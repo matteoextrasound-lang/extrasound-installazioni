@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{{ p.brand }} {{ p.model }} · {{ p.tipo_label }} · Extrasound Custom</title>
+<title>{{ p.brand }} {{ p.model }} · {{ p.tipo_label }} · Extrasound B2B</title>
 <meta name="description" content="{{ p.meta }}">
 <meta name="robots" content="noindex, nofollow">
 <meta name="theme-color" content="#0a0a0a">
@@ -39,6 +39,7 @@
             <p class="model-lines">{% for r in p.righe %}<span>{{ r }}</span>{% endfor %}</p>
             {% for t in p.intro %}<p class="model-intro">{{ t|safe }}</p>
             {% endfor %}
+            <p class="model-add"><button class="btn btn-add" type="button" data-add data-slug="{{ p.slug }}" data-brand="{{ p.brand }}" data-model="{{ p.model }}" data-img="{{ p.img.src }}">Aggiungi alla lista</button></p>
           </header>
         </div>
 
@@ -122,10 +123,10 @@
 
     <section class="sheet-cta">
       <div class="wrap">
-        <p>Progetto, fornitura e installazione dell'<strong>{{ p.brand }} {{ p.model }}</strong> a cura di Extrasound.</p>
+        <p>Aggiungi <strong>{{ p.brand }} {{ p.model }}</strong> alla lista. Quando hai finito, concludi la lista e inviaci i dati aziendali: ti mandiamo il preventivo.</p>
         <div class="actions">
-          <a class="btn" href="contatti.html">Richiedi un preventivo</a>
-          <a class="btn btn-ghost" href="{{ p.extrasound }}" target="_blank" rel="noopener">Acquista su Extrasound</a>
+          <button class="btn btn-add" type="button" data-add data-slug="{{ p.slug }}" data-brand="{{ p.brand }}" data-model="{{ p.model }}" data-img="{{ p.img.src }}">Aggiungi alla lista</button>
+          <a class="btn btn-ghost" href="richiesta.html">Concludi la lista</a>
         </div>
         {% if p.fonti %}<p class="sources">Dati tecnici: {% for f in p.fonti %}<a href="{{ f.url }}" target="_blank" rel="noopener">{{ f.label }}</a>{% if not loop.last %} · {% endif %}{% endfor %}.</p>{% endif %}
       </div>

@@ -82,3 +82,12 @@ Questa cartella non viene pubblicata (GitHub Pages ignora le cartelle che inizia
 - Diffusori ed elettroniche divisi per collegamento (per le elettroniche: tipo di uscita): dizionario `LINEA` in `genera_schede.py` (Z impedenza, V tensione costante 70/100 V, ZV entrambi). Default Z. Un nuovo diffusore 70/100 V va aggiunto lì, con la fonte del produttore nel commento.
 - Filtri preselezionabili da indirizzo: `diffusori.html#linea=V`, `diffusori.html#cat=E`, `elettroniche.html#cat=H`.
 - Logo: immagine `logo-rosso-bianco-extrasound.png` di extrasound.it + "B2B" (costante `LOGO` in `build.py`).
+
+## Lista prodotti B2B (dal 24/11/2026)
+- Ogni card e ogni scheda ha "Aggiungi alla lista" (attributo `data-add`); gli impianti tipo hanno "Aggiungi l'impianto alla lista" (`data-add-set`).
+- La lista sta nel browser dell'utente (localStorage `esb2b-lista`) e appare in basso a destra (codice in fondo a `assets/js/site.js`).
+- "Concludi lista" porta a `richiesta.html` (modulo in `assets/js/richiesta.js`), che invia a
+  `https://www.extrasound.it/wp-json/extrasound-b2b/v1/richiesta`.
+- L'endpoint è lo snippet Code Snippets n. 45 "B2B - Ricezione liste prodotti" (copia in `_strumenti/wp-snippet-richieste-b2b.php`):
+  salva la richiesta in Bacheca > Richieste B2B, manda email a info@extrasound.it e una copia al cliente.
+- Se l'endpoint non risponde, la pagina propone un'email precompilata a info@extrasound.it.
