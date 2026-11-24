@@ -147,7 +147,7 @@
 
 /* ===== Lista prodotti (B2B) =====
    La lista resta nel browser di chi la compila (localStorage, se disponibile).
-   "Concludi lista" porta a richiesta.html, dove si inviano lista e dati aziendali. */
+   "Richiedi preventivo" porta a richiesta.html, dove si inviano lista e dati aziendali. */
 (function(){
   var KEY = 'esb2b-lista', mem = [];
   function load(){ try { var v = JSON.parse(localStorage.getItem(KEY) || '[]'); return Array.isArray(v) ? v : []; } catch(e){ return mem; } }
@@ -174,7 +174,7 @@
         '<div class="lista-head"><b>La tua lista</b><button type="button" class="lista-x" aria-label="Chiudi la lista">&times;</button></div>' +
         '<ul class="lista-items"></ul>' +
         '<p class="lista-empty">Nessun prodotto. Apri una scheda o un elenco e premi <em>Aggiungi alla lista</em>.</p>' +
-        '<div class="lista-foot"><a class="btn lista-go" href="richiesta.html">Concludi lista</a><button type="button" class="lista-clear">Svuota</button></div>' +
+        '<div class="lista-foot"><a class="btn lista-go" href="richiesta.html">Richiedi preventivo</a><button type="button" class="lista-clear">Svuota</button></div>' +
       '</div>' +
       '<p class="lista-toast" role="status" aria-live="polite"></p>' +
       '<button type="button" class="lista-toggle" aria-expanded="false" aria-controls="lista-panel">' +

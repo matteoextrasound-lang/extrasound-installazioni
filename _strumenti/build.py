@@ -55,7 +55,7 @@ FOOTER = '''<footer class="site-footer">
     <div class="footer-col footer-brand">
       <a class="logo logo-sm" href="index.html" aria-label="Extrasound B2B, home">''' + LOGO + '''</a>
       <p>Progetto, fornitura e installazione di impianti hi-fi, multiroom e home cinema su misura, a cura di Extrasound.</p>
-      <a class="btn btn-sm" href="richiesta.html">Concludi la lista</a>
+      <a class="btn btn-sm" href="richiesta.html">Richiedi preventivo</a>
     </div>
     <div class="footer-col">
       <p class="footer-head">Contatti</p>

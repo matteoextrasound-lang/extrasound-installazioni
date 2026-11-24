@@ -123,10 +123,10 @@
 
     <section class="sheet-cta">
       <div class="wrap">
-        <p>Aggiungi <strong>{{ p.brand }} {{ p.model }}</strong> alla lista. Quando hai finito, concludi la lista e inviaci i dati aziendali: ti mandiamo il preventivo.</p>
+        <p>Aggiungi <strong>{{ p.brand }} {{ p.model }}</strong> alla lista. Quando hai finito, premi <em>Richiedi preventivo</em> e inviaci i dati aziendali: ti mandiamo il preventivo.</p>
         <div class="actions">
           <button class="btn btn-add" type="button" data-add data-slug="{{ p.slug }}" data-brand="{{ p.brand }}" data-model="{{ p.model }}" data-img="{{ p.img.src }}">Aggiungi alla lista</button>
-          <a class="btn btn-ghost" href="richiesta.html">Concludi la lista</a>
+          <a class="btn btn-ghost" href="richiesta.html">Richiedi preventivo</a>
         </div>
         {% if p.fonti %}<p class="sources">Dati tecnici: {% for f in p.fonti %}<a href="{{ f.url }}" target="_blank" rel="noopener">{{ f.label }}</a>{% if not loop.last %} · {% endif %}{% endfor %}.</p>{% endif %}
       </div>

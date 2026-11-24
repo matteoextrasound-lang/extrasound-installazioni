@@ -86,7 +86,7 @@ Questa cartella non viene pubblicata (GitHub Pages ignora le cartelle che inizia
 ## Lista prodotti B2B (dal 24/11/2026)
 - Ogni card e ogni scheda ha "Aggiungi alla lista" (attributo `data-add`); gli impianti tipo hanno "Aggiungi l'impianto alla lista" (`data-add-set`).
 - La lista sta nel browser dell'utente (localStorage `esb2b-lista`) e appare in basso a destra (codice in fondo a `assets/js/site.js`).
-- "Concludi lista" porta a `richiesta.html` (modulo in `assets/js/richiesta.js`), che invia a
+- "Richiedi preventivo" porta a `richiesta.html` (modulo in `assets/js/richiesta.js`), che invia a
   `https://www.extrasound.it/wp-json/extrasound-b2b/v1/richiesta`.
 - L'endpoint è lo snippet Code Snippets n. 45 "B2B - Ricezione liste prodotti" (copia in `_strumenti/wp-snippet-richieste-b2b.php`):
   salva la richiesta in Bacheca > Richieste B2B, manda email a info@extrasound.it e una copia al cliente.
