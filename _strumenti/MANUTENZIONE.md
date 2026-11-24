@@ -91,3 +91,11 @@ Questa cartella non viene pubblicata (GitHub Pages ignora le cartelle che inizia
 - L'endpoint è lo snippet Code Snippets n. 45 "B2B - Ricezione liste prodotti" (copia in `_strumenti/wp-snippet-richieste-b2b.php`):
   salva la richiesta in Bacheca > Richieste B2B, manda email a info@extrasound.it e una copia al cliente.
 - Se l'endpoint non risponde, la pagina propone un'email precompilata a info@extrasound.it.
+
+## Pulsante "Extrasound B2B" su extrasound.it (dal 24/11/2026)
+- Voce di menu id 68589 nel "Secondary Menu" (Aspetto > Menu), classe CSS `es-b2b`, nuova scheda, rel nofollow.
+- Stile nello snippet Code Snippets n. 46 "CSS - Testata: icone menu e pulsante Extrasound B2B" (stampa uno <style> in wp_head):
+  da computer voce rossa con valigetta, da telefono pillola rossa "B2B" tra logo e carrello.
+- Le icone di "Account cliente" e "Carrello" ora sono disegnate dallo stesso snippet: salvando il menu da questo account
+  WordPress toglie gli SVG dai titoli delle voci. Non rimettere SVG nei titoli; se si disattiva lo snippet 46 le icone spariscono.
+- Snippet n. 45 (ricezione liste) attivo dal 24/11/2026. Prova: richiesta B2B-68590 "TEST Claude – ignorare".
