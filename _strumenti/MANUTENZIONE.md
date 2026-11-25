@@ -111,3 +111,7 @@ Questa cartella non viene pubblicata (GitHub Pages ignora le cartelle che inizia
 - Criterio: streamer senza amplificazione, con trigger 12 V e rete cablata, verificati sulle pagine dei produttori.
 - Inclusi: WiiM Pro, WiiM Pro Plus, WiiM Ultra, NAD CS1. Esclusi dopo la verifica: Arcam ST5/ST25 e JBL MP350 Classic
   (nessun trigger, IR o RS232 dichiarato), ELAC Discovery DS-S101-G e DS-C101W (fuori produzione), ArtSound Smart Stream (nessuna fonte del produttore).
+
+## Dominio (dal 25/11/2026)
+- Il sito risponde su https://b2b.extrasound.it (file `CNAME` nella radice; record CNAME `b2b` → `matteoextrasound-lang.github.io` su Cloudflare, solo DNS).
+- Il vecchio indirizzo github.io rimanda in automatico al nuovo. Non cancellare il file CNAME.

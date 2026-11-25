@@ -1,7 +1,7 @@
 <?php
 /**
  * Extrasound B2B — ricezione delle liste prodotti inviate da
- * https://matteoextrasound-lang.github.io/extrasound-installazioni/richiesta.html
+ * https://b2b.extrasound.it/richiesta.html
  *
  * Da incollare in Code Snippets (ambito: "Esegui ovunque").
  * - Endpoint: POST /wp-json/extrasound-b2b/v1/richiesta
@@ -10,7 +10,7 @@
  */
 
 const ES_B2B_DEST    = 'info@extrasound.it';
-const ES_B2B_ORIGINI = array( 'https://matteoextrasound-lang.github.io', 'https://www.extrasound.it', 'https://extrasound.it' );
+const ES_B2B_ORIGINI = array( 'https://b2b.extrasound.it', 'http://b2b.extrasound.it', 'https://matteoextrasound-lang.github.io', 'https://www.extrasound.it', 'https://extrasound.it' );
 
 add_action( 'init', function () {
 	register_post_type( 'es_richiesta_b2b', array(
@@ -103,7 +103,7 @@ function es_b2b_richiesta( WP_REST_Request $req ) {
 		return es_b2b_errore( 'Lista prodotti vuota.' );
 	}
 
-	$base = 'https://matteoextrasound-lang.github.io/extrasound-installazioni/scheda-';
+	$base = 'https://b2b.extrasound.it/scheda-';
 	$e    = 'esc_html';
 	$html = '<h2>Richiesta preventivo B2B</h2>'
 		. '<p><strong>' . $e( $d['ragione_sociale'] ) . '</strong><br>P. IVA ' . $e( $d['piva'] )
