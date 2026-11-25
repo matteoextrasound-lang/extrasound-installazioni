@@ -37,7 +37,6 @@
       'Sede: ' + d.indirizzo + ', ' + d.cap + ' ' + d.citta + ' (' + d.provincia + ')', '',
       'Referente: ' + d.referente, 'Email: ' + d.email, 'Telefono: ' + d.telefono, '',
       'Consegna: ' + d.consegna + (d.indirizzo_consegna ? ' — ' + d.indirizzo_consegna : '')];
-    if (d.riferimento) r.push('Riferimento: ' + d.riferimento);
     if (d.note) r.push('Note: ' + d.note);
     r.push('', 'PRODOTTI');
     l.forEach(function(x){ r.push(x.qty + ' x ' + x.brand + ' ' + x.model); });
