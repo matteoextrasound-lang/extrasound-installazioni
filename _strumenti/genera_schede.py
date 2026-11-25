@@ -9,6 +9,7 @@ amplificatori.html e diffusori.html vengono aggiornati tra i segnaposto
 <!-- LISTA --> e <!-- /LISTA -->.
 """
 import json
+import fonti_ufficiali
 import sys
 sys.path.insert(0, str(__import__('pathlib').Path(__file__).parent))
 from uniforma import uniforma
@@ -17,7 +18,7 @@ from jinja2 import Environment, FileSystemLoader
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 DATI = ROOT / "_dati" / "prodotti"
-V = "18"  # versione di css/js
+V = "20"  # versione di css/js
 
 SOTTO = {  # sottocategorie: codice -> etichetta
     "M": "Amplificatori multicanale", "P": "Da incasso a parete", "S": "Da incasso a soffitto",
@@ -246,6 +247,7 @@ def main():
         tutti[q["slug"]] = q
     for f in sorted(DATI.glob("*.json")):
         p = uniforma(json.loads(f.read_text(encoding="utf-8")), tutti)
+        p["fonti"] = fonti_ufficiali.fonti(p)
         amp = p["tipo"] == "amplificatore"
         p["lista"] = "elettroniche.html" if amp else "diffusori.html"
         p["lista_label"] = "Elettroniche" if amp else "Diffusori"

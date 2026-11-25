@@ -264,3 +264,59 @@
   window.addEventListener('storage', function(e){ if (e.key === KEY) render(); });
   render();
 })();
+
+/* ===== Immagini delle schede apribili a schermo intero ===== */
+(function(){
+  var SEL = '.sheet-visual img, .views img, .rear img, .gui img, .acc > img, .sheet-page figure img';
+  var imgs = Array.prototype.slice.call(document.querySelectorAll(SEL)).filter(function(i){ return !i.closest('a'); });
+  if (!imgs.length) return;
+  var lb = document.createElement('div');
+  lb.className = 'lb'; lb.hidden = true;
+  lb.setAttribute('role', 'dialog'); lb.setAttribute('aria-modal', 'true'); lb.setAttribute('aria-label', 'Immagine ingrandita');
+  lb.innerHTML = '<span class="lb-n"></span><img class="lb-img" alt=""><p class="lb-cap"></p>' +
+    '<button type="button" class="lb-prev" aria-label="Immagine precedente">&#8249;</button>' +
+    '<button type="button" class="lb-next" aria-label="Immagine successiva">&#8250;</button>' +
+    '<button type="button" class="lb-x" aria-label="Chiudi">&times;</button>';
+  document.body.appendChild(lb);
+  var big = lb.querySelector('.lb-img'), cap = lb.querySelector('.lb-cap'), num = lb.querySelector('.lb-n'), cur = 0, last = null;
+  function didascalia(i){
+    var f = i.closest('figure'), c = f && f.querySelector('figcaption');
+    return c ? c.textContent.trim() : (i.alt || '');
+  }
+  function mostra(n){
+    cur = (n + imgs.length) % imgs.length;
+    var i = imgs[cur];
+    big.src = i.currentSrc || i.src; big.alt = i.alt || '';
+    cap.textContent = didascalia(i);
+    num.textContent = imgs.length > 1 ? (cur + 1) + ' / ' + imgs.length : '';
+    lb.querySelector('.lb-prev').hidden = lb.querySelector('.lb-next').hidden = imgs.length < 2;
+  }
+  function apri(n){ last = document.activeElement; mostra(n); lb.hidden = false; document.documentElement.style.overflow = 'hidden'; lb.querySelector('.lb-x').focus(); }
+  function chiudi(){ lb.hidden = true; document.documentElement.style.overflow = ''; if (last) last.focus(); }
+  imgs.forEach(function(i, n){
+    i.classList.add('zoomable'); i.setAttribute('tabindex', '0'); i.setAttribute('role', 'button');
+    i.setAttribute('aria-label', 'Ingrandisci: ' + (i.alt || 'immagine'));
+    var p = i.parentElement;
+    if (p && (p.tagName === 'FIGURE' || p.classList.contains('sheet-visual'))) p.classList.add('zoom-hint');
+    i.addEventListener('click', function(){ apri(n); });
+    i.addEventListener('keydown', function(e){ if (e.key === 'Enter' || e.key === ' '){ e.preventDefault(); apri(n); } });
+  });
+  lb.querySelector('.lb-x').addEventListener('click', chiudi);
+  lb.querySelector('.lb-prev').addEventListener('click', function(){ mostra(cur - 1); });
+  lb.querySelector('.lb-next').addEventListener('click', function(){ mostra(cur + 1); });
+  big.addEventListener('click', chiudi);
+  lb.addEventListener('click', function(e){ if (e.target === lb) chiudi(); });
+  document.addEventListener('keydown', function(e){
+    if (lb.hidden) return;
+    if (e.key === 'Escape') chiudi();
+    else if (e.key === 'ArrowLeft') mostra(cur - 1);
+    else if (e.key === 'ArrowRight') mostra(cur + 1);
+  });
+  /* scorrimento col dito sul telefono */
+  var x0 = null;
+  lb.addEventListener('touchstart', function(e){ x0 = e.touches[0].clientX; }, {passive: true});
+  lb.addEventListener('touchend', function(e){
+    if (x0 === null) return; var dx = e.changedTouches[0].clientX - x0; x0 = null;
+    if (Math.abs(dx) > 50) mostra(cur + (dx < 0 ? 1 : -1));
+  });
+})();

@@ -46,6 +46,7 @@ def header(page):
       </div>
     </div>
     <a href="impianti.html" class="menu-link"{cur(page, "impianti.html")}>Impianti tipo</a>
+    <a href="https://www.extrasound.it/" class="menu-link menu-shop" title="Torna al negozio online extrasound.it"><svg viewBox="0 0 16 16" aria-hidden="true"><path d="M10 3L5 8l5 5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>extrasound.it</a>
     <a href="contatti.html" class="menu-cta"{cur(page, "contatti.html")}>Contattaci</a>
   </nav>
 </header>'''
@@ -65,8 +66,8 @@ FOOTER = '''<footer class="site-footer">
     <div class="footer-col">
       <p class="footer-head">Prodotti</p>
       <p><a href="elettroniche.html">Elettroniche</a><br><a href="elettroniche.html#linea=Z">· uscita a impedenza</a><br><a href="elettroniche.html#linea=V">· uscita a tensione costante 70/100 V</a><br><a href="diffusori.html">Diffusori</a><br><a href="diffusori.html#linea=Z">· a impedenza</a><br><a href="diffusori.html#linea=V">· a tensione costante 70/100 V</a><br><a href="impianti.html">Impianti tipo</a></p>
-      <p class="footer-head">Negozio</p>
-      <p><a href="https://www.extrasound.it" target="_blank" rel="noopener">extrasound.it</a></p>
+      <p class="footer-head">Negozio online</p>
+      <p><a href="https://www.extrasound.it/">Torna su extrasound.it</a></p>
     </div>
   </div>
   <div class="footer-legal">

@@ -99,3 +99,9 @@ Questa cartella non viene pubblicata (GitHub Pages ignora le cartelle che inizia
 - Le icone di "Account cliente" e "Carrello" ora sono disegnate dallo stesso snippet: salvando il menu da questo account
   WordPress toglie gli SVG dai titoli delle voci. Non rimettere SVG nei titoli; se si disattiva lo snippet 46 le icone spariscono.
 - Snippet n. 45 (ricezione liste) attivo dal 24/11/2026. Prova: richiesta B2B-68590 "TEST Claude – ignorare".
+
+## Documentazione del produttore (dal 25/11/2026)
+- I link "Documentazione del produttore" delle schede vengono da `_strumenti/fonti_ufficiali.py`:
+  pagina ufficiale (o di serie) in `PAGINE`, più i documenti già nei JSON solo se su domini dei produttori (`UFFICIALI`).
+- Siti di rivenditori e archivi di manuali non vengono più mostrati. ArtSound, Garvan, Gallo: nessun link (nessun sito del produttore raggiungibile).
+- Immagini delle schede apribili a schermo intero (codice in fondo a `assets/js/site.js`); pannello posteriore a tutta larghezza.
