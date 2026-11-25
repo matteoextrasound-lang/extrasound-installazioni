@@ -21,8 +21,9 @@
 
   form.addEventListener('change', function(e){
     if (e.target.name === 'consegna'){
-      altro.hidden = e.target.value.indexOf('altro') < 0;
-      altro.querySelector('textarea').required = !altro.hidden;
+      var on = e.target.value.indexOf('altro') > -1, ta = altro.querySelector('textarea');
+      altro.hidden = !on; ta.disabled = !on; ta.required = on;
+      if (on) ta.focus();
     }
   });
 
@@ -62,7 +63,7 @@
     fetch(ENDPOINT, {method: 'POST', body: body})
       .then(function(r){ return r.json().then(function(j){ if (!r.ok || !j.ok) throw new Error(j.message || 'errore'); return j; }); })
       .then(function(j){
-        L.clear(); form.reset(); altro.hidden = true;
+        L.clear(); form.reset(); altro.hidden = true; altro.querySelector('textarea').disabled = true;
         msg.hidden = false; msg.className = 'req-msg ok';
         msg.innerHTML = '<strong>Richiesta inviata' + (j.numero ? ' (n. ' + j.numero + ')' : '') + '.</strong> Ti abbiamo mandato una copia a ' +
           d.email.replace(/[<>&]/g, '') + '. Ti rispondiamo con il preventivo.';
