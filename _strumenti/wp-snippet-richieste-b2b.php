@@ -136,7 +136,7 @@ function es_b2b_richiesta( WP_REST_Request $req ) {
 	$inviata = wp_mail( ES_B2B_DEST, $ogg, $html, $h );
 	wp_mail( $d['email'], 'Extrasound B2B: abbiamo ricevuto la tua lista ' . $numero,
 		'<p>Grazie, abbiamo ricevuto la richiesta. Ti rispondiamo con il preventivo.</p>' . $html
-		. '<p>Extrasound · Via Archimede 605, 47521 Cesena (FC) · 0547 645626 · ' . ES_B2B_DEST . '</p>',
+		. '<p>Extrasound · Via Archimede 605, 47521 Cesena (FC) · 0547645626 · ' . ES_B2B_DEST . '</p>',
 		array( 'Content-Type: text/html; charset=UTF-8', 'Reply-To: Extrasound <' . ES_B2B_DEST . '>' ) );
 
 	if ( ! $numero && ! $inviata ) {
