@@ -9,8 +9,8 @@ import pathlib, re
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 SCHEDE = sorted(p.name for p in ROOT.glob("scheda-*.html"))   # schede prodotto generate da genera_schede.py
-PAGES = ["index.html", "elettroniche.html", "diffusori.html", "impianti.html", "contatti.html", "richiesta.html"] + SCHEDE
-PRODOTTI = ["elettroniche.html", "diffusori.html"] + SCHEDE
+PAGES = ["index.html", "elettroniche.html", "diffusori.html", "sorgenti.html", "impianti.html", "contatti.html", "richiesta.html"] + SCHEDE
+PRODOTTI = ["elettroniche.html", "diffusori.html", "sorgenti.html"] + SCHEDE
 # amplificatori.html, esterno.html e home-cinema.html sono solo rimandi alle nuove pagine (vecchi link)
 LOGO = ('<img src="https://www.extrasound.it/wp-content/uploads/logo-rosso-bianco-extrasound.png" alt="Extrasound" width="500" height="76">'
         '<span class="logo-b2b">B2B</span>')
@@ -43,6 +43,7 @@ def header(page):
         <a href="diffusori.html"{cur(page, "diffusori.html")}>Diffusori</a>
         <a class="sub-2" href="diffusori.html#linea=Z">A impedenza</a>
         <a class="sub-2" href="diffusori.html#linea=V">A tensione costante 70/100 V</a>
+        <a href="sorgenti.html"{cur(page, "sorgenti.html")}>Sorgenti</a>
       </div>
     </div>
     <a href="impianti.html" class="menu-link"{cur(page, "impianti.html")}>Impianti tipo</a>
@@ -65,7 +66,7 @@ FOOTER = '''<footer class="site-footer">
     </div>
     <div class="footer-col">
       <p class="footer-head">Prodotti</p>
-      <p><a href="elettroniche.html">Elettroniche</a><br><a href="elettroniche.html#linea=Z">· uscita a impedenza</a><br><a href="elettroniche.html#linea=V">· uscita a tensione costante 70/100 V</a><br><a href="diffusori.html">Diffusori</a><br><a href="diffusori.html#linea=Z">· a impedenza</a><br><a href="diffusori.html#linea=V">· a tensione costante 70/100 V</a><br><a href="impianti.html">Impianti tipo</a></p>
+      <p><a href="elettroniche.html">Elettroniche</a><br><a href="elettroniche.html#linea=Z">· uscita a impedenza</a><br><a href="elettroniche.html#linea=V">· uscita a tensione costante 70/100 V</a><br><a href="diffusori.html">Diffusori</a><br><a href="diffusori.html#linea=Z">· a impedenza</a><br><a href="diffusori.html#linea=V">· a tensione costante 70/100 V</a><br><a href="sorgenti.html">Sorgenti</a><br><a href="impianti.html">Impianti tipo</a></p>
       <p class="footer-head">Negozio online</p>
       <p><a href="https://www.extrasound.it/">Torna su extrasound.it</a></p>
     </div>

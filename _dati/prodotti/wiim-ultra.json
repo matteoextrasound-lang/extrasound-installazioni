@@ -1,0 +1,182 @@
+{
+ "id": 46521,
+ "slug": "wiim-ultra",
+ "brand": "WiiM",
+ "model": "Ultra",
+ "meta": "WiiM Ultra: streamer di rete con DAC ESS, ingressi HDMI ARC e phono, uscita subwoofer e trigger 12 V. Collegamenti e schemi per l'installatore.",
+ "chiave": [
+  "Streamer · DAC ESS ES9038Q2M",
+  "HDMI ARC · phono · uscita sub",
+  "Trigger 12 V · Wi-Fi 6"
+ ],
+ "righe": [
+  "Streamer di rete",
+  "Sala o zona principale",
+  "211 × 200 × 72 mm"
+ ],
+ "intro": [
+  "Il <strong>WiiM Ultra</strong> è uno streamer di rete con DAC ESS ES9038Q2M, ingresso HDMI ARC per il televisore, ingresso phono MM/MC e uscita subwoofer.",
+  "Ethernet 10/100, Wi-Fi 6 e trigger 12 V su jack 3,5 mm; alimentazione di rete 100–240 V."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "Google Cast, Spotify Connect, TIDAL Connect, Amazon Music Casting, DLNA, Squeezelite, Roon Ready.",
+    "DAC ESS ES9038Q2M: S/N 121 dB, THD+N −116 dB all'uscita analogica.",
+    "Bluetooth 5.3.",
+    "Alimentazione 100–240 V AC, 50/60 Hz, 0,5 A massimi.",
+    "211 × 200 × 72 mm, 1,42 kg."
+   ]
+  },
+  {
+   "titolo": "Ingressi",
+   "voci": [
+    "HDMI ARC fino a 192 kHz / 24 bit: PCM stereo e Dolby Digital (DTS non supportato).",
+    "Phono MM/MC.",
+    "Line In RCA, 2 Vrms.",
+    "Ottico fino a 192 kHz / 24 bit, PCM stereo e Dolby Digital.",
+    "USB per memorie esterne (FAT32, NTFS, EXT4).",
+    "Ethernet 10/100 Mbps; Wi-Fi 6."
+   ]
+  },
+  {
+   "titolo": "Uscite",
+   "voci": [
+    "Line Out RCA stereo.",
+    "Uscita subwoofer.",
+    "Coassiale e ottica fino a 192 kHz / 24 bit.",
+    "Cuffie jack 3,5 mm.",
+    "USB audio fino a 192 kHz / 24 bit (UAC 2.0).",
+    "Trigger 12 V, jack 3,5 mm."
+   ]
+  }
+ ],
+ "collega": [
+  {
+   "titolo": "ELAC IS-AMP8100",
+   "link": "scheda-elac-is-amp8100.html",
+   "img": "https://www.extrasound.it/wp-content/uploads/ELAC-IS-AMP8100-angolo-dx.jpg",
+   "alt": "ELAC IS-AMP8100 vista di tre quarti da destra, frontale nero con logo",
+   "voci": [
+    "Uscita RCA del WiiM Ultra sull'ingresso analogico della zona.",
+    "Il trigger 12 V (jack 3,5 mm) accende l'amplificatore quando parte la musica."
+   ]
+  },
+  {
+   "titolo": "Rotel C8+",
+   "link": "scheda-rotel-c8-plus.html",
+   "img": "https://www.extrasound.it/wp-content/uploads/rotel-c8-plus-1000.jpg",
+   "alt": "Rotel C8+ nero, vista frontale",
+   "voci": [
+    "4 ingressi analogici in matrice sulle 4 zone.",
+    "Ingresso trigger 12 V."
+   ]
+  },
+  {
+   "titolo": "Rete",
+   "icona": "rete",
+   "voci": [
+    "Cavo Ethernet consigliato per l'impianto fisso.",
+    "Configurazione e gruppi multiroom dall'app del produttore."
+   ]
+  },
+  {
+   "titolo": "Televisore",
+   "icona": "sorgente",
+   "voci": [
+    "Cavo HDMI sulla presa ARC del televisore: l'audio della TV va all'impianto."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Zona con televisore e subwoofer",
+   "voci": [
+    "Il televisore entra in HDMI ARC; Line Out verso l'amplificatore della zona, uscita sub verso un subwoofer attivo."
+   ],
+   "apparecchio": "Amplificatore",
+   "zone": [
+    {
+     "label": "Frontali · da Line Out del WiiM Ultra"
+    },
+    {
+     "label": "Subwoofer attivo · da uscita sub",
+     "tipo": "sub"
+    }
+   ]
+  },
+  {
+   "titolo": "Messa in servizio",
+   "passi": [
+    [
+     "Rete",
+     "Cavo Ethernet nella presa LAN, oppure Wi-Fi configurato dall'app WiiM Home."
+    ],
+    [
+     "Televisore",
+     "HDMI sulla presa ARC del televisore."
+    ],
+    [
+     "Uscite",
+     "Line Out RCA verso l'amplificatore; uscita sub verso il subwoofer attivo."
+    ],
+    [
+     "Trigger",
+     "Cavo jack 3,5 mm (mono TS o stereo TRS) verso l'ingresso trigger dell'amplificatore."
+    ],
+    [
+     "Alimentazione",
+     "Cavo di rete 100–240 V."
+    ],
+    [
+     "App",
+     "Ingressi, uscita sub, EQ e ritardo di standby del trigger dall'app WiiM Home."
+    ]
+   ]
+  }
+ ],
+ "extrasound": "https://www.extrasound.it/wiim-ultra-streamer-hi-res-dac-ess-hdmi-phono-roon",
+ "fonti": [
+  {
+   "label": "specifiche WiiM Ultra",
+   "url": "https://www.wiimhome.com/wiimultra/specs"
+  },
+  {
+   "label": "manuale WiiM Ultra",
+   "url": "https://www.wiimhome.com/pdf/WiiM+Ultra+User+Manual.pdf"
+  },
+  {
+   "label": "WiiM: uso del trigger 12 V",
+   "url": "https://faq.wiimhome.com/en/support/solutions/articles/72000602073-how-to-use-the-12v-trigger-on-wiim-pro-wiim-pro-plus-or-wiim-ultra-"
+  }
+ ],
+ "tipo": "sorgente",
+ "cat": "N",
+ "crop": true,
+ "tab": "Sorgenti<br>di rete",
+ "tipo_label": "Streamer di rete",
+ "lato_titolo": "Cosa si collega",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/WiiM-Ultra-alto.jpg",
+  "alt": "WiiM Ultra grigio visto di tre quarti"
+ },
+ "gui": {
+  "src": "https://www.extrasound.it/wp-content/uploads/WiiM-Ultra.jpg",
+  "alt": "Due WiiM Ultra nelle finiture grigia e silver",
+  "caption": "Si configura dall'app WiiM Home: ingressi, uscita sub, EQ, RoomFit e ritardo del trigger."
+ },
+ "retro": {
+  "src": "https://www.extrasound.it/wp-content/uploads/WiiM-Ultra-posteriore.jpg",
+  "alt": "WiiM Ultra, pannello posteriore con ingressi e uscite",
+  "titolo": "Pannello posteriore",
+  "caption": "HDMI ARC, phono, Line In, ottico in, USB; Line Out, sub out, coassiale e ottico out, trigger 12 V, LAN."
+ },
+ "viste": [
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/WiiM-Ultra-connessioni.jpg",
+   "alt": "Schema dei collegamenti del WiiM Ultra",
+   "caption": "Schema dei collegamenti"
+  }
+ ]
+}

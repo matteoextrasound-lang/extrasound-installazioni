@@ -1,0 +1,166 @@
+{
+ "id": 46140,
+ "slug": "nad-cs1",
+ "brand": "NAD",
+ "model": "CS1",
+ "meta": "NAD CS1: streamer di rete endpoint con uscite RCA, coassiale e ottica, Ethernet e trigger 12 V. Collegamenti e schemi per l'installatore.",
+ "chiave": [
+  "Streamer endpoint · Ethernet e Wi-Fi 5",
+  "Uscite RCA, coassiale, ottica",
+  "Trigger 12 V · 140 × 140 mm"
+ ],
+ "righe": [
+  "Streamer di rete",
+  "Una zona per apparecchio",
+  "140 × 140 × 55 mm"
+ ],
+ "intro": [
+  "Il <strong>NAD CS1</strong> è uno streamer di rete senza ingressi audio, con uscita analogica RCA e uscite digitali coassiale e ottica, fino a 24 bit / 192 kHz.",
+  "Ethernet, Wi-Fi 5 e Bluetooth 5.2; l'uscita trigger 12 V accende l'amplificatore della zona."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "Spotify Connect, TIDAL Connect, AirPlay 2, Chromecast, Roon, DLNA.",
+    "Fino a 192 kHz, 16–24 bit.",
+    "DAC Texas Instruments; processore ARM Cortex-A53 quad core.",
+    "Bluetooth 5.2 con NFC.",
+    "140 × 140 × 55 mm (con piedini e connettori), 1,5 kg."
+   ]
+  },
+  {
+   "titolo": "Ingressi",
+   "voci": [
+    "Nessun ingresso audio.",
+    "Ethernet RJ-45 100 Mbps.",
+    "Wi-Fi 5 (802.11ac, 2,4 e 5 GHz).",
+    "USB-C per l'alimentatore."
+   ]
+  },
+  {
+   "titolo": "Uscite",
+   "voci": [
+    "Analogica RCA stereo.",
+    "Coassiale RCA 75 Ω.",
+    "Ottica Toslink.",
+    "Trigger 12 V, jack 3,5 mm."
+   ]
+  }
+ ],
+ "collega": [
+  {
+   "titolo": "ELAC IS-AMP8100",
+   "link": "scheda-elac-is-amp8100.html",
+   "img": "https://www.extrasound.it/wp-content/uploads/ELAC-IS-AMP8100-angolo-dx.jpg",
+   "alt": "ELAC IS-AMP8100 vista di tre quarti da destra, frontale nero con logo",
+   "voci": [
+    "Uscita RCA del NAD CS1 sull'ingresso analogico della zona.",
+    "Il trigger 12 V (jack 3,5 mm) accende l'amplificatore quando parte la musica."
+   ]
+  },
+  {
+   "titolo": "Rotel C8+",
+   "link": "scheda-rotel-c8-plus.html",
+   "img": "https://www.extrasound.it/wp-content/uploads/rotel-c8-plus-1000.jpg",
+   "alt": "Rotel C8+ nero, vista frontale",
+   "voci": [
+    "4 ingressi analogici in matrice sulle 4 zone.",
+    "Ingresso trigger 12 V."
+   ]
+  },
+  {
+   "titolo": "Rete",
+   "icona": "rete",
+   "voci": [
+    "Cavo Ethernet consigliato per l'impianto fisso.",
+    "Configurazione e gruppi multiroom dall'app del produttore."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Multizona · un apparecchio per zona",
+   "voci": [
+    "Un NAD CS1 per stanza, ciascuno sull'ingresso analogico della sua zona.",
+    "Le zone si uniscono dall'app quando serve la stessa musica in più stanze."
+   ],
+   "apparecchio": "Amplificatore 4 zone",
+   "zone": [
+    {
+     "label": "Zona 1 · ingresso dal NAD CS1"
+    },
+    {
+     "label": "Zona 2 · ingresso dal NAD CS1"
+    },
+    {
+     "label": "Zona 3 · ingresso dal NAD CS1"
+    },
+    {
+     "label": "Zona 4 · ingresso dal NAD CS1"
+    }
+   ]
+  },
+  {
+   "titolo": "Messa in servizio",
+   "passi": [
+    [
+     "Rete",
+     "Cavo Ethernet nella presa RJ-45, oppure Wi-Fi."
+    ],
+    [
+     "Uscita",
+     "RCA verso l'ingresso dell'amplificatore; coassiale o ottica verso un DAC o un AV receiver."
+    ],
+    [
+     "Trigger",
+     "Cavo jack 3,5 mm verso l'ingresso trigger dell'amplificatore."
+    ],
+    [
+     "Alimentazione",
+     "Alimentatore 100–240 V incluso, uscita 5 V DC 1 A su USB-C; 0,5 W in standby di rete."
+    ],
+    [
+     "Posa",
+     "Formato da 140 × 140 mm: trova posto nel rack o accanto all'amplificatore."
+    ],
+    [
+     "App",
+     "Configurazione e zone dall'app del produttore."
+    ]
+   ]
+  }
+ ],
+ "extrasound": "https://www.extrasound.it/nad-cs1-streamer-di-rete-hi-res-24-192-con-airplay-2-chromecast-e-roon",
+ "fonti": [
+  {
+   "label": "pagina NAD CS1",
+   "url": "https://nadelectronics.com/products/cs1-endpoint-network-streamer"
+  },
+  {
+   "label": "scheda tecnica NAD CS1",
+   "url": "https://nadelectronics.com/wp1.nadelectronics.com/wp-content/uploads/2022/07/CS1-Data-Sheet.pdf"
+  }
+ ],
+ "tipo": "sorgente",
+ "cat": "N",
+ "crop": true,
+ "tab": "Sorgenti<br>di rete",
+ "tipo_label": "Streamer di rete",
+ "lato_titolo": "Cosa si collega",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/NAD-CS1.jpg",
+  "alt": "NAD CS1, streamer di rete: vista di tre quarti"
+ },
+ "gui": {
+  "src": "https://www.extrasound.it/wp-content/uploads/NAD-CS1-frontale.jpg",
+  "alt": "NAD CS1 visto di fronte",
+  "caption": "Pulsante funzione e LED di stato sul frontale; configurazione dall'app."
+ },
+ "retro": {
+  "src": "https://www.extrasound.it/wp-content/uploads/NAD-CS1-rear.jpg",
+  "alt": "NAD CS1, pannello posteriore con le uscite",
+  "titolo": "Pannello posteriore",
+  "caption": "Uscita analogica RCA, coassiale, ottica, trigger 12 V, Ethernet, USB-C di alimentazione."
+ }
+}

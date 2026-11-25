@@ -1,0 +1,178 @@
+{
+ "id": 46464,
+ "slug": "wiim-pro",
+ "brand": "WiiM",
+ "model": "Pro",
+ "meta": "WiiM Pro: streamer di rete con uscita RCA, ottica e coassiale, Ethernet e trigger 12 V. Collegamenti e schemi per l'installatore.",
+ "chiave": [
+  "Streamer · Ethernet e Wi-Fi",
+  "Uscite RCA, ottica, coassiale",
+  "Trigger 12 V · USB-C 5 V"
+ ],
+ "righe": [
+  "Streamer di rete",
+  "Una zona per apparecchio",
+  "140 × 140 × 42 mm"
+ ],
+ "intro": [
+  "Il <strong>WiiM Pro</strong> è uno streamer di rete con uscita analogica RCA e uscite digitali ottica e coassiale fino a 24 bit / 192 kHz, Ethernet 10/100 e Wi-Fi dual band.",
+  "L'uscita trigger 12 V accende l'amplificatore; più WiiM lavorano in multiroom, uno per zona sull'ingresso della zona."
+ ],
+ "colonne": [
+  {
+   "titolo": "Caratteristiche",
+   "voci": [
+    "AirPlay 2, Google Cast, Spotify Connect, TIDAL Connect, DLNA, Roon Ready.",
+    "Fino a 24 bit / 192 kHz; DAC Texas Instruments Burr-Brown PCM5121.",
+    "Correzione ambientale RoomFit, equalizzatore grafico e parametrico a 10 bande.",
+    "Bluetooth 5.0 in ricezione e in trasmissione.",
+    "140 × 140 × 42 mm, 330 g; da 0 a 40 °C."
+   ]
+  },
+  {
+   "titolo": "Ingressi",
+   "voci": [
+    "Line In RCA, 1 Vrms (convertito a 48 kHz / 24 bit).",
+    "Ottico S/PDIF fino a 192 kHz / 24 bit, solo PCM stereo (Dolby Digital e DTS non supportati).",
+    "Ethernet RJ-45 10/100 Mbps: con il cavo collegato il Wi-Fi si spegne.",
+    "Wi-Fi 802.11 a/b/g/n/ac, 2,4 e 5 GHz.",
+    "Alimentazione USB-C 5 V ≥ 1,5 A (alimentatore 5 V / 2 A incluso)."
+   ]
+  },
+  {
+   "titolo": "Uscite",
+   "voci": [
+    "Line Out RCA stereo.",
+    "Ottica e coassiale, fino a 192 kHz / 24 bit.",
+    "Trigger 12 V, jack 2,5 mm, 220 mA.",
+    "Bluetooth A2DP verso cuffie o diffusori."
+   ]
+  }
+ ],
+ "collega": [
+  {
+   "titolo": "ELAC IS-AMP8100",
+   "link": "scheda-elac-is-amp8100.html",
+   "img": "https://www.extrasound.it/wp-content/uploads/ELAC-IS-AMP8100-angolo-dx.jpg",
+   "alt": "ELAC IS-AMP8100 vista di tre quarti da destra, frontale nero con logo",
+   "voci": [
+    "Uscita RCA del WiiM Pro sull'ingresso analogico della zona.",
+    "Il trigger 12 V (jack 2,5 mm) accende l'amplificatore quando parte la musica."
+   ]
+  },
+  {
+   "titolo": "Rotel C8+",
+   "link": "scheda-rotel-c8-plus.html",
+   "img": "https://www.extrasound.it/wp-content/uploads/rotel-c8-plus-1000.jpg",
+   "alt": "Rotel C8+ nero, vista frontale",
+   "voci": [
+    "4 ingressi analogici in matrice sulle 4 zone.",
+    "Ingresso trigger 12 V."
+   ]
+  },
+  {
+   "titolo": "Rete",
+   "icona": "rete",
+   "voci": [
+    "Cavo Ethernet consigliato per l'impianto fisso.",
+    "Configurazione e gruppi multiroom dall'app del produttore."
+   ]
+  }
+ ],
+ "sistemi": [
+  {
+   "titolo": "Multizona · un apparecchio per zona",
+   "voci": [
+    "Un WiiM Pro per stanza, ciascuno sull'ingresso analogico della sua zona.",
+    "Le zone si uniscono dall'app quando serve la stessa musica in più stanze."
+   ],
+   "apparecchio": "Amplificatore 4 zone",
+   "zone": [
+    {
+     "label": "Zona 1 · ingresso dal WiiM Pro"
+    },
+    {
+     "label": "Zona 2 · ingresso dal WiiM Pro"
+    },
+    {
+     "label": "Zona 3 · ingresso dal WiiM Pro"
+    },
+    {
+     "label": "Zona 4 · ingresso dal WiiM Pro"
+    }
+   ]
+  },
+  {
+   "titolo": "Messa in servizio",
+   "passi": [
+    [
+     "Rete",
+     "Cavo Ethernet nella presa LAN, oppure Wi-Fi configurato dall'app WiiM Home."
+    ],
+    [
+     "Uscita",
+     "Line Out RCA verso l'ingresso dell'amplificatore; ottica o coassiale verso un DAC o un AV receiver."
+    ],
+    [
+     "Trigger",
+     "Cavo jack 2,5 mm (mono TS o stereo TRS) verso l'ingresso trigger dell'amplificatore."
+    ],
+    [
+     "Alimentazione",
+     "Alimentatore USB-C 5 V / 2 A incluso."
+    ],
+    [
+     "App",
+     "Nome della zona, ingressi, EQ e ritardo di standby del trigger."
+    ],
+    [
+     "Multiroom",
+     "Gruppi di zone dall'app WiiM Home."
+    ]
+   ]
+  }
+ ],
+ "extrasound": "https://www.extrasound.it/wiim-pro-streamer-hi-res-roon-ready-airplay-google-cast",
+ "fonti": [
+  {
+   "label": "specifiche WiiM Pro",
+   "url": "https://www.wiimhome.com/wiimpro/specs"
+  },
+  {
+   "label": "manuale WiiM Pro",
+   "url": "https://www.wiimhome.com/pdf/WiiM Pro User Manual.pdf"
+  },
+  {
+   "label": "WiiM: uso del trigger 12 V",
+   "url": "https://faq.wiimhome.com/en/support/solutions/articles/72000602073-how-to-use-the-12v-trigger-on-wiim-pro-wiim-pro-plus-or-wiim-ultra-"
+  }
+ ],
+ "tipo": "sorgente",
+ "cat": "N",
+ "crop": true,
+ "tab": "Sorgenti<br>di rete",
+ "tipo_label": "Streamer di rete",
+ "lato_titolo": "Cosa si collega",
+ "img": {
+  "src": "https://www.extrasound.it/wp-content/uploads/WiiM-Pro.jpg",
+  "alt": "WiiM Pro nero visto di tre quarti"
+ },
+ "gui": {
+  "src": "https://www.extrasound.it/wp-content/uploads/WiiM-Pro-frontale.jpg",
+  "alt": "WiiM Pro visto di fronte con i LED di stato",
+  "caption": "Si configura dall'app WiiM Home: ingressi, EQ, RoomFit, gruppi multiroom e ritardo del trigger."
+ },
+ "retro": {
+  "src": "https://www.extrasound.it/wp-content/uploads/WiiM-Pro-posteriore.jpg",
+  "alt": "WiiM Pro, pannello posteriore con ingressi e uscite",
+  "titolo": "Pannello posteriore",
+  "caption": "Line In e Line Out RCA, trigger 12 V, USB-C, ottico in e out, coassiale out, LAN."
+ },
+ "viste": [
+  {
+   "src": "https://www.extrasound.it/wp-content/uploads/WiiM-Pro-aperto-a-tutto.jpg",
+   "alt": "Schema dei collegamenti del WiiM Pro",
+   "caption": "Schema dei collegamenti"
+  }
+ ]
+}

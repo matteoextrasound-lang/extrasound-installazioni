@@ -18,11 +18,11 @@ from jinja2 import Environment, FileSystemLoader
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 DATI = ROOT / "_dati" / "prodotti"
-V = "20"  # versione di css/js
+V = "21"  # versione di css/js
 
 SOTTO = {  # sottocategorie: codice -> etichetta
     "M": "Amplificatori multicanale", "P": "Da incasso a parete", "S": "Da incasso a soffitto",
-    "L": "LCR per home cinema", "2": "Stereo 2+2 vie", "W": "Subwoofer da incasso", "A": "Amplificati", "E": "Da esterno", "H": "Home cinema, AV e finali",
+    "L": "LCR per home cinema", "2": "Stereo 2+2 vie", "W": "Subwoofer da incasso", "A": "Amplificati", "E": "Da esterno", "H": "Home cinema, AV e finali", "N": "Streamer di rete",
 }
 
 esc = lambda s: html.escape(str(s), quote=True)
@@ -50,7 +50,7 @@ VECCHIE = {'href="amplificatori.html"': 'href="elettroniche.html#cat=M"', 'href=
 
 
 def linea(p):
-    return LINEA.get(p["slug"], "Z")
+    return "" if p["tipo"] == "sorgente" else LINEA.get(p["slug"], "Z")
 
 
 def etichette(p):
@@ -249,8 +249,8 @@ def main():
         p = uniforma(json.loads(f.read_text(encoding="utf-8")), tutti)
         p["fonti"] = fonti_ufficiali.fonti(p)
         amp = p["tipo"] == "amplificatore"
-        p["lista"] = "elettroniche.html" if amp else "diffusori.html"
-        p["lista_label"] = "Elettroniche" if amp else "Diffusori"
+        p["lista"], p["lista_label"] = (("sorgenti.html", "Sorgenti") if p["tipo"] == "sorgente" else
+                                        ("elettroniche.html", "Elettroniche") if amp else ("diffusori.html", "Diffusori"))
         ln = linea(p)
         p["crumb2"] = [(etichette(p)[k], f'{p["lista"]}#linea={k}') for k in ln]
         p.setdefault("tipo_label", "Amplificatore da installazione" if amp else "Diffusore da incasso")
@@ -269,14 +269,15 @@ def main():
         prodotti.append(p)
     # elenchi
     for nome, sel_f, filtri in (("elettroniche.html", lambda p: p["tipo"] == "amplificatore", ["M", "H"]),
-                                ("diffusori.html", lambda p: p["tipo"] == "diffusore", ["P", "S", "L", "2", "W", "A", "E"])):
+                                ("diffusori.html", lambda p: p["tipo"] == "diffusore", ["P", "S", "L", "2", "W", "A", "E"]),
+                                ("sorgenti.html", lambda p: p["tipo"] == "sorgente", [])):
         f = ROOT / nome
         if not f.exists():
             continue
         s = f.read_text(encoding="utf-8")
         sel = [p for p in prodotti if sel_f(p)]
         sel.sort(key=lambda p: (p["brand"], p["model"]))
-        s = re.sub(r"<!-- LISTA -->.*?<!-- /LISTA -->", lambda _: "<!-- LISTA -->\n" + lista(sel, filtri) + "\n<!-- /LISTA -->", s, flags=re.S)
+        s = re.sub(r"<!-- LISTA -->.*?<!-- /LISTA -->", lambda _: "<!-- LISTA -->\n" + lista(sel, filtri, nome != "sorgenti.html") + "\n<!-- /LISTA -->", s, flags=re.S)
         f.write_text(s, encoding="utf-8")
     print(f"{len(prodotti)} schede generate")
 

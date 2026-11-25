@@ -105,3 +105,9 @@ Questa cartella non viene pubblicata (GitHub Pages ignora le cartelle che inizia
   pagina ufficiale (o di serie) in `PAGINE`, più i documenti già nei JSON solo se su domini dei produttori (`UFFICIALI`).
 - Siti di rivenditori e archivi di manuali non vengono più mostrati. ArtSound, Garvan, Gallo: nessun link (nessun sito del produttore raggiungibile).
 - Immagini delle schede apribili a schermo intero (codice in fondo a `assets/js/site.js`); pannello posteriore a tutta larghezza.
+
+## Sorgenti (dal 25/11/2026)
+- Pagina `sorgenti.html`, schede con `tipo: "sorgente"`, categoria `N` ("Streamer di rete"), dati in `_strumenti/marchi_sorgenti.py`.
+- Criterio: streamer senza amplificazione, con trigger 12 V e rete cablata, verificati sulle pagine dei produttori.
+- Inclusi: WiiM Pro, WiiM Pro Plus, WiiM Ultra, NAD CS1. Esclusi dopo la verifica: Arcam ST5/ST25 e JBL MP350 Classic
+  (nessun trigger, IR o RS232 dichiarato), ELAC Discovery DS-S101-G e DS-C101W (fuori produzione), ArtSound Smart Stream (nessuna fonte del produttore).

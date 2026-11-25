@@ -9,7 +9,7 @@ from urllib.parse import urlparse
 
 UFFICIALI = ("elac.com", "resources.elac.com", "assets.kef.com", "kef.com", "jbl.com", "focal.com",
              "elipson.com", "arcam.co.uk", "hegel.com", "lyngdorf.com", "steinwaylyngdorf.com",
-             "marantz.com", "rotel.com", "polkaudio.com")
+             "marantz.com", "rotel.com", "polkaudio.com", "wiimhome.com", "nadelectronics.com")
 ROTTI = {
     # rimandano a pagine 404 o vuote (segnalato 25/11/2026)
     "https://se.yamaha.com/files/download/other_assets/2/1229902/web_VCM9300_XDA-QS5400RK_om_UAGLF_EnFrEs_C0.pdf",
