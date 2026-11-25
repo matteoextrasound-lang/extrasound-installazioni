@@ -34,7 +34,7 @@
     var r = ['RICHIESTA PREVENTIVO B2B', '',
       'Ragione sociale: ' + d.ragione_sociale, 'P. IVA: ' + d.piva + (d.cf ? '  ·  C.F.: ' + d.cf : ''),
       'SDI: ' + (d.sdi || '-') + '  ·  PEC: ' + (d.pec || '-'),
-      'Sede legale: ' + d.indirizzo + ', ' + d.cap + ' ' + d.citta + ' (' + d.provincia + ')', '',
+      'Sede: ' + d.indirizzo + ', ' + d.cap + ' ' + d.citta + ' (' + d.provincia + ')', '',
       'Referente: ' + d.referente, 'Email: ' + d.email, 'Telefono: ' + d.telefono, '',
       'Consegna: ' + d.consegna + (d.indirizzo_consegna ? ' — ' + d.indirizzo_consegna : '')];
     if (d.riferimento) r.push('Riferimento: ' + d.riferimento);
